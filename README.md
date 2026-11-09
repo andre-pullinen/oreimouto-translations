@@ -12,13 +12,35 @@ This repository contains translation source files (scenarios, character names, O
 
 ## Available Translations
 
-| Language | Locale | Progress | Translated Lines | Status | Download |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **English** | `en` | **97.5%** | 36,449 / 37,383 | Complete | [lang_en.pck](https://github.com/andre-pullinen/oreimouto-translations/releases/latest/download/lang_en.pck) |
-| **Русский** (Russian) | `ru` | **83.6%** | 31,244 / 37,383 | Main Routes | [lang_ru.pck](https://github.com/andre-pullinen/oreimouto-translations/releases/latest/download/lang_ru.pck) |
+| Language | Locale | Team / Translators | Progress | Translated Lines | Status | Download |
+| :--- | :---: | :--- | :---: | :---: | :---: | :---: |
+| **English** | `en` | [Rinjinbu Translations](https://rinjinbutranslations.blogspot.com/) (Dizzy Ziddy, Chronoes, EternalDreamer) | **97.5%** | 36,449 / 37,383 | Complete | [lang_en.pck](https://github.com/andre-pullinen/oreimouto-translations/releases/latest/download/lang_en.pck) |
+| **Русский** (Russian) | `ru` | [Elevation](https://vk.com/elevationnovel) (The_Almighty_D & Elevation Team) | **83.6%** | 31,244 / 37,383 | Main Routes | [lang_ru.pck](https://github.com/andre-pullinen/oreimouto-translations/releases/latest/download/lang_ru.pck) |
 
 > [!NOTE]
 > Translations can be installed directly through the in-game **Translation Hub** in OreImouto Re:Port or downloaded manually.
+
+---
+
+## Credits & Translation Authors
+
+We express our sincere respect and deepest gratitude to the original fan-translation teams and ROM-hackers who dedicated years of passionate work to make these games accessible outside Japan:
+
+### 🇬🇧 English Translation: Rinjinbu Translations
+* **Team:** [Rinjinbu Translations](https://rinjinbutranslations.blogspot.com/)
+* **ROMhacking.net Entry:** [Ore no Imouto Portable ga Tsuzuku Wake ga Nai (English v1.0)](https://www.romhacking.net/translations/5862/)
+* **Project Lead & Technical Hacking:** Dizzy Ziddy
+* **Hacking & Technical Support:** Chronoes, Falaina, RoByte, xyz, Barracuda72
+* **Lead Translators:** SnowyAria, ChuunibyouYuusha, dango, Ddd, EternalDreamer, jaypee, Keisuke999, Kylon, Taly, Oosran, Otonashi, Valena, MaguroSenbei
+* **Script Editors & Revisers:** Ech0Sierra, Junn, Radical R, sm2345, Zeroaintdead
+* **Graphics & Visual Asset Editing:** Chronoes, Randall Cadenzavna Eve, Reld
+
+### 🇷🇺 Russian Translation: Elevation
+* **Team:** [Elevation (Команда переводов)](https://vk.com/elevationnovel)
+* **Community Page:** [VK: Elevation Visual Novels](https://vk.com/elevationnovel) (ID: [club86292524](https://vk.com/club86292524))
+* **Visual Novel Database Entry:** [Anivisual: Ore no Imouto Portable (Russian)](https://anivisual.net/stuff/2-1-0-280)
+* **Project Lead, Reverse Engineering & Hacking:** The_Almighty_D (Дайсукэ / Daisuke-sensei)
+* **Translators & Editors:** The_Almighty_D, XRay, Gyt, Akira, and Elevation Team contributors
 
 ---
 

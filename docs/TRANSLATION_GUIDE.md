@@ -62,7 +62,11 @@ locales/<locale>/
        "Translator 2"
      ],
      "version": "1.0.0",
-     "description": "Traducción al español de Ore no Imouto Portable para PC."
+     "description": "Traducción al español de Ore no Imouto Portable para PC.",
+     "links": {
+       "website": "https://your-translation-team.org",
+       "discord": "https://discord.gg/example"
+     }
    }
    ```
 5. Update `manifest.csv`:

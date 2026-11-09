@@ -1,13 +1,17 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T12:55:36Z",
+  "last_updated": "2026-11-09T13:07:10Z",
   "packages": [
     {
       "id": "lang_en_community",
       "locale": "en",
       "name": "English",
+      "team_name": "Rinjinbu Translations",
       "authors": [
-        "Ore no Imouto Portable Translation Project"
+        "Dizzy Ziddy",
+        "Chronoes",
+        "EternalDreamer",
+        "Rinjinbu Translations"
       ],
       "version": "1.0.0",
       "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
@@ -15,16 +19,21 @@
       "total_lines": 37383,
       "translated_lines": 36449,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_en.pck",
-      "sha256": "fee76d0a83eacad09fb867d9e1bb4e4374e7e93db92fe0df29c62f0ae651b335",
-      "size_bytes": 2487824
+      "sha256": "3b207b4df491bdc3d427246e3383763e778203f8489dfacfff4601f51e0e1589",
+      "size_bytes": 2487824,
+      "links": {
+        "website": "https://rinjinbutranslations.blogspot.com/",
+        "romhacking": "https://www.romhacking.net/translations/5862/"
+      }
     },
     {
       "id": "lang_ru_community",
       "locale": "ru",
       "name": "Русский",
+      "team_name": "Elevation",
       "authors": [
         "The_Almighty_D",
-        "OreImouto Team"
+        "Elevation"
       ],
       "version": "1.0.0",
       "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
@@ -32,8 +41,12 @@
       "total_lines": 37383,
       "translated_lines": 31244,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
-      "sha256": "a85563a8809ac6d2dc80a29c98a839bc9039045dad6d2db53a2a224b06365973",
-      "size_bytes": 3504848
+      "sha256": "a6b4395fceff832e81fe7eaa04ea456a6eaf8a0dcc9e8ebaec5dc8b9495dcc39",
+      "size_bytes": 3504848,
+      "links": {
+        "vk": "https://vk.com/elevationnovel",
+        "anivisual": "https://anivisual.net/stuff/2-1-0-280"
+      }
     }
   ]
 }

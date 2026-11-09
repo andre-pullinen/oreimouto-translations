@@ -93,9 +93,11 @@ def generate_catalog(
 
         pkg_id = manifest.get("id", f"lang_{loc}_community")
         pkg_name = manifest.get("display_name", loc.upper())
-        authors = manifest.get("authors", [manifest.get("team_name", "Community")])
+        team_name = manifest.get("team_name", "Community")
+        authors = manifest.get("authors", [team_name])
         version = manifest.get("version", "1.0.0")
         desc = manifest.get("description", f"{pkg_name} translation for OreImouto Re:Port.")
+        links = manifest.get("links", {})
 
         sc_dir = os.path.join(loc_dir, "scenarios")
         total_lines, trans_lines, progress = count_locale_progress(sc_dir, template_sc_dir)
@@ -119,6 +121,7 @@ def generate_catalog(
             "id": pkg_id,
             "locale": loc,
             "name": pkg_name,
+            "team_name": team_name,
             "authors": authors,
             "version": version,
             "description": desc,
@@ -128,6 +131,7 @@ def generate_catalog(
             "url": url,
             "sha256": sha256,
             "size_bytes": size_bytes,
+            "links": links,
         }
         catalog["packages"].append(pkg_entry)
 

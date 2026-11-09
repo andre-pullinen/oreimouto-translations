@@ -2,11 +2,15 @@
   "id": "lang_ru_community",
   "locale": "ru",
   "display_name": "Русский",
-  "team_name": "Russian Community Translation",
+  "team_name": "Elevation",
   "authors": [
     "The_Almighty_D",
-    "OreImouto Team"
+    "Elevation"
   ],
   "version": "1.0.0",
-  "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс)."
+  "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
+  "links": {
+    "vk": "https://vk.com/elevationnovel",
+    "anivisual": "https://anivisual.net/stuff/2-1-0-280"
+  }
 }
