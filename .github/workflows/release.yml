@@ -1,0 +1,79 @@
+name: Build & Release Language Packs
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Release Tag (e.g. v1.0.0)'
+        required: true
+        default: 'v1.0.0'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate All Locales
+        run: |
+          python tools/validate.py --all
+
+      - name: Determine Tag
+        id: vars
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "tag=${{ github.event.inputs.release_tag }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=${{ github.ref_name }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build All Language Packs (.pck)
+        run: |
+          mkdir -p dist
+          for locale_dir in locales/*/; do
+            loc=$(basename "$locale_dir")
+            echo "Building PCK for: $loc"
+            python tools/build_pck.py "$locale_dir" -o "dist/lang_${loc}.pck"
+          done
+
+      - name: Generate Catalog & Checksums
+        run: |
+          python tools/generate_catalog.py --release-tag "${{ steps.vars.outputs.tag }}" -o catalog.json
+          cp catalog.json dist/catalog.json
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.vars.outputs.tag }}
+          name: "OreImouto Translations ${{ steps.vars.outputs.tag }}"
+          files: |
+            dist/*.pck
+            dist/catalog.json
+          draft: false
+          prerelease: false
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

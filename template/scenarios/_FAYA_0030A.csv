@@ -1,0 +1,85 @@
+ID,SPEAKER,TEXT
+0,,"It's been a few days since the events in Atami. I've 
+been invited to Ayase's place."
+1,SPK_AYASE,...
+2,SPK_KYOUSUKE,...
+3,,"That's fine and all, but Ayase's behaving kind of 
+strangely."
+4,,"Well, maybe what happened at that inn had a 
+greater effect on her than I'd thought."
+5,SPK_AYASE,"...I'm sorry. I know I called you here, and yet I..."
+6,SPK_KYOUSUKE,"Nah, don't worry. Can't help it if you feel under the 
+weather."
+7,,"Honestly, she doesn't look very good. Maybe it's 
+better if I come back another time."
+8,,"Thinking that, I started to get up."
+9,SPK_AYASE,P-Please wait!
+10,SPK_KYOUSUKE,Hm? What's up?
+11,SPK_AYASE,I am truly sorry about what happened!
+12,SPK_KYOUSUKE,A-Ayase?
+13,SPK_AYASE,"Acting like that in front of you... I'm so ashamed of 
+myself."
+14,,"Actually, that felt more like a reward than anything 
+else. Though I can't really say that."
+15,,...But is that what's been on her mind all this time?
+16,SPK_KYOUSUKE,"No, I should be the one apologizing."
+17,SPK_AYASE,...Eh?
+18,SPK_KYOUSUKE,"Back then, if I'd only been able to notice that you 
+were acting strangely, I could've stopped you."
+19,,"I truly mean that, okay? I'm not lying."
+20,,"I'd been so focused on my own thoughts that I 
+didn't even think about her. That's why things went 
+the way they did."
+21,SPK_KYOUSUKE,"I guess I kind of lost my reasoning as well... I'm 
+really sorry!"
+22,SPK_AYASE,"You're not at fault, Onii-san! If I had just acted 
+properly..."
+23,SPK_AYASE,"Besides... I'm always so serious... I don't even 
+understand how I could let something like that 
+happen..."
+24,SPK_AYASE,"I'm sorry. Both for this and for being so selfish on 
+our usual dates."
+25,SPK_AYASE,I wish I can just lighten up and take things easy...
+26,SPK_KYOUSUKE,That's all fine.
+27,SPK_AYASE,...Onii-san?
+28,SPK_KYOUSUKE,"I mean, that's what makes you, you, Ayase."
+29,,"Laughing, blushing and getting embarrassed, crying, 
+being sad and getting jealous. It's all her."
+30,,"She's cute either way... They're all Ayase's feelings. 
+There's no need to deny any of that."
+31,SPK_KYOUSUKE,"It's fine if you're serious. I still think that's when 
+you're the cutest, Ayase."
+32,SPK_AYASE,Onii-san...
+33,SPK_KYOUSUKE,"And besides, I'm sorry too. I'm always making you 
+mad..."
+34,,"Noticing how strange it was that we were both 
+lowering our heads and reflecting on our actions, 
+we laughed a little."
+35,SPK_KYOUSUKE,"We've just been apologizing over and over again 
+for a while now, huh?"
+36,SPK_AYASE,...That's true.
+37,SPK_KYOUSUKE,"So then, I guess we're even."
+38,SPK_AYASE,That's... true.
+39,,"Ayase let out a sigh of relief. And then she seemed 
+to notice something."
+40,SPK_KYOUSUKE,What's up?
+41,SPK_AYASE,"No, it's just..."
+42,,"Ayase seemed to be contemplating something. ...Eh? 
+What's going on here?"
+43,SPK_AYASE,D-Do guys... [font_size=33]like that kind of stuff?[/font_size]
+44,SPK_KYOUSUKE,[font_size=44]Huh?![/font_size]
+45,,"W-Why are you asking that all of a sudden, 
+Ayase-san?!"
+46,SPK_AYASE,...
+47,,"Not paying heed to my choking, Ayase was looking 
+straight into my eyes. Her expression was the very 
+image of seriousness."
+48,SPK_KYOUSUKE,"Look, Ayase."
+49,SPK_AYASE,Y-Yes.
+50,SPK_KYOUSUKE,"I love you! I want to know anything and 
+everything about you! [font_size=26]However, I don't 
+want anyone else seeing you in a swimsuit![/font_size]"
+51,SPK_AYASE,...Eh?!
+52,SPK_KYOUSUKE,"T-That's not true. I mean, guys are basically like 
+that, but I'm a gentleman."
+53,SPK_AYASE,I... see.

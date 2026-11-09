@@ -1,0 +1,108 @@
+ID,SPEAKER,TEXT
+0,,The day after my exchange with Saori.
+1,,"I received a mail saying, ""I am really grateful for yesterday""."
+2,SPK_KYOUSUKE,Mail? ...From Saori.
+3,SPK_KYOUSUKE,"Since it's about yesterday, it must be regarding the goods?"
+4,SPK_KYOUSUKE,Let's see what it says...
+5,SPK_SAORI,Thank you for yesterday. ＠ω＠ノシ
+6,SPK_KYOUSUKE,A mail that's completely turning me off from the get go!
+7,,Can't she use emoticons like a normal high school girl would?
+8,,"Well, whatever, moving on."
+9,SPK_SAORI,"After that, I flew into the sky."
+10,SPK_KYOUSUKE,Her message's also flying.
+11,SPK_SAORI,"The feeling of lightness, and feet not touching the ground... Do you know of it?"
+12,SPK_SAORI,That feeling is also similar to that of a mother who lost her child.
+13,SPK_SAORI,"Yes, like myself who parted with my treasures..."
+14,,What's with this strange prose? What's she trying to tell me?
+15,SPK_SAORI,"When I came to, I was staring at an unknown ceiling."
+16,SPK_SAORI,I only heard later that I had collapsed on the train platform.
+17,SPK_SAORI,"Because of that, a few trains had to stop..."
+18,SPK_SAORI,Did you meet any problems on the way home?
+19,SPK_SAORI,"Because I was worried about this, I sneaked out of the ward to send this message."
+20,,Sneaked out of the ward...
+21,,Does that mean... She fainted and got sent to the hospital?!
+22,,"And if she sent this mail, that means she's outside the ward!"
+23,SPK_KYOUSUKE,"Pick up, pick up..."
+24,SPK_KYOUSUKE,It's no use...
+25,SPK_KYOUSUKE,Oh! It connected!
+26,SPK_KYOUSUKE,"Hello, Saori?"
+27,SPK_SAORI,Kyousuke-shi...
+28,SPK_SAORI,You've seen my mail?
+29,,"Oh... This classy voice... That Saori... She uses it occasionally on the phone... But no matter how many times I hear it, I'm still not used to it..."
+30,SPK_SAORI,"That mail was a mistake, so please forget about it..."
+31,SPK_KYOUSUKE,Which hospital are you at now?
+32,SPK_SAORI,"You won't listen, will you?"
+33,SPK_KYOUSUKE,Of course.
+34,SPK_SAORI,*sigh*...
+35,SPK_SAORI,Yokohama University Hospital.
+36,SPK_KYOUSUKE,"Yokohama City University Hospital, right?"
+37,SPK_KYOUSUKE,"Hold on, I'll be right there!"
+38,SPK_SAORI,Eh?! But! Here is...
+39,SPK_KYOUSUKE,If a mother gets separated with her child...
+40,SPK_KYOUSUKE,Then let them meet!
+41,,This is how I read Saori's mail as...
+42,,"""I got so worried about the goods with you that I fainted. Please return them to me after all."""
+43,,"...Then, I have no choice but to go, right?"
+44,SPK_KYOUSUKE,Saori!!!!
+45,SPK_SAORI,"...You really came, Kyousuke-shi."
+46,SPK_KYOUSUKE,"Yup, got a problem with it?"
+47,SPK_SAORI,No. I only feel happy about it.
+48,SPK_SAORI,"However, I can't agree with raising your voice in the hospital."
+49,SPK_KYOUSUKE,Ugh... You're right...
+50,SPK_SAORI,"Well... This is a private room, so we won't be bothering other people."
+51,,Hmm? She laughed...
+52,,What's this? She's in better spirits than I thought.
+53,SPK_KYOUSUKE,"Anyway, why did you get hospitalized?"
+54,SPK_KYOUSUKE,You wrote that you fainted on the train platform in the mail. Did you bump your head or something?
+55,SPK_SAORI,"No, I simply got lightheaded due to overwork."
+56,SPK_KYOUSUKE,Lightheaded due to overwork?
+57,,Can it be that her spirit worsened because she parted with her otaku goods?
+58,,"No no, it can't be that."
+59,,Is what I thought... But this is Saori...
+60,,I looked at the backpack that I brought.
+61,,Inside it were the otaku goods Saori entrusted me with.
+62,,Saori passed it to me as she could only have asked me.
+63,SPK_KYOUSUKE,......
+64,SPK_SAORI,"Kyousuke-shi, that's..."
+65,SPK_KYOUSUKE,"Ah, nothing... This is..."
+66,SPK_KYOUSUKE,It's just something I brought along by mistake!
+67,SPK_KYOUSUKE,"Therefore please don't mind it one bit at all, no worries!"
+68,SPK_SAORI,Kyousuke-shi...
+69,SPK_SAORI,"Thank you very much for specially making your way here. But, 【I'm completely fine now】."
+70,SPK_KYOUSUKE,Really?
+71,SPK_SAORI,"Yes, seeing your face is enough to make me feel better!"
+72,SPK_KYOUSUKE,Saori... Those goods...
+73,SPK_KYOUSUKE,I should return them to you after all.
+74,SPK_SAORI,Why?
+75,SPK_KYOUSUKE,Why you ask...
+76,SPK_KYOUSUKE,Because they're important to you? Because you didn't actually want to part with them?
+77,SPK_SAORI,That is unrelated to the present situation.
+78,SPK_SAORI,"Also, I want you to hold on to them by all means."
+79,SPK_KYOUSUKE,"Say, Saori."
+80,SPK_KYOUSUKE,Something really did happen.
+81,SPK_SAORI,"I'm simply exhausted. Summer Comiket's about to start, so I have my hands full."
+82,SPK_SAORI,But I'm fine now!
+83,SPK_KYOUSUKE,"I see. That's good, then."
+84,SPK_SAORI,...Kyousuke-shi.
+85,SPK_KYOUSUKE,What is it?
+86,SPK_SAORI,I have a request.
+87,SPK_SAORI,Could you keep this hospitalization a secret from Kiririn-shi and Kuroneko-shi?
+88,SPK_KYOUSUKE,Huh? Why?
+89,SPK_KYOUSUKE,They would want to come visit you if they knew you were hospitalized.
+90,SPK_SAORI,That's why I would rather you kept quiet about it.
+91,SPK_SAORI,I feel really bad that I have caused you trouble as a result.
+92,SPK_SAORI,And I can't let those two worry about me too...
+93,SPK_KYOUSUKE,"I understand your feelings, but are you really okay with that?"
+94,SPK_SAORI,There weren't any problems from the medical examination.
+95,SPK_SAORI,Could you keep this a secret between the two of us?
+96,SPK_KYOUSUKE,"Well, if you put it like that..."
+97,SPK_SAORI,"I am indebted to you, Kyousuke-shi."
+98,SPK_SAORI,My deepest apologies for all the troubles I caused you.
+99,SPK_KYOUSUKE,"It's all right. ""Troubles""? Don't act so reserved."
+100,SPK_SAORI,But...
+101,SPK_KYOUSUKE,"That much isn't ""trouble"" for me! Maybe if we were strangers..."
+102,SPK_KYOUSUKE,"We're friends, right?"
+103,SPK_SAORI,...haha.
+104,SPK_SAORI,"Hahahaha, indeed we are!"
+105,,"As I saw Saori laughing merrily, I thought..."
+106,,"No matter who, friends are great!"

@@ -1,0 +1,239 @@
+ID,SPEAKER,TEXT
+0,SPK_YOSHINO,"""A woman's beauty lies in her personality. It lies in 
+her passion."""
+1,SPK_YOSHINO,- Auguste Rodin
+2,SPK_YOSHINO,"This is the Kousaka household, located somewhere 
+in Chiba."
+3,SPK_YOSHINO,"In this residence, worried maidens assemble, 
+seeking answers from the master of life, every night."
+4,SPK_YOSHINO,"Now then, I wonder who tonight's guest will be..."
+5,SPK_AYASE,Um... Pardon my intrusion.
+6,SPK_AYASE,I heard you can get a life counseling session here...
+7,SPK_DAISUKE,"Indeed. This is a place dedicated to guiding youths 
+such as you."
+8,SPK_AYASE,"Great. It looked just like my best friend's house, so 
+I was a bit surprised."
+9,SPK_DAISUKE,And you are?
+10,SPK_AYASE,"I am Aragaki Ayase, a third year middle school 
+student."
+11,SPK_DAISUKE,"I'm Kousaka Daisuke. You can address me as 
+Sensei."
+12,SPK_AYASE,"Yes. I'll be in your care, Sensei."
+13,SPK_DAISUKE,"So, what is it that you need counseling for?"
+14,SPK_AYASE,"Well, about that..."
+15,SPK_AYASE,"I want to know what makes a good woman from a 
+man’s perspective."
+16,SPK_DAISUKE,A man’s criterion of good women...
+17,SPK_AYASE,Yes... Just a general opinion is fine.
+18,SPK_AYASE,"Like, what kind of woman would a man like, and 
+such..."
+19,SPK_DAISUKE,...
+20,SPK_DAISUKE,"Hm... You've come all the way here, but 
+unfortunately..."
+21,SPK_DAISUKE,I'll have to refrain from answering that.
+22,SPK_AYASE,Huh? Why is that?
+23,SPK_DAISUKE,"A man's preference, the conveniently ideal woman, 
+is an illusion."
+24,SPK_DAISUKE,"I cannot give my advice over becoming someone 
+that doesn't exist."
+25,SPK_DAISUKE,"It's wonderful that you're ready to work hard for 
+your partner, but you won’t last if you destroy 
+your real self."
+26,SPK_AYASE,It's fine. I will definitely become his ideal.
+27,SPK_AYASE,"If it's for my beloved, I know I can do it!"
+28,SPK_DAISUKE,Oh?
+29,SPK_AYASE,"Someday... I want to be able to create a warm and 
+loving family."
+30,SPK_AYASE,"One where my husband can come home from 
+work and leisurely take off his necktie in peace."
+31,SPK_AYASE,"And if I had time, I could add to our income by 
+working part-time, managing our kitchen garden, 
+and..."
+32,SPK_AYASE,"Shoot, I'm just talking about myself."
+33,SPK_AYASE,"Anyway, I just want to make him feel like our 
+home is a place where he can come back and be 
+cozy."
+34,,"You're a pretty honest and diligent girl, huh."
+35,,"If only the other girls coming here could be like 
+her..."
+36,SPK_DAISUKE,"You want to know what it takes to become a good 
+woman?"
+37,SPK_AYASE,Yes...
+38,SPK_DAISUKE,"Well, I don't see much reason for you to worry."
+39,SPK_AYASE,Why is that?
+40,SPK_DAISUKE,To be willing to work hard for your partner...
+41,SPK_DAISUKE,"I believe that alone is the best qualification as the 
+ideal woman."
+42,SPK_AYASE,R-Really? Thank you very much!
+43,SPK_DAISUKE,"Being loved by a girl like you would keep any man 
+from going astray. Don't worry."
+44,SPK_AYASE,W-Well... I don't think so.
+45,SPK_AYASE,"There are a lot of wonderful girls around the guy I 
+like..."
+46,SPK_AYASE,"Even if I can say we're dating, I don't think I can 
+really feel at ease."
+47,SPK_DAISUKE,"Then you just have to make him yours. So he 
+wouldn't be able to cheat on you."
+48,SPK_AYASE,Of course. That's what I plan to do.
+49,SPK_AYASE,"Besides, if he was cheating on me... I would kill him. 
+Hehe."
+50,SPK_DAISUKE,Yes. That's right.
+51,SPK_AYASE,Eh?
+52,SPK_AYASE,You're not going to say I can't kill him?
+53,SPK_DAISUKE,"It's not like you'll really kill him, right?"
+54,SPK_AYASE,O-Of course not! ...Hahaha.
+55,SPK_AYASE,"But even if I want to be more tolerant, I sometimes 
+get caught up in dark thoughts..."
+56,SPK_DAISUKE,"Don't let that change your feelings for your partner. 
+You just have to remember that your feelings for 
+him are the most important."
+57,SPK_AYASE,"Y-Yes, I see..."
+58,SPK_AYASE,I-I'm glad you understand!
+59,SPK_AYASE,"I think it would be wonderful if he would turn out 
+to be a nice husband like you, Sensei."
+60,SPK_DAISUKE,"O-Oh, I see..."
+61,SPK_DAISUKE,"However, I am a very rigid man. I don't know how 
+much trouble that caused for my wife."
+62,SPK_AYASE,That's not true.
+63,SPK_DAISUKE,"No... For starters, I've left raising our children to her 
+by using my work as a pretext."
+64,SPK_DAISUKE,I'm really grateful to her.
+65,SPK_AYASE,That's so wonderful...
+66,SPK_AYASE,"Sensei, is there a secret formula to making love last 
+as long as yours?"
+67,SPK_DAISUKE,"A secret formula to making love last this long, huh..."
+68,SPK_DAISUKE,"Let's see... I guess there is one thing that could 
+count as that."
+69,SPK_AYASE,"Yes, what is it?"
+70,SPK_DAISUKE,"If he cheats on you, give up on him."
+71,SPK_AYASE,[font_size=33]Wha--?![/font_size]
+72,SPK_AYASE,W-What are you saying?
+73,SPK_DAISUKE,"I'm telling you that if you've chosen a man like that, 
+it's partly your own fault and you should give up 
+on him."
+74,SPK_AYASE,I... I can't just give up on him!
+75,SPK_DAISUKE,"Rather, blame your own narrow-mindedness if that 
+happens."
+76,SPK_AYASE,M-My own...
+77,SPK_DAISUKE,"Creating a family is not an extension of your time as 
+lovers."
+78,SPK_AYASE,"But lovers will still become a family if they marry, 
+won't they?"
+79,SPK_AYASE,"Besides, what's the point of dating if being lovers 
+won't lead to anything?"
+80,SPK_DAISUKE,"Then let me ask you this, what is the meaning 
+behind the ceremony called marriage?"
+81,SPK_AYASE,"Um, that's..."
+82,SPK_DAISUKE,"It basically means that being lovers and being 
+married are two completely different things."
+83,SPK_DAISUKE,"If you're lovers, you can just break up if you lose 
+interest in each other. However, that is not the case 
+for a married couple."
+84,SPK_DAISUKE,"For example, even if there is a situation that's 100% 
+your partner's fault, that's something both of you 
+have to resolve together."
+85,SPK_DAISUKE,You need to have that resolve.
+86,SPK_AYASE,Huh...
+87,SPK_DAISUKE,"Naturally, this isn't limited to cheating. If any 
+problem makes you feel like breaking up, then it’s 
+meaningless to be together in the first place."
+88,SPK_AYASE,I... see. I think what you are saying is correct.
+89,SPK_AYASE,"I understand what you mean. But... I just can't 
+agree with it."
+90,SPK_DAISUKE,I'm not telling you to agree.
+91,SPK_AYASE,"So, what should I do if that happened?"
+92,SPK_DAISUKE,"If he cheats on you, how about you cheat on him?"
+93,SPK_AYASE,[font_size=33]Huh?![/font_size]
+94,SPK_DAISUKE,"If you can't agree with it, you will have to do 
+something else with those feelings."
+95,SPK_DAISUKE,"If what you need is a little revenge, then that is 
+what you'll have to do."
+96,SPK_AYASE,"Revenge... But wouldn't that just make things more 
+complicated?"
+97,SPK_DAISUKE,"Frankly speaking, I'd normally tell you to endure it 
+even if you are shedding bitter tears, but this is an 
+ethical problem."
+98,SPK_DAISUKE,"The youth today probably can't tolerate these old 
+values."
+99,SPK_AYASE,"But how can you recommend cheating on him? 
+There's no way I could do that!"
+100,SPK_DAISUKE,"It doesn't have to be cheating. It can be something 
+like an act of compensation."
+101,SPK_DAISUKE,"Host clubbing has been pretty popular among 
+young girls lately. Why not try that?"
+102,SPK_AYASE,H... H-H-Host c-c-c-clubbing?!
+103,SPK_AYASE,"W-What do you think you're saying to a middle 
+schooler?!"
+104,SPK_AYASE,*gasp*
+105,SPK_AYASE,Y-You parried it? No way...
+106,SPK_DAISUKE,Yes... That's a magnificent kick.
+107,SPK_AYASE,"Ah... I-I just... Um, my leg just slipped..."
+108,,"...Regardless, that was a well-aimed hit towards my 
+vital organs."
+109,SPK_DAISUKE,"...Your killing intent is the real deal. You moved 
+swiftly, but you didn't commit to it."
+110,SPK_DAISUKE,"You won't be able to defeat your opponent with 
+that!"
+111,SPK_AYASE,W-What... Killing intent...
+112,SPK_DAISUKE,"You've got a good and sharp kick, and yet it seems 
+like you're holding back somewhere."
+113,SPK_DAISUKE,"If you're serious, don't hold back, never let up. 
+That's how you create a warm and loving family."
+114,SPK_AYASE,"Well, of course! But what does cheating have to do 
+with..."
+115,SPK_DAISUKE,"Naturally, cheating is an unforgivable deed."
+116,SPK_DAISUKE,"Moreover, once married, if something happens and 
+neither person can agree to it, you'll be burdened 
+for the rest of your lives."
+117,SPK_DAISUKE,"That's why I'm saying it is of paramount 
+importance that you do not betray your partner."
+118,SPK_AYASE,"You said that earlier, but..."
+119,SPK_DAISUKE,"But at the same time, it isn’t strange if something 
+were to happen, that's just life."
+120,SPK_DAISUKE,"And in the first place, everyone has their own 
+standards on whether to forgive someone or not."
+121,SPK_DAISUKE,"Once you notice that your standards differ, it's a 
+matter of whether you or your partner will change 
+to suit the other."
+122,SPK_AYASE,Uu...
+123,SPK_DAISUKE,"In short, that is what having a harmonious marriage 
+and a caring family is all about."
+124,SPK_AYASE,...
+125,SPK_AYASE,"...So I suppose both sides will have to compromise 
+every now and then?"
+126,SPK_AYASE,"But still, I just can't agree."
+127,SPK_AYASE,I don't think I could change just like that.
+128,SPK_DAISUKE,"Then you just have to make sure you educate 
+your partner to avoid him going astray."
+129,SPK_AYASE,Educate him...? Educate my beloved?
+130,SPK_DAISUKE,"That's right. Teach him just how terrible an act of 
+betrayal would be. Thoroughly."
+131,SPK_AYASE,...Thoroughly...
+132,SPK_AYASE,...
+133,SPK_AYASE,Is that really okay?
+134,SPK_DAISUKE,"That is only if you're unable to change your ways. 
+However, keep it within the boundaries of common 
+sense, got it?"
+135,SPK_AYASE,...
+136,SPK_DAISUKE,What's wrong?
+137,SPK_AYASE,No... I understand. I will educate him thoroughly.
+138,SPK_AYASE,So he'll never again leave my side... Fufu.
+139,SPK_AYASE,"Sensei, thank you for everything! I will also make 
+sure to further improve my kick."
+140,SPK_DAISUKE,Good.
+141,SPK_DAISUKE,...And she's gone.
+142,,She can represent Japan someday with that kick...
+143,SPK_DAISUKE,Today's moral lesson!
+144,SPK_DAISUKE,"[font_size=33]If you fall in love then don't hold 
+back, never let up![/font_size]"
+145,SPK_YOSHINO,"--And so, Daisuke has guided the path of another 
+lost maiden. Let us meet on another moonlit night."
+146,SPK_YOSHINO,"...I wonder if I should educate my husband a bit 
+more."
+147,SPK_DAISUKE,"If you want to, then do so."
+148,SPK_YOSHINO,"Fufufu. I'm kidding... I've already finished that long 
+ago..."
+149,SPK_DAISUKE,"Honey, did you say something?"
+150,SPK_YOSHINO,"Nope. ...Dear, it's getting late, so how about we call it 
+a night?"
+151,SPK_DAISUKE,Mmm...

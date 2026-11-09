@@ -1,0 +1,42 @@
+name: Validate Translations
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'locales/**'
+      - 'template/**'
+      - 'tools/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'locales/**'
+      - 'template/**'
+      - 'tools/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Validation Suite
+        run: |
+          python tools/validate.py --all
+
+      - name: Test Build Packages
+        run: |
+          mkdir -p dist
+          for locale_dir in locales/*/; do
+            loc=$(basename "$locale_dir")
+            echo "Testing PCK build for: $loc"
+            python tools/build_pck.py "$locale_dir" -o "dist/lang_${loc}.pck"
+          done
+          ls -lh dist/

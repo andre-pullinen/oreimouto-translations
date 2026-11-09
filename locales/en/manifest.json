@@ -1,0 +1,11 @@
+{
+  "id": "lang_en_community",
+  "locale": "en",
+  "display_name": "English",
+  "team_name": "Ore no Imouto Portable Translation Project",
+  "authors": [
+    "Ore no Imouto Portable Translation Project"
+  ],
+  "version": "1.0.0",
+  "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI)."
+}

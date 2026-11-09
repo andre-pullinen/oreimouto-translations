@@ -1,0 +1,860 @@
+KEY,TEXT
+COMMON_YES,Yes
+COMMON_NO,No
+COMMON_CANCEL,Cancel
+COMMON_CONFIRM,Confirm
+COMMON_CLOSE,Close
+COMMON_BACK,Back
+COMMON_OK,OK
+COMMON_RESET,Reset
+COMMON_SAVE,Save
+COMMON_LOAD,Load
+COMMON_EMPTY,Empty
+COMMON_NO_DATA,No Data
+COMMON_SELECT,Select
+COMMON_WARNING,Warning
+COMMON_ERROR,Error
+COMMON_ACTION,Action
+COMMON_PAGE,Page
+COMMON_MENU,Menu
+COMMON_TAP,Tap
+MENU_CONTINUE,Continue
+MENU_CONTINUE_SUB,つづきから
+MENU_NEW_GAME,New Game
+MENU_NEW_GAME_SUB,はじめから
+MENU_LOAD,Load Game
+MENU_LOAD_SUB,ロード
+MENU_COLLECTION,Extra & Gallery
+MENU_COLLECTION_SUB,コレクション
+MENU_SETTINGS,Settings
+MENU_SETTINGS_SUB,設定
+MENU_QUIT,Quit Game
+MENU_QUIT_SUB,終了
+MENU_HEROINE,Heroine
+MENU_LANGUAGE,Language: %s
+MENU_ABOUT,About
+MENU_DISCORD,Discord Community
+MENU_PATREON,Support on Patreon
+MENU_ITCH,Itch.io Page
+SOCIAL_BUBBLE_TIP_TITLE,Did You Know?
+SOCIAL_BUBBLE_DISCORD,"We have a cozy Discord: chat, news, and community support!"
+SOCIAL_BUBBLE_PATREON,Enjoying the game? You can support development and updates on Patreon!
+SOCIAL_BUBBLE_ITCH,Don't forget to check for updates! Fresh builds and patches are on Itch.io.
+MENU_QUIT_TITLE,Quit Game
+MENU_QUIT_MSG,Are you sure you want to quit the game?
+ABOUT_TITLE,About
+ABOUT_SUBTITLE,Unofficial PC Port
+ABOUT_SEC_INFO,General Information
+ABOUT_INFO_DESC,Unofficial open-source PC port of OreImouto Re:Port from Sony PSP powered by Godot Engine 4.7.
+ABOUT_SEC_BYOG,Original Game Assets (BYOG)
+ABOUT_BYOG_DESC,"The game uses the Bring-Your-Own-Game model. All assets (graphics, sound, Live2D models) are extracted directly from legal original UMD disc images."
+ABOUT_SEC_ENGINE,Multimedia Engine
+ABOUT_ENGINE_DESC,"High-performance native C++ GDExtension decoders (ATRAC3+ via FFmpeg, PMF H.264/OpenH264, Live2D Cubism 2.1)."
+ABOUT_SEC_CONTROLS,Controls
+ABOUT_CONTROLS_KB,Mouse & Keyboard: [↑/↓] — Select • [Enter] — Activate • [H] — Cycle Heroine • [J] — Language • [Click] — Interact
+ABOUT_CONTROLS_PAD,Gamepad: [D-Pad / Stick] — Select • [%s] — Activate • [%s] — Back • [%s] — Cycle Heroine • [%s] — Language
+ABOUT_CONTROLS_TOUCH,Touch Controls: Tap buttons to select • Swipe or two-finger tap for menu
+ABOUT_SEC_LICENSES,Third-Party Licenses
+ABOUT_LICENSES_DESC,Godot Engine (MIT) • godot-cpp (MIT) • FFmpeg ATRAC3+ (LGPL v2.1) • OpenH264 (BSD-2-Clause) • Live2D Reimplementation (MIT) • Comfortaa (SIL OFL 1.1) • Dela Gothic One (SIL OFL 1.1). Full details: THIRD_PARTY_LICENSES.md.
+SETTINGS_TAB_TEXT,Text
+SETTINGS_TAB_AUDIO,Audio
+SETTINGS_TAB_DISPLAY,Display
+SETTINGS_TAB_CONTROLS,Controls
+SETTINGS_TAB_SYSTEM,System
+SETTINGS_TAB_UPSCALE,Upscaling
+SETTINGS_TEXT_SPEED_TITLE,Text Speed
+SETTINGS_TEXT_SPEED_DESC,Speed of character appearance in dialogue window
+SETTINGS_SPEED_SLOW,Slow
+SETTINGS_SPEED_NORMAL,Normal
+SETTINGS_SPEED_FAST,Fast
+SETTINGS_SPEED_VERY_FAST,Very Fast
+SETTINGS_SPEED_INSTANT,Instant
+SETTINGS_AUTO_SPEED_TITLE,Auto-Advance Speed
+SETTINGS_AUTO_SPEED_DESC,Delay in seconds between dialogue lines in auto mode
+SETTINGS_OPACITY_TITLE,Window Opacity
+SETTINGS_OPACITY_DESC,Opacity percentage of the dialogue textbox
+SETTINGS_SKIP_UNREAD_TITLE,Skip Unread Text
+SETTINGS_SKIP_UNREAD_DESC,Allow fast-skipping text that hasn't been read before
+SETTINGS_SKIP_MODE_TITLE,Skip Mode
+SETTINGS_SKIP_MODE_DESC,Fast-forward skip behavior
+SETTINGS_SKIP_READ_ONLY,Read Only
+SETTINGS_SKIP_ALL,All Text
+SETTINGS_SKIP_OFF,Off
+SETTINGS_SKIP_ON,On
+SETTINGS_SKIP_R_TITLE,Skip via R-Button
+SETTINGS_SKIP_R_DESC,Behavior when holding down the skip trigger
+SETTINGS_HL_TEXT_TITLE,Highlight Read Text
+SETTINGS_HL_TEXT_DESC,Color tint for previously viewed dialogue lines
+SETTINGS_HL_ORE_TITLE,Highlight Unlocked O.R.E.
+SETTINGS_HL_ORE_DESC,Mark already collected O.R.E. choices in dialogues
+SETTINGS_TSUKKOMI_HD_TITLE,Tsukkomi Bubbles
+SETTINGS_TSUKKOMI_HD_DESC,Use crisp HD vector bubbles instead of original low-res PSP assets
+SETTINGS_PREVIEW_TEXT,"Ah-h... I'm exhausted... Big brother, this is how dialogue looks in-game!"
+SETTINGS_THEME_DISC1,Disc 1
+SETTINGS_THEME_DISC2,Disc 2
+SETTINGS_MASTER_VOL_TITLE,Master Volume
+SETTINGS_MASTER_VOL_DESC,Master audio output level
+SETTINGS_BGM_VOL_TITLE,BGM Volume
+SETTINGS_BGM_VOL_DESC,Volume of background music tracks
+SETTINGS_VOICE_VOL_TITLE,Voice Volume
+SETTINGS_VOICE_VOL_DESC,Volume of character dialogue voices
+SETTINGS_SFX_VOL_TITLE,SFX Volume
+SETTINGS_SFX_VOL_DESC,Volume of sound effects and UI feedback
+SETTINGS_VOICE_OVERLAP_TITLE,Voice Overlap
+SETTINGS_VOICE_OVERLAP_DESC,Behavior when advancing dialogue before voice completes
+SETTINGS_VOICE_INTERRUPT,Interrupt
+SETTINGS_VOICE_LAYER,Overlap
+SETTINGS_TEST_SFX,Test SFX
+SETTINGS_TEST_BGM,Test BGM
+SETTINGS_TEST_BGM_STOP,Stop BGM
+SETTINGS_VOICE_KIRINO,Kirino
+SETTINGS_VOICE_KURONEKO,Kuroneko
+SETTINGS_VOICE_AYASE,Ayase
+SETTINGS_DISPLAY_MODE_TITLE,Display Mode
+SETTINGS_DISPLAY_MODE_DESC,"Windowed, Fullscreen or Borderless mode"
+SETTINGS_MODE_WINDOWED,Windowed
+SETTINGS_MODE_FULLSCREEN,Fullscreen
+SETTINGS_MODE_BORDERLESS,Borderless
+SETTINGS_RESOLUTION_TITLE,Window Resolution
+SETTINGS_RESOLUTION_DESC,Game window size in windowed mode
+SETTINGS_ASPECT_TITLE,Aspect Ratio
+SETTINGS_ASPECT_DESC,"Display mode for ultrawide, standard and mobile aspect ratios"
+SETTINGS_ASPECT_COVER,Fill / Cover
+SETTINGS_ASPECT_ORIGINAL,Original 16:9
+SETTINGS_VSYNC_TITLE,Vertical Sync (VSync)
+SETTINGS_VSYNC_DESC,Synchronize framerate with monitor refresh rate
+SETTINGS_REBIND_DESC,Click on an action to assign a new key or gamepad button
+SETTINGS_RESET_CONTROLS,Reset Controls
+SETTINGS_REBIND_MODAL_TITLE,Rebind Action
+SETTINGS_REBIND_MODAL_MSG,Press any key on keyboard or button on gamepad...
+SETTINGS_REBIND_MODAL_CANCEL,Cancel [Esc]
+ACTION_UI_ACCEPT,Advance / Select
+ACTION_UI_CANCEL,Cancel / Back
+ACTION_NOVEL_AUTO,Auto Mode
+ACTION_NOVEL_FAST_SKIP,Fast Skip
+ACTION_NOVEL_HIDE_WINDOW,Hide Window
+ACTION_NOVEL_BACKLOG,Backlog / History
+ACTION_NOVEL_MENU,In-Game Menu
+ACTION_NOVEL_TSUKKOMI,Tsukkomi (L1)
+ACTION_NOVEL_QUICK_SAVE,Quick Save
+ACTION_NOVEL_QUICK_LOAD,Quick Load
+SETTINGS_AUTOSAVE_TITLE,Autosave
+SETTINGS_AUTOSAVE_DESC,Automatically save game state at story branches
+SETTINGS_LANGUAGE_TITLE,UI Language
+SETTINGS_LANGUAGE_DESC,"Language of menus, settings, and UI elements"
+SETTINGS_RESET_TAB,Reset Current Tab
+SETTINGS_RESET_ALL,Reset All to Defaults
+SETTINGS_RESET_CONFIRM_TITLE,Reset Settings
+SETTINGS_RESET_CONFIRM_MSG,Reset all settings to default values?
+SETTINGS_BTN_RESET,Reset
+SETTINGS_BTN_SAVE,Save
+SETTINGS_BTN_BACK,Back
+SETTINGS_PROMPT_TABS,Tabs
+SAVELOAD_TITLE_SAVE,Save Game
+SAVELOAD_TITLE_LOAD,Load Game
+SAVELOAD_WATERMARK_SAVE,SAVE
+SAVELOAD_WATERMARK_LOAD,LOAD
+SAVELOAD_CAT_NORMAL,Slots 1-50
+SAVELOAD_CAT_AUTO,Auto 1-10
+SAVELOAD_PAGE_PREV,Prev
+SAVELOAD_PAGE_NEXT,Next
+SAVELOAD_PAGE_FORMAT,Page %d / %d
+SAVELOAD_AUTO_PAGE_FORMAT,Auto %d / %d
+SAVELOAD_CARD_EMPTY_SLOT,--- Empty Slot ---
+SAVELOAD_CARD_EMPTY_AUTO,--- Empty Autosave ---
+SAVELOAD_CARD_SLOT_NUM,Empty Slot No. %02d
+SAVELOAD_CARD_AUTO_NUM,Empty Autosave No. %02d
+SAVELOAD_CARD_NO_DATA,No Data
+SAVELOAD_CARD_NO_BGM,No BGM
+SAVELOAD_CARD_NO_IMAGE,No Image
+SAVELOAD_CARD_PREFIX_SAVE,Saved:
+SAVELOAD_CARD_PREFIX_AUTO,Autosaved:
+SAVELOAD_CARD_CURRENT_DIALOGUE,Current Dialogue
+SAVELOAD_CONFIRM_OVERWRITE_TITLE,Overwrite Save
+SAVELOAD_CONFIRM_OVERWRITE_MSG,Overwrite save data in Slot No. %02d?
+SAVELOAD_CONFIRM_LOAD_TITLE,Load Game
+SAVELOAD_CONFIRM_LOAD_MSG,"Load game from Slot No. %02d?
+Unsaved progress will be lost."
+SAVELOAD_CONFIRM_DELETE_TITLE,Delete Save
+SAVELOAD_CONFIRM_DELETE_MSG,Delete save data in Slot No. %02d?
+SAVELOAD_PROMPT_CONFIRM,Confirm
+SAVELOAD_PROMPT_BACK,Back
+SAVELOAD_PROMPT_DELETE,Delete
+SAVELOAD_PROMPT_PAGE,Page
+SAVELOAD_PROMPT_CLOSE,Close
+INGAME_MENU_SAVE,Save
+INGAME_MENU_SAVE_DESC,Save current game progress
+INGAME_MENU_LOAD,Load
+INGAME_MENU_LOAD_DESC,Load previously saved game
+INGAME_MENU_QSAVE,Quick Save
+INGAME_MENU_QSAVE_DESC,Instant save to quick slot
+INGAME_MENU_QLOAD,Quick Load
+INGAME_MENU_QLOAD_DESC,Load from quick save slot
+INGAME_MENU_SETTINGS,Settings
+INGAME_MENU_SETTINGS_DESC,"Configure audio, text, and controls"
+INGAME_MENU_MAIN_MENU,Main Menu
+INGAME_MENU_MAIN_MENU_DESC,Return to main title screen
+INGAME_MENU_CLOSE,Close
+INGAME_TOAST_QSAVE_DONE,Quick Save [Slot Q] completed
+INGAME_TOAST_NO_QSAVE,No quick save data found
+INGAME_TOAST_CANNOT_SAVE,Cannot save during interactive dialogue
+INGAME_CONFIRM_QLOAD_TITLE,Quick Load
+INGAME_CONFIRM_QLOAD_MSG,"Load quick save data?
+Unsaved progress will be lost."
+INGAME_CONFIRM_QUIT_TITLE,Main Menu
+INGAME_CONFIRM_QUIT_MSG,"Return to Title Screen?
+Unsaved progress will be lost."
+INGAME_CONFIRM_REPLAY_QUIT_TITLE,Back to Collections
+INGAME_CONFIRM_REPLAY_QUIT_MSG,"Return to Collection menu?
+Scene replay will end."
+COLLECTION_TITLE,Collection
+COLLECTION_BACK_BTN,Menu
+COLLECTION_FOOTER_STATUS,OreImouto Re:Port • Collection Mode
+COLLECTION_TAB_CG,CG
+COLLECTION_TAB_MUSIC,Music
+COLLECTION_TAB_SCENES,Scenes
+COLLECTION_TAB_FLOWMAP,Flowmap
+COLLECTION_TAB_ORE,O.R.E.
+CG_GALLERY_STATS,Total Albums: %d
+CG_GALLERY_SEARCH_HINT,Search CG by name...
+CG_DISC_1_BTN,Disc 1
+CG_DISC_2_BTN,Disc 2
+CG_GALLERY_CLOSE,Close
+CG_GALLERY_VOICE_BTN,Voice Commentary
+MUSIC_DISC1_BTN,Disc 1 (%d)
+MUSIC_DISC2_BTN,Disc 2 (%d)
+MUSIC_NOW_PLAYING,Now Playing:
+MUSIC_NO_TRACK,No track selected
+MUSIC_ORIGINAL_BGM,Original BGM
+MUSIC_PLAY,Play
+MUSIC_PAUSE,Pause
+MUSIC_STOP,Stop
+MUSIC_VOLUME,Volume
+SCENE_REPLAY_STATS,Completed Scenes: %d of %d (showing %d)
+SCENE_FILTER_ALL,All
+SCENE_BTN_REPLAY,Replay
+ORE_STATS,Collected O.R.E.: %d / %d
+ORE_FILTER_ALL,All (%d)
+ORE_FILTER_UNLOCKED,Unlocked
+ORE_FILTER_LOCKED,Locked
+ORE_DISC_1_BTN,Disc 1
+ORE_DISC_2_BTN,Disc 2
+ORE_SEARCH_HINT,Search O.R.E. by title...
+COLLECTION_EMPTY_TITLE,No Items Found
+COLLECTION_EMPTY_SUBTITLE,Try changing your search query or active filter
+COLLECTION_EMPTY_RESET,Reset Filters
+FLOWMAP_TITLE,Story Flowmap
+FLOWMAP_START_BTN,Start
+FLOWMAP_SEARCH_HINT,"Search scene, O.R.E..."
+FLOWMAP_SCENE_TITLE,Scene Title
+FLOWMAP_SCENE_HIDDEN,Hidden Scene
+FLOWMAP_SCENE_LOCKED,"Scene not yet unlocked.
+
+Progress through the story or make the required choice at preceding branch."
+FLOWMAP_BRANCHES_HEADER,Branches & Transitions (%d)
+FLOWMAP_BRANCH_FINISH,Route completed (Ending).
+FLOWMAP_ORE_REWARDS,O.R.E. Rewards
+FLOWMAP_AFFINITY_HEADER,Characters & Affinity
+INSTALLER_TITLE,OreImouto Re:Port
+INSTALLER_SUBTITLE,Asset Manager & UMD Verification
+INSTALLER_NOTICE,NOTICE: Both discs (Disc 1 and Disc 2) are required for full gameplay. Game launch is locked until both discs are installed.
+INSTALLER_DISC1_TITLE,Disc 1: Ore no Imouto Portable (NPJH-50568)
+INSTALLER_DISC2_TITLE,Disc 2: Ore no Imouto Tsuzuku (NPJH-50569)
+INSTALLER_DISCS_HEADER,Original UMD Disc Images
+INSTALLER_STATUS_NOT_INSTALLED,Not Installed
+INSTALLER_STATUS_INSTALLED,Installed (%s)
+INSTALLER_BROWSE_BTN,Browse...
+INSTALLER_PATH_EDIT1,Path to Disc 1 ISO (oreimo-v1.1.iso)...
+INSTALLER_PATH_EDIT2,Path to Disc 2 ISO (oreimo2-v0.2.iso)...
+INSTALLER_BTN_UNIFIED,Install Game Assets
+INSTALLER_BTN_REINSTALL,Reinstall Game Assets
+INSTALLER_BTN_LAUNCH,Launch Game
+INSTALLER_BTN_LAUNCH_LOCKED,Launch Locked (Installation Required)
+INSTALLER_STATUS_READY,Game assets are installed and ready to launch!
+INSTALLER_STATUS_WAITING,Specify both ISO images and install assets to unlock the game.
+INSTALLER_STATUS_SUCCESS,Game assets successfully installed!
+INSTALLER_STATUS_FAILED,Failed to install game assets.
+INSTALLER_STATUS_LAUNCHING,Preparing assets and launching game...
+INSTALLER_STATUS_RESTARTING,Restarting Game to Apply New Assets...
+INSTALLER_DIALOG_TITLE,Select ISO image for Disc %d
+INSTALLER_SECTION_DISCS,1. UMD Disc Images
+INSTALLER_SECTION_ACTIONS,2. Build & Launch
+INSTALLER_SECTION_INFO,System & Asset Information
+INSTALLER_CONTENT_SUMMARY,"Contents: 12 story routes, Live2D models for 6 heroines, ~18,200 voice lines, backgrounds, CG gallery, and BGM"
+INSTALLER_HINT_SEARCH,"Auto-detection scans: PPSSPP folder, Downloads, and game directory (.iso, .bin, .img)"
+INSTALLER_FILE_FOUND,File found (%s) • UMD header verified
+INSTALLER_FILE_NOT_FOUND,File not found • Specify ISO image path
+INSTALLER_PKG_HEADER,Game Assets (BYOG)
+INSTALLER_PKG_READY,Assets installed and ready (%s)
+INSTALLER_PKG_NOT_READY,Assets not installed • Installation required
+COMMON_ALL,All
+COMMON_DISC,Disc
+COMMON_DATA,Data
+COMMON_NOT_OBTAINED,Not Obtained
+COMMON_CLOSE_ESC,Close (ESC)
+COMMON_PREV,Prev
+COMMON_NEXT,Next
+COMMON_LOCKED,LOCKED
+COMMON_STOP,Stop
+COMMON_CLICK,Click
+COMMON_RMB,RMB
+COMMON_WHEEL,Wheel
+SETTINGS_HEADER_NOVEL,Visual Novel
+SETTINGS_HEADER_UI,UI & Navigation
+SETTINGS_BTN_PLAY_BGM,Play Test Track
+SETTINGS_BTN_STOP_BGM,Stop Track
+SETTINGS_REBIND_CONFLICT,"Conflict! Already assigned to '%s'.
+Press another key."
+SAVELOAD_CARD_HEADER,Save Data
+NOVEL_TOAST_SAVE_DISABLED_INTERACTIVE,Saving is unavailable during interactive scenes
+NOVEL_TOAST_QSAVE_DONE,Quick save [Slot Q] completed
+NOVEL_TOAST_QSAVE_EMPTY,Quick save not found
+NOVEL_AUTOSAVE_BG_REASON,Background Mode
+NOVEL_AUTOSAVE_CLOSE_REASON,Game Exit
+COLLECTION_PROMPT_TABS,Tabs
+CG_MODAL_DEFAULT_TITLE,Event Name
+CG_VARIANT_FORMAT,Variant %d / %d
+CG_COMM_BTN,Comm. %d
+CG_VOICE_PLAYING,Playing commentary %d...
+CG_AUDIO_NOT_FOUND,Audio file not found
+CG_PREV_ALBUM,Previous Album
+CG_NEXT_ALBUM,Next Album
+CG_TOGGLE_UI,Hide UI (Space)
+CG_VARIANT_LOCKED,Locked
+ORE_MODAL_HEADER,O.R.E. Card (Ota Replies & Emotions)
+ORE_DEFAULT_TITLE,O.R.E. Title
+ORE_DEFAULT_DESC,Description of topic and usage context...
+ORE_SCENE_HEAD,Appears in story scenes:
+ORE_GENERIC_DESC,Special topic for story dialogue discussions. Unlocked during playthrough by choosing correct choices and actions.
+ORE_NO_SCENES_FOUND,Related story scenes not found on current disc.
+SCENE_FILTER_AKYO,Prologue (Kyousuke)
+SCENE_FILTER_BKIR,Kirino
+SCENE_FILTER_CKUR,Kuroneko
+SCENE_FILTER_CAYA,Ayase
+SCENE_FILTER_CMAN,Manami
+SCENE_FILTER_CSAO,Saori
+SCENE_FILTER_CKAN,Kanako
+SCENE_FILTER_IF,if Routes
+SCENE_NOT_UNLOCKED,Scene not cleared yet
+SCENE_SUB_FORMAT,Code: %s  •  O.R.E. in scene: %d
+MUSIC_LOOP_ON,Loop: ON
+MUSIC_LOOP_OFF,Loop: OFF
+MUSIC_DISC_TRACK_FORMAT,%s %d • %s
+MUSIC_ERROR_LOADING,Error loading track
+MUSIC_RESUME,Resume
+FLOWMAP_STATS_BADGE,Scenes: %d/%d  •  Endings: %d/%d  •  O.R.E.: %d/%d
+FLOWMAP_SCENE_UNEXPLORED,Unexplored
+FLOWMAP_ENDING_BADGE,Ending
+FLOWMAP_BRANCH_FINISHED,Route completed (Ending).
+FLOWMAP_ORE_UNOBTAINED,#%02d: — (Unobtained)
+FLOWMAP_ORE_CONDITION,Condition: %s
+FLOWMAP_ORE_COND_MET,Condition Met: %s
+FLOWMAP_ROUTE_COMPLETE,Route Completion
+FLOWMAP_UNEXPLORED_TARGET,%s (Unexplored)
+FLOWMAP_DIRECT_TRANSITION,Direct Transition
+FLOWMAP_TSUKKOMI_WIN,Tsukkomi Dialogue: Victory
+FLOWMAP_TSUKKOMI_LOSE,Tsukkomi Dialogue: Defeat
+FLOWMAP_CHOICE_VARIANTS,Choice variants (%d):
+FLOWMAP_ORE_CHOICE_HEADER,O.R.E. topic variants before dialogue:
+FLOWMAP_DEFAULT_VARIANT,Variant
+FLOWMAP_AFFINITY_FORMAT,Affinity: %s %+d
+FLOWMAP_TSUKKOMI_LABEL,Tsukkomi (%s)
+FLOWMAP_WIN_TAG,[ Victory ]
+FLOWMAP_LOSE_TAG,[ Defeat ]
+FLOWMAP_REWARD_FORMAT,Reward: %s
+FLOWMAP_BRANCH_ALT_FORMAT,Branch: otherwise -> %s
+INSTALLER_FILTER_ALL,* ; All Files (*.*)
+INSTALLER_ERR_INVALID_ISO,Error: File is not a valid PSP ISO image!
+INSTALLER_WARN_NOT_DISC1,Warning: Selected image does not look like Disc 1 (%s)
+INSTALLER_WARN_NOT_DISC2,Warning: Selected image does not look like Disc 2 (%s)
+INSTALLER_ERR_ISO1_MISSING,Error: Disc 1 ISO file not found!
+INSTALLER_ERR_ISO2_MISSING,Error: Disc 2 ISO file not found!
+INSTALLER_ERR_BUILD,Build error: %s
+KEY_NAME_SPACE,Space
+KEY_NAME_UP,Up
+KEY_NAME_DOWN,Down
+KEY_NAME_LEFT,Left
+KEY_NAME_RIGHT,Right
+MOUSE_BTN_LMB,LMB
+MOUSE_BTN_RMB,RMB
+MOUSE_BTN_MMB,MMB
+MOUSE_BTN_WHEEL_UP,Wheel Up
+MOUSE_BTN_WHEEL_DOWN,Wheel Down
+MOUSE_BTN_FORMAT,Mouse %d
+JOY_BTN_PS_CROSS,✕ (Cross)
+JOY_BTN_PS_CIRCLE,○ (Circle)
+JOY_BTN_PS_SQUARE,□ (Square)
+JOY_BTN_PS_TRIANGLE,△ (Triangle)
+JOY_BTN_DPAD_UP,D-Pad Up
+JOY_BTN_DPAD_DOWN,D-Pad Down
+JOY_BTN_DPAD_LEFT,D-Pad Left
+JOY_BTN_DPAD_RIGHT,D-Pad Right
+JOY_BTN_FORMAT,Button %d
+JOY_BTN_SW_LSTICK,L-Stick (Press)
+JOY_BTN_SW_RSTICK,R-Stick (Press)
+JOY_AXIS_LSTICK,Left Stick
+JOY_AXIS_RSTICK,Right Stick
+JOY_AXIS_FORMAT,Axis %d
+ACTION_UI_ACCEPT_DESC,Confirm choice or advance
+ACTION_UI_CANCEL_DESC,Return to previous menu or cancel
+ACTION_UI_UP_TITLE,Up
+ACTION_UI_UP_DESC,Move focus up
+ACTION_UI_DOWN_TITLE,Down
+ACTION_UI_DOWN_DESC,Move focus down
+ACTION_UI_LEFT_TITLE,Left
+ACTION_UI_LEFT_DESC,Move focus left or decrease value
+ACTION_UI_RIGHT_TITLE,Right
+ACTION_UI_RIGHT_DESC,Move focus right or increase value
+ACTION_UI_TAB_PREV_TITLE,Previous Tab
+ACTION_UI_TAB_PREV_DESC,Switch to previous category or page
+ACTION_UI_TAB_NEXT_TITLE,Next Tab
+ACTION_UI_TAB_NEXT_DESC,Switch to next category or page
+ACTION_UI_FOCUS_NEXT_TITLE,Next Element / Focus
+ACTION_UI_FOCUS_NEXT_DESC,Cycle focus or switch element
+ACTION_UI_RESET_TITLE,Reset to Default
+ACTION_UI_RESET_DESC,Reset settings or parameters to defaults
+ACTION_UI_INSTALLER_TITLE,Asset Installer
+ACTION_UI_INSTALLER_DESC,Open Game Asset Setup and Validation Screen
+ACTION_UI_HEROINE_TITLE,Cycle Heroine
+ACTION_UI_HEROINE_DESC,Cycle active heroine on title screen
+ACTION_UI_LANG_TITLE,Toggle Language
+ACTION_UI_LANG_DESC,Toggle UI display language
+ACTION_VN_ADVANCE_TITLE,Advance / Select
+ACTION_VN_ADVANCE_DESC,Next dialogue line or confirm choice
+ACTION_VN_AUTO_TITLE,Auto Mode
+ACTION_VN_AUTO_DESC,Toggle automatic dialogue advance
+ACTION_VN_SKIP_HOLD_TITLE,Fast Skip (Hold)
+ACTION_VN_SKIP_HOLD_DESC,Fast-forward dialogue while holding down key
+ACTION_VN_SKIP_TOGGLE_TITLE,Skip (Toggle)
+ACTION_VN_SKIP_TOGGLE_DESC,Toggle continuous text skip mode
+ACTION_VN_MENU_TITLE,Menu / Pause
+ACTION_VN_MENU_DESC,Open pause menu
+ACTION_VN_QSAVE_TITLE,Quick Save
+ACTION_VN_QSAVE_DESC,Instant save to quick save slot
+ACTION_VN_QLOAD_TITLE,Quick Load
+ACTION_VN_QLOAD_DESC,Instant load from quick save slot
+ACTION_VN_BACKLOG_TITLE,Backlog / History
+ACTION_VN_BACKLOG_DESC,View previously read dialogue lines
+BACKLOG_TITLE,Dialogue History
+BACKLOG_SUBTITLE,"Mouse Wheel / PgUp to Scroll, Esc / RMB to Close"
+BACKLOG_CLOSE_TOOLTIP,Close (Esc / RMB)
+BACKLOG_REPLAY_VOICE,Play Voice Line
+BACKLOG_EMPTY,Dialogue History is Empty
+PROTAGONIST_NAME,Kyosuke
+ACTION_VN_TSUKKOMI_TITLE,Tsukkomi (O.R.E.)
+ACTION_VN_TSUKKOMI_DESC,Trigger tsukkomi reaction during dialogue
+ACTION_VN_HIDE_UI_TITLE,Hide Interface
+ACTION_VN_HIDE_UI_DESC,Temporarily hide textbox to view background
+SETTINGS_PREVIEW_TITLE,Dialogue Preview
+SETTINGS_AUDIO_TEST_HEADER,Audio & Voice Test:
+SETTINGS_SPEED_MAX,Max
+SETTINGS_TSUKKOMI_HD,HD Text
+SETTINGS_TSUKKOMI_PSP,Original PSP
+SETTINGS_SUFFIX_SEC, s
+SETTINGS_REBIND_ERR_INVALID,Unknown action or invalid event
+ROUTE_AKYO,Prologue
+ROUTE_BKIR,Kirino
+ROUTE_CKUR,Kuroneko
+ROUTE_CAYA,Ayase
+ROUTE_FAYA,Ayase
+ROUTE_CMAN,Manami
+ROUTE_EMAN,Manami
+ROUTE_CSAO,Saori
+ROUTE_DSAO,Saori
+ROUTE_CKAN,Kanako
+ROUTE_KIFK,Kanako (IF)
+ROUTE_GIFG,Kyousuke
+ROUTE_GSEN,Sena
+ROUTE_IYAM,Yamineko
+ROUTE_JDAI,Daisuke
+ROUTE_LTAM,Tamaki
+TOAST_SAVE_DISABLED_OSIS,Cannot save during interactive dialogue
+TOAST_QSAVE_CREATED,Quick Save created
+TOAST_SLOT_SAVED,Saved to Slot No. %02d
+TOAST_AUTOSAVE_CREATED,Autosave%s
+TOAST_QLOAD_DONE,Quick Save loaded
+TOAST_AUTOSAVE_LOADED,Autosave No. %02d loaded
+TOAST_SLOT_LOADED,Slot No. %02d loaded
+TOAST_LIVE2D_POSE_UNLOCKED,Live2D pose unlocked: %s
+AUTOSAVE_REASON_ORE,O.R.E. Choice
+AUTOSAVE_REASON_OSIS,Before Interactive Dialogue
+HEROINE_KIRINO,Kirino
+HEROINE_KURONEKO,Kuroneko
+HEROINE_AYASE,Ayase
+HEROINE_KANAKO,Kanako
+HEROINE_MANAMI,Manami
+HEROINE_SAORI,Saori
+HEROINE_SENA,Sena
+HEROINE_YAMINEKO,Yamineko
+HEROINE_DAISUKE,Daisuke
+HEROINE_TAMAKI,Tamaki
+HEROINE_KIRINO_SUB_0,Hey! What are you staring at?!
+HEROINE_KIRINO_SUB_1,"That hurts! Don't touch me, you pervert!!"
+HEROINE_KURONEKO_SUB_0,Heh... Foolish mortal...
+HEROINE_KURONEKO_SUB_1,A-Are you stupid?!
+HEROINE_AYASE_SUB_0,"Don't get any closer, pervert!"
+HEROINE_AYASE_SUB_1,...Disgusting. Please die.
+HEROINE_KANAKO_SUB_0,What are you planning?! You bastard! Pervert!
+HEROINE_KANAKO_SUB_1,"H-Huh?! Gross, what are you saying?!"
+HEROINE_MANAMI_SUB_0,"Ehehe, you're making me blush~"
+HEROINE_MANAMI_SUB_1,"Kyou-chan, tea's ready~"
+HEROINE_SAORI_SUB_0,Oho! Can it be that Kyousuke-shi...
+HEROINE_SAORI_SUB_1,Is this part of the secret strategy?
+HEROINE_SENA_SUB_0,"P-Pervert, pervert!! I-I'll report you!!"
+HEROINE_SENA_SUB_1,How cruel! You tricked me!!
+COMMON_SECONDS_SHORT, s
+COMMON_CLEAR,Clear
+COMMON_SETTING,Setting
+COMMON_SETTING_DESC,Setting Description
+COMMON_OPTION,Option
+COMMON_ACTION_DESC,Action Description
+DEVICE_KEYBOARD,Keyboard & Mouse
+DEVICE_GAMEPAD,Gamepad
+ORE_FALLBACK_REPLICA,Dialogue Option
+SETTINGS_REBIND_TITLE,Rebind Control
+SETTINGS_REBIND_PROMPT,Press any key or button...
+SETTINGS_REBIND_HINT,[Esc] — Cancel    [Backspace] — Clear Slot
+VAR_DESC_CG_UNLOCK,Unlock Illustration in CG Gallery #%d
+VAR_DESC_MEMORY_BLOCK,Fate Chronicles Memory Block #%d
+VAR_DESC_GENERIC,Variable #%d
+SETTINGS_WATERMARK,SETTINGS
+INGAME_WATERMARK_OPTION,OPTION
+INGAME_WATERMARK_MENU,MENU
+FLOWMAP_CHAR_AFFINITY,Character Affection & Affinity
+FLOWMAP_TSUKKOMI_WIN_SHORT,Victory
+FLOWMAP_TSUKKOMI_LOSE_SHORT,Defeat
+FLOWMAP_ROUNDS_FORMAT,Rounds: %d
+FLOWMAP_ENDING_NORMAL_TITLE,Normal Ending (Game Clear)
+FLOWMAP_ENDING_BADGE_NORMAL,Normal Ending
+FLOWMAP_ENDING_NORMAL,Normal Ending
+FLOWMAP_TSUKKOMI_FAIL_TIMEOUT,Tsukkomi Defeat / Timeout
+FLOWMAP_TSUKKOMI_WIN_DEFAULT,Tsukkomi Victory
+FLOWMAP_ORE_TIMEOUT,O.R.E. Timeout (Skip Topics)
+FLOWMAP_ORE_TOPICS,O.R.E. Topics
+FLOWMAP_ORE_TWICE,O.R.E. #%d (Twice)
+FLOWMAP_METHOD_N,Method %d
+FLOWMAP_TRANSITION_CONDITION,Transition Condition
+FLOWMAP_AVAILABLE_METHODS,Available Transition Methods: %d
+FLOWMAP_TSUKKOMI_BRANCH_ORE,Tsukkomi (%s) · O.R.E. #%d
+FLOWMAP_TSUKKOMI_BRANCH_TIMEOUT,Tsukkomi (%s) · O.R.E. Timeout
+FLOWMAP_ORE_NUMBER,O.R.E. #%d
+FLOWMAP_VARIANT_WITH_SUFFIX,%s (%s)
+FLOWMAP_VARIANT_COLLISION_FORMAT,%s (%d)
+FLOWMAP_AFFECTION_FORMAT,%s %s
+VAR_KIRINO_AFFECTION,Kirino Affection Points
+VAR_KURONEKO_AFFECTION,Kuroneko Affection Points
+VAR_SAORI_AFFECTION,Saori Affection Points
+VAR_MANAMI_AFFECTION,Manami Affection Points
+VAR_AYASE_AFFECTION,Ayase Affection Points
+VAR_CHOICE_TEAM_KIRINO,Choose Team Kirino in Akiba
+VAR_CHOICE_TEAM_KURONEKO,Choose Team Kuroneko in Akiba
+VAR_CHOICE_TEAM_SAORI,Choose Team Saori in Akiba
+VAR_CRISIS_EVENT_PART1,Sis-pocalypse: Choice 1
+VAR_CRISIS_EVENT_PART2,Sis-pocalypse: Choice 2
+VAR_TSUKKOMI_CRITICAL_OPTION,Tsukkomi: Critical Choice
+VAR_TSUKKOMI_SUCCESS_FLAG,Tsukkomi: Round Victory Flag
+VAR_TSUKKOMI_CORRECT_COUNT,Tsukkomi: Correct Answers Counter
+VAR_EVENT_AKYO_90_FLAG,Story Event Flag AKYO_0090A
+VAR_TSUKKOMI_SAORI_SUBFLAG,Saori Tsukkomi Sub-Flag
+VAR_KIRINO_SUB_BRANCH,Kirino Route Branch
+VAR_KIRINO_SUB_EVENT,Kirino Story Flag
+VAR_KURONEKO_SUB_EVENT_1,Kuroneko Story Flag 1
+VAR_KURONEKO_SUB_EVENT_2,Kuroneko Story Flag 2
+VAR_KURONEKO_DISPUTE_ERRORS,Debate Errors with Kuroneko
+VAR_KURONEKO_TRUE_ROUTE,Kuroneko True Route Flag
+VAR_MANAMI_KEY_ORE_TOPIC,Manami Key O.R.E. Topic
+VAR_MANAMI_ROUTE_CHOICE,Manami Route Choice
+VAR_AYASE_FIRST_INTERROGATION,Ayase First Interrogation
+VAR_AYASE_FINAL_INTERROGATION,Ayase Final Interrogation (True End)
+VAR_SAORI_TRUST_LEVEL,Saori Trust Level
+VAR_ROUTE_SELECTED_KIRINO,Dispatcher: Kirino Route Selected
+VAR_ROUTE_SELECTED_KURONEKO,Dispatcher: Kuroneko Route Selected
+VAR_ROUTE_SELECTED_SAORI,Dispatcher: Saori Route Selected
+VAR_ROUTE_SELECTED_MANAMI,Dispatcher: Manami Route Selected
+VAR_ROUTE_SELECTED_AYASE,Dispatcher: Ayase Route Selected
+VAR_ROUTE_SELECTED_IF_BAD,Dispatcher: IF / Bad End Route Selected
+VAR_KURONEKO_PROPOSAL,Kuroneko Proposal
+VAR_PROLOGUE_INTRO_CHOICE,Prologue Intro Choice
+VAR_GLOBAL_ROUTE_CLEARED_KIRINO,Kirino Route Cleared
+VAR_GLOBAL_ROUTE_CLEARED_KURONEKO,Kuroneko Route Cleared
+VAR_GLOBAL_ROUTE_CLEARED_SAORI,Saori Route Cleared
+VAR_GLOBAL_ROUTE_CLEARED_MANAMI,Manami Route Cleared
+VAR_GLOBAL_ROUTE_CLEARED_AYASE,Ayase Route Cleared
+VAR_GLOBAL_ROUTE_CLEARED_KANAKO_IF,Kanako IF Bonus Route Cleared
+VAR_GLOBAL_PROLOGUE_COMPLETED,Prologue Completed
+VAR_GLOBAL_BONUS_ROUTE_UNLOCKED,Bonus Route Unlocked
+VAR_GLOBAL_MANAMI_EPILOGUE,Manami Epilogue Unlocked
+VAR_GLOBAL_SPECIAL_SCENE_UNLOCKED,Special Scene Unlocked After All Endings
+VAR_GLOBAL_QUIZ_COMPLETED,Prologue Quiz Completed
+VAR_GLOBAL_AKAGI_ROUTE_UNLOCKED,Akagi Route Unlocked
+VAR_GLOBAL_ROOM_INVASION_SEEN,Room Invasion Scene Viewed
+VAR_GLOBAL_CREDITS_SEEN,Final Credits Viewed
+VAR_GLOBAL_KIRINO_BONUS_SEEN,Kirino Bonus Branch Viewed
+VAR_GLOBAL_AYASE_BAD_END_SEEN,Ayase Bad End Viewed
+VAR_GLOBAL_MANAMI_SUMMER_SEEN,Manami Summer Scene Viewed
+VAR_GLOBAL_ALL_CLEAR_CHECK,All Routes Clear Check
+VAR_GLOBAL_ENDING_NUMBER,Ending Number Obtained (1..11)
+VAR_GLOBAL_ENDING_REGISTERED,Ending Gallery Registered Flag
+VAR_GLOBAL_AYASE_CARNAGE_SEEN,Secret Ending 'Ayase Carnage'
+VAR_GLOBAL_BONUS_MGIM_SEEN,MGIM Bonus Route Viewed
+VAR_GLOBAL_BONUS_LAKA_SEEN,LAKA Bonus Route Viewed
+VAR_GLOBAL_DISC1_MASTER_CLEAR,Disc 1 Master Clear Flag
+VAR_D2_MANAMI_TRIP_FLAG_1,Manami Trip: Route 1
+VAR_D2_MANAMI_TRIP_FLAG_2,Manami Trip: Final Morning
+VAR_D2_TSUKKOMI_ROUND_COUNTER,Tsukkomi Disc 2: Round Counter
+VAR_D2_TSUKKOMI_SUCCESS_FLAG,Tsukkomi Disc 2: Round Victory
+VAR_D2_PROLOGUE_SELECTION_A,Disc 2 Prologue: Branch A Choice
+VAR_D2_PROLOGUE_SELECTION_B,Disc 2 Prologue: Branch B Choice
+VAR_D2_SENA_BRANCH_ID,Sena Route: Selected Branch ID
+VAR_D2_KIRINO_EVENT_FLAG,Kirino Story Flag Disc 2
+VAR_D2_KIRINO_AFFECTION,Kirino Affection Points Disc 2
+VAR_D2_KURONEKO_BRANCH_FLAG,Kuroneko Route Branch Disc 2
+VAR_D2_KURONEKO_AFFECTION,Kuroneko Affection Points Disc 2
+VAR_D2_SAORI_BRANCH_FLAG,Saori Route Branch Disc 2
+VAR_D2_SAORI_QUIZ_SCORE,Saori Quiz Score Disc 2
+VAR_D2_MANAMI_KYOTO_PROGRESS,Manami Kyoto Trip Progress
+VAR_D2_MANAMI_HOTEL_NIGHT,Night at Hotel with Manami
+VAR_D2_MANAMI_AFFECTION,Manami Affection Points Disc 2
+VAR_D2_MANAMI_FUTON_EVENT,Bedtime Event with Manami
+VAR_D2_KANAKO_KARAOKE_FLAG,Karaoke with Kanako
+VAR_D2_SENA_DUTY_CHOICE,Duty Choice with Sena
+VAR_D2_SENA_KISS_BRANCH,Sena Kiss Branch
+VAR_D2_KANAKO_AFFECTION,Kanako Affection Points Disc 2
+VAR_D2_KANAKO_DISPUTE_1,Debate with Kanako Round 1
+VAR_D2_KANAKO_DISPUTE_2,Debate with Kanako Round 2
+VAR_D2_KANAKO_LOVE_PROOF,Proof of Love from Kanako
+VAR_D2_KANAKO_KIRINO_TALK,Talk with Kirino About Kanako
+VAR_D2_YAMINEKO_ROUTE_CLEAR,Yamineko Route Branch & Clear
+VAR_D2_KANAKO_LOVE_EVENT,Kanako Falling in Love Flag
+VAR_D2_KANAKO_ADVICE_FLAG,Kanako Life Advice Flag
+VAR_D2_GLOBAL_DISC1_TRANSFER,Disc 1 Save Import Flag
+VAR_D2_GLOBAL_DAISUKE_ROUTE_CLEARED,Daisuke Route Cleared
+VAR_D2_GLOBAL_COMMON_EPILOGUE,Disc 2 Common Epilogue Unlocked
+VAR_D2_GLOBAL_ENDING_ID,Ending ID Obtained Disc 2 (2..16)
+VAR_D2_GLOBAL_ENDING_REGISTERED,Disc 2 Ending Gallery Registered
+VAR_D2_GLOBAL_CHRONICLES_MASTER,All Chronicles Unlocked
+VAR_D2_GLOBAL_KANAKO_EPILOGUE,Kanako Epilogue Viewed
+VAR_D2_GLOBAL_ROUTE_CLEARED_KIRINO,Kirino Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_KURONEKO,Kuroneko Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_SAORI,Saori Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_MANAMI,Manami Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_AYASE,Ayase Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_KANAKO,Kanako Route Cleared Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_SENA,Sena Route Cleared Disc 2
+SETTINGS_RESET_DEFAULT,Reset to Default
+COMMON_ARE_YOU_SURE,Are you sure?
+COMMON_CONTINUE,Continue
+ACTION_ADVANCE_TITLE,Advance / Select
+SAVELOAD_ROUTE_FORMAT,%s Route
+SAVELOAD_DEFAULT_HEROINE,Main Story
+SAVELOAD_CARD_DEMO_ROUTE,Kuroneko Route
+SAVELOAD_CARD_DEMO_CHAPTER,Chapter 14
+SAVELOAD_CARD_DEMO_TIME,Play Time 18:42:31
+SETTINGS_TEXTURE_QUALITY_TITLE,Texture Quality
+SETTINGS_TEXTURE_QUALITY_DESC,Resolution of backgrounds and event illustrations (requires HD/4K packs)
+SETTINGS_TEXTURE_QUALITY_SD,Original (PSP 272p)
+SETTINGS_TEXTURE_QUALITY_HD,Full HD (1080p)
+SETTINGS_TEXTURE_QUALITY_UHD_4K,4K Ultra HD (2160p)
+SETTINGS_TEXTURE_PACKS_MANAGE,HD / 4K Texture Packs
+SETTINGS_TEXTURE_PACKS_BTN,Texture Packs...
+SETTINGS_TEXTURE_PACKS_DESC,"Build, delete or import high-resolution texture packs"
+UPSCALER_MODAL_TITLE,HD / 4K Texture Packs
+UPSCALER_MODAL_DESC,AI texture upscaling and pack management
+UPSCALER_PACK_HD_TITLE,Full HD (1080p)
+UPSCALER_PACK_4K_TITLE,4K Ultra HD (2160p)
+UPSCALER_PACK_STATUS_INSTALLED,Installed (%s)
+UPSCALER_PACK_STATUS_NOT_INSTALLED,Not Installed
+UPSCALER_PRESET_TITLE,Preset:
+UPSCALER_PRESET_STUDIO_HD,1080p Studio (AnimeSharpV4)
+UPSCALER_PRESET_STUDIO_HD_DESC,Studio quality: razor-sharp lineart (AnimeSharpV4) for characters/CG and natural texture preservation for backgrounds (UltraSharp).
+UPSCALER_PRESET_FAST_HD,1080p Fast (AnimeSharp Fast)
+UPSCALER_PRESET_FAST_HD_DESC,Accelerated PixelUnshuffle architecture (~2.4x faster). Clean edges and high detail with reduced processing time.
+UPSCALER_PRESET_EXTREME_4K,4K Ultra HD (AnimeSharpV4)
+UPSCALER_PRESET_EXTREME_4K_DESC,Maximum 4K quality. Two-pass AnimeSharpV4 and UltraSharp cascade up to 3840×2160.
+UPSCALER_BADGE_EXPERIMENTAL,[Highly Experimental / 6GB+ RAM]
+UPSCALER_RAM_REQUIREMENT_ERROR,Not Available on This Device: Requires at Least 6 GB of RAM
+UPSCALER_EXPERIMENTAL_WARNING,Warning: Running Vision Transformer inference on mobile CPU requires substantial time and battery power. Connecting to a charger is recommended. Continue?
+UPSCALER_STATUS_IDLE,Ready to Build
+UPSCALER_STATUS_BUILDING,"Generating Pack: %s (%d/%d, %.1f%%)"
+UPSCALER_STATUS_FINISHED,Pack Generation Completed Successfully!
+UPSCALER_STATUS_FAILED,Error Generating Pack: %s
+UPSCALER_STATUS_CANCELLED,Pack Generation Cancelled
+UPSCALER_BTN_BUILD,Build Pack
+UPSCALER_BTN_CANCEL,Cancel
+UPSCALER_BTN_DELETE,Delete
+UPSCALER_BTN_IMPORT_PCK,Import PCK...
+UPSCALER_IMPORT_SUCCESS,Pack Successfully Imported!
+UPSCALER_IMPORT_INVALID,Invalid Package File Format
+UPSCALER_BADGE_GPU_ACCEL,[GPU: %s]
+UPSCALER_WARNING_CPU_MODE,Warning: CPU Processing Will Take Significant Time
+UPSCALER_UNSUPPORTED_ON_ANDROID,(Unsupported on Android)
+UPSCALER_BADGE_VULKAN_FAST,NCNN Vulkan • GPU
+UPSCALER_PROGRESS_STATS,Elapsed: %s • Remaining: ~%s • Speed: %.1f img/s
+UPSCALER_PROGRESS_CALCULATING,Calculating Estimated Time...
+UPSCALER_PRESET_ANIMEVIDEO_HD,1080p Turbo (AnimeVideoV3)
+UPSCALER_PRESET_ANIMEVIDEO_HD_DESC,Lightning-Fast Upscaling (~36 ms/frame). Entire Game Generated in About 1-1.5 Minutes!
+UPSCALER_MODE_DIRECT_PASS,Direct Single-Pass Mode
+UPSCALER_MODE_TILED_PASS,Adaptive Tiling (%d px)
+INSTALLER_CHECK_HD_GEN,Generate HD Pack (1080p)
+INSTALLER_BTN_IMPORT_PCK,Import PCK...
+UPSCALER_STATUS_STARTING,Preparing Generation...
+UPSCALER_STATUS_CANCELLING,"Cancelling Generation, Please Wait..."
+UPSCALER_CONFIRM_CANCEL_AND_CLOSE,Texture pack generation is still in progress. Cancel generation and close the window?
+DISC_SELECT_TITLE,Select Campaign
+DISC_SELECT_SUBTITLE,Choose a campaign to play
+DISC_1_TITLE,Disc 1: Ore no Imouto Portable
+DISC_1_DESC,"Original story: sister's otaku hobby, summer festival, and main heroine routes."
+DISC_2_TITLE,Disc 2: Tsuzuku (After Story)
+DISC_2_DESC,"Lover's after story, new routes (Sena, Yamineko), and the Kiririn & Kuronyan meta-quiz."
+DISC_PROGRESS_CLEARED,Endings Cleared: %d / %d
+DISC_RECOMMEND_DISC1,Recommended to clear Disc 1 first
+DISC_START_CAMPAIGN,Start Campaign
+DISC_2_START_TITLE,Start Disc 2
+DISC_2_START_PROMPT,You have completed the prologue quiz before. How would you like to start?
+DISC_2_PROLOGUE_FULL,Full Prologue (Kiririn & Kuronyan Quiz)
+DISC_2_PROLOGUE_FAST,Quick Start (August 15 Morning — Route Choice)
+ROUTE_CONTINUATION_TITLE,Story Continuation
+ROUTE_CONTINUATION_MSG,Congratulations on completing %s's route on Disc 1! Would you like to proceed to her continuation on Disc 2?
+ROUTE_CONTINUATION_BTN_PROCEED,Continue on Disc 2
+ROUTE_CONTINUATION_BTN_MENU,Main Menu
+CONFIRM_NEW_GAME_TITLE,New Game
+CONFIRM_NEW_GAME_DESC,Start a new campaign? Any unsaved progress will be lost.
+CONFIRM_NEW_GAME_YES,Start
+DISC_SWITCH_TITLE,Change Disc
+DISC_SWITCH_DESC,Switch active campaign to the selected disc?
+SETTINGS_VERSION_LABEL,Game Version
+SETTINGS_CHECK_UPDATES_BTN,Check for Updates
+SETTINGS_UPDATE_CHECKING,Checking for updates...
+SETTINGS_UPDATE_LATEST,You have the latest version
+SETTINGS_UPDATE_AVAILABLE,New version available: %s
+SETTINGS_UPDATE_FAILED,Could not check for updates
+UPDATE_MODAL_TITLE,Game Update
+UPDATE_MODAL_ITCH_MSG,Version %s is available. It will update automatically next time you launch through itch.io.
+UPDATE_MODAL_DOWNLOAD_MSG,Version %s is available. Open download page?
+UPDATE_ACTION_DOWNLOAD,Go to Download
+UPDATE_BANNER_TITLE,New Version
+UPDATE_BANNER_SUB,v%s Available
+UPDATE_BANNER_SUB_FALLBACK,Update Available
+UPSCALER_PRESET_BALANCED,1080p Studio (AnimeSharpV4)
+UPSCALER_PRESET_CUSTOM,Custom
+UPSCALER_CAT_BG,Backgrounds
+UPSCALER_CAT_CG,Event CG
+UPSCALER_CAT_CHARACTERS,Characters
+UPSCALER_CAT_LIVE2D,Live2D
+UPSCALER_CAT_ORE,Cut-ins
+UPSCALER_CAT_UI,UI
+UPSCALER_SYNC_ALL_CATS,Sync All Categories
+UPSCALER_ADD_STAGE,Add Stage
+UPSCALER_REMOVE_STAGE,Remove Stage
+UPSCALER_STAGE_TITLE,Stage %d
+UPSCALER_STAGE_MODEL,Model
+UPSCALER_MODEL_ANIMEJANAI_STRONG,AnimeJaNai Strong
+UPSCALER_STAGE_DERING,DeRing Filter (Anti-Ringing)
+UPSCALER_STAGE_DERING_TOOLTIP,Pre-smooths stair-stepping ringing and quantization compression before upscaling
+UPSCALER_STAGE_SCALE,Scale Multiplier
+UPSCALER_STAGE_MAX_CLAMP,Resolution Clamp
+UPSCALER_CLAMP_NONE,No Clamp
+UPSCALER_PROGRESS_OVERALL,Overall
+UPSCALER_PROGRESS_CATEGORY,Category
+UPSCALER_PROGRESS_STAGE,Stage
+UPSCALER_CURRENT_FILE,File: %s
+UPSCALER_TIME_ELAPSED,Elapsed
+UPSCALER_TIME_REMAINING,Remaining
+UPSCALER_METRIC_DEDUP,Skipped Duplicates: %d
+UPSCALER_CONFIRM_DELETE_HD,Delete all installed Full HD (1080p) packs?
+UPSCALER_CONFIRM_DELETE_4K,Delete all installed 4K Ultra HD packs?
+UPSCALER_TOP_PACKS_LABEL,Packs:
+UPSCALER_BTN_TUNING,Models & Tuning
+UPSCALER_TUNING_HEADER,Models & Acceleration
+UPSCALER_STAGES_HEADER,Pipeline Stages
+UPSCALER_MAX_STAGES_LABEL,(Max 3)
+UPSCALER_STAGES_COUNT_TOOLTIP,Pipeline Stages: %d
+UPSCALER_DOWNSCALE_STEP,Downscale
+UPSCALER_SCALE_LOCKED_TOOLTIP,Scale is fixed by model architecture
+UPSCALER_SCALE_SELECT_TOOLTIP,Select processing scale multiplier
+UPSCALER_RIGHT_HEADER,Pipeline Summary & Build
+UPSCALER_TRANSFORM_FLOW,Transformation Flow:
+UPSCALER_FMT_INFO,Format: JPEG XL
+UPSCALER_TARGET_PCK_INFO,Packs: hd_*.pck
+UPSCALER_TEXTURES_COUNT_INFO,Selected Assets: %d / %d
+UPSCALER_BTN_BUILD_JXL,Build All
+UPSCALER_BTN_BUILD_CATEGORY,Build %s
+UPSCALER_BTN_BUILD_ALL,Build Selected
+UPSCALER_CATEGORY_INCLUDE,Include in Build
+UPSCALER_CAT_PACK_STATUS,Pack:
+UPSCALER_CAT_ASSETS_COUNT,Assets: %d
+UPSCALER_PACKS_COUNT_FMT,%d/%d (%s)
+UPSCALER_CONFIRM_DELETE_CAT_HD,Delete Full HD pack for %s?
+UPSCALER_CONFIRM_DELETE_CAT_4K,Delete 4K pack for %s?
+UPSCALER_TARGET_PCK_MODULAR_SINGLE,File: %s
+SETTINGS_DISCORD_RPC_TITLE,Discord Activity
+SETTINGS_DISCORD_RPC_DESC,Broadcast current game activity and progress to Discord
+DISCORD_STATUS_MAIN_MENU,In Main Menu
+DISCORD_SELECTING_SCENARIO,Selecting Scenario
+DISCORD_ROUTE_COMMON,Common Route
+DISCORD_ROUTE_BONUS,Bonus Route
+DISCORD_DISC,Disc
+DISCORD_PLAYING_GAME,Playing Game
+DISCORD_READING_STORY,Reading Story
+DISCORD_TSUKKOMI_TITLE,O.S.I.S. Mode (Tsukkomi)
+DISCORD_TSUKKOMI_DESC,2Shot Interactive Dialogue
+DISCORD_ORE_TITLE,O.R.E. Decision
+DISCORD_ORE_DESC,Choosing Route Option
+DISCORD_WATCHING_VIDEO,Watching Cutscene
+DISCORD_OMAKE_GALLERY,CG Gallery
+DISCORD_OMAKE_MUSIC,Music Player
+DISCORD_OMAKE_FLOWMAP,Scenario Flowmap
+DISCORD_INSTALLER_TITLE,Preparing Game Discs
+DISCORD_STATUS_STARTUP,Starting Game
+DISCORD_LOADING,Loading...
+DISCORD_SUBMENU_CG,CG Gallery
+DISCORD_SUBMENU_MUSIC,Music Player
+DISCORD_SUBMENU_SCENES,Scene Replay
+DISCORD_SUBMENU_FLOWMAP,Flowmap
+DISCORD_SUBMENU_ORE,O.R.E. Notes
+DISCORD_SUBMENU_SETTINGS,Settings
+MENU_REACTION_KIRINO_TRUE,...Clean your ears! Well... thanks.
+MENU_REACTION_KIRINO_NORMAL,Just wait! I'll do something about my memory!
+MENU_REACTION_KIRINO_BAD,Don't you have any learning ability? Are you a fool?!
+MENU_REACTION_KURONEKO_TRUE,Heh... isn't it obvious?
+MENU_REACTION_KURONEKO_NORMAL,...Do as you please. I'll tell you again when I feel like it.
+MENU_REACTION_KURONEKO_BAD,How many rejections will it take for that low IQ brain of yours to understand?
+MENU_REACTION_AYASE_TRUE,...Yes. Thank you very much... Onii-san.
+MENU_REACTION_AYASE_NORMAL,...Then it might be suitable to play around here as a way of returning the favor.
+MENU_REACTION_AYASE_BAD,You traitor! I won't forgive you! I'll never forgive you!
+MENU_REACTION_MANAMI_TRUE,I'll give it my all! I want Kyou-chan to be happy! Right!
+MENU_REACTION_MANAMI_NORMAL,"We're childhood friends, so it's normal for me to be worried about you."
+MENU_REACTION_MANAMI_BAD,"Yes, I'm okay now. Sorry about that, Kyou-chan～"
+MENU_REACTION_SAORI_TRUE,...Yes!
+MENU_REACTION_SAORI_NORMAL,Thank you very much for accepting all of my selfish requests.
+MENU_REACTION_SAORI_BAD,"To put it frankly, a losing battle... Hahaha."
+MENU_REACTION_KANAKO_TRUE,"...I love you, Kyousuke."
+MENU_REACTION_KANAKO_NORMAL,Thanks for the meal♪ Kyousuke-san♪
+MENU_REACTION_KANAKO_BAD,"H-Huh?! Gross, what are you saying?"
+MENU_REACTION_SENA_TRUE,"I will always... stay by your side, senpai."
+MENU_REACTION_SENA_BAD,"P-P-Pervert! Pervert! I'm calling the police, okay?!"
+UPSCALER_MODEL_STUDIO,AnimeSharpV4 Studio
+UPSCALER_MODEL_FAST,AnimeSharpV4 Fast
+UPSCALER_MODEL_ULTRASHARP,4x-UltraSharp
+UPSCALER_MODEL_ANIMEVIDEOV3,AnimeVideoV3
+UPSCALER_GPU_DETECTING,GPU: Detecting...
+UPSCALER_GPU_READY,GPU: %s
+UPSCALER_CPU_FALLBACK,CPU Mode
+SAVELOAD_CONFIRM_LOAD_AUTO_MSG,"Load Autosave No. %02d?
+Any unsaved progress will be lost."
+SETTINGS_SKIP_HOLD,Hold
+SETTINGS_SKIP_TOGGLE,Toggle
+SETTINGS_LANG_PACKS_TITLE,Language Packs & Translation
+SETTINGS_LANG_PACKS_DESC,"Export .CSV tables for translators, build and install language packs (.pck)"
+SETTINGS_LANG_PACKS_INSTALLED,Installed Packs: %d (%s)
+SETTINGS_LANG_PACKS_NONE,No external language packs installed (using base pack)
+SETTINGS_LANG_EXPORT_BTN,Export CSV
+SETTINGS_LANG_BUILD_BTN,Build .PCK
+SETTINGS_LANG_IMPORT_BTN,Import .PCK
+SETTINGS_LANG_DIALOG_EXPORT_TITLE,Select Folder to Export Translation Tables (.CSV)
+SETTINGS_LANG_DIALOG_BUILD_TITLE,Select Folder with Translated (.CSV) Files to Build Pack
+SETTINGS_LANG_DIALOG_IMPORT_TITLE,Select Language Pack (.pck) to Install
+SETTINGS_LANG_STATUS_EXPORT_OK,✓ Template exported (%d files): %s
+SETTINGS_LANG_STATUS_BUILD_OK,✓ Built and mounted: lang_%s.pck (%d files)
+SETTINGS_LANG_STATUS_IMPORT_OK,✓ Installed language pack: lang_%s.pck (%d files)
+SETTINGS_LANG_STATUS_ERROR,Error: %s

@@ -1,0 +1,210 @@
+ID,SPEAKER,TEXT
+0,SPK_KIRINO,"Ah, a new book came out!"
+1,SPK_KIRINO,"Ooh, this is...!!"
+2,SPK_KYOUSUKE,You seem to be enjoying yourself.
+3,SPK_KIRINO,I guess. They do offer good products here.
+4,SPK_KIRINO,"This one is especially interesting, so you should read 
+it too."
+5,,"The item Kirino presented to me seemed to be a 
+little sisters-genre manga with sibling love as its 
+theme."
+6,,"As usual, she really loves ""little sisters"", my little 
+sister--"
+7,,"No, my girlfriend."
+8,SPK_KYOUSUKE,"Yeah, maybe someday."
+9,SPK_KIRINO,Hey you. What's with that unenthusiastic reply?
+10,SPK_KYOUSUKE,"No, it's because, you know."
+11,,I can't help but feel this way.
+12,SPK_KYOUSUKE,I'm satisfied plenty with reality right now.
+13,SPK_KIRINO,[font_size=28]Wha-[/font_size]
+14,SPK_KIRINO,I-Is that so!
+15,,"As I looked at her suddenly blushing from my 
+surprise attack..."
+16,,"I got a great sense of satisfaction, as expected."
+17,,"The next place we went to, the maid café ""Pretty 
+Garden""."
+18,,"I'm sitting on the same seat as I did on ""that day"", 
+Kirino is sitting opposite me."
+19,SPK_KIRINO,"Hey, did you aim for these seats?"
+20,SPK_KYOUSUKE,"No, it's just a coincidence."
+21,,"We only came here on a whim when we just 
+happened to pass by it..."
+22,,"And the fact that we were shown to these exact 
+seats was simply a coincidence."
+23,SPK_KIRINO,"We've been here many times since then, but..."
+24,SPK_KIRINO,"I wonder why. It's only today that I'm recalling the 
+first time we came here."
+25,SPK_KYOUSUKE,...Me too.
+26,SPK_KIRINO,"Hey, Kyousuke."
+27,SPK_KIRINO,"When I was left out from the other girls and felt 
+down."
+28,SPK_KIRINO,I remember what you did back then.
+29,SPK_KYOUSUKE,"No, did I do something?"
+30,,"I don't remember doing anything that memorable, 
+though."
+31,SPK_KIRINO,"Tch, didn't you say you remembered the first time 
+we came here?"
+32,SPK_KYOUSUKE,"Don't get angry. I don't remember the details, 
+honest."
+33,SPK_KYOUSUKE,Tell me all about it. Then I might remember.
+34,SPK_KIRINO,......Hmph.
+35,SPK_KIRINO,...head.
+36,SPK_KYOUSUKE,Eh?
+37,SPK_KIRINO,You patted my head.
+38,SPK_KYOUSUKE,Ahh.
+39,,I remembered.
+40,,I certainly did do something like that.
+41,SPK_KYOUSUKE,...You slapped away my hand in an instant.
+42,SPK_KIRINO,Sorry.
+43,SPK_KIRINO,"At the time, I was a bit... worked up."
+44,,That apology was a year late.
+45,SPK_KYOUSUKE,Don't worry about it. I'm sure I was aware of that.
+46,SPK_KIRINO,...There you go.
+47,SPK_KIRINO,"You're making the same expression now as you did 
+back then."
+48,SPK_KIRINO,"Just when you patted my head... and comforted me 
+by saying ""You did a good job""."
+49,SPK_KIRINO,"I'll say this now, but."
+50,SPK_KIRINO,You were kinda cool then.
+51,SPK_KYOUSUKE,.........
+52,,"Feeling embarrassed, I turned away."
+53,SPK_UNKNOWN,Umm~
+54,SPK_KYOUSUKE_KIRINO,Owah!
+55,,The person that spoke to us was--
+56,SPK_KIRARA,"Welcome, young miss, Onii~chan♪"
+57,,"Hoshino Kirara-san. A maid that worked at this maid 
+café."
+58,SPK_KIRARA,"It's wonderful that you two are getting along, but 
+you should make your orders soon~"
+59,SPK_KIRINO,Ah! Y-Yes!
+60,SPK_KIRINO,E-Err. I'll have this and this.
+61,,Kirino pointed at the menu in a panic.
+62,,"You can't understand the items on the menu based 
+on their names, so this method of ordering helps 
+when you're in a hurry."
+63,SPK_KIRINO,W-What about you?
+64,SPK_KYOUSUKE,"T-Then, I'll have the usual."
+65,SPK_KIRARA,"Yes♪ The Little Sister Handmade Curry and the 
+Maid Soup. It'll be prepared at once①"
+66,SPK_KYOUSUKE,*sigh*
+67,,"Well, this is about what I can take at my level."
+68,SPK_KIRINO,...What's with that super casual exchange just now?
+69,SPK_KIRINO,Eh? What? ...So you're a regular here?
+70,SPK_KYOUSUKE,"You got it all wrong! I only come here when I'm 
+with you guys!"
+71,,Stop it with that disdainful gaze.
+72,SPK_KYOUSUKE,You definitely come here more often than me.
+73,SPK_KIRINO,Ehh~? But look at what happened just now.
+74,SPK_KYOUSUKE,"Still, what's the problem even if I'm a regular here?"
+75,,"Since I couldn't clear myself of the charges against 
+me, I become defiant."
+76,SPK_KYOUSUKE,There's nothing wrong with it.
+77,SPK_KIRINO,"There has to be. The fact that you're called 
+""Onii-chan"" by that maid and you always ask for 
+the ""Little Sister Handmade Curry"" is gross."
+78,,Sounds reasonable.
+79,SPK_KYOUSUKE,"There are deep reasons for both of those things, 
+but... I give up."
+80,,"As I tried to talk down Kirino, another voice spoke 
+out to us."
+81,SPK_SAORI,"Oh! My, my... if it isn't Kiririn-shi and Kyousuke-shi!"
+82,SPK_KYOUSUKE,"Oh, Saori."
+83,SPK_KIRINO,What a coincidence.
+84,SPK_SAORI,"Yes. Truly, how fortuitous."
+85,SPK_KYOUSUKE,What are you doing today?
+86,SPK_SAORI,Me? I'm... in charge of some errands.
+87,SPK_KYOUSUKE,Hmm.
+88,,"Errands, huh."
+89,,"She's being vague, probably because it's something 
+she doesn't want to talk about."
+90,SPK_KIRINO,"Errands~? What, what is it? I'm super curious!"
+91,,"Read the mood, idiot. You're troubling Saori."
+92,SPK_SAORI,"Hmm, well, err."
+93,SPK_SAORI,"I'm meeting with my older sister for the first time 
+in a long while."
+94,SPK_KIRINO,Your older sister? Doesn't she live overseas?
+95,SPK_SAORI,Yes.
+96,SPK_SAORI,"You see... It's the kind of reunion where we open 
+with shooting a full load of armaments."
+97,,"So Saori's older sister came back from overseas, 
+huh."
+98,,"Saori being Saori, she's busy preparing for an 
+important event."
+99,,"↑That ""full load of armaments"" thing? I'm not going 
+to bother with bringing that up."
+100,SPK_SAORI,"Now then, I gave my statement, so now it's 
+Kiririn-shi's and Kyousuke-shi's turn, right?"
+101,SPK_KIRINO,Eh?
+102,SPK_SAORI,"Fufufu... How useless of you to play dumb. As 
+always, I'm jealous of how well you two get along."
+103,SPK_SAORI,Are you two on a siblings date today?
+104,SPK_KYOUSUKE,Pretty much.
+105,SPK_KIRINO,We're going out with each other now.
+106,SPK_SAORI,Huh?
+107,SPK_KIRINO,"Hmm? That wasn't clear enough? I said we're 
+dating now."
+108,SPK_SAORI,.........
+109,,Don't just stare at me.
+110,SPK_KYOUSUKE,Y-Yeah... What she said.
+111,,I confirmed it.
+112,SPK_SAORI,.....................
+113,SPK_SAORI,[font_size=33]Whaaaaaaaaaaaaat?![/font_size]
+114,SPK_SAORI,W-What do you mean?!!!!
+115,SPK_KYOUSUKE,"Calm down, Saori! Your true form! Your true form 
+has come out!"
+116,SPK_SAORI,That's not what's important here!
+117,SPK_SAORI,"What in the world do you mean, the siblings are 
+dating now?!!"
+118,SPK_SAORI,"Have you both lost it and finally started blending a 
+game scenario with reality?!"
+119,,"Perhaps due to her panic, her manner of speech 
+was messed up."
+120,SPK_KYOUSUKE,"Sorry, we didn't explain it well."
+121,SPK_KYOUSUKE,The truth is...
+122,SPK_KYOUSUKE,Kirino and I aren't related by blood.
+123,SPK_SAORI,"Kyousuke-shi! Come back to reality! That's a 
+scenario from an H-game!"
+124,SPK_KYOUSUKE,No! It's for real!
+125,,"Nearby, as I desperately explained to Saori, Kirino,"
+126,SPK_KIRINO,"Yup, yup."
+127,,simply nodded in a satisfied manner.
+128,SPK_KYOUSUKE,"Hey, you help me too!"
+129,SPK_KIRINO,"Saori, Kyousuke and I are totally not related by 
+blood."
+130,SPK_KYOUSUKE,"Your way of speaking! It just sounds like you're 
+lying!"
+131,SPK_KIRINO,"But there's no other way to say it, is there?"
+132,SPK_KIRINO,"A development like finding out about a ""step-sister"" 
+this late, even I'll get angry if this came from a 
+game."
+133,SPK_KIRINO,But that's just the way it is.
+134,SPK_KIRINO,"Being non-related simply means being non-related, 
+after all."
+135,,That's a splendid defiant attitude you have there.
+136,,"Watching us act like this, Saori blinked in surprise."
+137,SPK_SAORI,......No way... You're serious?
+138,SPK_SAORI,You two really... aren't related by blood?
+139,,"Oh, her speech had returned to normal."
+140,SPK_KYOUSUKE,Yeah.
+141,SPK_KIRINO,Didn't I say so?
+142,SPK_SAORI,...Unbelievable...
+143,SPK_SAORI,...That's just...
+144,SPK_KIRINO,"Well, we only found out just recently, though."
+145,SPK_SAORI,"So upon finding out you were step-siblings, you two 
+immediately starting dating each other."
+146,SPK_KIRINO,D-Don't phrase it like that!
+147,SPK_SAORI,But isn't that how it is?
+148,,"Well, I suppose. If you simply look at the facts, 
+that's the truth."
+149,SPK_SAORI,"Hehehe... I see, Kiririn-san together with 
+Kyousuke-san."
+150,,"Having grasped the situation, Saori looks at us with 
+a gentle smile."
+151,SPK_SAORI,Good for you... Kiririn-san.
+152,SPK_SAORI,"I thought that life was something beyond our 
+control, but..."
+153,SPK_SAORI,That unexpectedly might not be the case.
+154,SPK_KIRINO,...Yeah.
+155,SPK_SAORI,I'm thankful to this kind world. And...
+156,SPK_SAORI,"I give you two my blessings, from the bottom of 
+my heart."

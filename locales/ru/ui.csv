@@ -1,0 +1,860 @@
+KEY,TEXT
+COMMON_YES,Да
+COMMON_NO,Нет
+COMMON_CANCEL,Отмена
+COMMON_CONFIRM,Подтвердить
+COMMON_CLOSE,Закрыть
+COMMON_BACK,Назад
+COMMON_OK,ОК
+COMMON_RESET,Сброс
+COMMON_SAVE,Сохранить
+COMMON_LOAD,Загрузить
+COMMON_EMPTY,Пусто
+COMMON_NO_DATA,Нет данных
+COMMON_SELECT,Выбрать
+COMMON_WARNING,Предупреждение
+COMMON_ERROR,Ошибка
+COMMON_ACTION,Действие
+COMMON_PAGE,Стр.
+COMMON_MENU,Меню
+COMMON_TAP,Тап
+MENU_CONTINUE,Продолжить
+MENU_CONTINUE_SUB,CONTINUE
+MENU_NEW_GAME,Новая игра
+MENU_NEW_GAME_SUB,NEW GAME
+MENU_LOAD,Загрузить игру
+MENU_LOAD_SUB,LOAD GAME
+MENU_COLLECTION,Коллекция
+MENU_COLLECTION_SUB,EXTRA & GALLERY
+MENU_SETTINGS,Настройки
+MENU_SETTINGS_SUB,SETTINGS
+MENU_QUIT,Выход
+MENU_QUIT_SUB,QUIT GAME
+MENU_HEROINE,Героиня
+MENU_LANGUAGE,Язык: %s
+MENU_ABOUT,О проекте
+MENU_DISCORD,Discord сообщество
+MENU_PATREON,Поддержать на Patreon
+MENU_ITCH,Страница на Itch.io
+SOCIAL_BUBBLE_TIP_TITLE,А вы знали?
+SOCIAL_BUBBLE_DISCORD,"У нас есть уютный Discord: общение, новости и обратная связь!"
+SOCIAL_BUBBLE_PATREON,Нравится игра? Вы можете поддержать разработку и обновления на Patreon!
+SOCIAL_BUBBLE_ITCH,Не забывайте проверять обновления! Свежие сборки и патчи — на Itch.io.
+MENU_QUIT_TITLE,Выход из игры
+MENU_QUIT_MSG,Вы действительно хотите выйти из игры?
+ABOUT_TITLE,О проекте
+ABOUT_SUBTITLE,Неофициальный ПК-порт
+ABOUT_SEC_INFO,Общая информация
+ABOUT_INFO_DESC,Неофициальный открытый порт игры OreImouto Re:Port с платформы Sony PSP на ПК на базе движка Godot 4.7.
+ABOUT_SEC_BYOG,Оригинальные ресурсы (BYOG)
+ABOUT_BYOG_DESC,"Игра использует модель Bring-Your-Own-Game. Все медиа-ресурсы (графика, звук, Live2D модели) извлекаются непосредственно из оригинальных легальных образов UMD-дисков."
+ABOUT_SEC_ENGINE,Мультимедиа движок
+ABOUT_ENGINE_DESC,"Высокопроизводительный нативный декодер C++ GDExtension (ATRAC3+ через FFmpeg, PMF H.264/OpenH264, Live2D Cubism 2.1)."
+ABOUT_SEC_CONTROLS,Управление
+ABOUT_CONTROLS_KB,Мышь и клавиатура: [↑/↓] — Выбор • [Enter] — Активировать • [H] — Сменить героиню • [J] — Язык • [Клик] — Интерактив
+ABOUT_CONTROLS_PAD,Геймпад: [D-Pad / Стик] — Выбор • [%s] — Активировать • [%s] — Назад • [%s] — Сменить героиню • [%s] — Язык
+ABOUT_CONTROLS_TOUCH,Сенсорное управление: Тап по кнопкам — выбор и переход • Свайп / Тап двумя пальцами — меню
+ABOUT_SEC_LICENSES,Сторонние лицензии
+ABOUT_LICENSES_DESC,Godot Engine (MIT) • godot-cpp (MIT) • FFmpeg ATRAC3+ (LGPL v2.1) • OpenH264 (BSD-2-Clause) • Live2D Reimplementation (MIT) • Comfortaa (SIL OFL 1.1) • Dela Gothic One (SIL OFL 1.1). Полный текст лицензий: THIRD_PARTY_LICENSES.md.
+SETTINGS_TAB_TEXT,Текст
+SETTINGS_TAB_AUDIO,Звук
+SETTINGS_TAB_DISPLAY,Экран
+SETTINGS_TAB_CONTROLS,Управление
+SETTINGS_TAB_SYSTEM,Система
+SETTINGS_TAB_UPSCALE,Апскейл
+SETTINGS_TEXT_SPEED_TITLE,Скорость текста
+SETTINGS_TEXT_SPEED_DESC,Скорость появления символов в окне диалога
+SETTINGS_SPEED_SLOW,Медленно
+SETTINGS_SPEED_NORMAL,Нормально
+SETTINGS_SPEED_FAST,Быстро
+SETTINGS_SPEED_VERY_FAST,Очень быстро
+SETTINGS_SPEED_INSTANT,Мгновенно
+SETTINGS_AUTO_SPEED_TITLE,Скорость авточтения
+SETTINGS_AUTO_SPEED_DESC,Пауза перед автоматическим переходом к следующей реплике
+SETTINGS_OPACITY_TITLE,Прозрачность окна
+SETTINGS_OPACITY_DESC,Уровень непрозрачности фоновой плашки диалогового окна
+SETTINGS_SKIP_UNREAD_TITLE,Пропуск непрочитанного
+SETTINGS_SKIP_UNREAD_DESC,Разрешить пропуск ранее не виденных сюжетных реплик
+SETTINGS_SKIP_MODE_TITLE,Режим пропуска
+SETTINGS_SKIP_MODE_DESC,Поведение режима ускоренной перемотки
+SETTINGS_SKIP_READ_ONLY,Только прочитанное
+SETTINGS_SKIP_ALL,Всё
+SETTINGS_SKIP_OFF,Выкл
+SETTINGS_SKIP_ON,Вкл
+SETTINGS_SKIP_R_TITLE,Пропуск по кнопке R
+SETTINGS_SKIP_R_DESC,Действие при удержании клавиши/триггера пропуска
+SETTINGS_HL_TEXT_TITLE,Подсветка прочитанного
+SETTINGS_HL_TEXT_DESC,Особый оттенок шрифта для уже просмотренных строк
+SETTINGS_HL_ORE_TITLE,Подсветка открытых O.R.E.
+SETTINGS_HL_ORE_DESC,Отмечать ранее полученные темы O.R.E. в диалогах
+SETTINGS_TSUKKOMI_HD_TITLE,Выноски Цуккоми
+SETTINGS_TSUKKOMI_HD_DESC,Чёткие векторные выноски вместо оригинальных текстур PSP
+SETTINGS_PREVIEW_TEXT,"Ах-х... Я выдохся... Братик, так диалоги выглядят в игре!"
+SETTINGS_THEME_DISC1,Диск 1
+SETTINGS_THEME_DISC2,Диск 2
+SETTINGS_MASTER_VOL_TITLE,Общая громкость
+SETTINGS_MASTER_VOL_DESC,Главный регулятор громкости всех звуков игры
+SETTINGS_BGM_VOL_TITLE,Громкость музыки
+SETTINGS_BGM_VOL_DESC,Громкость фоновых музыкальных композиций
+SETTINGS_VOICE_VOL_TITLE,Громкость голосов
+SETTINGS_VOICE_VOL_DESC,Громкость озвучки персонажей
+SETTINGS_SFX_VOL_TITLE,Громкость эффектов
+SETTINGS_SFX_VOL_DESC,Громкость звуковых эффектов интерфейса и окружения
+SETTINGS_VOICE_OVERLAP_TITLE,Наложение голосов
+SETTINGS_VOICE_OVERLAP_DESC,Поведение озвучки при быстром переходе к следующей реплике
+SETTINGS_VOICE_INTERRUPT,Прерывать
+SETTINGS_VOICE_LAYER,Наслаивать
+SETTINGS_TEST_SFX,Тест SFX
+SETTINGS_TEST_BGM,Тест BGM
+SETTINGS_TEST_BGM_STOP,Стоп BGM
+SETTINGS_VOICE_KIRINO,Кирино
+SETTINGS_VOICE_KURONEKO,Куронэко
+SETTINGS_VOICE_AYASE,Аясэ
+SETTINGS_DISPLAY_MODE_TITLE,Режим экрана
+SETTINGS_DISPLAY_MODE_DESC,Переключение между оконным и полноэкранным режимами
+SETTINGS_MODE_WINDOWED,В окне
+SETTINGS_MODE_FULLSCREEN,Полноэкранный
+SETTINGS_MODE_BORDERLESS,Без рамок
+SETTINGS_RESOLUTION_TITLE,Разрешение окна
+SETTINGS_RESOLUTION_DESC,Разрешение окна игры в оконном режиме
+SETTINGS_ASPECT_TITLE,Соотношение сторон
+SETTINGS_ASPECT_DESC,Отображение игры на широкоформатных и мобильных экранах
+SETTINGS_ASPECT_COVER,Заполнение
+SETTINGS_ASPECT_ORIGINAL,Оригинал 16:9
+SETTINGS_VSYNC_TITLE,Вертикальная синхронизация
+SETTINGS_VSYNC_DESC,Устранение разрывов кадров (синхронизация с частотой монитора)
+SETTINGS_REBIND_DESC,Кликните по действию для назначения новой клавиши или кнопки геймпада
+SETTINGS_RESET_CONTROLS,Сбросить управление
+SETTINGS_REBIND_MODAL_TITLE,Назначение клавиши
+SETTINGS_REBIND_MODAL_MSG,Нажмите любую клавишу на клавиатуре или кнопку геймпада...
+SETTINGS_REBIND_MODAL_CANCEL,Отмена [Esc]
+ACTION_UI_ACCEPT,Продвижение / Выбор
+ACTION_UI_CANCEL,Отмена / Назад
+ACTION_NOVEL_AUTO,Авточтение
+ACTION_NOVEL_FAST_SKIP,Пропуск
+ACTION_NOVEL_HIDE_WINDOW,Скрыть окно
+ACTION_NOVEL_BACKLOG,История (Бэклог)
+ACTION_NOVEL_MENU,Меню в игре
+ACTION_NOVEL_TSUKKOMI,Цуккоми (L1)
+ACTION_NOVEL_QUICK_SAVE,Быстрое сохранение
+ACTION_NOVEL_QUICK_LOAD,Быстрая загрузка
+SETTINGS_AUTOSAVE_TITLE,Автосохранение
+SETTINGS_AUTOSAVE_DESC,Автоматическое сохранение на сюжетных развилках
+SETTINGS_LANGUAGE_TITLE,Язык интерфейса
+SETTINGS_LANGUAGE_DESC,"Язык меню, настроек и элементов интерфейса"
+SETTINGS_RESET_TAB,Сбросить вкладку
+SETTINGS_RESET_ALL,Сбросить все настройки
+SETTINGS_RESET_CONFIRM_TITLE,Сброс настроек
+SETTINGS_RESET_CONFIRM_MSG,Сбросить все параметры к значениям по умолчанию?
+SETTINGS_BTN_RESET,Сброс
+SETTINGS_BTN_SAVE,Сохранить
+SETTINGS_BTN_BACK,Назад
+SETTINGS_PROMPT_TABS,Вкладки
+SAVELOAD_TITLE_SAVE,Сохранить
+SAVELOAD_TITLE_LOAD,Загрузить
+SAVELOAD_WATERMARK_SAVE,SAVE
+SAVELOAD_WATERMARK_LOAD,LOAD
+SAVELOAD_CAT_NORMAL,Слоты 1-50
+SAVELOAD_CAT_AUTO,Авто 1-10
+SAVELOAD_PAGE_PREV,Пред.
+SAVELOAD_PAGE_NEXT,След.
+SAVELOAD_PAGE_FORMAT,Стр. %d / %d
+SAVELOAD_AUTO_PAGE_FORMAT,Авто %d / %d
+SAVELOAD_CARD_EMPTY_SLOT,--- Пустой слот ---
+SAVELOAD_CARD_EMPTY_AUTO,--- Пустое автосохранение ---
+SAVELOAD_CARD_SLOT_NUM,Пустой слот No. %02d
+SAVELOAD_CARD_AUTO_NUM,Пустое автосохранение No. %02d
+SAVELOAD_CARD_NO_DATA,Нет данных
+SAVELOAD_CARD_NO_BGM,Без музыки
+SAVELOAD_CARD_NO_IMAGE,Нет снимка
+SAVELOAD_CARD_PREFIX_SAVE,Сохранено:
+SAVELOAD_CARD_PREFIX_AUTO,Автосохранение:
+SAVELOAD_CARD_CURRENT_DIALOGUE,Текущий диалог
+SAVELOAD_CONFIRM_OVERWRITE_TITLE,Перезапись сохранения
+SAVELOAD_CONFIRM_OVERWRITE_MSG,Перезаписать сохранение в слоте No. %02d?
+SAVELOAD_CONFIRM_LOAD_TITLE,Загрузка игры
+SAVELOAD_CONFIRM_LOAD_MSG,"Загрузить игру из слота No. %02d?
+Несохраненный прогресс будет потерян."
+SAVELOAD_CONFIRM_DELETE_TITLE,Удаление сохранения
+SAVELOAD_CONFIRM_DELETE_MSG,Удалить файл сохранения в слоте No. %02d?
+SAVELOAD_PROMPT_CONFIRM,Подтвердить
+SAVELOAD_PROMPT_BACK,Назад
+SAVELOAD_PROMPT_DELETE,Удалить
+SAVELOAD_PROMPT_PAGE,Стр.
+SAVELOAD_PROMPT_CLOSE,Закрыть
+INGAME_MENU_SAVE,Сохранить
+INGAME_MENU_SAVE_DESC,Сохранение игры на устройстве
+INGAME_MENU_LOAD,Загрузить
+INGAME_MENU_LOAD_DESC,Загрузка ранее сохраненной игры
+INGAME_MENU_QSAVE,Быстрое сохранение
+INGAME_MENU_QSAVE_DESC,Мгновенное сохранение в быстрый слот
+INGAME_MENU_QLOAD,Быстрая загрузка
+INGAME_MENU_QLOAD_DESC,Загрузка из слота быстрого сохранения
+INGAME_MENU_SETTINGS,Настройки
+INGAME_MENU_SETTINGS_DESC,"Настройка звука, текста и управления"
+INGAME_MENU_MAIN_MENU,Главное меню
+INGAME_MENU_MAIN_MENU_DESC,Выход в главное меню игры
+INGAME_MENU_CLOSE,Закрыть
+INGAME_TOAST_QSAVE_DONE,Быстрое сохранение [Слот Q] выполнено
+INGAME_TOAST_NO_QSAVE,Быстрое сохранение отсутствует
+INGAME_TOAST_CANNOT_SAVE,Сохранение во время интерактивного диалога невозможно
+INGAME_CONFIRM_QLOAD_TITLE,Быстрая загрузка
+INGAME_CONFIRM_QLOAD_MSG,"Загрузить быстрое сохранение?
+Несохраненный прогресс будет потерян."
+INGAME_CONFIRM_QUIT_TITLE,Главное меню
+INGAME_CONFIRM_QUIT_MSG,"Выйти в Главное меню?
+Несохраненный прогресс будет потерян."
+INGAME_CONFIRM_REPLAY_QUIT_TITLE,В коллекции
+INGAME_CONFIRM_REPLAY_QUIT_MSG,"Вернуться в меню коллекций?
+Просмотр сцены будет завершен."
+COLLECTION_TITLE,КОЛЛЕКЦИЯ
+COLLECTION_BACK_BTN,Меню
+COLLECTION_FOOTER_STATUS,OreImouto Re:Port • Режим Коллекций
+COLLECTION_TAB_CG,CG
+COLLECTION_TAB_MUSIC,Музыка
+COLLECTION_TAB_SCENES,Сцены
+COLLECTION_TAB_FLOWMAP,Карта
+COLLECTION_TAB_ORE,O.R.E.
+CG_GALLERY_STATS,Всего альбомов: %d
+CG_GALLERY_SEARCH_HINT,Поиск по названию CG...
+CG_DISC_1_BTN,Диск 1
+CG_DISC_2_BTN,Диск 2
+CG_GALLERY_CLOSE,Закрыть
+CG_GALLERY_VOICE_BTN,Слушать комментарий
+MUSIC_DISC1_BTN,Диск 1 (%d)
+MUSIC_DISC2_BTN,Диск 2 (%d)
+MUSIC_NOW_PLAYING,Сейчас играет:
+MUSIC_NO_TRACK,Трек не выбран
+MUSIC_ORIGINAL_BGM,Оригинальный BGM
+MUSIC_PLAY,Играть
+MUSIC_PAUSE,Пауза
+MUSIC_STOP,Стоп
+MUSIC_VOLUME,Громкость
+SCENE_REPLAY_STATS,Пройдено сцен: %d из %d (отображается %d)
+SCENE_FILTER_ALL,Все
+SCENE_BTN_REPLAY,Сцена
+ORE_STATS,Собрано O.R.E.: %d / %d
+ORE_FILTER_ALL,Все (%d)
+ORE_FILTER_UNLOCKED,Открытые
+ORE_FILTER_LOCKED,Закрытые
+ORE_DISC_1_BTN,Диск 1
+ORE_DISC_2_BTN,Диск 2
+ORE_SEARCH_HINT,Поиск по названию O.R.E....
+COLLECTION_EMPTY_TITLE,Ничего не найдено
+COLLECTION_EMPTY_SUBTITLE,Попробуйте изменить параметры поиска или фильтрации
+COLLECTION_EMPTY_RESET,Сбросить фильтры
+FLOWMAP_TITLE,КАРТА СЮЖЕТА
+FLOWMAP_START_BTN,Старт
+FLOWMAP_SEARCH_HINT,"Поиск сцены, O.R.E..."
+FLOWMAP_SCENE_TITLE,Название сцены
+FLOWMAP_SCENE_HIDDEN,Сцена скрыта
+FLOWMAP_SCENE_LOCKED,"Сцена ещё не открыта.
+
+Продвигайтесь по сюжету или совершите необходимый выбор на развилке предшествующей сцены."
+FLOWMAP_BRANCHES_HEADER,РАЗВИЛКИ И ПЕРЕХОДЫ (%d)
+FLOWMAP_BRANCH_FINISH,Ветка завершена (финал маршрута).
+FLOWMAP_ORE_REWARDS,НАГРАДЫ O.R.E.
+FLOWMAP_AFFINITY_HEADER,ПЕРСОНАЖИ И СИМПАТИЯ
+INSTALLER_TITLE,OreImouto Re:Port
+INSTALLER_SUBTITLE,Менеджер ресурсов и верификация дисков UMD
+INSTALLER_NOTICE,ВНИМАНИЕ: Для полноценной игры требуются ОБА диска (Диск 1 и Диск 2). До тех пор пока оба диска не установлены — запуск игры заблокирован.
+INSTALLER_DISC1_TITLE,Диск 1: Ore no Imouto Portable (NPJH-50568)
+INSTALLER_DISC2_TITLE,Диск 2: Ore no Imouto Tsuzuku (NPJH-50569)
+INSTALLER_DISCS_HEADER,Оригинальные образы дисков UMD
+INSTALLER_STATUS_NOT_INSTALLED,НЕ УСТАНОВЛЕН
+INSTALLER_STATUS_INSTALLED,УСТАНОВЛЕН (%s)
+INSTALLER_BROWSE_BTN,Обзор...
+INSTALLER_PATH_EDIT1,Путь к образу первого диска oreimo-v1.1.iso...
+INSTALLER_PATH_EDIT2,Путь к образу второго диска oreimo2-v0.2.iso...
+INSTALLER_BTN_UNIFIED,УСТАНОВИТЬ РЕСУРСЫ ИГРЫ
+INSTALLER_BTN_REINSTALL,Переустановить ресурсы игры
+INSTALLER_BTN_LAUNCH,ЗАПУСТИТЬ ИГРУ
+INSTALLER_BTN_LAUNCH_LOCKED,ЗАПУСК ЗАБЛОКИРОВАН (ТРЕБУЕТСЯ УСТАНОВКА)
+INSTALLER_STATUS_READY,Игровые ресурсы установлены и готовы к запуску!
+INSTALLER_STATUS_WAITING,Укажите оба ISO-образа и установите ресурсы для разблокировки игры.
+INSTALLER_STATUS_SUCCESS,Игровые ресурсы успешно установлены!
+INSTALLER_STATUS_FAILED,Сбой при установке ресурсов игры.
+INSTALLER_STATUS_LAUNCHING,Подготовка ресурсов и запуск игры...
+INSTALLER_STATUS_RESTARTING,Перезапуск игры для применения новых ресурсов...
+INSTALLER_DIALOG_TITLE,Выберите ISO образ для Диска %d
+INSTALLER_SECTION_DISCS,1. ИСХОДНЫЕ ОБРАЗЫ ДИСКОВ UMD
+INSTALLER_SECTION_ACTIONS,2. УСТАНОВКА И ЗАПУСК
+INSTALLER_SECTION_INFO,О СИСТЕМЕ И РЕСУРСАХ
+INSTALLER_CONTENT_SUMMARY,"Содержимое: 12 сюжетных рутов, Live2D модели 6 героинь, ~18 200 реплик озвучки, графика локаций, CG и BGM"
+INSTALLER_HINT_SEARCH,"Автопоиск проверяет: папку PPSSPP, Загрузки и директорию игры (.iso, .bin, .img)"
+INSTALLER_FILE_FOUND,Файл найден (%s) • Заголовок UMD подтверждён
+INSTALLER_FILE_NOT_FOUND,Файл не найден • Укажите путь к образу
+INSTALLER_PKG_HEADER,Игровые ресурсы (BYOG)
+INSTALLER_PKG_READY,Ресурсы установлены и готовы (%s)
+INSTALLER_PKG_NOT_READY,Ресурсы не установлены • Требуется установка
+COMMON_ALL,Все
+COMMON_DISC,Диск
+COMMON_DATA,Данные
+COMMON_NOT_OBTAINED,Не получено
+COMMON_CLOSE_ESC,Закрыть (ESC)
+COMMON_PREV,Пред.
+COMMON_NEXT,След.
+COMMON_LOCKED,ЗАБЛОКИРОВАНО
+COMMON_STOP,Стоп
+COMMON_CLICK,Клик
+COMMON_RMB,ПКМ
+COMMON_WHEEL,Колесико
+SETTINGS_HEADER_NOVEL,Визуальная новелла
+SETTINGS_HEADER_UI,Интерфейс и навигация
+SETTINGS_BTN_PLAY_BGM,Прослушать трек
+SETTINGS_BTN_STOP_BGM,Остановить трек
+SETTINGS_REBIND_CONFLICT,"Конфликт! Уже назначено на «%s».
+Нажмите другую клавишу."
+SAVELOAD_CARD_HEADER,ДАННЫЕ СОХРАНЕНИЯ
+NOVEL_TOAST_SAVE_DISABLED_INTERACTIVE,Сохранение во время интерактива недоступно
+NOVEL_TOAST_QSAVE_DONE,Быстрое сохранение [Слот Q] выполнено
+NOVEL_TOAST_QSAVE_EMPTY,Быстрое сохранение отсутствует
+NOVEL_AUTOSAVE_BG_REASON,Фоновый режим
+NOVEL_AUTOSAVE_CLOSE_REASON,Выход из игры
+COLLECTION_PROMPT_TABS,Вкладки
+CG_MODAL_DEFAULT_TITLE,Название события
+CG_VARIANT_FORMAT,Вариант %d / %d
+CG_COMM_BTN,Комм. %d
+CG_VOICE_PLAYING,Звучит комментарий %d...
+CG_AUDIO_NOT_FOUND,Аудиофайл не найден
+CG_PREV_ALBUM,Пред. альбом
+CG_NEXT_ALBUM,След. альбом
+CG_TOGGLE_UI,Скрыть интерфейс (Пробел)
+CG_VARIANT_LOCKED,Заблокировано
+ORE_MODAL_HEADER,КАРТОЧКА O.R.E. (ОТА-РЕПЛИКИ И ЭМОЦИИ)
+ORE_DEFAULT_TITLE,Название O.R.E.
+ORE_DEFAULT_DESC,Описание темы и контекста использования...
+ORE_SCENE_HEAD,Встречается в сценах сюжета:
+ORE_GENERIC_DESC,Особая тема для обсуждения в сюжетных диалогах. Разблокируется в процессе прохождения новеллы при правильном выборе реплик и действий.
+ORE_NO_SCENES_FOUND,Связанные сюжетные сцены не найдены в текущем диске.
+SCENE_FILTER_AKYO,Пролог (Кёсукэ)
+SCENE_FILTER_BKIR,Кирино
+SCENE_FILTER_CKUR,Куронэко
+SCENE_FILTER_CAYA,Аясэ
+SCENE_FILTER_CMAN,Манами
+SCENE_FILTER_CSAO,Саори
+SCENE_FILTER_CKAN,Канако
+SCENE_FILTER_IF,if-Ветви
+SCENE_NOT_UNLOCKED,Сцена ещё не пройдена
+SCENE_SUB_FORMAT,Код: %s  •  O.R.E. в сцене: %d
+MUSIC_LOOP_ON,Повтор: ВКЛ
+MUSIC_LOOP_OFF,Повтор: ВЫКЛ
+MUSIC_DISC_TRACK_FORMAT,%s %d • %s
+MUSIC_ERROR_LOADING,Ошибка загрузки трека
+MUSIC_RESUME,Продолжить
+FLOWMAP_STATS_BADGE,Сцены: %d/%d  •  Концовки: %d/%d  •  O.R.E.: %d/%d
+FLOWMAP_SCENE_UNEXPLORED,Не исследовано
+FLOWMAP_ENDING_BADGE,Концовка
+FLOWMAP_BRANCH_FINISHED,Ветка завершена (финал маршрута).
+FLOWMAP_ORE_UNOBTAINED,#%02d: — (Не получено)
+FLOWMAP_ORE_CONDITION,Условие: %s
+FLOWMAP_ORE_COND_MET,Условие выполнено: %s
+FLOWMAP_ROUTE_COMPLETE,Завершение маршрута
+FLOWMAP_UNEXPLORED_TARGET,%s (Не исследовано)
+FLOWMAP_DIRECT_TRANSITION,Прямой переход
+FLOWMAP_TSUKKOMI_WIN,Диалог Цуккоми: Победа
+FLOWMAP_TSUKKOMI_LOSE,Диалог Цуккоми: Поражение
+FLOWMAP_CHOICE_VARIANTS,Варианты выбора (%d):
+FLOWMAP_ORE_CHOICE_HEADER,Варианты тем O.R.E. перед диалогом:
+FLOWMAP_DEFAULT_VARIANT,Вариант
+FLOWMAP_AFFINITY_FORMAT,Симпатия: %s %+d
+FLOWMAP_TSUKKOMI_LABEL,Цуккоми (%s)
+FLOWMAP_WIN_TAG,[ Победа ]
+FLOWMAP_LOSE_TAG,[ Поражение ]
+FLOWMAP_REWARD_FORMAT,Награда: %s
+FLOWMAP_BRANCH_ALT_FORMAT,Развилка: иначе -> %s
+INSTALLER_FILTER_ALL,* ; Все файлы (*.*)
+INSTALLER_ERR_INVALID_ISO,Ошибка: Файл не является корректным PSP ISO образом!
+INSTALLER_WARN_NOT_DISC1,Предупреждение: Выбранный образ не похож на Диск 1 (%s)
+INSTALLER_WARN_NOT_DISC2,Предупреждение: Выбранный образ не похож на Диск 2 (%s)
+INSTALLER_ERR_ISO1_MISSING,Ошибка: ISO файл первого диска не найден!
+INSTALLER_ERR_ISO2_MISSING,Ошибка: ISO файл второго диска не найден!
+INSTALLER_ERR_BUILD,Ошибка сборки: %s
+KEY_NAME_SPACE,Пробел
+KEY_NAME_UP,Вверх
+KEY_NAME_DOWN,Вниз
+KEY_NAME_LEFT,Влево
+KEY_NAME_RIGHT,Вправо
+MOUSE_BTN_LMB,ЛКМ
+MOUSE_BTN_RMB,ПКМ
+MOUSE_BTN_MMB,СКМ
+MOUSE_BTN_WHEEL_UP,Колесико Вверх
+MOUSE_BTN_WHEEL_DOWN,Колесико Вниз
+MOUSE_BTN_FORMAT,Мышь %d
+JOY_BTN_PS_CROSS,✕ (Крест)
+JOY_BTN_PS_CIRCLE,○ (Круг)
+JOY_BTN_PS_SQUARE,□ (Квадрат)
+JOY_BTN_PS_TRIANGLE,△ (Треугольник)
+JOY_BTN_DPAD_UP,D-Pad Вверх
+JOY_BTN_DPAD_DOWN,D-Pad Вниз
+JOY_BTN_DPAD_LEFT,D-Pad Влево
+JOY_BTN_DPAD_RIGHT,D-Pad Вправо
+JOY_BTN_FORMAT,Кнопка %d
+JOY_BTN_SW_LSTICK,L-Стик (Нажатие)
+JOY_BTN_SW_RSTICK,R-Стик (Нажатие)
+JOY_AXIS_LSTICK,Левый Стик
+JOY_AXIS_RSTICK,Правый Стик
+JOY_AXIS_FORMAT,Ось %d
+ACTION_UI_ACCEPT_DESC,Подтверждение выбора
+ACTION_UI_CANCEL_DESC,Возврат в предыдущее меню или отмена действия
+ACTION_UI_UP_TITLE,Вверх
+ACTION_UI_UP_DESC,Перемещение фокуса вверх
+ACTION_UI_DOWN_TITLE,Вниз
+ACTION_UI_DOWN_DESC,Перемещение фокуса вниз
+ACTION_UI_LEFT_TITLE,Влево
+ACTION_UI_LEFT_DESC,Перемещение фокуса влево или уменьшение значения
+ACTION_UI_RIGHT_TITLE,Вправо
+ACTION_UI_RIGHT_DESC,Перемещение фокуса вправо или увеличение значения
+ACTION_UI_TAB_PREV_TITLE,Предыдущая вкладка
+ACTION_UI_TAB_PREV_DESC,Переключение на предыдущую категорию или страницу
+ACTION_UI_TAB_NEXT_TITLE,Следующая вкладка
+ACTION_UI_TAB_NEXT_DESC,Переключение на следующую категорию или страницу
+ACTION_UI_FOCUS_NEXT_TITLE,Следующий элемент / Фокус
+ACTION_UI_FOCUS_NEXT_DESC,Переключение фокуса или выбор следующего элемента
+ACTION_UI_RESET_TITLE,Сброс к стандарту
+ACTION_UI_RESET_DESC,Сброс настроек или параметров к исходным
+ACTION_UI_INSTALLER_TITLE,Установщик ресурсов
+ACTION_UI_INSTALLER_DESC,Открыть экран установки и проверки игровых ресурсов
+ACTION_UI_HEROINE_TITLE,Смена героини
+ACTION_UI_HEROINE_DESC,Переключение активной героини на титульном экране
+ACTION_UI_LANG_TITLE,Смена языка
+ACTION_UI_LANG_DESC,Переключение языка названий разделов
+ACTION_VN_ADVANCE_TITLE,Продвижение / Выбор
+ACTION_VN_ADVANCE_DESC,Следующая реплика диалога или подтверждение выбора
+ACTION_VN_AUTO_TITLE,Авточтение
+ACTION_VN_AUTO_DESC,Включение автоматического перелистывания диалогов
+ACTION_VN_SKIP_HOLD_TITLE,Пропуск (удержание)
+ACTION_VN_SKIP_HOLD_DESC,Ускоренная перемотка текста при удержании клавиши
+ACTION_VN_SKIP_TOGGLE_TITLE,Пропуск (вкл / выкл)
+ACTION_VN_SKIP_TOGGLE_DESC,Переключение непрерывного режима пропуска текста
+ACTION_VN_MENU_TITLE,Меню / Пауза
+ACTION_VN_MENU_DESC,Открытие меню паузы
+ACTION_VN_QSAVE_TITLE,Быстрое сохранение
+ACTION_VN_QSAVE_DESC,Мгновенное сохранение в выделенный быстрый слот
+ACTION_VN_QLOAD_TITLE,Быстрая загрузка
+ACTION_VN_QLOAD_DESC,Мгновенная загрузка из быстрого слота
+ACTION_VN_BACKLOG_TITLE,История текста (Бэклог)
+ACTION_VN_BACKLOG_DESC,Просмотр ранее прочитанных реплик диалога
+BACKLOG_TITLE,История диалогов
+BACKLOG_SUBTITLE,"Колёсико мыши / PgUp — прокрутка, Esc / ПКМ — закрыть"
+BACKLOG_CLOSE_TOOLTIP,Закрыть (Esc / ПКМ)
+BACKLOG_REPLAY_VOICE,Воспроизвести реплику
+BACKLOG_EMPTY,История диалогов пуста
+PROTAGONIST_NAME,Кёсукэ
+ACTION_VN_TSUKKOMI_TITLE,Цуккоми (O.R.E.)
+ACTION_VN_TSUKKOMI_DESC,Активация реакции цуккоми во время диалога
+ACTION_VN_HIDE_UI_TITLE,Скрыть интерфейс
+ACTION_VN_HIDE_UI_DESC,Временное скрытие диалогового окна для просмотра фона
+SETTINGS_PREVIEW_TITLE,Предпросмотр диалога
+SETTINGS_AUDIO_TEST_HEADER,Проверка звука и голосов:
+SETTINGS_SPEED_MAX,Макс
+SETTINGS_TSUKKOMI_HD,HD Текст
+SETTINGS_TSUKKOMI_PSP,Оригинал PSP
+SETTINGS_SUFFIX_SEC, сек
+SETTINGS_REBIND_ERR_INVALID,Неизвестное действие или некорректное событие
+ROUTE_AKYO,Пролог
+ROUTE_BKIR,Кирино
+ROUTE_CKUR,Куронэко
+ROUTE_CAYA,Аясэ
+ROUTE_FAYA,Аясэ
+ROUTE_CMAN,Манами
+ROUTE_EMAN,Манами
+ROUTE_CSAO,Саори
+ROUTE_DSAO,Саори
+ROUTE_CKAN,Канако
+ROUTE_KIFK,Канако (IF)
+ROUTE_GIFG,Кёсукэ
+ROUTE_GSEN,Сэна
+ROUTE_IYAM,Яминэко
+ROUTE_JDAI,Дайсукэ
+ROUTE_LTAM,Тамаки
+TOAST_SAVE_DISABLED_OSIS,Сохранение во время интерактивного диалога невозможно
+TOAST_QSAVE_CREATED,Быстрое сохранение создано
+TOAST_SLOT_SAVED,Сохранено в слот No. %02d
+TOAST_AUTOSAVE_CREATED,Автосохранение%s
+TOAST_QLOAD_DONE,Быстрое сохранение загружено
+TOAST_AUTOSAVE_LOADED,Автосохранение No. %02d загружено
+TOAST_SLOT_LOADED,Слот No. %02d загружен
+TOAST_LIVE2D_POSE_UNLOCKED,Открыта новая поза Live2D: %s
+AUTOSAVE_REASON_ORE,Выбор O.R.E.
+AUTOSAVE_REASON_OSIS,Перед интерактивным диалогом
+HEROINE_KIRINO,Кирино
+HEROINE_KURONEKO,Куронэко
+HEROINE_AYASE,Аясэ
+HEROINE_KANAKO,Канако
+HEROINE_MANAMI,Манами
+HEROINE_SAORI,Саори
+HEROINE_SENA,Сэна
+HEROINE_YAMINEKO,Яминэко
+HEROINE_DAISUKE,Дайсукэ
+HEROINE_TAMAKI,Тамаки
+HEROINE_KIRINO_SUB_0,«Э-эй! Чего уставился?!»
+HEROINE_KIRINO_SUB_1,"«Больно же! Не распускай руки, извращенец!!»"
+HEROINE_KURONEKO_SUB_0,«Хех... Глупый смертный...»
+HEROINE_KURONEKO_SUB_1,"«Т-ты что, дурак?!»"
+HEROINE_AYASE_SUB_0,"«Не подходи ближе, извращенец!»"
+HEROINE_AYASE_SUB_1,"«...Отвратительно. Пожалуйста, умрите.»"
+HEROINE_KANAKO_SUB_0,«Что ты задумал?! Придурок! Извращенец!»
+HEROINE_KANAKO_SUB_1,"«Х-ха?! Мерзость, ты что несёшь?!»"
+HEROINE_MANAMI_SUB_0,"«Хе-хе, я аж смущаюсь~»"
+HEROINE_MANAMI_SUB_1,"«Кё-тян, чай готов~»"
+HEROINE_SAORI_SUB_0,«Охо-хо! Неужели Кёсукэ-си...»
+HEROINE_SAORI_SUB_1,«Это часть секретного плана?»
+HEROINE_SENA_SUB_0,"«И-извращенец, извращенец!! Я в полицию заявлю!!»"
+HEROINE_SENA_SUB_1,«Как жестоко! Ты обманул меня!!»
+COMMON_SECONDS_SHORT, сек
+COMMON_CLEAR,Очистить
+COMMON_SETTING,Настройка
+COMMON_SETTING_DESC,Описание настройки
+COMMON_OPTION,Опция
+COMMON_ACTION_DESC,Описание действия
+DEVICE_KEYBOARD,Клавиатура и мышь
+DEVICE_GAMEPAD,Геймпад
+ORE_FALLBACK_REPLICA,Реплика
+SETTINGS_REBIND_TITLE,Переназначение клавиши
+SETTINGS_REBIND_PROMPT,Нажмите любую клавишу или кнопку...
+SETTINGS_REBIND_HINT,[Esc] — Отмена    [Backspace] — Очистить слот
+VAR_DESC_CG_UNLOCK,Разблокировка иллюстрации в галерее CG #%d
+VAR_DESC_MEMORY_BLOCK,Блок воспоминаний Хроник судеб #%d
+VAR_DESC_GENERIC,Переменная #%d
+SETTINGS_WATERMARK,НАСТРОЙКИ
+INGAME_WATERMARK_OPTION,ОПЦИИ
+INGAME_WATERMARK_MENU,МЕНЮ
+FLOWMAP_CHAR_AFFINITY,Связи и симпатия персонажей
+FLOWMAP_TSUKKOMI_WIN_SHORT,Победа
+FLOWMAP_TSUKKOMI_LOSE_SHORT,Поражение
+FLOWMAP_ROUNDS_FORMAT,Раундов: %d
+FLOWMAP_ENDING_NORMAL_TITLE,Обычная концовка (Завершение игры)
+FLOWMAP_ENDING_BADGE_NORMAL,Обычная концовка (Normal Ending)
+FLOWMAP_ENDING_NORMAL,Обычная концовка
+FLOWMAP_TSUKKOMI_FAIL_TIMEOUT,Поражение / таймаут в Цуккоми
+FLOWMAP_TSUKKOMI_WIN_DEFAULT,Победа в Цуккоми
+FLOWMAP_ORE_TIMEOUT,Таймаут O.R.E. (пропуск тем)
+FLOWMAP_ORE_TOPICS,Темы O.R.E.
+FLOWMAP_ORE_TWICE,O.R.E. #%d (дважды)
+FLOWMAP_METHOD_N,Способ %d
+FLOWMAP_TRANSITION_CONDITION,Условие перехода
+FLOWMAP_AVAILABLE_METHODS,Доступно способов перехода: %d
+FLOWMAP_TSUKKOMI_BRANCH_ORE,Цуккоми (%s) · O.R.E. #%d
+FLOWMAP_TSUKKOMI_BRANCH_TIMEOUT,Цуккоми (%s) · Таймаут O.R.E.
+FLOWMAP_ORE_NUMBER,O.R.E. #%d
+FLOWMAP_VARIANT_WITH_SUFFIX,%s (%s)
+FLOWMAP_VARIANT_COLLISION_FORMAT,%s (%d)
+FLOWMAP_AFFECTION_FORMAT,%s %s
+VAR_KIRINO_AFFECTION,Очки симпатии Кирино
+VAR_KURONEKO_AFFECTION,Очки симпатии Куронэко
+VAR_SAORI_AFFECTION,Очки симпатии Саори
+VAR_MANAMI_AFFECTION,Очки симпатии Манами
+VAR_AYASE_AFFECTION,Очки симпатии Аясэ
+VAR_CHOICE_TEAM_KIRINO,Выбор команды Кирино в Акибе
+VAR_CHOICE_TEAM_KURONEKO,Выбор команды Куронэко в Акибе
+VAR_CHOICE_TEAM_SAORI,Выбор команды Саори в Акибе
+VAR_CRISIS_EVENT_PART1,Сестрокалипсис: выбор реплики 1
+VAR_CRISIS_EVENT_PART2,Сестрокалипсис: выбор реплики 2
+VAR_TSUKKOMI_CRITICAL_OPTION,Цуккоми: выбор критической реплики
+VAR_TSUKKOMI_SUCCESS_FLAG,Цуккоми: флаг победы в раунде
+VAR_TSUKKOMI_CORRECT_COUNT,Цуккоми: счетчик правильных ответов
+VAR_EVENT_AKYO_90_FLAG,Флаг сюжетного события AKYO_0090A
+VAR_TSUKKOMI_SAORI_SUBFLAG,Вспомогательный флаг Цуккоми Саори
+VAR_KIRINO_SUB_BRANCH,Ветвление в руте Кирино
+VAR_KIRINO_SUB_EVENT,Сюжетный флаг Кирино
+VAR_KURONEKO_SUB_EVENT_1,Сюжетный флаг Куронэко 1
+VAR_KURONEKO_SUB_EVENT_2,Сюжетный флаг Куронэко 2
+VAR_KURONEKO_DISPUTE_ERRORS,Ошибки в споре с Куронэко
+VAR_KURONEKO_TRUE_ROUTE,Флаг истинного финала Куронэко
+VAR_MANAMI_KEY_ORE_TOPIC,Ключевая тема O.R.E. Манами
+VAR_MANAMI_ROUTE_CHOICE,Выбор пути Манами
+VAR_AYASE_FIRST_INTERROGATION,Первый допрос Аясэ
+VAR_AYASE_FINAL_INTERROGATION,Финальный допрос Аясэ (True End)
+VAR_SAORI_TRUST_LEVEL,Уровень доверия Саори
+VAR_ROUTE_SELECTED_KIRINO,Диспетчер: выбран рут Кирино
+VAR_ROUTE_SELECTED_KURONEKO,Диспетчер: выбран рут Куронэко
+VAR_ROUTE_SELECTED_SAORI,Диспетчер: выбран рут Саори
+VAR_ROUTE_SELECTED_MANAMI,Диспетчер: выбран рут Манами
+VAR_ROUTE_SELECTED_AYASE,Диспетчер: выбран рут Аясэ
+VAR_ROUTE_SELECTED_IF_BAD,Диспетчер: выбран рут IF / Bad End
+VAR_KURONEKO_PROPOSAL,Предложение Куронэко
+VAR_PROLOGUE_INTRO_CHOICE,Выбор ответа в прологе
+VAR_GLOBAL_ROUTE_CLEARED_KIRINO,Завершен рут Кирино
+VAR_GLOBAL_ROUTE_CLEARED_KURONEKO,Завершен рут Куронэко
+VAR_GLOBAL_ROUTE_CLEARED_SAORI,Завершен рут Саори
+VAR_GLOBAL_ROUTE_CLEARED_MANAMI,Завершен рут Манами
+VAR_GLOBAL_ROUTE_CLEARED_AYASE,Завершен рут Аясэ
+VAR_GLOBAL_ROUTE_CLEARED_KANAKO_IF,Завершен бонусный рут Канако IF
+VAR_GLOBAL_PROLOGUE_COMPLETED,Пролог пройден
+VAR_GLOBAL_BONUS_ROUTE_UNLOCKED,Открыт бонусный рут
+VAR_GLOBAL_MANAMI_EPILOGUE,Открыт эпилог Манами
+VAR_GLOBAL_SPECIAL_SCENE_UNLOCKED,Особая сцена после всех концовок
+VAR_GLOBAL_QUIZ_COMPLETED,Пройден опросник пролога
+VAR_GLOBAL_AKAGI_ROUTE_UNLOCKED,Открыт рут друга Акаги
+VAR_GLOBAL_ROOM_INVASION_SEEN,Просмотрено вторжение в комнату
+VAR_GLOBAL_CREDITS_SEEN,Просмотрены финальные титры
+VAR_GLOBAL_KIRINO_BONUS_SEEN,Бонусная ветка Кирино
+VAR_GLOBAL_AYASE_BAD_END_SEEN,Просмотрен плохой финал Аясэ
+VAR_GLOBAL_MANAMI_SUMMER_SEEN,Просмотрено лето Манами
+VAR_GLOBAL_ALL_CLEAR_CHECK,Проверка открытия всех веток
+VAR_GLOBAL_ENDING_NUMBER,Номер полученной концовки (1..11)
+VAR_GLOBAL_ENDING_REGISTERED,Флаг фиксации концовки в галерее
+VAR_GLOBAL_AYASE_CARNAGE_SEEN,Секретная концовка 'Резня Аясэ'
+VAR_GLOBAL_BONUS_MGIM_SEEN,Просмотрен бонусный рут MGIM
+VAR_GLOBAL_BONUS_LAKA_SEEN,Просмотрен бонусный рут LAKA
+VAR_GLOBAL_DISC1_MASTER_CLEAR,Мастер-флаг завершения Disc 1
+VAR_D2_MANAMI_TRIP_FLAG_1,Поездка Манами: маршрут 1
+VAR_D2_MANAMI_TRIP_FLAG_2,Поездка Манами: финальное утро
+VAR_D2_TSUKKOMI_ROUND_COUNTER,Цуккоми Disc 2: счётчик раундов
+VAR_D2_TSUKKOMI_SUCCESS_FLAG,Цуккоми Disc 2: победа в раунде
+VAR_D2_PROLOGUE_SELECTION_A,Пролог Disc 2: выбор ветки A
+VAR_D2_PROLOGUE_SELECTION_B,Пролог Disc 2: выбор ветки B
+VAR_D2_SENA_BRANCH_ID,Рут Сэны: ID выбранной ветки
+VAR_D2_KIRINO_EVENT_FLAG,Сюжетный флаг Кирино Disc 2
+VAR_D2_KIRINO_AFFECTION,Очки симпатии Кирино Disc 2
+VAR_D2_KURONEKO_BRANCH_FLAG,Развилка рута Куронэко Disc 2
+VAR_D2_KURONEKO_AFFECTION,Очки симпатии Куронэко Disc 2
+VAR_D2_SAORI_BRANCH_FLAG,Развилка рута Саори Disc 2
+VAR_D2_SAORI_QUIZ_SCORE,Очки викторины Саори Disc 2
+VAR_D2_MANAMI_KYOTO_PROGRESS,Прогресс поездки в Киото с Манами
+VAR_D2_MANAMI_HOTEL_NIGHT,Ночь в гостинице с Манами
+VAR_D2_MANAMI_AFFECTION,Очки симпатии Манами Disc 2
+VAR_D2_MANAMI_FUTON_EVENT,Событие перед сном с Манами
+VAR_D2_KANAKO_KARAOKE_FLAG,Поход в караоке с Канако
+VAR_D2_SENA_DUTY_CHOICE,Выбор дежурства с Сэной
+VAR_D2_SENA_KISS_BRANCH,Развилка поцелуя Сэны
+VAR_D2_KANAKO_AFFECTION,Очки симпатии Канако Disc 2
+VAR_D2_KANAKO_DISPUTE_1,Спор с Канако раунд 1
+VAR_D2_KANAKO_DISPUTE_2,Спор с Канако раунд 2
+VAR_D2_KANAKO_LOVE_PROOF,Доказательство любви Канако
+VAR_D2_KANAKO_KIRINO_TALK,Разговор с Кирино о Канако
+VAR_D2_YAMINEKO_ROUTE_CLEAR,Развилка и завершение рута Яминэко
+VAR_D2_KANAKO_LOVE_EVENT,Флаг влюблённости Канако
+VAR_D2_KANAKO_ADVICE_FLAG,Жизненная консультация Канако
+VAR_D2_GLOBAL_DISC1_TRANSFER,Флаг импорта сохранений Disc 1
+VAR_D2_GLOBAL_DAISUKE_ROUTE_CLEARED,Завершен рут Дайсукэ
+VAR_D2_GLOBAL_COMMON_EPILOGUE,Открыт общий эпилог Disc 2
+VAR_D2_GLOBAL_ENDING_ID,Номер полученного финала Disc 2 (2..16)
+VAR_D2_GLOBAL_ENDING_REGISTERED,Фиксация финала в галерее Disc 2
+VAR_D2_GLOBAL_CHRONICLES_MASTER,Разблокированы все хроники
+VAR_D2_GLOBAL_KANAKO_EPILOGUE,Просмотрен эпилог Канако
+VAR_D2_GLOBAL_ROUTE_CLEARED_KIRINO,Завершён рут Кирино Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_KURONEKO,Завершён рут Куронэко Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_SAORI,Завершён рут Саори Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_MANAMI,Завершён рут Манами Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_AYASE,Завершён рут Аясэ Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_KANAKO,Завершён рут Канако Disc 2
+VAR_D2_GLOBAL_ROUTE_CLEARED_SENA,Завершён рут Сэны Disc 2
+SETTINGS_RESET_DEFAULT,Сбросить к значению по умолчанию
+COMMON_ARE_YOU_SURE,Вы уверены?
+COMMON_CONTINUE,Продолжить
+ACTION_ADVANCE_TITLE,Продвижение / Выбор
+SAVELOAD_ROUTE_FORMAT,Рут %s
+SAVELOAD_DEFAULT_HEROINE,Основной сюжет
+SAVELOAD_CARD_DEMO_ROUTE,Рут Куронэко
+SAVELOAD_CARD_DEMO_CHAPTER,Глава 14
+SAVELOAD_CARD_DEMO_TIME,Время игры 18:42:31
+SETTINGS_TEXTURE_QUALITY_TITLE,Качество текстур
+SETTINGS_TEXTURE_QUALITY_DESC,Разрешение игровых фонов и иллюстраций (требуются пакеты HD/4K)
+SETTINGS_TEXTURE_QUALITY_SD,Оригинал (PSP 272p)
+SETTINGS_TEXTURE_QUALITY_HD,Full HD (1080p)
+SETTINGS_TEXTURE_QUALITY_UHD_4K,4K Ultra HD (2160p)
+SETTINGS_TEXTURE_PACKS_MANAGE,Пакеты текстур HD / 4K
+SETTINGS_TEXTURE_PACKS_BTN,Пакеты графики...
+SETTINGS_TEXTURE_PACKS_DESC,"Сборка, удаление и импорт пакетов графики высокого разрешения"
+UPSCALER_MODAL_TITLE,Пакеты текстур HD / 4K
+UPSCALER_MODAL_DESC,Нейросетевой апскейл и управление HD-текстурами
+UPSCALER_PACK_HD_TITLE,Full HD (1080p)
+UPSCALER_PACK_4K_TITLE,4K Ultra HD (2160p)
+UPSCALER_PACK_STATUS_INSTALLED,Установлен (%s)
+UPSCALER_PACK_STATUS_NOT_INSTALLED,Не установлен
+UPSCALER_PRESET_TITLE,Пресет:
+UPSCALER_PRESET_STUDIO_HD,1080p Качество (AnimeSharpV4)
+UPSCALER_PRESET_STUDIO_HD_DESC,Студийное качество: бритвенно-четкий лайн-арт (AnimeSharpV4) для персонажей/CG и сохранение текстур окружения (UltraSharp).
+UPSCALER_PRESET_FAST_HD,1080p Быстрый (AnimeSharp Fast)
+UPSCALER_PRESET_FAST_HD_DESC,Ускоренная архитектура PixelUnshuffle (~2.4x быстрее). Чистые контуры и высокая детализация при минимальных затратах времени.
+UPSCALER_PRESET_EXTREME_4K,4K Ultra HD (AnimeSharpV4)
+UPSCALER_PRESET_EXTREME_4K_DESC,Максимальное качество 4K. Двухпроходный каскад AnimeSharpV4 и UltraSharp до 3840×2160.
+UPSCALER_BADGE_EXPERIMENTAL,[Экспериментально / 6GB+ ОЗУ]
+UPSCALER_RAM_REQUIREMENT_ERROR,Недоступно на данном устройстве: требуется минимум 6 ГБ ОЗУ
+UPSCALER_EXPERIMENTAL_WARNING,Внимание: Обработка с использованием архитектуры Transformer на мобильном процессоре требует значительного времени и энергии аккумулятора. Рекомендуется подключить устройство к зарядному устройству. Продолжить?
+UPSCALER_STATUS_IDLE,Готов к сборке
+UPSCALER_STATUS_BUILDING,"Генерация пакета: %s (%d/%d, %.1f%%)"
+UPSCALER_STATUS_FINISHED,Сборка пакета успешно завершена!
+UPSCALER_STATUS_FAILED,Ошибка при генерации пакета: %s
+UPSCALER_STATUS_CANCELLED,Генерация отменена пользователем
+UPSCALER_BTN_BUILD,Собрать пакет
+UPSCALER_BTN_CANCEL,Отмена
+UPSCALER_BTN_DELETE,Удалить
+UPSCALER_BTN_IMPORT_PCK,Импорт PCK...
+UPSCALER_IMPORT_SUCCESS,Пакет успешно импортирован!
+UPSCALER_IMPORT_INVALID,Неверный формат файла пакета
+UPSCALER_BADGE_GPU_ACCEL,[GPU: %s]
+UPSCALER_WARNING_CPU_MODE,Внимание: Обработка на CPU займет длительное время
+UPSCALER_UNSUPPORTED_ON_ANDROID,(Не поддерживается на Android)
+UPSCALER_BADGE_VULKAN_FAST,NCNN Vulkan • GPU
+UPSCALER_PROGRESS_STATS,Прошло: %s • Осталось: ~%s • Скорость: %.1f изобр./с
+UPSCALER_PROGRESS_CALCULATING,Расчет оставшегося времени...
+UPSCALER_PRESET_ANIMEVIDEO_HD,1080p Турбо (AnimeVideoV3)
+UPSCALER_PRESET_ANIMEVIDEO_HD_DESC,Молниеносный апскейл (~36 мс/кадр). Полная генерация всей игры займет около 1-1.5 минут!
+UPSCALER_MODE_DIRECT_PASS,Прямой 1-проходный режим (Direct Single-Pass)
+UPSCALER_MODE_TILED_PASS,Адаптивный тайлинг (%d px)
+INSTALLER_CHECK_HD_GEN,Сгенерировать HD-пакет (1080p)
+INSTALLER_BTN_IMPORT_PCK,Импортировать PCK...
+UPSCALER_STATUS_STARTING,Подготовка к генерации...
+UPSCALER_STATUS_CANCELLING,"Отмена генерации, пожалуйста подождите..."
+UPSCALER_CONFIRM_CANCEL_AND_CLOSE,Генерация пакета текстур еще выполняется. Прервать генерацию и закрыть окно?
+DISC_SELECT_TITLE,Выбор кампании
+DISC_SELECT_SUBTITLE,Выберите часть для прохождения
+DISC_1_TITLE,Диск 1: Ore no Imouto Portable
+DISC_1_DESC,"Оригинальная история: отаку-хобби сестры, летний фестиваль и основные руты героинь."
+DISC_2_TITLE,Диск 2: Tsuzuku (Послесловие)
+DISC_2_DESC,"Продолжение отношений после признания, новые руты (Сэна, Яминэко) и викторина Киририн и Куронян."
+DISC_PROGRESS_CLEARED,Пройдено концовок: %d / %d
+DISC_RECOMMEND_DISC1,Рекомендуется сначала пройти Диск 1
+DISC_START_CAMPAIGN,Начать кампанию
+DISC_2_START_TITLE,Запуск Диска 2
+DISC_2_START_PROMPT,Вы уже проходили вводную викторину. Как вы хотите начать?
+DISC_2_PROLOGUE_FULL,Полный пролог (Викторина Киририн и Куронян)
+DISC_2_PROLOGUE_FAST,Быстрый старт (Утро 15 августа — выбор рута)
+ROUTE_CONTINUATION_TITLE,Продолжение истории
+ROUTE_CONTINUATION_MSG,Поздравляем с завершением рута %s на Диске 1! Желаете перейти к продолжению её истории на Диске 2?
+ROUTE_CONTINUATION_BTN_PROCEED,Продолжить на Диске 2
+ROUTE_CONTINUATION_BTN_MENU,В главное меню
+CONFIRM_NEW_GAME_TITLE,Новая игра
+CONFIRM_NEW_GAME_DESC,Начать новую кампанию? Несохраненный прогресс текущей игры будет потерян.
+CONFIRM_NEW_GAME_YES,Начать
+DISC_SWITCH_TITLE,Смена диска
+DISC_SWITCH_DESC,Переключить активную кампанию на выбранный диск?
+SETTINGS_VERSION_LABEL,Версия игры
+SETTINGS_CHECK_UPDATES_BTN,Проверить обновления
+SETTINGS_UPDATE_CHECKING,Проверка обновлений...
+SETTINGS_UPDATE_LATEST,У вас установлена последняя версия
+SETTINGS_UPDATE_AVAILABLE,Доступна новая версия: %s
+SETTINGS_UPDATE_FAILED,Не удалось проверить обновления
+UPDATE_MODAL_TITLE,Обновление игры
+UPDATE_MODAL_ITCH_MSG,Доступна новая версия %s. Она будет загружена автоматически при следующем запуске через клиент itch.io.
+UPDATE_MODAL_DOWNLOAD_MSG,Доступна новая версия %s. Перейти на страницу загрузки?
+UPDATE_ACTION_DOWNLOAD,Перейти к загрузке
+UPDATE_BANNER_TITLE,Новая версия
+UPDATE_BANNER_SUB,Доступна v%s
+UPDATE_BANNER_SUB_FALLBACK,Доступно обновление
+UPSCALER_PRESET_BALANCED,1080p Качество (AnimeSharpV4)
+UPSCALER_PRESET_CUSTOM,Свой пайплайн
+UPSCALER_CAT_BG,Фоны
+UPSCALER_CAT_CG,Сюжетные CG
+UPSCALER_CAT_CHARACTERS,Персонажи
+UPSCALER_CAT_LIVE2D,Live2D
+UPSCALER_CAT_ORE,Кат-ины
+UPSCALER_CAT_UI,Интерфейс
+UPSCALER_SYNC_ALL_CATS,Синхронизировать все
+UPSCALER_ADD_STAGE,Добавить этап
+UPSCALER_REMOVE_STAGE,Удалить этап
+UPSCALER_STAGE_TITLE,Этап %d
+UPSCALER_STAGE_MODEL,Модель нейросети
+UPSCALER_MODEL_ANIMEJANAI_STRONG,AnimeJaNai Strong
+UPSCALER_STAGE_DERING,Фильтр DeRing (Анти-звон)
+UPSCALER_STAGE_DERING_TOOLTIP,Предварительно сглаживает ступенчатый звон и артефакты сжатия перед нейросетью
+UPSCALER_STAGE_SCALE,Масштабирование
+UPSCALER_STAGE_MAX_CLAMP,Ограничение разрешения
+UPSCALER_CLAMP_NONE,Без ограничений
+UPSCALER_PROGRESS_OVERALL,Всего
+UPSCALER_PROGRESS_CATEGORY,Категория
+UPSCALER_PROGRESS_STAGE,Этап
+UPSCALER_CURRENT_FILE,Файл: %s
+UPSCALER_TIME_ELAPSED,Прошло
+UPSCALER_TIME_REMAINING,Осталось
+UPSCALER_METRIC_DEDUP,Пропущено дублей: %d
+UPSCALER_CONFIRM_DELETE_HD,Удалить все установленные пакеты Full HD (1080p)?
+UPSCALER_CONFIRM_DELETE_4K,Удалить все установленные пакеты 4K Ultra HD?
+UPSCALER_TOP_PACKS_LABEL,Пакеты:
+UPSCALER_BTN_TUNING,Модели и тюннинг
+UPSCALER_TUNING_HEADER,Модели и ускорение
+UPSCALER_STAGES_HEADER,Этапы обработки
+UPSCALER_MAX_STAGES_LABEL,(макс. 3)
+UPSCALER_STAGES_COUNT_TOOLTIP,Этапов обработки: %d
+UPSCALER_DOWNSCALE_STEP,Даунскейл
+UPSCALER_SCALE_LOCKED_TOOLTIP,Фиксированный масштаб модели
+UPSCALER_SCALE_SELECT_TOOLTIP,Выбрать масштаб обработки
+UPSCALER_RIGHT_HEADER,Сводка пайплайна и запуск
+UPSCALER_TRANSFORM_FLOW,Цепочка трансформации:
+UPSCALER_FMT_INFO,Формат: JPEG XL
+UPSCALER_TARGET_PCK_INFO,Пакеты: hd_*.pck
+UPSCALER_TEXTURES_COUNT_INFO,Выбрано ассетов: %d / %d
+UPSCALER_BTN_BUILD_JXL,Собрать все
+UPSCALER_BTN_BUILD_CATEGORY,Собрать: %s
+UPSCALER_BTN_BUILD_ALL,Собрать выбранные
+UPSCALER_CATEGORY_INCLUDE,Включить в сборку
+UPSCALER_CAT_PACK_STATUS,Пакет:
+UPSCALER_CAT_ASSETS_COUNT,Ассетов: %d
+UPSCALER_PACKS_COUNT_FMT,%d/%d (%s)
+UPSCALER_CONFIRM_DELETE_CAT_HD,Удалить Full HD пакет категории %s?
+UPSCALER_CONFIRM_DELETE_CAT_4K,Удалить 4K пакет категории %s?
+UPSCALER_TARGET_PCK_MODULAR_SINGLE,Файл: %s
+SETTINGS_DISCORD_RPC_TITLE,Discord активность
+SETTINGS_DISCORD_RPC_DESC,Трансляция текущей игровой активности и прогресса в Discord
+DISCORD_STATUS_MAIN_MENU,В главном меню
+DISCORD_SELECTING_SCENARIO,Выбор сценария
+DISCORD_ROUTE_COMMON,Общая ветка
+DISCORD_ROUTE_BONUS,Бонусная ветка
+DISCORD_DISC,Диск
+DISCORD_PLAYING_GAME,В игре
+DISCORD_READING_STORY,Чтение истории
+DISCORD_TSUKKOMI_TITLE,Режим O.S.I.S. (Цуккоми)
+DISCORD_TSUKKOMI_DESC,2Shot диалог
+DISCORD_ORE_TITLE,Выбор O.R.E.
+DISCORD_ORE_DESC,Принятие ключевого решения
+DISCORD_WATCHING_VIDEO,Просмотр видеоролика
+DISCORD_OMAKE_GALLERY,В галерее воспоминаний
+DISCORD_OMAKE_MUSIC,Музыкальная комната
+DISCORD_OMAKE_FLOWMAP,Карта сценария (Flowmap)
+DISCORD_INSTALLER_TITLE,Подготовка игровых дисков
+DISCORD_STATUS_STARTUP,Запуск игры
+DISCORD_LOADING,Загрузка...
+DISCORD_SUBMENU_CG,Галерея CG
+DISCORD_SUBMENU_MUSIC,Музыкальная комната
+DISCORD_SUBMENU_SCENES,Просмотр сцен
+DISCORD_SUBMENU_FLOWMAP,Карта переходов
+DISCORD_SUBMENU_ORE,Блокнот O.R.E.
+DISCORD_SUBMENU_SETTINGS,Настройки
+MENU_REACTION_KIRINO_TRUE,...Уши прочисти! Я... спасибо тебе.
+MENU_REACTION_KIRINO_NORMAL,Просто подожди! Я обязательно всё вспомню!
+MENU_REACTION_KIRINO_BAD,Ты совсем меня не слушал? Дурак что ли?!
+MENU_REACTION_KURONEKO_TRUE,Хе-хе... разве это не очевидно?
+MENU_REACTION_KURONEKO_NORMAL,"...Делай, как пожелаешь. Я скажу тебе это снова, когда захочу."
+MENU_REACTION_KURONEKO_BAD,"Сколько отказов тебе нужно, чтобы твой мозг с низким IQ всё понял?"
+MENU_REACTION_AYASE_TRUE,...Да. Большое тебе спасибо... брат.
+MENU_REACTION_AYASE_NORMAL,"Я подумала... может, в благодарность прогуляемся вместе?.."
+MENU_REACTION_AYASE_BAD,Предатель! Я никогда тебя не прощу! Никогда!
+MENU_REACTION_MANAMI_TRUE,"Я буду стараться, чтобы Кё-тян был счастлив! Хорошо?"
+MENU_REACTION_MANAMI_NORMAL,"Мы же друзья детства, для меня естественно беспокоиться о тебе."
+MENU_REACTION_MANAMI_BAD,"Со мной всё в порядке... Извини, Кё-тян~"
+MENU_REACTION_SAORI_TRUE,...Да!
+MENU_REACTION_SAORI_NORMAL,"Большое спасибо, что смирились с моим эгоизмом..."
+MENU_REACTION_SAORI_BAD,"Проще говоря, проигранная битва... Ха-ха-ха..."
+MENU_REACTION_KANAKO_TRUE,"...Я люблю тебя, Кёсукэ."
+MENU_REACTION_KANAKO_NORMAL,Спасибо за угощение~ Кёсукэ-сан♪
+MENU_REACTION_KANAKO_BAD,"Х-ха?! Мерзость, ты что несёшь?!"
+MENU_REACTION_SENA_TRUE,"Я всегда... буду рядом с тобой, сэмпай."
+MENU_REACTION_SENA_BAD,И-извращенец! Извращенец!! Я в полицию заявлю!!
+UPSCALER_MODEL_STUDIO,AnimeSharpV4 Studio
+UPSCALER_MODEL_FAST,AnimeSharpV4 Fast
+UPSCALER_MODEL_ULTRASHARP,4x-UltraSharp
+UPSCALER_MODEL_ANIMEVIDEOV3,AnimeVideoV3
+UPSCALER_GPU_DETECTING,GPU: Определение...
+UPSCALER_GPU_READY,GPU: %s
+UPSCALER_CPU_FALLBACK,Режим CPU
+SAVELOAD_CONFIRM_LOAD_AUTO_MSG,"Загрузить автосохранение No. %02d?
+Весь несохраненный прогресс будет потерян."
+SETTINGS_SKIP_HOLD,Удерживать
+SETTINGS_SKIP_TOGGLE,Переключать
+SETTINGS_LANG_PACKS_TITLE,Языковые пакеты и перевод
+SETTINGS_LANG_PACKS_DESC,"Экспорт таблиц .CSV для переводчиков, сборка и установка языковых пакетов (.pck)"
+SETTINGS_LANG_PACKS_INSTALLED,Установлено пакетов: %d (%s)
+SETTINGS_LANG_PACKS_NONE,Дополнительные языковые пакеты не установлены (используется базовый пакет)
+SETTINGS_LANG_EXPORT_BTN,Экспорт CSV
+SETTINGS_LANG_BUILD_BTN,Собрать .PCK
+SETTINGS_LANG_IMPORT_BTN,Импорт .PCK
+SETTINGS_LANG_DIALOG_EXPORT_TITLE,Выберите папку для экспорта таблиц перевода (.CSV)
+SETTINGS_LANG_DIALOG_BUILD_TITLE,Выберите папку с переведёнными файлами (.CSV) для сборки пакета
+SETTINGS_LANG_DIALOG_IMPORT_TITLE,Выберите языковой пакет (.pck) для установки
+SETTINGS_LANG_STATUS_EXPORT_OK,✓ Шаблон выгружен (%d файлов): %s
+SETTINGS_LANG_STATUS_BUILD_OK,✓ Собрано и подключено: lang_%s.pck (%d файлов)
+SETTINGS_LANG_STATUS_IMPORT_OK,✓ Установлен языковой пакет: lang_%s.pck (%d файлов)
+SETTINGS_LANG_STATUS_ERROR,Ошибка: %s

@@ -1,0 +1,351 @@
+KEY,STYLE,TEXT
+AKYO_0020T:TKA0020A,normal,Ты всё не так поняла!
+AKYO_0020T:TKA0020B,shout,Не видел!
+AKYO_0020T:TKA0020C,normal,Нет!
+AKYO_0032T:TKA0032A,normal,Да!
+AKYO_0032T:TKA0032B,normal,"А я и не говорил, что хочу участвовать."
+AKYO_0032T:TKA0032C,shout,Невозможно!
+AKYO_0032T:TKA0032D,shout,Могу я сам решать?
+AKYO_0036T:TKA0036A,shout,Остынь!
+AKYO_0036T:TKA0036B,shout,Не держи меня за дурака!
+AKYO_0036T:TKA0036C,shout,Это точно из какой-то дорамы!
+AKYO_0036T:TKA0036D,shout,Ты Вор Времени что ли?!
+AKYO_0038T:TKA0038A,normal,Ты имеешь в виду Кирино?
+AKYO_0038T:TKA0038B,normal,Я не её слуга.
+AKYO_0038T:TKA0038C,normal,О чём ты?..
+AKYO_0038T:TKC0067C,normal,Серьёзно?
+AKYO_0043T:TKA0043A,shout,Невозможно!
+AKYO_0043T:TKA0043B,shout,Ч-что ты сказала?!
+AKYO_0043T:TKA0043C,normal,Воздержусь.
+AKYO_0056T:TKA0056A,shout,Чего тут бояться?
+AKYO_0056T:TKA0056B,shout,Ты слишком груба!
+AKYO_0056T:TKA0056C,shout,Я не бесполезен!
+AKYO_0056T:TKA0056D,shout,Не говори ерунды!
+AKYO_0070T:TKA0070A,normal,Эта музыка - акиба-поп.
+AKYO_0070T:TKA0070B,normal,Ты серьёзно?
+AKYO_0070T:TKA0070C,shout,Ты слишком шумная!
+AKYO_0070T:TKA0070D,shout,Как же?!
+AKYO_0070T:TKA0070E,shout,Как же?!
+AKYO_0078T:TKA0078A,shout,Не ври мне!
+AKYO_0078T:TKA0078B,shout,"Нет, не был!"
+AKYO_0078T:TKA0078C,shout,Хватит избегать этой темы!
+AKYO_0078T:TKA0078D,shout,Так ты всё-таки идёшь?!
+AKYO_0082T:TKA0082A,shout,Я не хочу!
+AKYO_0082T:TKA0082B,shout,"Нет, не понимаю!"
+AKYO_0082T:TKA0082C,shout,Что?!
+AKYO_0082T:TKA0082D,shout,Что?!
+AKYO_0136T:TKA0136A,shout,Ты лжёшь!
+AKYO_0136T:TKA0136B,normal,Я?!
+AKYO_0136T:TKA0136C,shout,Какие ещё бананы?!
+AKYO_0136T:TKA0136D,normal,"Ого, так ты была тогда без..."
+AKYO_0136T:TKA0136E,normal,Точно!
+AKYO_0138T:TKA0138A,shout,Т-так много!
+AKYO_0138T:TKA0138B,shout,Именно это я и хочу сказать!
+AKYO_0138T:TKA0138C,shout,Вообще-то это неудобно для меня!
+AKYO_0138T:TKA0138D,shout,Да в каком месте ты идеальна?!
+AKYO_0138T:TKA0138E,normal,Да почему разговор постоянно заходит о тебе?
+AKYO_0143T:TKA0143A,normal,"Нет, лучше не надо."
+AKYO_0143T:TKA0143B,normal,"Вот она, бабушкина мудрость!"
+AKYO_0143T:TKA0143C,normal,Зачем?
+AKYO_0143T:TKA0143D,normal,Я не собираюсь мыться с этой тягнёй!
+AKYO_0143T:TKA0143E,shout,"Нет, не вру!"
+BKIR_0004T:TKA0070D,shout,Что?!
+BKIR_0004T:TKB0004A,shout,Что это значит?!
+BKIR_0004T:TKB0004B,shout,Несёт отаку?!
+BKIR_0004T:TKB0004C,shout,"Это то, что ты просила!"
+BKIR_0004T:TKB0004D,normal,Долго?
+BKIR_0013T:TKB0013A,normal,Это всё твоё.
+BKIR_0013T:TKB0013B,normal,Я не лгу.
+BKIR_0013T:TKB0013C,normal,Это не так!
+BKIR_0013T:TKB0013D,shout,Это я тебя не понимаю!
+BKIR_0020T:TKB0020A,normal,Тише!
+BKIR_0020T:TKB0020B,normal,"Всё потому, что ты продолжаешь нести белиберду!"
+BKIR_0020T:TKB0020C,shout,"Ты продолжаешь говорить всё, что тебе взбредёт в голову!"
+BKIR_0020T:TKB0020D,shout,Ты с ума сошла?!
+BKIR_0025T:TKB0025A,shout,Ты не так поняла!
+BKIR_0025T:TKB0025B,normal,Это тебе стоит быть честной...
+BKIR_0025T:TKB0025C,shout,Она не самурай!
+BKIR_0025T:TKB0025D,shout,Кирино!
+BKIR_0025T:TKE0056C,shout,Ты дура?!
+BKIR_0033T:TKB0033A,shout,Я говорю правду!
+BKIR_0033T:TKB0033B,shout,"Не говори так, будто я преступник!"
+BKIR_0033T:TKB0033C,shout,Зачем ты так?
+BKIR_0033T:TKB0033D,shout,Да вспомни наконец!
+BKIR_0033T:TKE0013A,normal,Э-э?
+BKIR_0048T:TKB0048A,normal,Вот оно как...
+BKIR_0048T:TKB0048B,normal,Отец.
+BKIR_0063T:TKB0063A,normal,Я беспокоюсь.
+BKIR_0063T:TKB0063B,shout,Я не вру!
+BKIR_0063T:TKB0063C,normal,Ты серьёзно?
+BKIR_0063T:TKB0063D,shout,Что ты такое говоришь?
+BKIR_0083T:TKB0083A,shout,Что ты!!!
+BKIR_0083T:TKB0083B,shout,"Если ты продолжишь в том же духе, то сделаешь им больно!"
+BKIR_0083T:TKB0083C,shout,Ты... не Кирино!
+BKIR_0083T:TKB0083D,shout,Тихо!
+BKIR_0083T:TKB0083E,shout,Эти воспоминания были частью тебя!
+BKIR_0103T:TKB0103A,shout,Ты тоже там была!
+BKIR_0103T:TKB0103B,shout,Ты даже сейчас близка к этому!
+BKIR_0103T:TKB0103C,shout,Ты отличаешься от них!
+BKIR_0103T:TKB0103D,shout,Возьми себя в руки!
+BKIR_0123T:TKB0123A,normal,Кто тут ещё извращенец?!
+BKIR_0123T:TKB0123B,shout,Я не лгу!
+BKIR_0123T:TKB0123C,shout,Ты сама меня об этом просила раньше!
+BKIR_0123T:TKB0123D,shout,Хватит уже!
+CKUR_0035T:TKC0035A,shout,Мы не можем пойти домой вместе?
+CKUR_0035T:TKC0035B,normal,"Куронеко, могу ли я спросить кое-что?"
+CKUR_0035T:TKC0035C,normal,О чем ты?
+CKUR_0043T:TKC0043A,shout,"М-Мы, нет..."
+CKUR_0043T:TKC0043B,normal,П-Почему это мерзко?
+CKUR_0055T:TKC0055A,normal,Почему это прозвучало как вопрос?
+CKUR_0055T:TKC0055B,normal,Как я могу...
+CKUR_0055T:TKC0055C,shout,Гааах!
+CKUR_0055T:TKC0055D,normal,Правда?
+CKUR_0067T:TKC0067A,normal,Разве это не сон?
+CKUR_0067T:TKC0067B,shout,Ты дразнишь меня?!
+CKUR_0067T:TKC0067C,normal,"Что, правда?"
+CKUR_0093T:TKC0093A,normal,Тебе может и не о чем со мной говорить
+CKUR_0093T:TKC0093B,normal,Тогда я пойду с тобой
+CKUR_0093T:TKC0093C,normal,Ээ!?
+CKUR_0093T:TKC0093D,normal,Не говори так...
+CKUR_0093T:TKE0013A,normal,"Я буду делать так, если посчитаю нужным..."
+CKUR_0100T:TKC0100A,normal,Я беспокоюсь...
+CKUR_0100T:TKC0100B,normal,Что это значит?
+CKUR_0100T:TKC0100C,normal,Я смогу помочь
+CKUR_0100T:TKC0100D,normal,Да
+CKUR_0105T:TKC0105A,normal,Какое упрямство
+CKUR_0105T:TKC0105B,normal,У меня есть причина
+CKUR_0105T:TKC0105C,normal,Что это значит?
+CKUR_0105T:TKC0105D,normal,Как это вообще возможно?
+CKUR_0105T:TKE0056C,shout,Ты идиотка?!
+CKUR_0108T:TKC0108A,normal,Конечно я буду беспокоиться!
+CKUR_0108T:TKC0108B,normal,Ты не понимаешь?
+CKUR_0108T:TKC0108C,normal,Ты не должна заставлять себя
+CKUR_0108T:TKC0108D,shout,Что за?!
+CKUR_0125T:TKC0125A,normal,Я же просто спросил...
+CKUR_0125T:TKC0125B,shout,Нет!
+CKUR_0125T:TKC0125C,normal,Не принимай меня за настолько опасного человека
+CKUR_0125T:TKC0125D,normal,"Я пришел, чтобы помочь..."
+CKUR_0175T:TKC0020C,normal,НЕТ!
+CKUR_0175T:TKC0175A,normal,Конечно нет!
+CKUR_0175T:TKC0175B,normal,Это еще не конец
+CKUR_0175T:TKC0175C,normal,Это еще не конец
+CKUR_0175T:TKC0175D,normal,Это не так
+CKUR_0175T:TKC0175E,shout,"Что, черт возьми?!"
+CKUR_0175T:TKC0175F,normal,Ты слишком шумная!
+EMAN_0007T:TKE0007A,shout,Успокойся!
+EMAN_0007T:TKE0007B,shout,Послушай меня!
+EMAN_0007T:TKE0007C,shout,Не смотри на меня так!
+EMAN_0007T:TKE0007D,normal,Мне уйти?
+EMAN_0013T:TKE0013A,normal,Э?!
+EMAN_0013T:TKE0013B,normal,Пришла разбудить меня?
+EMAN_0013T:TKE0013C,shout,"Мама, почему?"
+EMAN_0013T:TKE0013D,shout,Тогда в следующий раз?!
+EMAN_0013T:TKE0013E,shout,Серьезно?
+EMAN_0033T:TKE0033A,shout,Я же сказал - нет!
+EMAN_0033T:TKE0033B,shout,Подожди!
+EMAN_0033T:TKE0033C,shout,Холодное тофу?!
+EMAN_0033T:TKE0033D,normal,Конечно все не так!
+EMAN_0033T:TKE0056C,shout,Ты идиотка?!
+EMAN_0040T:TKE0040A,shout,Успокойся!
+EMAN_0040T:TKE0040B,shout,Тц! Так что это?!
+EMAN_0040T:TKE0040C,normal,Ты имеешь ввиду
+EMAN_0040T:TKE0040D,normal,Правда?
+EMAN_0044T:TKE0044A,shout,Ггаах!!
+EMAN_0044T:TKE0044B,normal,Ма-на-ми-саааан!
+EMAN_0044T:TKE0044C,shout,Ни за что!
+EMAN_0044T:TKE0044D,normal,Ты сегодня странная
+EMAN_0056T:TKE0056A,shout,Не говори таких глупых вещей!
+EMAN_0056T:TKE0056B,shout,КАК-Я-И-СКАЗАЛ!
+EMAN_0056T:TKE0056C,shout,Ты идиотка?!
+EMAN_0056T:TKE0056D,shout,"Нет и нет, это совсем не то!"
+EMAN_0064T:TKE0064A,shout,Т-ты спрашиваешь ее об этом передо мной?!
+EMAN_0064T:TKE0064B,normal,"Серьезно, прекращай это"
+EMAN_0064T:TKE0064C,normal,"Эээ.. Может, будет лучше, если я уйду?"
+EMAN_0064T:TKE0064D,normal,Почему..?
+EMAN_0064T:TKE0064E,normal,"Нет, я просто..."
+FAYA_0011T:TKF0011A,normal,Сегодня?
+FAYA_0011T:TKF0011B,normal,"О, рад за тебя"
+FAYA_0011T:TKF0011C,shout,В субботу?
+FAYA_0011T:TKF0011D,normal,Конечно я не против
+FAYA_0015T:TKE0056C,shout,"Может, прекратишь нести этот бред?!"
+FAYA_0015T:TKF0015A,normal,Не вводи людей в заблуждение.
+FAYA_0015T:TKF0015B,shout,Да!
+FAYA_0032T:TKF0032A,shout,Куронэко?
+FAYA_0032T:TKF0032B,shout,Конечно нет.
+FAYA_0032T:TKF0032C,shout,Это не так!
+FAYA_0034T:TKF0034A,shout,М-можно сказать и так.
+FAYA_0034T:TKF0034B,shout,М-можно сказать и так.
+FAYA_0034T:TKF0034C,normal,"Эй-эй, ты забыла?"
+FAYA_0043T:TKF0043D,shout,Да.
+FAYA_0043T:TKF0043E,shout,Это не ложь.
+TKA0020A,normal,Ты всё не так поняла!
+TKA0020B,shout,Не видел!
+TKA0020C,normal,Нет!
+TKA0032A,normal,Да!
+TKA0032B,normal,"А я и не говорил, что хочу участвовать."
+TKA0032C,shout,Невозможно!
+TKA0032D,shout,Могу я сам решать?
+TKA0036A,shout,Остынь!
+TKA0036B,shout,Не держи меня за дурака!
+TKA0036C,shout,Это точно из какой-то дорамы!
+TKA0036D,shout,Ты Вор Времени что ли?!
+TKA0038A,normal,Ты имеешь в виду Кирино?
+TKA0038B,normal,Я не её слуга.
+TKA0038C,normal,О чём ты?..
+TKC0067C,normal,Серьёзно?
+TKA0043A,shout,Невозможно!
+TKA0043B,shout,Ч-что ты сказала?!
+TKA0043C,normal,Воздержусь.
+TKA0056A,shout,Чего тут бояться?
+TKA0056B,shout,Ты слишком груба!
+TKA0056C,shout,Я не бесполезен!
+TKA0056D,shout,Не говори ерунды!
+TKA0070A,normal,Эта музыка - акиба-поп.
+TKA0070B,normal,Ты серьёзно?
+TKA0070C,shout,Ты слишком шумная!
+TKA0070D,shout,Как же?!
+TKA0070E,shout,Как же?!
+TKA0078A,shout,Не ври мне!
+TKA0078B,shout,"Нет, не был!"
+TKA0078C,shout,Хватит избегать этой темы!
+TKA0078D,shout,Так ты всё-таки идёшь?!
+TKA0082A,shout,Я не хочу!
+TKA0082B,shout,"Нет, не понимаю!"
+TKA0082C,shout,Что?!
+TKA0082D,shout,Что?!
+TKA0136A,shout,Ты лжёшь!
+TKA0136B,normal,Я?!
+TKA0136C,shout,Какие ещё бананы?!
+TKA0136D,normal,"Ого, так ты была тогда без..."
+TKA0136E,normal,Точно!
+TKA0138A,shout,Т-так много!
+TKA0138B,shout,Именно это я и хочу сказать!
+TKA0138C,shout,Вообще-то это неудобно для меня!
+TKA0138D,shout,Да в каком месте ты идеальна?!
+TKA0138E,normal,Да почему разговор постоянно заходит о тебе?
+TKA0143A,normal,"Нет, лучше не надо."
+TKA0143B,normal,"Вот она, бабушкина мудрость!"
+TKA0143C,normal,Зачем?
+TKA0143D,normal,Я не собираюсь мыться с этой тягнёй!
+TKA0143E,shout,"Нет, не вру!"
+TKB0004A,shout,Что это значит?!
+TKB0004B,shout,Несёт отаку?!
+TKB0004C,shout,"Это то, что ты просила!"
+TKB0004D,normal,Долго?
+TKB0013A,normal,Это всё твоё.
+TKB0013B,normal,Я не лгу.
+TKB0013C,normal,Это не так!
+TKB0013D,shout,Это я тебя не понимаю!
+TKB0020A,normal,Тише!
+TKB0020B,normal,"Всё потому, что ты продолжаешь нести белиберду!"
+TKB0020C,shout,"Ты продолжаешь говорить всё, что тебе взбредёт в голову!"
+TKB0020D,shout,Ты с ума сошла?!
+TKB0025A,shout,Ты не так поняла!
+TKB0025B,normal,Это тебе стоит быть честной...
+TKB0025C,shout,Она не самурай!
+TKB0025D,shout,Кирино!
+TKE0056C,shout,Ты дура?!
+TKB0033A,shout,Я говорю правду!
+TKB0033B,shout,"Не говори так, будто я преступник!"
+TKB0033C,shout,Зачем ты так?
+TKB0033D,shout,Да вспомни наконец!
+TKE0013A,normal,Э-э?
+TKB0048A,normal,Вот оно как...
+TKB0048B,normal,Отец.
+TKB0063A,normal,Я беспокоюсь.
+TKB0063B,shout,Я не вру!
+TKB0063C,normal,Ты серьёзно?
+TKB0063D,shout,Что ты такое говоришь?
+TKB0083A,shout,Что ты!!!
+TKB0083B,shout,"Если ты продолжишь в том же духе, то сделаешь им больно!"
+TKB0083C,shout,Ты... не Кирино!
+TKB0083D,shout,Тихо!
+TKB0083E,shout,Эти воспоминания были частью тебя!
+TKB0103A,shout,Ты тоже там была!
+TKB0103B,shout,Ты даже сейчас близка к этому!
+TKB0103C,shout,Ты отличаешься от них!
+TKB0103D,shout,Возьми себя в руки!
+TKB0123A,normal,Кто тут ещё извращенец?!
+TKB0123B,shout,Я не лгу!
+TKB0123C,shout,Ты сама меня об этом просила раньше!
+TKB0123D,shout,Хватит уже!
+TKC0035A,shout,Мы не можем пойти домой вместе?
+TKC0035B,normal,"Куронеко, могу ли я спросить кое-что?"
+TKC0035C,normal,О чем ты?
+TKC0043A,shout,"М-Мы, нет..."
+TKC0043B,normal,П-Почему это мерзко?
+TKC0055A,normal,Почему это прозвучало как вопрос?
+TKC0055B,normal,Как я могу...
+TKC0055C,shout,Гааах!
+TKC0055D,normal,Правда?
+TKC0067A,normal,Разве это не сон?
+TKC0067B,shout,Ты дразнишь меня?!
+TKC0093A,normal,Тебе может и не о чем со мной говорить
+TKC0093B,normal,Тогда я пойду с тобой
+TKC0093C,normal,Ээ!?
+TKC0093D,normal,Не говори так...
+TKC0100A,normal,Я беспокоюсь...
+TKC0100B,normal,Что это значит?
+TKC0100C,normal,Я смогу помочь
+TKC0100D,normal,Да
+TKC0105A,normal,Какое упрямство
+TKC0105B,normal,У меня есть причина
+TKC0105C,normal,Что это значит?
+TKC0105D,normal,Как это вообще возможно?
+TKC0108A,normal,Конечно я буду беспокоиться!
+TKC0108B,normal,Ты не понимаешь?
+TKC0108C,normal,Ты не должна заставлять себя
+TKC0108D,shout,Что за?!
+TKC0125A,normal,Я же просто спросил...
+TKC0125B,shout,Нет!
+TKC0125C,normal,Не принимай меня за настолько опасного человека
+TKC0125D,normal,"Я пришел, чтобы помочь..."
+TKC0020C,normal,НЕТ!
+TKC0175A,normal,Конечно нет!
+TKC0175B,normal,Это еще не конец
+TKC0175C,normal,Это еще не конец
+TKC0175D,normal,Это не так
+TKC0175E,shout,"Что, черт возьми?!"
+TKC0175F,normal,Ты слишком шумная!
+TKE0007A,shout,Успокойся!
+TKE0007B,shout,Послушай меня!
+TKE0007C,shout,Не смотри на меня так!
+TKE0007D,normal,Мне уйти?
+TKE0013B,normal,Пришла разбудить меня?
+TKE0013C,shout,"Мама, почему?"
+TKE0013D,shout,Тогда в следующий раз?!
+TKE0013E,shout,Серьезно?
+TKE0033A,shout,Я же сказал - нет!
+TKE0033B,shout,Подожди!
+TKE0033C,shout,Холодное тофу?!
+TKE0033D,normal,Конечно все не так!
+TKE0040A,shout,Успокойся!
+TKE0040B,shout,Тц! Так что это?!
+TKE0040C,normal,Ты имеешь ввиду
+TKE0040D,normal,Правда?
+TKE0044A,shout,Ггаах!!
+TKE0044B,normal,Ма-на-ми-саааан!
+TKE0044C,shout,Ни за что!
+TKE0044D,normal,Ты сегодня странная
+TKE0056A,shout,Не говори таких глупых вещей!
+TKE0056B,shout,КАК-Я-И-СКАЗАЛ!
+TKE0056D,shout,"Нет и нет, это совсем не то!"
+TKE0064A,shout,Т-ты спрашиваешь ее об этом передо мной?!
+TKE0064B,normal,"Серьезно, прекращай это"
+TKE0064C,normal,"Эээ.. Может, будет лучше, если я уйду?"
+TKE0064D,normal,Почему..?
+TKE0064E,normal,"Нет, я просто..."
+TKF0011A,normal,Сегодня?
+TKF0011B,normal,"О, рад за тебя"
+TKF0011C,shout,В субботу?
+TKF0011D,normal,Конечно я не против
+TKF0015A,normal,Не вводи людей в заблуждение.
+TKF0015B,shout,Да!
+TKF0032A,shout,Куронэко?
+TKF0032B,shout,Конечно нет.
+TKF0032C,shout,Это не так!
+TKF0034A,shout,М-можно сказать и так.
+TKF0034B,shout,М-можно сказать и так.
+TKF0034C,normal,"Эй-эй, ты забыла?"
+TKF0043D,shout,Да.
+TKF0043E,shout,Это не ложь.

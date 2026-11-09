@@ -1,0 +1,11 @@
+{
+  "id": "lang_template",
+  "locale": "en",
+  "display_name": "Base Template",
+  "team_name": "OreImouto Team",
+  "authors": [
+    "OreImouto Team"
+  ],
+  "version": "1.0.0",
+  "description": "Master base template for OreImouto Re:Port community translations."
+}

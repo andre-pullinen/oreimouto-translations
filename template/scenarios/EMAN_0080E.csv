@@ -1,0 +1,101 @@
+ID,SPEAKER,TEXT
+0,SPK_YOSHINO,"Kyousuke, watch the house while we're gone!"
+1,SPK_KYOUSUKE,Roger that! Have fun on your trip!
+2,SPK_YOSHINO,"Of course! Well then Dear, shall we?"
+3,SPK_KYOUSUKE,"Aaaah, *stretch*."
+4,,Soon after the manjuu incident...
+5,,"Manami and I, we spent our days together, each one the same as the one before."
+6,,Yup. Going to and coming back from school together... As childhood friends.
+7,,With her casual giggles... and her meaningless chitchat...
+8,,"How a word like ""engaged"" can blow things out of proportion."
+9,,"But, yeah..."
+10,SPK_KYOUSUKE,Yeah? Mom?
+11,SPK_MANAMI,"Wrong, Kyou-chan!"
+12,SPK_KYOUSUKE,"Oh, Manami? It's unlocked, just come on in."
+13,SPK_MANAMI,Coming～
+14,SPK_MANAMI,"Geez, Kyou-chan, it's dangerous if you don't properly lock the door～"
+15,SPK_KYOUSUKE,Hearing that coming from you... Don't you also leave it open most of the time?
+16,SPK_MANAMI,That's because my house is also a shop～
+17,SPK_KYOUSUKE,"Oh, that makes sense..."
+18,SPK_MANAMI,That's right～ Teeheehee...
+19,SPK_MANAMI,Phew...
+20,SPK_KYOUSUKE,"Hey hey, well you sure look right at home."
+21,SPK_MANAMI,Ah... I-is that bad?
+22,SPK_KYOUSUKE,Why would it be?
+23,SPK_MANAMI,Your sofa is just so comfortable.
+24,SPK_KYOUSUKE,Oh yeah?
+25,SPK_MANAMI,"Yeah. If I sit there when I'm tired, I'll probably fall right asleep... *yawn*"
+26,SPK_KYOUSUKE,Are you saying you're tired?
+27,SPK_MANAMI,"Yes, just a little... This morning I helped with a special manjuu order..."
+28,SPK_KYOUSUKE,"Oh, good job."
+29,SPK_MANAMI,"Hehe, thank you."
+30,SPK_MANAMI,Are your parents already gone?
+31,SPK_KYOUSUKE,"Yeah, they left right before you came."
+32,SPK_MANAMI,"I see～. Seems like a lot of trouble, since it's so far away."
+33,SPK_KYOUSUKE,I guess.
+34,SPK_MANAMI,"Though, both of them seemed like they really looked forward to seeing Kirino-chan!"
+35,SPK_MANAMI,They also seemed delighted when talking to my mom!
+36,SPK_KYOUSUKE,"Oh? Well, it's been a while since they were able to see her in person."
+37,SPK_MANAMI,"Hehe, I know, right? But are you fine not going?"
+38,SPK_KYOUSUKE,Hm... I guess. I have to watch the house too.
+39,,"Truthfully speaking, it's just a facade."
+40,,"Obviously, my parents thought I would come. The whole ""watching the house"" thing came from me."
+41,SPK_MANAMI,Kirino is doing her best on her side too.
+42,SPK_KYOUSUKE,"Yeah, that's just how she is."
+43,SPK_MANAMI,It's really impressive.
+44,,I didn't say anything to Manami.
+45,,"Even our parents don't know. It's not like it's only a secret between me and Kirino, but..."
+46,SPK_KYOUSUKE,"Wa-wait, Kirino? W-What are you doing?"
+47,SPK_KIRINO,Can't you tell?
+48,SPK_KYOUSUKE,"""Can't I tell..."" Are you going on a trip?"
+49,SPK_KIRINO,A trip? Where would I go for a trip in this season?
+50,SPK_KYOUSUKE,Then what about this huge luggage...
+51,SPK_KIRINO,I'm studying... abroad.
+52,SPK_KYOUSUKE,S-S-Say that again?!
+53,SPK_KIRINO,I already got mom and dad's permission.
+54,SPK_KYOUSUKE,Wait! I never heard anything about you studying abroad!
+55,SPK_KIRINO,...Why would I need to tell you?
+56,SPK_KYOUSUKE,"It's not that you ""need"" to tell me but..."
+57,,T-The heck happened?
+58,,Going abroad... That's way too sudden!
+59,SPK_KIRINO,"If you enter my room while I'm not here, I'll totally kill you."
+60,SPK_KYOUSUKE,I won't.
+61,SPK_KIRINO,"Not just you, okay?"
+62,SPK_KYOUSUKE,Huh?
+63,SPK_KIRINO,That plain girl definitely can't either.
+64,SPK_KIRINO,"That plain girl is really nosy. So it's obvious that she'll try to enter by saying something like ""I'll do the cleaning""."
+65,SPK_KIRINO,"To make sure it doesn't happen, it's your job to keep an eye on her."
+66,SPK_KYOUSUKE,"H-Hey, wait a second! Are you saying that..."
+67,SPK_KYOUSUKE,That the reason for your studying abroad is...
+68,SPK_KIRINO,"Ah, even an idiot like you figured it out, huh?"
+69,SPK_KIRINO,"If the day ever comes where I have to call that plain girl ""Older Sister"", then I'll be leaving this family!"
+70,SPK_KYOUSUKE,Ehhhhhh?!
+71,,"And so, Kirino really left..."
+72,,"Her motive for doing so was quite odd. ""When"" she says... Well, it almost did happen but..."
+73,,"Wasn't that way too sudden? Once she's made up her mind on something though, there's no going back."
+74,,"In fact, when she told me about it, all the preparations were already done."
+75,SPK_MANAMI,*Zzzzzz*
+76,SPK_KYOUSUKE,Hm? Manami?
+77,SPK_MANAMI,Gnnuu... I'm awake... Kyou... chan... *Zzzz*
+78,SPK_KYOUSUKE,She's asleep alright.
+79,SPK_MANAMI,Gnn... *Zzzzzzzzzzzz*... Kyou-chan...
+80,SPK_KYOUSUKE,"Yeah yeah, sleep tight."
+81,,"Manami's sleeping face, grinning like an idiot eating something delicious... I wonder what she's dreaming about?"
+82,,"Well, no matter the dream, if it's Manami's it must be quite pleasant."
+83,SPK_KYOUSUKE,Ahhhh～. But I can't move with her in the way.
+84,,Empty... That word perfectly describes it.
+85,,"Mom and Dad are gone, Kirino's not here either."
+86,,This has happened many times before. But why...
+87,,"Kirino not being here, it's almost like something's missing."
+88,,...I guess I'm worried.
+89,,"That annoying, sadistic girl that treats people like insects."
+90,,Why... does it feel like something's missing? I guess I should take this as a luxury.
+91,SPK_MANAMI,Kyou-chan... it's delicious... here...
+92,SPK_KYOUSUKE,...Good grief.
+93,SPK_MANAMI,Hmm... being with Kyou-chan... heehee... so happy... *Zzz*
+94,,"I try patting Manami's sleeping head, and for some reason it soothes me."
+95,SPK_KYOUSUKE,Ah. That's it.
+96,SPK_KYOUSUKE,"You win some, you lose some, is that it?"
+97,SPK_MANAMI,Kyou-chan...
+98,SPK_KYOUSUKE,"Yes, good night."
+99,SPK_MANAMI,*Zzz*

@@ -1,0 +1,141 @@
+ID,SPEAKER,TEXT
+0,,"Pulled along by Saori, we ended up in..."
+1,,"Maid café ""Pretty Garden""."
+2,,The usual place that we often hang out at...
+3,,As well as the place that Saori and I first met.
+4,SPK_KYOUSUKE,We're meeting your benefactor here?
+5,SPK_SAORI,Yes. I made a reservation.
+6,SPK_KYOUSUKE,Hmm.
+7,,"Someone that resembles Saori Bajeena, huh..."
+8,,I wonder what kind of person would show up.
+9,SPK_MAID,Welcome~♪
+10,SPK_MAID,Is it just the two of you for today?
+11,,This person is Hoshino Kirara.
+12,,A maid who works at this cafe.
+13,,"Don't tell me, she is Saori's benefactor..."
+14,SPK_SAORI,I have a reservation under Saori Bajeena.
+15,,Doesn't look like that's the case.
+16,SPK_KIRARA,"Certainly, Lieutenant Bajeena♪"
+17,SPK_KIRARA,"Please follow me to your seats. Your companion is 
+waiting for you."
+18,SPK_KYOUSUKE,"Hey Saori, does she mean..."
+19,SPK_SAORI,Fufufu... Looks like we've kept someone waiting.
+20,SPK_KIRARA,"Now then, this way please."
+21,,"Following Kirara's lead, when we arrived at our 
+seats..."
+22,,There was a little girl waiting for us.
+23,SPK_UNKNOWN_2,Yaho~!
+24,,This cute little girl... is Saori's benefactor?
+25,,"At first glance, all I can see is an elementary school 
+girl..."
+26,SPK_SAORI,I am repentant for the wait. It has been a while.
+27,SPK_UNKNOWN_2,"It sure has! We last met around... two Summer 
+Comikets ago?"
+28,SPK_SAORI,Yes. Have you been well?
+29,SPK_UNKNOWN_2,Naturally~♪ I've been super!
+30,SPK_UNKNOWN_2,"That's my only redeeming trait, after all."
+31,SPK_SAORI,Again with your jokes.
+32,SPK_SAORI,"There aren't many who possess the amount of 
+great traits you have."
+33,SPK_UNKNOWN_2,"Geez, you think too much of me."
+34,SPK_UNKNOWN_2,"Heh... I am, after all, the smallest here at Pretty 
+Garden."
+35,SPK_UNKNOWN_2,Just kidding♪
+36,,This frivolous personality...
+37,,and that appearance of an elementary school girl...
+38,,I remember seeing her before.
+39,,But... two Summer Comikets ago...
+40,,Was that what she said?
+41,,I feel that it was somewhere else instead...
+42,,Ah crap. I had it on the tip of my tongue.
+43,,"Well, at least she doesn't resemble ""Saori Bajeena""."
+44,,"Not in her speech, personality, or outfit."
+45,SPK_UNKNOWN_2,"That aside~, Saori-shi~"
+46,SPK_UNKNOWN_2,Is that the guy you wanted to introduce me to?
+47,SPK_SAORI,"Yes indeed. The whole purpose of today was to get 
+you two to meet."
+48,SPK_SAORI,*cough* Now then.
+49,SPK_SAORI,This is Kousaka Kyousuke-shi.
+50,SPK_SAORI,"Fufun~, my boyfriend."
+51,SPK_UNKNOWN_2,Eh?
+52,SPK_KYOUSUKE,H-Hey there.
+53,SPK_UNKNOWN_2,[font_size=26]E[/font_size][font_size=24]h[/font_size]--!　[font_size=33]Really!?[/font_size] Really [font_size=28]really!?[/font_size]
+54,SPK_UNKNOWN_2,Saori-chan's boyfriend!
+55,SPK_UNKNOWN_2,"[font_size=26]No way, no way! Wow-!![/font_size]"
+56,SPK_UNKNOWN_2,Whaaaaaaaaa~~
+57,,This is one high-spirited kid.
+58,,"Isn't Saori's benefactor, around the level of a high 
+schooler..."
+59,,"Elementary... I was expecting at least a middle 
+schooler."
+60,SPK_UNKNOWN_2,"Not bad, not bad. He's definitely my type."
+61,SPK_SAORI,"I won't give him to you, y'know?"
+62,SPK_UNKNOWN_2,Kay~.
+63,,"She's not exactly my type, but she's still pretty 
+gorgeous."
+64,,"When a cute girl calls me her ""type"", I can't help 
+but get excited."
+65,SPK_SAORI,Now then Kyousuke-shi. I'll introduce her to you.
+66,SPK_SAORI,"This is Kurusu Kanata-san. She is an old 
+acquaintance as well as my precious benefactor."
+67,,"Saori used ""-san."" instead of her usual ""-shi"" suffix."
+68,,"Since it's her benefactor, she's special."
+69,SPK_KANATA,"Good to meet-cha, Kyousuke-kun♪"
+70,SPK_KYOUSUKE,"Same here, nice to meet you."
+71,,"Kurusu Kanata-chan, huh."
+72,,"Hmm, somehow that name sounds familiar."
+73,SPK_KYOUSUKE,"Um, is it fine if I call you Kurusu-chan?"
+74,SPK_KANATA,It's okay to be more casual~
+75,SPK_KYOUSUKE,Then... Kanata-chan?
+76,SPK_KANATA,"That's fine, sure... but..."
+77,SPK_KANATA,"Could you call me, Kanakana-chan?"
+78,,...What's with this deja vu.
+79,,I know I've heard this line from someone before.
+80,SPK_SAORI,"Kyousuke-shi, Kyousuke-shi."
+81,SPK_KYOUSUKE,...Huh? What's up?
+82,SPK_SAORI,"She's our senior, older even."
+83,SPK_KYOUSUKE,Huh? Who is?
+84,SPK_SAORI,"Kanata-san is older than you, you know?"
+85,SPK_KYOUSUKE,...W-What did you say?
+86,,"In a panic, I look again at Kanata-chan, I mean 
+Kanata-san."
+87,SPK_KANATA,"Hihi, I got exposed."
+88,SPK_KYOUSUKE,...For real? You're older?
+89,SPK_KANATA,"Yo. I'm a working adult, despite my appearance."
+90,SPK_KYOUSUKE,...I can't picture that at all.
+91,SPK_KANATA,"Uhihihi-, I look way younger than I actually am."
+92,SPK_KANATA,I wonder if I could pass for a high schooler?
+93,,You mean an elementary schooler.
+94,SPK_KYOUSUKE,"Um, Kanata-san."
+95,SPK_KANATA,"What is it, Kyousuke-kun?"
+96,SPK_KYOUSUKE,"You're Saori's benefactor, the person who gave her 
+those glasses, is what I've heard but..."
+97,SPK_KANATA,"Benefactor...? Ahaha, I haven't done anything of that 
+sort though."
+98,SPK_KANATA,"I just hang out with her, like I normally do."
+99,SPK_SAORI,"Which to me, was worth more than I can payback 
+in a lifetime."
+100,SPK_KANATA,"Just as always, you exaggerate too much."
+101,SPK_SAORI,Not at all.
+102,SPK_SAORI,"Since the beginning when I formed the ""Otaku Girls 
+Unite"" circle, till now."
+103,SPK_SAORI,"Kanata-san, you were the one who gave me the 
+push to start it all."
+104,SPK_KANATA,"...S-So I did do something, huh."
+105,,"It wasn't out of modesty, but Kanata-san really 
+became flustered."
+106,SPK_SAORI,"Yeah, it gave me a great amount of strong and 
+stern encouragement."
+107,,"But to Saori, it was definitely a life-changing event."
+108,SPK_KANATA,"Heh~, really~, ahahaha♪ Oh my~, I must have 
+been amazing back then!"
+109,,"""Crap! I don't remember at all!"" is written all over 
+her face."
+110,,She certainly seems like that kind of person.
+111,SPK_KANATA,Now then.
+112,SPK_KANATA,"We have plenty to talk about, and Kyousuke-kun is 
+here too."
+113,SPK_KANATA,"And besides, I pretty much forgotten all about 
+what happened."
+114,SPK_SAORI,Yeah.
+115,SPK_SAORI,Let's bring the past back up then.
