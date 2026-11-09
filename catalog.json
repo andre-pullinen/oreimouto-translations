@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T13:24:20Z",
+  "last_updated": "2026-11-09T13:26:33Z",
   "packages": [
     {
       "id": "lang_en_community",
@@ -45,7 +45,7 @@
       "size_bytes": 3504848,
       "links": {
         "vk": "https://vk.com/elevationnovel",
-        "anivisual": "https://anivisual.net/stuff/2-1-0-280"
+        "anivisual": "https://anivisual.net/stuff/41-1-0-3506"
       }
     }
   ]
