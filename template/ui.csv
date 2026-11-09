@@ -140,7 +140,7 @@ ACTION_NOVEL_QUICK_SAVE,Quick Save
 ACTION_NOVEL_QUICK_LOAD,Quick Load
 SETTINGS_AUTOSAVE_TITLE,Autosave
 SETTINGS_AUTOSAVE_DESC,Automatically save game state at story branches
-SETTINGS_LANGUAGE_TITLE,UI Language
+SETTINGS_LANGUAGE_TITLE,Language
 SETTINGS_LANGUAGE_DESC,"Language of menus, settings, and UI elements"
 SETTINGS_RESET_TAB,Reset Current Tab
 SETTINGS_RESET_ALL,Reset All to Defaults
@@ -844,10 +844,11 @@ SAVELOAD_CONFIRM_LOAD_AUTO_MSG,"Load Autosave No. %02d?
 Any unsaved progress will be lost."
 SETTINGS_SKIP_HOLD,Hold
 SETTINGS_SKIP_TOGGLE,Toggle
-SETTINGS_LANG_PACKS_TITLE,Language Packs & Translation
-SETTINGS_LANG_PACKS_DESC,"Export .CSV tables for translators, build and install language packs (.pck)"
+SETTINGS_LANG_PACKS_TITLE,Language Packs
+SETTINGS_LANG_PACKS_DESC,Installed language packs and game translations
 SETTINGS_LANG_PACKS_INSTALLED,Installed Packs: %d (%s)
 SETTINGS_LANG_PACKS_NONE,No external language packs installed (using base pack)
+SETTINGS_LANG_RESCAN_TOOLTIP,Rescan Language Packs
 SETTINGS_LANG_EXPORT_BTN,Export CSV
 SETTINGS_LANG_BUILD_BTN,Build .PCK
 SETTINGS_LANG_IMPORT_BTN,Import .PCK
@@ -858,3 +859,16 @@ SETTINGS_LANG_STATUS_EXPORT_OK,✓ Template exported (%d files): %s
 SETTINGS_LANG_STATUS_BUILD_OK,✓ Built and mounted: lang_%s.pck (%d files)
 SETTINGS_LANG_STATUS_IMPORT_OK,✓ Installed language pack: lang_%s.pck (%d files)
 SETTINGS_LANG_STATUS_ERROR,Error: %s
+SETTINGS_LANG_CARD_ACTIVE,✓ Active
+SETTINGS_LANG_CARD_SELECT,Select
+SETTINGS_LANG_CARD_INSTALLED,Installed
+SETTINGS_LANG_CARD_ORIGINAL,Original PSP (Base Game)
+SETTINGS_LANG_CARD_UI_ONLY,UI Only
+SETTINGS_LANG_RESCAN_BTN,Rescan
+SETTINGS_LANG_OPEN_FOLDER_BTN,Packs Folder
+SETTINGS_LANG_TRANSLATOR_TOOLS,Translator Tools (CSV)
+SETTINGS_LANG_STATUS_RESCAN_OK,✓ Found %d language pack(s)
+SETTINGS_LANG_STATUS_SWITCH_OK,✓ Language switched: %s
+SETTINGS_LANG_TAG_LOCAL,LOCAL
+SETTINGS_LANG_TAG_BASE,BASE ISO
+SETTINGS_LANG_BASE_AUTHOR,Disc Image

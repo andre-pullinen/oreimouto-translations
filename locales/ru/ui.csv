@@ -140,7 +140,7 @@ ACTION_NOVEL_QUICK_SAVE,Быстрое сохранение
 ACTION_NOVEL_QUICK_LOAD,Быстрая загрузка
 SETTINGS_AUTOSAVE_TITLE,Автосохранение
 SETTINGS_AUTOSAVE_DESC,Автоматическое сохранение на сюжетных развилках
-SETTINGS_LANGUAGE_TITLE,Язык интерфейса
+SETTINGS_LANGUAGE_TITLE,Язык
 SETTINGS_LANGUAGE_DESC,"Язык меню, настроек и элементов интерфейса"
 SETTINGS_RESET_TAB,Сбросить вкладку
 SETTINGS_RESET_ALL,Сбросить все настройки
@@ -844,10 +844,11 @@ SAVELOAD_CONFIRM_LOAD_AUTO_MSG,"Загрузить автосохранение 
 Весь несохраненный прогресс будет потерян."
 SETTINGS_SKIP_HOLD,Удерживать
 SETTINGS_SKIP_TOGGLE,Переключать
-SETTINGS_LANG_PACKS_TITLE,Языковые пакеты и перевод
-SETTINGS_LANG_PACKS_DESC,"Экспорт таблиц .CSV для переводчиков, сборка и установка языковых пакетов (.pck)"
+SETTINGS_LANG_PACKS_TITLE,Языковые пакеты
+SETTINGS_LANG_PACKS_DESC,Установленные языковые пакеты и переводы игры
 SETTINGS_LANG_PACKS_INSTALLED,Установлено пакетов: %d (%s)
 SETTINGS_LANG_PACKS_NONE,Дополнительные языковые пакеты не установлены (используется базовый пакет)
+SETTINGS_LANG_RESCAN_TOOLTIP,Обновить список языковых пакетов
 SETTINGS_LANG_EXPORT_BTN,Экспорт CSV
 SETTINGS_LANG_BUILD_BTN,Собрать .PCK
 SETTINGS_LANG_IMPORT_BTN,Импорт .PCK
@@ -858,3 +859,16 @@ SETTINGS_LANG_STATUS_EXPORT_OK,✓ Шаблон выгружен (%d файло�
 SETTINGS_LANG_STATUS_BUILD_OK,✓ Собрано и подключено: lang_%s.pck (%d файлов)
 SETTINGS_LANG_STATUS_IMPORT_OK,✓ Установлен языковой пакет: lang_%s.pck (%d файлов)
 SETTINGS_LANG_STATUS_ERROR,Ошибка: %s
+SETTINGS_LANG_CARD_ACTIVE,✓ Активен
+SETTINGS_LANG_CARD_SELECT,Выбрать
+SETTINGS_LANG_CARD_INSTALLED,Установлен
+SETTINGS_LANG_CARD_ORIGINAL,Оригинал PSP (базовая игра)
+SETTINGS_LANG_CARD_UI_ONLY,Только интерфейс
+SETTINGS_LANG_RESCAN_BTN,Обновить
+SETTINGS_LANG_OPEN_FOLDER_BTN,Папка пакетов
+SETTINGS_LANG_TRANSLATOR_TOOLS,Инструменты переводчика (CSV)
+SETTINGS_LANG_STATUS_RESCAN_OK,✓ Найдено языковых пакетов: %d
+SETTINGS_LANG_STATUS_SWITCH_OK,✓ Язык переключён: %s
+SETTINGS_LANG_TAG_LOCAL,ЛОКАЛЬНЫЙ
+SETTINGS_LANG_TAG_BASE,БАЗОВЫЙ ISO
+SETTINGS_LANG_BASE_AUTHOR,Образ диска

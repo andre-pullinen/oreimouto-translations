@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T13:30:33Z",
+  "last_updated": "2026-11-09T17:35:02Z",
   "packages": [
     {
       "id": "lang_en_community",
@@ -19,8 +19,8 @@
       "total_lines": 37383,
       "translated_lines": 36449,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_en.pck",
-      "sha256": "3b207b4df491bdc3d427246e3383763e778203f8489dfacfff4601f51e0e1589",
-      "size_bytes": 2487824,
+      "sha256": "0e955677b6ef049b75b55f561b770076e8c0a784b70fa7716d53534b274548df",
+      "size_bytes": 2489232,
       "links": {
         "website": "https://rinjinbutranslations.blogspot.com/",
         "romhacking": "https://www.romhacking.net/translations/5873/"
@@ -41,8 +41,8 @@
       "total_lines": 37383,
       "translated_lines": 31244,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
-      "sha256": "a6b4395fceff832e81fe7eaa04ea456a6eaf8a0dcc9e8ebaec5dc8b9495dcc39",
-      "size_bytes": 3504848,
+      "sha256": "5e7aba62b35a4663c80996fd0ddbe1d22558e018f76e72f947808c1aac16d972",
+      "size_bytes": 3505584,
       "links": {
         "vk": "https://vk.com/elevationnovel",
         "ruvn": "https://ruvn.org/novels/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai"
