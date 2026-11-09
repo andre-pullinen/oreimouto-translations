@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T13:07:10Z",
+  "last_updated": "2026-11-09T13:24:20Z",
   "packages": [
     {
       "id": "lang_en_community",
@@ -23,7 +23,7 @@
       "size_bytes": 2487824,
       "links": {
         "website": "https://rinjinbutranslations.blogspot.com/",
-        "romhacking": "https://www.romhacking.net/translations/5862/"
+        "romhacking": "https://www.romhacking.net/translations/5873/"
       }
     },
     {

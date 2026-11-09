@@ -28,7 +28,7 @@ We express our sincere respect and deepest gratitude to the original fan-transla
 
 ### 🇬🇧 English Translation: Rinjinbu Translations
 * **Team:** [Rinjinbu Translations](https://rinjinbutranslations.blogspot.com/)
-* **ROMhacking.net Entry:** [Ore no Imouto Portable ga Tsuzuku Wake ga Nai (English v1.0)](https://www.romhacking.net/translations/5862/)
+* **ROMhacking.net Entry:** [Ore no Imouto Portable ga Tsuzuku Wake ga Nai (English v1.0)](https://www.romhacking.net/translations/5873/)
 * **Project Lead & Technical Hacking:** Dizzy Ziddy
 * **Hacking & Technical Support:** Chronoes, Falaina, RoByte, xyz, Barracuda72
 * **Lead Translators:** SnowyAria, ChuunibyouYuusha, dango, Ddd, EternalDreamer, jaypee, Keisuke999, Kylon, Taly, Oosran, Otonashi, Valena, MaguroSenbei
