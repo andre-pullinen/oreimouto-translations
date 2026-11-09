@@ -38,7 +38,7 @@ We express our sincere respect and deepest gratitude to the original fan-transla
 ### 🇷🇺 Russian Translation: Elevation
 * **Team:** [Elevation (Команда переводов)](https://vk.com/elevationnovel)
 * **Community Page:** [VK: Elevation Visual Novels](https://vk.com/elevationnovel) (ID: [club86292524](https://vk.com/club86292524))
-* **Visual Novel Database Entry:** [Anivisual: Ore no Imouto Portable (Russian)](https://anivisual.net/stuff/41-1-0-3506)
+* **База визуальных новелл (RuVN):** [Ore no Imouto ga Konna ni Kawaii Wake ga Nai (RuVN Entry)](https://ruvn.org/novels/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai)
 * **Project Lead, Reverse Engineering & Hacking:** The_Almighty_D (Дайсукэ / Daisuke-sensei)
 * **Translators & Editors:** The_Almighty_D, XRay, Gyt, Akira, and Elevation Team contributors
 
