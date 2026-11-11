@@ -1,0 +1,94 @@
+ID,SPEAKER,TEXT
+0,,"[FI] As the end of our summer holidays approached, 
+the Game Research Club gathered for a second 
+meeting."
+1,,"[FI] After reflecting on what happened last time, I 
+made my preparations. Sena probably has too."
+2,,"[FI] But, it seems we're not the only ones."
+3,SPK_KURONEKO,[FI] I recommend creating Akagi-san's game this time.
+4,SPK_KYOUSUKE,[FI] ...Eh?
+5,SPK_SENA,"[FI] Y-You're fine with it, Gokou-san?"
+6,SPK_KURONEKO,"[FI] Yes. My game was made for the game contest last 
+time, and another one of mine was prepared for 
+Summer Comiket."
+7,SPK_KURONEKO,"[FI] If we're starting off with a new project, we should 
+be using one of yours instead of mine."
+8,SPK_KURONEKO,"[FI] I mean, surely you aren't satisfied constantly 
+supporting other people's projects?"
+9,SPK_SENA,[FI] ...Gokou-san...
+10,SPK_KURONEKO,[FI] ...What's the matter?
+11,SPK_SENA,"[FI] Ah... it's nothing. But, thank you."
+12,SPK_KURONEKO,"[FI] There's no reason to thank me. I'm just saying 
+what's right."
+13,SPK_KURONEKO,"[FI] Moreover, if we both keep being stubborn about 
+our demands, nothing will get done."
+14,,"[FI] I see, she's also done some thinking of her own 
+since last time."
+15,SPK_SENA,"[FI] Then, since I have Gokou-san's approval, that means 
+I can make a tasteful homo-game to my heart's 
+content, right? Should I go macho or shota?"
+16,SPK_KURONEKO,"[FI] P-Please wait. I said I supported you but, I can't 
+just let you do as you please."
+17,SPK_KURONEKO,"[FI] Of course, as a doujin game, we should base it on 
+what we like but..."
+18,SPK_KURONEKO,"[FI] If you go all-out, it will only create chaos for us."
+19,SPK_MAKABE,"[FI] I agree. If you make your uncensored delusions a 
+reality, in the worst-case, our club will get 
+suspended on the first day of the cultural festival."
+20,SPK_MAKABE,[FI] My heart will be broken as well...
+21,SPK_SENA,"[FI] I-I understand. I'll compromise at that point. I'll 
+lighten up on the BL elements and focus more on 
+RPG gameplay."
+22,SPK_KURONEKO,[FI] Please do.
+23,,"[FI] Mutual compromise, huh...? It's great that we could 
+solve this peacefully."
+24,SPK_KYOUSUKE,"[FI] I'm not trying to put you down, but making a 
+time-consuming RPG game isn't exactly fitting for 
+the cultural festival, right?"
+25,SPK_PRESIDENT,"[FI] Good point, Kousaka. You're right, when you want 
+to show the appeal of a game in a short period of 
+time, RPGs and novel games aren't suitable."
+26,SPK_PRESIDENT,"[FI] That's why I made a shooting game back when we 
+were recruiting new members."
+27,SPK_KYOUSUKE,"[FI] Ah, that shitty game."
+28,SPK_PRESIDENT,[FI] Guohhhhh! Y-You really don't pull your punches!
+29,SPK_KURONEKO,[FI] [font_size=28]But it's truly a shitty game.[/font_size]
+30,SPK_SENA,"[FI] [font_size=33]Yep, a shitty game.[/font_size]"
+31,SPK_PRESIDENT,[FI] ...You guys... have more sympathy for your senior...!
+32,SPK_MAKABE,"[FI] Everyone's so cruel. There's some merit on what 
+he's saying, so let's just take that point into 
+consideration, okay?"
+33,SPK_PRESIDENT,"[FI] Ohh, Makabe! You're my only ally!"
+34,SPK_MAKABE,[FI] I must admit all your games are shitty though.
+35,SPK_PRESIDENT,[FI] ...
+36,,"[FI] That was the finishing blow. He's completely 
+speechless. Lifting him up to fall... that trick is scary..."
+37,,"[FI] Watching the two of them go at each other, a 
+certain girl was completely entranced."
+38,SPK_SENA,[FI] My oh my. Fufufu...
+39,,[FI] Just what is she imagining them doing in her brain...
+40,SPK_MAKABE,"[FI] At any rate, we'll just come up with a bunch of 
+ideas to make up for it. Like preparing a trailer or 
+introducing action mechanics."
+41,SPK_MAKABE,"[FI] Can you consider adding that in, Akagi-san? Or 
+would it be better for Gokou-san to work on it?"
+42,SPK_SENA,"[FI] I... feel that I'm better suited to handle the tweaking 
+of mechanics to enhance the game."
+43,SPK_KURONEKO,"[FI] But you're leading the project this time, right?"
+44,SPK_KURONEKO,"[FI] You're gonna write the scenario, cut the content, 
+balance the game... You have to debug the game as 
+well, you can't keep up with all of that."
+45,SPK_SENA,"[FI] That's true... But, that's not really your field of 
+expertise either."
+46,SPK_KURONEKO,"[FI] That's true, but..."
+47,SPK_PRESIDENT,[FI] How about letting me handle the design?
+48,SPK_BOTH,[FI] [font_size=33]No thank you.[/font_size]
+49,SPK_PRESIDENT,[FI] ...My... My juniors don't have any faith in me...
+50,SPK_MAKABE,"[FI] Cheer up, please. In a way, we do have faith in you... 
+that you have no sense of game design."
+51,SPK_PRESIDENT,"[FI] Are you trying to cheer me up or choke the life 
+out of me?!"
+52,SPK_KYOUSUKE,[FI] Hey... Can I say something?
+53,SPK_SENA,[FI] What is it? Kousaka-senpai.
+54,SPK_KYOUSUKE,"[FI] Actually... I've thought about it at home, who should 
+be working on what, I mean."

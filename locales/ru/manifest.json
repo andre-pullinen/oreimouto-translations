@@ -8,6 +8,12 @@
     "Elevation"
   ],
   "version": "1.0.0",
+  "tags": [
+    "partial"
+  ],
+  "tag_notes": {
+    "partial": "Переведено **84%** текста основного сюжета.\n\n- Ветка Кирино: **100%**\n- Ветка Куронеко: **70%**\n- Реплики O.S.I.S.: в процессе"
+  },
   "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
   "links": {
     "vk": "https://vk.com/elevationnovel",

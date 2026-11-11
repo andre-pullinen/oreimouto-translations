@@ -1,0 +1,80 @@
+ID,SPEAKER,TEXT
+0,SPK_KURONEKO,[FI] Well now... What should I do?
+1,SPK_KURONEKO,[FI] I'm not obliged to listen to anything you say.
+2,,"[FI] From the looks of things, should I give it another try?"
+3,,[FI] What should I say anyway...? Or should I just monitor the situation quietly...
+4,SPK_KURONEKO,[FI] ...At a loss for words?
+5,SPK_KURONEKO,"[FI] After coming all this way, you've run out of words to say? You're so useless..."
+6,SPK_KYOUSUKE,"[FI] N-No, it's nothing like that....!"
+7,,[FI] Damn... Staying quiet had the opposite effect...
+8,SPK_KYOUSUKE,"[FI] I know I'm being long-winded, but please."
+9,SPK_KYOUSUKE,"[FI] ""I'm hiding something"" is written all over your face. Doesn't it just feel weird when you don't want me to be concerned over this?"
+10,SPK_KURONEKO,"[FI] ......Oh well, it could probably be because of me that you're doing so much."
+11,SPK_KURONEKO,"[FI] So you want to hear it, no matter what?"
+12,SPK_KYOUSUKE,[FI] No matter what.
+13,SPK_KURONEKO,[FI] ...I see.
+14,SPK_KYOUSUKE,"[FI] Yeah, that's right."
+15,SPK_KURONEKO,[FI] So... I am considered one of your 【important friends】?
+16,,[FI] Guh... So embarrassing to hear her repeat it like that...
+17,,"[FI] Well, now that I came so far, it'd be wrong to try and dodge the subject..."
+18,SPK_KYOUSUKE,[FI] Y-Yeah... You might say that.
+19,SPK_KURONEKO,"[FI] Heh, is that so..."
+20,SPK_KURONEKO,"[FI] That's fine then, I'll give you a reward. Since you answered so honestly."
+21,SPK_KYOUSUKE,"[FI] Why are you looking down on me? Wait, a reward..."
+22,SPK_KURONEKO,[FI] Yes...
+23,SPK_KURONEKO,[FI] I shall answer you.
+24,SPK_KURONEKO,"[FI] You're such a hopeless person, aren't you..."
+25,SPK_KURONEKO,[FI] *sigh* How pathetic... Fine then...
+26,SPK_KURONEKO,"[FI] There's no way around it, so listen well."
+27,SPK_KYOUSUKE,[FI] R-Really...
+28,SPK_KYOUSUKE,[FI] Thanks.
+29,SPK_KURONEKO,[FI] ...I guess you have heard from Saori? About my circle taking part in the upcoming Summer Comiket.
+30,SPK_KYOUSUKE,"[FI] Yeah, I've heard about it."
+31,SPK_KURONEKO,[FI] That piece of manuscript hasn't been proceeding as smoothly as planned.
+32,SPK_KURONEKO,[FI] So now I'm falling behind and trying to turn it around... That's all.
+33,SPK_KYOUSUKE,[FI] ...That's all?
+34,SPK_KURONEKO,[FI] Yes. That's all.
+35,SPK_KYOUSUKE,[FI] ...Really?
+36,SPK_KURONEKO,[FI] ...You sure are persistent.
+37,SPK_KYOUSUKE,[FI] Hmm... Then leave this to me! I will--
+38,SPK_KURONEKO,[FI] I don't need it.
+39,SPK_KYOUSUKE,[FI] I haven't even said anything yet!
+40,SPK_KURONEKO,"[FI] You would say ""Allow me to help out!"" anyway, right?"
+41,SPK_KYOUSUKE,[FI] ...Can you read my mind?
+42,SPK_KURONEKO,"[FI] Do you know what an ""unwelcome favor"" means? That's what you are right now."
+43,SPK_KURONEKO,[FI] Can you please not misunderstand? I'm only telling you this because you're being persistent and I don't have the slightest intention of letting you take part.
+44,SPK_KURONEKO,[FI] ...So please don't do any more unnecessary things.
+45,SPK_KYOUSUKE,[FI] Unnecessary things...? I just want to help you...
+46,SPK_KURONEKO,[FI] Haven't I said it before? It's better to keep away from hindrances. These are all obstacles when it comes to production of works.
+47,SPK_KYOUSUKE,[FI] Am I really being a hindrance?
+48,SPK_KURONEKO,[FI] That's right. It is troublesome if I were to allow an amateur to take part.
+49,SPK_KURONEKO,[FI] Do you understand now? Can you even draw manga?
+50,SPK_KYOUSUKE,"[FI] ...It's true that I can't, but I also know this."
+51,SPK_KURONEKO,[FI] Oh?
+52,SPK_KYOUSUKE,"[FI] An ""assistant"" is required when it comes to manga, right?"
+53,SPK_KYOUSUKE,"[FI] Furthermore, there are many other things to do... That even an amateur could help out with."
+54,SPK_KURONEKO,"[FI] Oh, this is a surprise... Senpai actually knows about these things."
+55,SPK_KYOUSUKE,"[FI] Because I have known you long enough, that's why I know just this much."
+56,SPK_KURONEKO,"[FI] ...Hmph, all right."
+57,SPK_KURONEKO,[FI] This is all just a façade anyway.
+58,SPK_KYOUSUKE,[FI] A façade?
+59,SPK_KURONEKO,[FI] I shall inform you of the truth.
+60,SPK_KURONEKO,"[FI] It will surely hurt you... But you would still want to hear it anyway, right? Therefore..."
+61,SPK_KURONEKO,[FI] ...Are you prepared?
+62,SPK_KYOUSUKE,"[FI] Yeah, any time."
+63,SPK_KURONEKO,"[FI] Hehe, you have some nerve... Well then, allow me to tell you."
+64,SPK_KURONEKO,"[FI] To me, creating is the act of taking a fragment of my mind and recreate it, sublime it."
+65,SPK_KURONEKO,[FI] It is no exaggeration when I say that I created something new.
+66,SPK_KURONEKO,[FI] Which is why I shall not allow anyone to trespass on this domain.
+67,SPK_KURONEKO,"[FI] Especially someone like you, who doesn't even know where he stands. Never."
+68,,"[FI] Although her method of putting this across is unique, in short, isn't it still about that?"
+69,,"[FI] ""Don't come close to me"". Isn't that what you're trying to say, Kuroneko?"
+70,SPK_KURONEKO,"[FI] I should have said it before, if one were to step into the domain, punishment will be met."
+71,SPK_KURONEKO,[FI] Your punishment is my rejection. Are you able to withstand this punishment?
+72,,"[FI] ...Ah, I can't stand it... I can't bear it at all."
+73,SPK_KYOUSUKE,[FI] ...I'm sorry.
+74,SPK_KURONEKO,[FI] Hmph... I'm glad that you understand.
+75,SPK_KYOUSUKE,[FI] Damn it... I sure am useless.
+76,,[FI] ...I didn't expect to be rejected so straightforwardly.
+77,,[FI] Just when I thought Kuroneko would listen to me if I pushed on strongly...
+78,SPK_KYOUSUKE,[FI] And I thought our relationship would be fixed...

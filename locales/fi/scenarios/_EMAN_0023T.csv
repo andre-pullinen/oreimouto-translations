@@ -1,0 +1,230 @@
+ID,SPEAKER,TEXT
+0,SPK_MANAMI,"[FI] Kyou-chan, what was your favorite place we 
+visited?"
+1,SPK_KYOUSUKE,"[FI] My favorite? I'd say I enjoyed all of them, but 
+that's not answering your question, right?"
+2,SPK_MANAMI,"[FI] Well then, anything that really left an impression on 
+you?"
+3,SPK_KYOUSUKE,"[FI] Probably the Studio Park. Your town girl cosplay 
+really suits you."
+4,SPK_MANAMI,[FI] Really?
+5,SPK_KYOUSUKE,"[FI] Let's show the photo to Gramps. I'm sure he'll say 
+that you look really cute."
+6,SPK_MANAMI,[FI] Y-You think so?
+7,SPK_MANAMI,"[FI] You should have tried on some of the costumes, 
+too."
+8,SPK_KYOUSUKE,[FI] Like some evil magistrate?
+9,SPK_MANAMI,"[FI] No. A samurai's outfit would've suited you. I bet it'd 
+be so cool, don't you?"
+10,SPK_KYOUSUKE,"[FI] A samurai... Yeah, that would be pretty awesome."
+11,SPK_MANAMI,"[FI] I guess you wanted to cosplay as the evil 
+magistrate, doing the whole ""It's fine, isn't it?"" 
+routine?"
+12,SPK_KYOUSUKE,"[FI] That is the dream of all men... wait, what are you 
+making me say?!"
+13,SPK_MANAMI,[FI] Ehehe... Just as I thought.
+14,SPK_KYOUSUKE,[FI] *sigh*
+15,SPK_KYOUSUKE,[FI] ...
+16,SPK_MANAMI,"[FI] You know, I think an old Ronin Samurai outfit 
+would've suited you."
+17,SPK_KYOUSUKE,[FI] You sure like some old-people stuff.
+18,SPK_MANAMI,[FI] I don't think it's that's old!
+19,SPK_KYOUSUKE,"[FI] You know, I bet people ask for your age all the 
+time when you talk to them."
+20,SPK_MANAMI,[FI] I'm not trying to hide my age though?
+21,SPK_KYOUSUKE,[FI] That's not what I meant.
+22,SPK_MANAMI,[FI] Hmm?
+23,SPK_KYOUSUKE,"[FI] Never mind... Do your grandparents like period 
+dramas?"
+24,SPK_MANAMI,"[FI] Yeah! When I was a kid, I'd watch them together 
+with Grandpa."
+25,SPK_MANAMI,[FI] Anything else that left an impression?
+26,SPK_KYOUSUKE,"[FI] Probably the first place we went, Kiyomizu Temple."
+27,SPK_MANAMI,"[FI] The view from Kiyomizu Stage was beautiful. I 
+understand what they mean now when they say 
+""taking the plunge""."
+28,SPK_KYOUSUKE,"[FI] Well, you did almost fall down there."
+29,SPK_MANAMI,"[FI] Thanks to you, I didn't though."
+30,SPK_KYOUSUKE,"[FI] That incident really startled me, you know."
+31,SPK_MANAMI,"[FI] Ah, I wonder if someone fell instead of jumping 
+down? A new idiom, ""Fall by the wayside of 
+Kiyomizu Temple"" maybe?"
+32,SPK_KYOUSUKE,[FI] No idea what that means.
+33,SPK_MANAMI,"[FI] It means that falling down would be incredibly 
+dangerous."
+34,SPK_KYOUSUKE,"[FI] You don't need to make it an idiom. It's obviously 
+dangerous, isn't it?"
+35,SPK_MANAMI,"[FI] Yeah, I guess you're right, ehehe."
+36,SPK_KYOUSUKE,[FI] ...
+37,,[FI] ...Crap. Now I remembered that... sensation.
+38,SPK_MANAMI,"[FI] Kyou-chan, it's dangerous so you shouldn't jump 
+off, either."
+39,SPK_KYOUSUKE,[FI] I won't.
+40,SPK_MANAMI,"[FI] Kinkaku-ji Temple, Arashiyama... we've been to 
+many places."
+41,SPK_KYOUSUKE,"[FI] Yeah. Looking back at all that's happened, it's such 
+an eventful trip. We gotta thank Gramps properly 
+for this experience."
+42,SPK_MANAMI,"[FI] Hey, Kyou-chan. Let's take another trip, sometime."
+43,SPK_KYOUSUKE,"[FI] Sure, of course. Let's go somewhere other than 
+Kyoto."
+44,SPK_MANAMI,[FI] Yeah. I want to go to lots of places with you.
+45,SPK_KYOUSUKE,"[FI] In that case, going overseas sounds good too."
+46,SPK_MANAMI,"[FI] Wow, overseas~? Just thinking about it gets me 
+excited."
+47,SPK_KYOUSUKE,[FI] ...
+48,SPK_MANAMI,[FI] ...Kyou-chan?
+49,SPK_KYOUSUKE,[FI] Do you even need to ask? I feel the same as you.
+50,SPK_MANAMI,"[FI] Yeah, I thought you had similar feelings too."
+51,SPK_MANAMI,"[FI] Um, Kyou-chan. Yesterday and today were really 
+fun for me."
+52,SPK_MANAMI,"[FI] I know you tried really hard to make it entertaining 
+for my sake..."
+53,SPK_KYOUSUKE,"[FI] You've done so much for me over the years, so I 
+figured it was the least I could do."
+54,SPK_MANAMI,"[FI] So, as a sign of my appreciation... I'll, uh, give you 
+the last stamp."
+55,SPK_MANAMI,"[FI] Thank you very, very much.①"
+56,,"[FI] At last, the point card is completed."
+57,SPK_KYOUSUKE,"[FI] Thanks, Manami."
+58,SPK_MANAMI,[FI] Keep this a secret from Grandpa... okay?
+59,,"[FI] With glistening eyes, she squeezes my hand."
+60,SPK_KYOUSUKE,[FI] O-Okay.
+61,SPK_MANAMI,[FI] Kyou-chan... Umm...
+62,,"[FI] Her fingers entwined with mine while she looks up 
+at me... Oh crap, oh jeez, I'm losing my sense of 
+reason!!"
+63,SPK_KYOUSUKE,[FI] S... so I'll just... be in the bath.
+64,SPK_MANAMI,[FI] Y-Yeah...
+65,,[FI] I should cool my head...
+66,,"[FI] I stand up hastily and bumble my way to the 
+bathroom."
+67,SPK_MANAMI,"[FI] We sure walked a lot today, aren't you tired?"
+68,SPK_KYOUSUKE,"[FI] I'm fine, but what about you, Manami?"
+69,SPK_MANAMI,"[FI] Mmm... Yeah, I'm a little tired."
+70,SPK_MANAMI,"[FI] ...But, I really had a lot of fun on this trip."
+71,SPK_MANAMI,[FI] Kyou-chan... um...
+72,,"[FI] Manami looks up at me and... oh crap, oh jeez! My 
+sense of reason is slipping!!"
+73,SPK_KYOUSUKE,"[FI] S... so, I'll just head to the bath."
+74,SPK_MANAMI,[FI] Y-Yeah...
+75,,[FI] I should cool my head...
+76,,"[FI] I stand up hastily and bumble my way to the 
+bathroom."
+77,,[FI] There's only one space left on my point card.
+78,,"[FI] I gotta calm myself down, have a bath and think 
+about how to get that last stamp later."
+79,SPK_MANAMI,"[FI] Kyou-chan, what was your favorite place we 
+visited?"
+80,SPK_KYOUSUKE,"[FI] My favorite? I'd say I enjoyed all of them, but 
+that's not answering your question, right?"
+81,SPK_MANAMI,"[FI] Well then, anything that really left an impression on 
+you?"
+82,SPK_KYOUSUKE,"[FI] Probably the Studio Park. Your town girl cosplay 
+really suits you."
+83,SPK_MANAMI,[FI] Really?
+84,SPK_KYOUSUKE,"[FI] Let's show the photo to Gramps. I'm sure he'll say 
+that you look really cute."
+85,SPK_MANAMI,[FI] Y-You think so?
+86,SPK_MANAMI,[FI] You should have tried on some of the costumes too.
+87,SPK_KYOUSUKE,[FI] Like some evil magistrate?
+88,SPK_MANAMI,"[FI] No. A samurai's outfit would've suited you. I bet it'd 
+be so cool, don't you?"
+89,SPK_KYOUSUKE,"[FI] A samurai... Yeah, that would be pretty awesome."
+90,SPK_MANAMI,"[FI] I guess you wanted to cosplay as the evil 
+magistrate, doing the whole ""It's fine, isn't it?"" 
+routine?"
+91,SPK_KYOUSUKE,"[FI] That is the dream of all men... wait, what are you 
+making me say?!"
+92,SPK_MANAMI,[FI] Ehehe... Just as I thought.
+93,SPK_KYOUSUKE,[FI] *sigh*
+94,SPK_KYOUSUKE,[FI] ...
+95,SPK_MANAMI,"[FI] You know, I think an old Ronin Samurai outfit 
+would've suited you."
+96,SPK_KYOUSUKE,[FI] You sure like some old-people stuff.
+97,SPK_MANAMI,[FI] I don't think it's that's old!
+98,SPK_KYOUSUKE,"[FI] You know, I bet people ask for your age all the 
+time when you talk to them."
+99,SPK_MANAMI,[FI] I'm not trying to hide my age though?
+100,SPK_KYOUSUKE,[FI] That's not what I meant.
+101,SPK_MANAMI,[FI] Hmm?
+102,SPK_KYOUSUKE,"[FI] Never mind... Do your grandparents like period 
+dramas?"
+103,SPK_MANAMI,"[FI] Yeah! When I was a kid, I'd watch them together 
+with Grandpa."
+104,SPK_MANAMI,[FI] Anything else that left an impression?
+105,SPK_KYOUSUKE,"[FI] Probably the first place we went, Kiyomizu Temple."
+106,SPK_MANAMI,"[FI] The view from Kiyomizu Stage was beautiful. I 
+understand what they mean now when they say 
+""taking the plunge""."
+107,SPK_KYOUSUKE,"[FI] Well, you did almost fall down there."
+108,SPK_MANAMI,"[FI] Thanks to you, I didn't though."
+109,SPK_KYOUSUKE,"[FI] That incident really startled me, you know."
+110,SPK_MANAMI,"[FI] Ah, I wonder if someone fell instead of jumping 
+down? A new idiom, ""Fall by the wayside of 
+Kiyomizu Temple"" maybe?"
+111,SPK_KYOUSUKE,[FI] No idea what that means.
+112,SPK_MANAMI,"[FI] It means that falling down would be incredibly 
+dangerous."
+113,SPK_KYOUSUKE,"[FI] You don't need to make it an idiom. It's obviously 
+dangerous, isn't it?"
+114,SPK_MANAMI,"[FI] Yeah, I guess you're right, ehehe."
+115,SPK_KYOUSUKE,[FI] ...
+116,,[FI] ...Crap. Now I remembered that... sensation.
+117,SPK_MANAMI,"[FI] Kyou-chan, it's dangerous so you shouldn't jump 
+off, either."
+118,SPK_KYOUSUKE,[FI] I won't.
+119,SPK_MANAMI,"[FI] Kinkaku-ji Temple, Arashiyama... we've been to 
+many places."
+120,SPK_KYOUSUKE,"[FI] Yeah. Looking back at all that's happened, it's such 
+an eventful trip. We gotta thank Gramps properly 
+for this experience."
+121,SPK_MANAMI,"[FI] Hey, Kyou-chan. Let's take another trip, sometime."
+122,SPK_KYOUSUKE,"[FI] Sure, of course. Let's go somewhere other than 
+Kyoto."
+123,SPK_MANAMI,[FI] Yeah. I want to go to lots of places with you.
+124,SPK_KYOUSUKE,"[FI] In that case, going overseas sounds good too."
+125,SPK_MANAMI,"[FI] Wow, overseas~? Just thinking about it gets me 
+excited."
+126,SPK_KYOUSUKE,[FI] ...
+127,SPK_MANAMI,[FI] ...Kyou-chan?
+128,SPK_KYOUSUKE,[FI] Do you even need to ask? I feel the same as you.
+129,SPK_MANAMI,"[FI] Yeah, I thought you had similar feelings too."
+130,SPK_MANAMI,"[FI] Um, Kyou-chan. Yesterday and today were really 
+fun for me."
+131,SPK_MANAMI,"[FI] I know you tried really hard to make it entertaining 
+for my sake..."
+132,SPK_KYOUSUKE,"[FI] You've done so much for me over the years, so I 
+figured it was the least I could do."
+133,SPK_MANAMI,"[FI] So, as a sign of my appreciation... I'll, uh, give you 
+the last stamp."
+134,SPK_MANAMI,"[FI] Thank you very, very much.①"
+135,,"[FI] At last, the point card is completed."
+136,SPK_KYOUSUKE,"[FI] Thanks, Manami."
+137,SPK_MANAMI,[FI] Keep this a secret from Grandpa... okay?
+138,,"[FI] With glistening eyes, she squeezes my hand."
+139,SPK_KYOUSUKE,[FI] O-Okay.
+140,SPK_MANAMI,[FI] Kyou-chan... Umm...
+141,,"[FI] Her fingers entwined with mine while she looks up 
+at me... Oh crap, oh jeez, I'm losing my sense of 
+reason!!"
+142,SPK_KYOUSUKE,[FI] S... so I'll just... be in the bath.
+143,SPK_MANAMI,[FI] Y-Yeah...
+144,,[FI] I should cool my head...
+145,,"[FI] I stand up hastily and bumble my way to the 
+bathroom."
+146,SPK_MANAMI,"[FI] We sure walked a lot today, aren't you tired?"
+147,SPK_KYOUSUKE,"[FI] I'm fine, but what about you, Manami?"
+148,SPK_MANAMI,"[FI] Mmm... Yeah, I'm a little tired."
+149,SPK_MANAMI,"[FI] ...But, I really had a lot of fun on this trip."
+150,SPK_MANAMI,[FI] Kyou-chan... um...
+151,,"[FI] Manami looks up at me and... oh crap, oh jeez! My 
+sense of reason is slipping!!"
+152,SPK_KYOUSUKE,"[FI] S... so, I'll just head to the bath."
+153,SPK_MANAMI,[FI] Y-Yeah...
+154,,[FI] I should cool my head...
+155,,"[FI] I stand up hastily and bumble my way to the 
+bathroom."
+156,,[FI] There's only one space left on my point card.
+157,,"[FI] I gotta calm myself down, have a bath and think 
+about how to get that last stamp later."

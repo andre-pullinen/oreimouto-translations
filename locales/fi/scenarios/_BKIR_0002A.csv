@@ -1,0 +1,152 @@
+ID,SPEAKER,TEXT
+0,,[FI] That evening--
+1,SPK_KYOUSUKE,[FI] Yes?
+2,SPK_KIRINO,[FI] Yo.
+3,SPK_KYOUSUKE,"[FI] Oh, it's you."
+4,SPK_KYOUSUKE,[FI] What's up?
+5,SPK_KIRINO,"[FI] Hmm, nothing really."
+6,SPK_KIRINO,[FI] I was wondering what you're up to.
+7,SPK_KYOUSUKE,[FI] Hmph.
+8,SPK_KYOUSUKE,[FI] As you can see here.
+9,SPK_KIRINO,"[FI] Oh, studying for your exams."
+10,SPK_KIRINO,[FI] How commendable.
+11,,[FI] This proud way of talking.
+12,,"[FI] If it were me in the past, I'd definitely be annoyed 
+by that."
+13,,[FI] For some reason... I don't feel that way now.
+14,SPK_KYOUSUKE,[FI] Aren't I amazing?
+15,SPK_KIRINO,[FI] Stop bragging.
+16,SPK_KYOUSUKE,[FI] Hehe.
+17,SPK_KIRINO,"[FI] Err... well, am I bothering you?"
+18,SPK_KYOUSUKE,[FI] Not really? I was just about to take a break.
+19,SPK_KIRINO,[FI] I see.
+20,,"[FI] Kirino nodded, then hopped onto my bed 
+spontaneously."
+21,SPK_KIRINO,[FI] How's it going?
+22,SPK_KYOUSUKE,[FI] So-so.
+23,SPK_KIRINO,[FI] Can you pass?
+24,SPK_KYOUSUKE,[FI] Leave it to me.
+25,SPK_KYOUSUKE,"[FI] If I fail, you'll probably say ""Isn't it because you 
+went to the beach during summer break~?"" and 
+make a fool out of me."
+26,SPK_KYOUSUKE,[FI] Not gonna let that happen.
+27,SPK_KIRINO,[FI] Even I'm not that mean.
+28,SPK_KIRINO,"[FI] So, I guess you're feeling confident then?"
+29,SPK_KYOUSUKE,"[FI] I've been doing this from time to time after all, 
+almost like accumulating savings."
+30,SPK_KYOUSUKE,"[FI] Anyway, what are you up to?"
+31,SPK_KYOUSUKE,[FI] You need me for life counseling again?
+32,SPK_KIRINO,[FI] It's not something that important.
+33,SPK_KIRINO,[FI] Do you want to go somewhere again tomorrow?
+34,SPK_KYOUSUKE,[FI] Where?
+35,SPK_KIRINO,[FI] Ta-dah!
+36,,"[FI] Kirino showed me what seemed like a ticket to a 
+live performance."
+37,,[FI] There's a Meruru illustration on it.
+38,SPK_KYOUSUKE,"[FI] What's this? ""Stardust Witch Meruru Cosplay Live 
+Party""?"
+39,SPK_KIRINO,"[FI] That's right! It's the super rare ticket that was 
+strangely popular despite the low number of seats 
+available!"
+40,SPK_KIRINO,[FI] It can admit just two people.
+41,SPK_KIRINO,"[FI] You brought me to the beach. This is kinda like, 
+umm, returning the favor?"
+42,,"[FI] A live performance the next day after going to the 
+beach, huh... She's a powerful girl."
+43,,"[FI] Nah... When it comes to otakus, that's one side they 
+probably all have."
+44,SPK_KYOUSUKE,"[FI] I see. If that's the case, I'll accompany you."
+45,SPK_KIRINO,[FI] Hmm.
+46,SPK_KYOUSUKE,[FI] What's up?
+47,SPK_KIRINO,"[FI] You know, haven't you been acting rather obedient 
+lately?"
+48,SPK_KYOUSUKE,[FI] R-Really?
+49,SPK_KIRINO,"[FI] Really, definitely. Last time, you seemed, how do I 
+put it, more reluctant."
+50,SPK_KIRINO,"[FI] Like when we first went to Akiba, or when we 
+visited Shibuya."
+51,SPK_KYOUSUKE,[FI] Is that how it went?
+52,SPK_KIRINO,[FI] Yep.
+53,SPK_KIRINO,"[FI] You know, aren't you gradually reaching a 
+dangerous level as a siscon? lol"
+54,SPK_KYOUSUKE,[FI] Guh...
+55,,[FI] As if you're one to talk.
+56,,[FI] If I had invited the old you to the beach...
+57,SPK_KIRINO,[FI] Huh? The beach? With you?
+58,SPK_KIRINO,[FI] ...Gross. There's no way I'll go.
+59,,[FI] --Something along those lines.
+60,,"[FI] Quite an accurate simulation, if I do say so myself."
+61,,"[FI] Still, it would be bad if I counter by saying what I 
+was thinking just now."
+62,,[FI] It'd definitely turn into a quarrel.
+63,SPK_KIRINO,[FI] Hehehe.
+64,,"[FI] Suppressing my temper against this cocky little 
+brat, I decided to change the topic."
+65,SPK_KYOUSUKE,"[FI] By the way, how did you manage to get such a 
+rare ticket?"
+66,SPK_KYOUSUKE,[FI] Did you get this from Saori?
+67,SPK_KIRINO,[FI] I got it from Kanako.
+68,,[FI] An unexpected answer in return.
+69,SPK_KYOUSUKE,[FI] From Kanako...
+70,,"[FI] Since it would be troublesome if anyone has 
+forgotten about her, I'll explain in simple terms."
+71,,[FI] ↑This girl is Kanako.
+72,SPK_KIRINO,"[FI] Kanako will also be performing at the event. So, I 
+got it through our connection as friends."
+73,SPK_KYOUSUKE,[FI] Isn't she unaware of your otaku hobbies?
+74,SPK_KIRINO,"[FI] ...No, actually..."
+75,SPK_KIRINO,[FI] That secret was exposed a while ago.
+76,SPK_KYOUSUKE,[FI] Wha...
+77,SPK_KYOUSUKE,"[FI] What a disaster! Is that really okay?! What if it ends 
+up like that time with Ayase--"
+78,SPK_KIRINO,"[FI] Calm down. As for what happened after, it turned 
+out just fine."
+79,SPK_KYOUSUKE,"[FI] Huh. Well, judging from your reaction, it does 
+appear that way."
+80,SPK_KIRINO,"[FI] I spilled the beans in front of Kanako, and I'm like 
+""Ah, it's over!"", but then--"
+81,SPK_KANAKO,"[FI] Stu-pid, what are you panicking about like you're 
+about to die?"
+82,SPK_KANAKO,"[FI] It's true that Kirino being an otaku is super 
+disgusting, but..."
+83,SPK_KANAKO,"[FI] But well, you're my pal. So, whatever."
+84,SPK_KANAKO,"[FI] If there's another event next time, I'll get you some 
+good seats."
+85,SPK_KIRINO,[FI] ...Something like that.
+86,SPK_KYOUSUKE,[FI] Kanako-san really is amazing.
+87,SPK_KIRINO,[FI] Isn't she? Isn't she? I became her fan in an instant!
+88,SPK_KYOUSUKE,"[FI] You're already an avid fan of the cosplayer Kanako 
+before that though."
+89,SPK_KYOUSUKE,"[FI] I bet the reason she found out was that you went 
+to her live performance, right?"
+90,SPK_KIRINO,"[FI] T-That's true, but!"
+91,SPK_KIRINO,"[FI] From now on, I don't have to worry about her 
+finding out, right? I can go all out in her fan 
+activities now."
+92,SPK_KYOUSUKE,[FI] ......
+93,,[FI] Will that make Kanako happy?
+94,,"[FI] Having a classmate that's also your avid fan, won't 
+that make things complicated in various ways?"
+95,,"[FI] Well, whatever. As long as Kirino is enjoying herself."
+96,SPK_KANAKO,"[FI] Stardust Witch Meruru, starts now~~♪"
+97,SPK_KIRINO,[FI] Kya--! Kanakana-chan~~!
+98,SPK_KIRINO,[FI] Marry me--!!
+99,SPK_KANAKO,[FI] ......
+100,,"[FI] Seeing Kirino like this, Kanako's face twitched for 
+an instant."
+101,SPK_KIRINO,"[FI] Ah~, I had so much fun. This is the best."
+102,SPK_KYOUSUKE,[FI] That's good to hear.
+103,SPK_KIRINO,"[FI] But you know, Kanako messed up the lyrics at one 
+point. How rare."
+104,SPK_KIRINO,[FI] Should I tell her to stay alert?
+105,SPK_KYOUSUKE,[FI] That was probably your fault.
+106,SPK_KIRINO,[FI] What are you talking about?
+107,SPK_KIRINO,"[FI] Well, whatever. Come on, let's go meet with Kanako."
+108,SPK_KYOUSUKE,[FI] Won't it be bad if I go too?
+109,SPK_KIRINO,"[FI] Ah, not really?"
+110,SPK_KIRINO,"[FI] Kanako already found out all about how you acted 
+as her manager."
+111,SPK_KYOUSUKE,[FI] Hey.
+112,,[FI] This girl is exposing one lie after another.
+113,,"[FI] She's an amazing person, but she's an idiot in areas 
+like this."

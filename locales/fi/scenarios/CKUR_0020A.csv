@@ -1,0 +1,23 @@
+ID,SPEAKER,TEXT
+0,,[FI] --Lunch break.
+1,,[FI] I couldn't talk to Kuroneko in the morning because of that idiot.
+2,,[FI] I'll try heading to the first years' classrooms to meet her.
+3,SPK_KURONEKO,[FI] Ah...
+4,SPK_KYOUSUKE,[FI] ...Hey.
+5,SPK_KURONEKO,[FI] Ah... Um...
+6,SPK_KYOUSUKE,[FI] Is there something wrong?
+7,SPK_KURONEKO,[FI] N-No. It's nothing.
+8,SPK_KYOUSUKE,[FI] I-I see.
+9,,[FI] Ugh... This is awkward...
+10,SPK_KYOUSUKE,"[FI] U-Um... Oh right, last night when I called you, you texted me saying you're in the middle of something. What were you doing?"
+11,SPK_KURONEKO,[FI] ...I was frying fish on the frying pan.
+12,SPK_KYOUSUKE,"[FI] Oh, I guessed it correctly."
+13,SPK_KURONEKO,[FI] ...Eh?
+14,SPK_KYOUSUKE,[FI] I was thinking if it was something like that.
+15,SPK_KURONEKO,"[FI] I, I see."
+16,SPK_KURONEKO,[FI] Um...
+17,SPK_KURONEKO,[FI] ...Do you need something?
+18,,"[FI] Still cold as ever, I see..."
+19,SPK_KYOUSUKE,[FI] Why don't we have lunch together?
+20,SPK_KURONEKO,"[FI] ...Um... sorry, I've already made plans...."
+21,SPK_KYOUSUKE,[FI] I see. See you then.

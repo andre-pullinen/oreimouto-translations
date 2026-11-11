@@ -1,0 +1,109 @@
+ID,SPEAKER,TEXT
+0,,"[FI] And so, the promised day with Ayase arrived."
+1,SPK_KYOUSUKE,[FI] ......
+2,SPK_AYASE,[FI] ......
+3,SPK_KYOUSUKE,[FI] ...Hey.
+4,SPK_AYASE,[FI] Yes?
+5,SPK_KYOUSUKE,"[FI] I've been wanting to say something since we got off the train, but... would you mind?"
+6,SPK_AYASE,[FI] What is it?
+7,SPK_KYOUSUKE,[FI] Why are we together in Akiba?
+8,,"[FI] Indeed. Having followed Ayase, the place that we'd finally arrived at was Akihabara."
+9,,"[FI] This is a place that should have absolutely no connection whatsoever to Ayase, so what are we doing here?"
+10,,[FI] I can't help but think she's planning something.
+11,,[FI] ...What the hell is she thinking?
+12,SPK_AYASE,"[FI] Well, I was thinking that maybe you could show me around this place today, Onii-san."
+13,SPK_KYOUSUKE,[FI] W-What...
+14,SPK_KYOUSUKE,[FI] You... want me to show you around Akiba?
+15,SPK_AYASE,[FI] Yes.
+16,SPK_AYASE,[FI] Well... I wanted to try going to the places that Kirino usually goes to.
+17,SPK_KYOUSUKE,[FI] Ah... That's it.
+18,,"[FI] Now that I think about it, that should've been obvious."
+19,,[FI] Everything Ayase does has to do with Kirino.
+20,SPK_KYOUSUKE,"[FI] So this is take two of 'Operation Overcome Otaku-phobia', huh."
+21,SPK_AYASE,[FI] ...Yes.
+22,,[FI] It's not like she wanted to go on a date with me anyway.
+23,,[FI] Thinking of it that way... it doesn't really hurt that much.
+24,SPK_KYOUSUKE,[FI] *sigh*
+25,SPK_AYASE,[FI] E-Eh? Um... Onii-san?
+26,SPK_KYOUSUKE,[FI] Hm? What?
+27,SPK_AYASE,"[FI] Onii-san, you... know a lot about this place and all... Do you like it?"
+28,SPK_KYOUSUKE,"[FI] Well, more than you at least."
+29,SPK_AYASE,[FI] ...Then it might be suitable to play around here as a way of returning the favor.
+30,,"[FI] Wait, could Ayase have taken me into consideration and chosen Akiba because of that?"
+31,SPK_KYOUSUKE,[FI] Seems like we're not quite in the clear yet.
+32,SPK_AYASE,[FI] Eh?
+33,SPK_KYOUSUKE,"[FI] Despite what you think, I'm not that deep into otaku culture."
+34,SPK_AYASE,[FI] I-Is that so?
+35,SPK_KYOUSUKE,"[FI] Yeah, so I'm not really all that familiar with Akiba."
+36,SPK_KYOUSUKE,[FI] It's usually just Kirino dragging me along.
+37,SPK_AYASE,[FI] ......
+38,SPK_AYASE,[FI] Then... I guess it won't do to choose this place to go to as a way of saying thanks...
+39,SPK_AYASE,"[FI] I'm sorry, I--"
+40,SPK_KYOUSUKE,"[FI] Ah, it's fine. Don't worry."
+41,SPK_KYOUSUKE,"[FI] In fact, I'm quite happy that you even thought about me."
+42,SPK_AYASE,[FI] Really?
+43,SPK_KYOUSUKE,[FI] Yeah.
+44,SPK_KYOUSUKE,[FI] Leave it to me. I'll take you to the places Kirino usually goes to.
+45,SPK_AYASE,[FI] Okay! Thank you very much!
+46,,"[FI] However, regarding the places that Kirino frequents..."
+47,,[FI] Where would be appropriate to bring Ayase?
+48,SPK_KYOUSUKE,[FI] Hmm...
+49,,"[FI] One place automatically came to mind, but bringing Ayase to ""that place"" is definitely out of the question.l"
+50,,[FI] That place is on a whole different level.
+51,,[FI] Today I'll bring her somewhere more common and gradually melt her prejudice.
+52,SPK_AYASE,"[FI] Onii-san, where are we going first?"
+53,SPK_KYOUSUKE,[FI] How about a place that sells 【H-games】?
+54,SPK_KYOUSUKE,[FI] !!
+55,SPK_AYASE,[FI] Definitely not! W-Why would we go to a place like that?!
+56,SPK_KYOUSUKE,[FI] Didn't you say you wanted to go to places that Kirino usually goes to!
+57,SPK_AYASE,[FI] ......
+58,SPK_AYASE,"[FI] Onii-san, you're doing it on purpose, aren't you?"
+59,SPK_KYOUSUKE,[FI] D-Doing what?
+60,SPK_AYASE,[FI] You looked as if you were enjoying yourself just now.
+61,SPK_KYOUSUKE,"[FI] Heh, you found out."
+62,SPK_AYASE,[FI] You're even delighted when I kick you... You're really a pervert.
+63,SPK_KYOUSUKE,[FI] It's not like I want you to kick me! I'm not that perverted!
+64,SPK_AYASE,[FI] A-Anyway...
+65,SPK_AYASE,[FI] I-I did say that I... wanted to properly understand Kirino's hobby.
+66,SPK_AYASE,"[FI] But on second thought, 【H-games】 are still too much."
+67,SPK_KYOUSUKE,"[FI] Alright, I get it."
+68,,[FI] Today I'll bring her somewhere more common and gradually melt her prejudice.
+69,,[FI] Our first stop was...
+70,,[FI] The doujin shop that Kirino frequents.
+71,,"[FI] It shouldn't be a problem bringing Ayase here, since the first floor is more or less an ordinary book store.."
+72,SPK_AYASE,[FI] Uu... It's all manga here...
+73,,[FI] Huh? She's already bailing?
+74,SPK_KYOUSUKE,"[FI] Say, do you hate manga?"
+75,SPK_AYASE,[FI] ...I neither hate nor like it.
+76,,[FI] So she's totally uninterested then.
+77,,[FI] ...This'll be tricky.
+78,,[FI] If she can't see why manga can be interesting... She'll have a hard time accepting this hobby..
+79,SPK_KYOUSUKE,[FI] Want to try reading a manga that Kirino likes?
+80,SPK_AYASE,[FI] Eh?
+81,SPK_KYOUSUKE,"[FI] Let's see... This, this and this over here, Kirino mentioned they're pretty interesting..."
+82,,[FI] I picked a couple of volumes which Kirino likes and showed them to Ayase.
+83,,"[FI] I've read these since Kirino forced me, but they're mainly aimed at girls.."
+84,SPK_KYOUSUKE,"[FI] These aren't strange at all, so you should try them."
+85,SPK_AYASE,[FI] O-Okay. I'll try reading them when I get home.
+86,SPK_KYOUSUKE,"[FI] Great, you do that."
+87,SPK_KYOUSUKE,"[FI] I'll just go and pay for them, so just wait here."
+88,SPK_AYASE,[FI] Eh... I'll pay.
+89,SPK_KYOUSUKE,[FI] It's okay. I picked them for you anyway.
+90,SPK_AYASE,"[FI] Ah, thank you very much."
+91,,"[FI] She minds even the smallest details, huh."
+92,,[FI] Ayase was gone when I returned from the register.
+93,SPK_KYOUSUKE,[FI] Huh? Where did she go?
+94,,[FI] I looked around the shop but she was nowhere to be seen.
+95,SPK_KYOUSUKE,[FI] S-She couldn't have...
+96,SPK_AYASE,[FI] O-Onii-san!
+97,SPK_KYOUSUKE,[FI] Whoa!
+98,SPK_AYASE,[FI] W-What is wrong with this store?! As I stepped onto the second floor... H-H-H-books everywhere-!
+99,SPK_KYOUSUKE,[FI] That's just what they sell here.
+100,SPK_AYASE,[FI] I-I knew you brought me here so you could sexually harass me!
+101,SPK_KYOUSUKE,[FI] That's a misunderstanding! It's not my fault you went up to the second floor without looking at the signs!!
+102,SPK_AYASE,[FI] U-Uu... But... But...
+103,SPK_AYASE,[FI] I can't take it anymore... Let's go out.
+104,SPK_KYOUSUKE,[FI] ...Are you okay?
+105,,"[FI] So walking around Akiba with Ayase is still impossible, I see!"
+106,,"[FI] It was a light one this time, but..."
+107,,[FI] M-My stomach still hurts...

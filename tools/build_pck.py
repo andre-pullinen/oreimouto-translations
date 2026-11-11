@@ -67,8 +67,6 @@ def build_pck(source_dir: str, output_pck_path: str, locale: str = None) -> Tupl
         for file in sorted(files):
             if file.startswith("."):
                 continue
-            if file == "manifest.json":  # keep manifest.csv inside PCK, manifest.json is repo metadata
-                continue
             disk_path = os.path.join(root, file)
             rel_path = os.path.relpath(disk_path, source_dir).replace("\\", "/")
             vfs_path = f"res://assets/data/lang/{locale}/{rel_path}"

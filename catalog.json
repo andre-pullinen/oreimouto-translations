@@ -1,11 +1,12 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-09T17:35:02Z",
+  "last_updated": "2026-11-11T19:24:22Z",
   "packages": [
     {
       "id": "lang_en_community",
       "locale": "en",
       "name": "English",
+      "short": "ENG",
       "team_name": "Rinjinbu Translations",
       "authors": [
         "Dizzy Ziddy",
@@ -15,12 +16,14 @@
       ],
       "version": "1.0.0",
       "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
-      "progress": 97.5,
+      "progress": 100.0,
       "total_lines": 37383,
-      "translated_lines": 36449,
+      "translated_lines": 37383,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_en.pck",
-      "sha256": "0e955677b6ef049b75b55f561b770076e8c0a784b70fa7716d53534b274548df",
-      "size_bytes": 2489232,
+      "sha256": "ecd39a640d91aee1287e4f31264d729863cfa319efe311f872ff89c14b2a67ab",
+      "size_bytes": 2489552,
+      "tags": [],
+      "tag_notes": {},
       "links": {
         "website": "https://rinjinbutranslations.blogspot.com/",
         "romhacking": "https://www.romhacking.net/translations/5873/"
@@ -30,6 +33,7 @@
       "id": "lang_ru_community",
       "locale": "ru",
       "name": "Русский",
+      "short": "RUS",
       "team_name": "Elevation",
       "authors": [
         "The_Almighty_D",
@@ -37,15 +41,62 @@
       ],
       "version": "1.0.0",
       "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
-      "progress": 83.58,
+      "progress": 84.39,
       "total_lines": 37383,
-      "translated_lines": 31244,
+      "translated_lines": 31546,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
       "sha256": "5e7aba62b35a4663c80996fd0ddbe1d22558e018f76e72f947808c1aac16d972",
       "size_bytes": 3505584,
+      "tags": [
+        "partial"
+      ],
+      "tag_notes": {
+        "partial": "Переведено **84%** текста основного сюжета.\n\n- Ветка Кирино: **100%**\n- Ветка Куронеко: **70%**\n- Реплики O.S.I.S.: в процессе"
+      },
       "links": {
         "vk": "https://vk.com/elevationnovel",
         "ruvn": "https://ruvn.org/novels/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai"
+      }
+    },
+    {
+      "id": "lang_zh_cn_community",
+      "locale": "zh_CN",
+      "name": "简体中文",
+      "short": "ZHO",
+      "team_name": "PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋汉化联盟",
+      "authors": [
+        "毫米子弹",
+        "RacZY7",
+        "死宅一个",
+        "Amalamya",
+        "大蘑菇酱",
+        "九十九",
+        "无节操女王",
+        "藤花末叶",
+        "法理守护神",
+        "十七的苍真",
+        "幻影の碎片",
+        "MKN2",
+        "気持い",
+        "PSP吧汉化组"
+      ],
+      "version": "1.0.0",
+      "description": "PSP平台《我的妹妹不可能这么可爱 便携版》Disc 1与Disc 2完整简体中文汉化包。由PSP吧汉化组、俺妹吧与游戏嗯蛋汉化联盟联合译制。",
+      "progress": 100.0,
+      "total_lines": 37383,
+      "translated_lines": 37383,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_zh_cn.pck",
+      "sha256": "ff3e0cc680c470aa9810d0ea4ce4f8c677bff15fa40cb1f798ad686f3b704f77",
+      "size_bytes": 18960940,
+      "tags": [
+        "beta"
+      ],
+      "tag_notes": {
+        "beta": "Предварительная **бета-версия** перевода.\n\n- Завершена вычитка основных сценариев\n- Интегрирован CJK-шрифт **Noto Sans SC**"
+      },
+      "links": {
+        "baidu_tieba": "https://tieba.baidu.com/p/1628163531",
+        "k73": "http://www.k73.com/psp/3067.html"
       }
     }
   ]

@@ -1,0 +1,292 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,[FI] Sure has been a while since we last came here...
+1,,"[FI] The last time we were here, we had the school trip. 
+At that time, we were just high school students, 
+just childhood friends."
+2,,"[FI] Now that we're university students, coming here to 
+Kyoto with Manami is just...　more emotionally deep."
+3,SPK_MANAMI,"[FI] We haven't been to Kyoto since our school trip. 
+Which reminds me, I remember you looked so 
+sleepy back then."
+4,SPK_KYOUSUKE,"[FI] I was so busy the day before, I didn't get much 
+sleep."
+5,SPK_MANAMI,"[FI] Kyou-chan, you know you're actually kinda careless... 
+That part of you worries me a little."
+6,SPK_KYOUSUKE,"[FI] Really? Come to think of it, didn’t you forget all 
+about your panties during the school trip?"
+7,SPK_MANAMI,[FI] N... N-N-N-No way!
+8,,[FI] Manami shook her head vigorously.
+9,SPK_MANAMI,"[FI] That was in middle school! And besides, that 
+incident was about my brother? Not me, but my 
+little brother!"
+10,SPK_KYOUSUKE,"[FI] Oh? Ha ha ha, Rock sure is scatterbrained, huh..."
+11,SPK_MANAMI,"[FI] Exactly, geez!"
+12,SPK_KYOUSUKE,"[FI] But, you dozed off on the bullet train, right? Didn't 
+you get enough sleep yesterday?"
+13,SPK_MANAMI,"[FI] Ehehe, I was so excited, I didn't get much sleep at 
+all."
+14,SPK_KYOUSUKE,"[FI] What are you, some kid looking forward to a trip..."
+15,SPK_MANAMI,"[FI] You could have just woken me up, you know..."
+16,SPK_KYOUSUKE,"[FI] It seemed like you were enjoying your nap, so I 
+didn't want to disturb you."
+17,SPK_MANAMI,"[FI] ...Thanks, Kyou-chan."
+18,SPK_KYOUSUKE,[FI] Y-Yeah...
+19,,"[FI] Manami's smile was so bright that I couldn't help 
+but avert my eyes."
+20,SPK_MANAMI,"[FI] Hey, um, Kyou-chan. Could you wait here, just for a 
+while?"
+21,SPK_KYOUSUKE,[FI] Hm? What's up?
+22,SPK_MANAMI,[FI] Um... well...
+23,,"[FI] Manami fidgets around like it was something 
+embarrassing...  Ah, nature calls?"
+24,SPK_KYOUSUKE,"[FI] I'll wait right here, so don't worry and go ahead."
+25,SPK_MANAMI,"[FI] Okay, I'll be right back."
+26,SPK_KYOUSUKE,"[FI] We're really here, huh... A vacation at Kyoto with 
+just the two of us."
+27,,"[FI] I reach into my pocket and take out the card that 
+Manami's grandfather gave me before setting off 
+for the trip."
+28,SPK_MANAMI,"[FI] Just the two of us on vacation, it kinds feels like 
+we're all grown up?"
+29,SPK_KYOUSUKE,"[FI] I think you are exaggerating. I mean, it's pretty 
+normal to go on domestic trips, right?"
+30,,"[FI] Unless of course, since we're dating and all, she's 
+talking about... THAT? Should I be anticipating 
+something?"
+31,SPK_MANAMI,[FI] Hmm... I wonder...
+32,SPK_KYOUSUKE,[FI] Do you mean something like a graduation trip?
+33,SPK_MANAMI,"[FI] Okay, so is this trip a late graduation trip then?"
+34,SPK_KYOUSUKE,"[FI] A late graduation trip, a late graduation... sure. I'm 
+fine with that."
+35,SPK_MANAMI,"[FI] Yeah, that's right. I wonder if I should as well..."
+36,SPK_KYOUSUKE,"[FI] Hey, wait a sec. ""Graduation""? You don't mean..."
+37,SPK_MANAMI,[FI] Eh?
+38,SPK_MANAMI,"[FI] Um, Kyou-chan, are you thinking of something else?"
+39,SPK_KYOUSUKE,[FI] N-No... why'd you ask?
+40,SPK_MANAMI,"[FI] Feels like you might be thinking of something 
+strange..."
+41,SPK_KYOUSUKE,"[FI] N-Nah, there's no way."
+42,,[FI] What is she... a mind reader?
+43,SPK_MANAMI,[FI] It's fine if you aren’t...
+44,SPK_MANAMI,"[FI] So this is a graduation trip, where we visit Kyoto 
+once again. We can definitely go to all the places 
+we couldn't go before."
+45,SPK_KYOUSUKE,[FI] Oh! Y-You're right about that...
+46,,"[FI] So that's what you meant by ""graduation trip"", 
+Miss Manami..."
+47,,"[FI] Now I can't say I wasn’t thinking of something... 
+malicious. I kinda feel guilty."
+48,SPK_GRANDPA,[FI] Whew whew! You two are heating things up...
+49,SPK_KYOUSUKE,"[FI] What the hell, Gramps..."
+50,SPK_GRANDPA,"[FI] Oh come on, no need to be that harsh."
+51,SPK_MANAMI,"[FI] Grandpa, Kyou-chan was spacing out just now..."
+52,SPK_GRANDPA,"[FI] This is just terrible. After all the trouble I went to 
+getting those tickets for a gift..."
+53,SPK_KYOUSUKE,[FI] That's not what I meant!
+54,SPK_GRANDPA,"[FI] It's fine. Don't judge a book by its cover, but 
+Kyou-chan will look after you properly, so there's 
+nothing to worry about."
+55,,[FI] Ugh... I can't make any rebuttal here.
+56,SPK_MANAMI,"[FI] I see. Sorry for assuming that you were thinking of 
+something weird..."
+57,SPK_GRANDPA,"[FI] Well, deep down inside, he's definitely anticipating a 
+lot from this trip... Aren't you, Kyou-chan?"
+58,SPK_KYOUSUKE,"[FI] Your wisdom over the years isn’t just for show, eh 
+Gramps?"
+59,SPK_GRANDPA,"[FI] We're both men, after all. I know all about what 
+you are thinking. Oh right, come here for a moment..."
+60,SPK_KYOUSUKE,[FI] Huh?
+61,SPK_GRANDPA,"[FI] Manami, I'll just borrow Kyou-chan for a bit."
+62,SPK_MANAMI,"[FI] Oh, okay..."
+63,SPK_KYOUSUKE,"[FI] ...Alright, what is it?"
+64,SPK_GRANDPA,"[FI] Other than the travel coupon, there's another 
+special present I have for you."
+65,SPK_KYOUSUKE,[FI] Special present?
+66,SPK_GRANDPA,"[FI] Ta-dah! I've put my blood, sweat, and tears into this, 
+a special Tamura Residence Point Card!"
+67,SPK_GRANDPA,"[FI] So, this card is set up to automatically get points 
+whenever you make Manami happy during your 
+trip."
+68,SPK_KYOUSUKE,[FI] Huh? What the heck? You finally lost the plot?
+69,SPK_GRANDPA,"[FI] Why must you always be so brash with your 
+words, Kyou-chan?!"
+70,SPK_KYOUSUKE,"[FI] Yeah, yeah. Anything else I should know?"
+71,SPK_GRANDPA,"[FI] I want you two to enjoy your trip to the fullest, so 
+I can't just tell you everything right now."
+72,SPK_KYOUSUKE,"[FI] Come on, out with it already."
+73,SPK_GRANDPA,"[FI] Aren't you a little too strict with your elders? I'll 
+have you know, once you collect a certain amount 
+of points, you'll get a reward from Manami."
+74,SPK_KYOUSUKE,[FI] What did you say...
+75,SPK_KYOUSUKE,"[FI] A-A special reward from Manami? What does that 
+mean?"
+76,SPK_GRANDPA,"[FI] You'll just have to collect enough points and find 
+out for yourself."
+77,SPK_KYOUSUKE,[FI] You say that but... Hmm?
+78,,"[FI] The last mark on the point card... a love knot?! There 
+are others too-"
+79,SPK_KYOUSUKE,"[FI] This looks like a checkpoint here. What does it 
+mean? It seems to be suggesting a sightseeing spot. 
+Gramps?"
+80,SPK_GRANDPA,"[FI] Aah, don't worry about it. I just thought these 
+locations might suit Manami. You two have the final 
+decision as to where you would like to go."
+81,SPK_GRANDPA,"[FI] I mean, I would appreciate it if you went to the 
+places I pointed out, though."
+82,SPK_KYOUSUKE,"[FI] You say something, Gramps?"
+83,SPK_GRANDPA,"[FI] *cough* *cough* Nope, nothing. I won't say 
+anything bad, just take the time to collect those 
+points."
+84,SPK_GRANDPA,"[FI] By the way, Manami doesn't know about this. Well, 
+I'll just leave it all up to you. Mufufu..."
+85,SPK_KYOUSUKE,[FI] I-I'll accept your gift then.
+86,SPK_GRANDPA,[FI] This is just a small present from me.
+87,SPK_GRANDPA,"[FI] So, Kyou-chan, enjoy this trip as much as you can, 
+okay? Good luck!"
+88,SPK_KYOUSUKE,"[FI] Y-Yeah, little by little then..."
+89,SPK_KYOUSUKE,[FI] Sure has been a while since we last came here...
+90,,"[FI] The last time we were here, we had the school trip. 
+At that time, we were just high school students, 
+only childhood friends."
+91,,"[FI] Now that we're university students, coming here to 
+Kyoto with Manami is just...　more emotionally deep."
+92,SPK_MANAMI,"[FI] We haven't been to Kyoto since our school trip. 
+Which reminds me, I remember you looked so 
+sleepy back then."
+93,SPK_KYOUSUKE,"[FI] I was so busy the day before, I didn't get much 
+sleep."
+94,SPK_MANAMI,"[FI] Kyou-chan, you know you're actually kinda careless... 
+That part of you worries me a little."
+95,SPK_KYOUSUKE,"[FI] Really? Come to think of it, didn’t you forget all 
+about your panties during the school trip?"
+96,SPK_MANAMI,[FI] N... N-N-N-No way!
+97,,[FI] Manami shook her head vigorously.
+98,SPK_MANAMI,"[FI] That was in middle school! And besides, that 
+incident was about my brother? Not me, but my 
+little brother!"
+99,SPK_KYOUSUKE,"[FI] Oh, really? Ha ha ha, Rock sure is scatterbrained, 
+huh..."
+100,SPK_MANAMI,"[FI] Exactly, geez!"
+101,SPK_KYOUSUKE,"[FI] But, you dozed off on the bullet train, right? Didn't 
+you get enough sleep yesterday?"
+102,SPK_MANAMI,"[FI] Ehehe, I was so excited, I didn't get much sleep at 
+all."
+103,SPK_KYOUSUKE,"[FI] What are you, some kid looking forward to a trip..."
+104,SPK_MANAMI,"[FI] You could have just woken me up, you know..."
+105,SPK_KYOUSUKE,"[FI] It seemed like you were enjoying your nap, so I 
+didn't want to disturb you."
+106,SPK_MANAMI,"[FI] Thanks, Kyou-chan."
+107,SPK_KYOUSUKE,[FI] Y-Yeah...
+108,,"[FI] Manami's smile was so bright that I couldn't help 
+but avert my eyes."
+109,SPK_MANAMI,"[FI] Hey, um, Kyou-chan. Could you wait here, just for a 
+while?"
+110,SPK_KYOUSUKE,[FI] Hm? What's up?
+111,SPK_MANAMI,[FI] Um... well...
+112,,"[FI] Manami fidgets around like it was something 
+embarrassing...  Ah, nature calls?"
+113,SPK_KYOUSUKE,"[FI] I'll wait right here, so don't worry and go ahead."
+114,SPK_MANAMI,"[FI] Okay, I'll be right back."
+115,SPK_KYOUSUKE,"[FI] We're really here, huh... A vacation at Kyoto with 
+just the two of us."
+116,,"[FI] I reach into my pocket and take out the card that 
+Manami's grandfather gave me before setting off 
+for the trip."
+117,SPK_MANAMI,"[FI] Just the two of us on vacation, it kinds feels like 
+we're all grown up?"
+118,SPK_KYOUSUKE,"[FI] I think you are exaggerating. I mean, it's pretty 
+normal to go on domestic trips, right?"
+119,,"[FI] Unless of course, since we're dating and all, she's 
+talking about... THAT? Should I be anticipating 
+something?"
+120,SPK_MANAMI,[FI] Hmm... I wonder...
+121,SPK_KYOUSUKE,[FI] Do you mean something like a graduation trip?
+122,SPK_MANAMI,"[FI] Okay, so is this trip a late graduation trip then?"
+123,SPK_KYOUSUKE,"[FI] A late graduation trip, a late graduation... sure. I'm 
+fine with that."
+124,SPK_MANAMI,"[FI] Yeah, that's right. I wonder if I should as well..."
+125,SPK_KYOUSUKE,"[FI] Hey, wait a sec. ""Graduation""? You don't mean..."
+126,SPK_MANAMI,[FI] Eh?
+127,SPK_MANAMI,"[FI] Um, Kyou-chan, are you thinking of something else?"
+128,SPK_KYOUSUKE,[FI] N-No... why'd you ask?
+129,SPK_MANAMI,"[FI] Feels like you might be thinking of something 
+strange..."
+130,SPK_KYOUSUKE,"[FI] N-Nah, there's no way."
+131,,[FI] What is she... a mind reader?
+132,SPK_MANAMI,[FI] It's fine if you aren't...
+133,SPK_MANAMI,"[FI] So this is a graduation trip, where we visit Kyoto 
+once again. We can definitely go to all the places 
+we couldn't go before."
+134,SPK_KYOUSUKE,[FI] Oh! Y-You're right about that...
+135,,"[FI] So that's what you meant by ""graduation trip"", 
+Miss Manami..."
+136,,"[FI] Now I can't say I wasn’t thinking of something... 
+malicious. I kinda feel guilty."
+137,SPK_GRANDPA,[FI] Whew whew!  You two are heating things up...
+138,SPK_KYOUSUKE,"[FI] What the hell, Gramps..."
+139,SPK_GRANDPA,"[FI] Oh come on, no need to be that harsh."
+140,SPK_MANAMI,"[FI] Grandpa, Kyou-chan was spacing out just now..."
+141,SPK_GRANDPA,"[FI] This is just terrible. After all the trouble I went to 
+getting those tickets for a gift..."
+142,SPK_KYOUSUKE,[FI] That's not what I meant!
+143,SPK_GRANDPA,"[FI] It's fine. Don't judge a book by its cover, but 
+Kyou-chan will look after you properly, so there's 
+nothing to worry about."
+144,,[FI] Ugh... I can't make any rebuttal here.
+145,SPK_MANAMI,"[FI] I see. Sorry for assuming that you were thinking of 
+something weird..."
+146,SPK_GRANDPA,"[FI] Well, deep down inside, he's definitely anticipating a 
+lot from this trip... Aren't you, Kyou-chan?"
+147,SPK_KYOUSUKE,"[FI] Your wisdom over the years isn’t just for show, eh 
+Gramps?"
+148,SPK_GRANDPA,"[FI] We're both men, after all. I know all about what 
+you are thinking. Oh right, come here for a moment..."
+149,SPK_KYOUSUKE,[FI] Huh?
+150,SPK_GRANDPA,"[FI] Manami, I'll just borrow Kyou-chan for a bit."
+151,SPK_MANAMI,"[FI] Oh, okay..."
+152,SPK_KYOUSUKE,"[FI] ...Alright, what is it?"
+153,SPK_GRANDPA,"[FI] Other than the travel coupon, there's another 
+special present I have for you."
+154,SPK_KYOUSUKE,[FI] Special present?
+155,SPK_GRANDPA,"[FI] Ta-dah!  I've put my blood, sweat, and tears into 
+this, a special Tamura House Point Card!"
+156,SPK_GRANDPA,"[FI] So, this card is set up to automatically get points 
+whenever you make Manami happy during your 
+trip."
+157,SPK_KYOUSUKE,[FI] Huh? What the heck? You finally lost the plot?
+158,SPK_GRANDPA,"[FI] Why must you always be so brash with your 
+words, Kyou-chan?!"
+159,SPK_KYOUSUKE,"[FI] Yeah, yeah. Anything else I should know?"
+160,SPK_GRANDPA,"[FI] I want you two to enjoy your trip to the fullest, so 
+I can't just tell you everything right now."
+161,SPK_KYOUSUKE,"[FI] Come on, out with it already."
+162,SPK_GRANDPA,"[FI] Aren't you a little too strict with your elders? I'll 
+have you know, once you collect a certain amount 
+of points, you'll get a reward from Manami."
+163,SPK_KYOUSUKE,[FI] What did you say...
+164,SPK_KYOUSUKE,"[FI] A special reward from Manami? What does that 
+mean?"
+165,SPK_GRANDPA,"[FI] You'll just have to collect enough points and find 
+out for yourself."
+166,SPK_KYOUSUKE,[FI] You say that but... Hmm?
+167,,"[FI] The last mark on the point card... a love knot?! There 
+are others too-"
+168,SPK_KYOUSUKE,"[FI] This looks like a checkpoint here. What does it 
+mean? It seems to be suggesting a sightseeing spot. 
+Gramps?"
+169,SPK_GRANDPA,"[FI] Aah, don't worry about it. I just thought these 
+locations might suit Manami. You two have the final 
+decision as to where you would like to go."
+170,SPK_GRANDPA,"[FI] I mean, I would appreciate it if you went to the 
+places I pointed out, though."
+171,SPK_KYOUSUKE,"[FI] You say something, Gramps?"
+172,SPK_GRANDPA,"[FI] *cough* *cough* Nope, nothing here. I won't say 
+anything bad, just take the time to collect these 
+points."
+173,SPK_GRANDPA,"[FI] By the way, Manami doesn't know about this. Well, 
+I'll just leave it all up to you. Mufufu..."
+174,SPK_KYOUSUKE,[FI] I-I'll accept your gift then.
+175,SPK_GRANDPA,[FI] This is just a small present from me.
+176,SPK_GRANDPA,"[FI] So, Kyou-chan, enjoy this trip as much as you can, 
+okay? Good luck!"
+177,SPK_KYOUSUKE,"[FI] Y-Yeah, little by little then..."

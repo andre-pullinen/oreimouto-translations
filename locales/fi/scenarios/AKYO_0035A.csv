@@ -1,0 +1,86 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,[FI] Isn't that a strange way of thinking?
+1,SPK_KYOUSUKE,"[FI] The opponents join under similar conditions. Even if I'm the bait or whatever, it's obvious that a unskillful player like me can only be a liability."
+2,SPK_KIRINO,[FI] ...Still whining?
+3,SPK_KURONEKO,"[FI] My, my... Such poor judgment."
+4,SPK_SAORI,[FI] Kyousuke-shi really is slow...
+5,SPK_KYOUSUKE,[FI] What do you mean by that?
+6,SPK_SAORI,"[FI] There is a reason for you to take part in the tournament, Kyousuke-shi. Cannon fodder or bait, these are just excuses!"
+7,SPK_SAORI,"[FI] Huhu, that's because Kiririn-shi and Kuroneko-shi aren't being honest."
+8,SPK_KYOUSUKE,"[FI] ...H-Hmph, you could have said that from the start. In that case I would've..."
+9,SPK_SAORI,"[FI] My, my... Kyousuke-shi really is dense."
+10,SPK_KIRINO,[FI] Can't you hurry? It's about to start.
+11,SPK_KYOUSUKE,[FI] All right. Leave it to me.
+12,,"[FI] After I finally gave up, Kirino and the rest immediately started training at Siscaly."
+13,,[FI] Kuroneko's expression completely changed the moment the game started.
+14,,[FI] She used the controller with such speed that I couldn't even see her fingers moving.
+15,,"[FI] Kuroneko's character, ""Alicia Blackcat"", danced like butterflies as she went on the offensive against Kirino's character, ""Tenjouin Mikoto""."
+16,,[FI] Wow... It's completely different when you see an expert playing.
+17,SPK_KURONEKO,"[FI] Although you pretend to be skillful, in truth you do not even measure up to me."
+18,SPK_SAORI,[FI] Ooh! As expected of the 【National Level】 Kuroneko-shi!
+19,SPK_KIRINO,"[FI] You're just a malicious and delusional girl. As always, you're ""only skilled at video games""."
+20,,"[FI] She especially emphasized the word ""only""."
+21,,"[FI] However, Kuroneko's moves are really good..."
+22,,[FI] Aren't we extremely lucky to have her as an ally?
+23,SPK_KURONEKO,"[FI] Do you not realize? Your moves, I know them like the back of my hand."
+24,SPK_KIRINO,[FI] Ugh...
+25,SPK_KURONEKO,[FI] Hmph... Full of openings...
+26,SPK_KIRINO,[FI] Hnng!
+27,SPK_KURONEKO,"[FI] Well, it's about time you take a break."
+28,SPK_KURONEKO,[FI] Enjoy your sleep in despair!
+29,,[FI] This is... an overwhelming defeat.
+30,SPK_KIRINO,[FI] .........
+31,SPK_KURONEKO,[FI] Shall I go easy on you in the next game?
+32,SPK_KIRINO,[FI] ...Ghnnn...
+33,,"[FI] Ah, ah. Kirino, she's glaring intensely at Kuroneko."
+34,SPK_KYOUSUKE,"[FI] Kirino, I know that feeling well-"
+35,,"[FI] She threw the controller?! Moreover, why at me?!"
+36,SPK_KIRINO,[FI] It's your fault...
+37,SPK_KYOUSUKE,[FI] Huh?! Me?!
+38,SPK_KIRINO,"[FI] It's because you were dilly-dallying, it made me lose focus!"
+39,SPK_KYOUSUKE,[FI] T-This is my fault?!
+40,SPK_KIRINO,[FI] If I was serious... this evil girl...
+41,SPK_KURONEKO,"[FI] Heh. For a weak beast, you sure bark a lot."
+42,SPK_KIRINO,[FI] You say something?
+43,SPK_KURONEKO,[FI] I said that this is a loser's howl.
+44,SPK_KIRINO,[FI] ...Gnn-Hmph! Are you trying to taunt me?
+45,SPK_KIRINO,[FI] Do you really think I'd take the bait?
+46,SPK_KYOUSUKE,[FI] Aren't you already...
+47,SPK_KIRINO,[FI] I'm not!
+48,SPK_KIRINO,"[FI] ...Ah, hah... Damn, damn...!"
+49,,[FI] This isn't good...
+50,SPK_KYOUSUKE,"[FI] Hey, Kuroneko, let her win a round."
+51,SPK_KURONEKO,[FI] I must decline. Please do not interrupt me during a duel.
+52,SPK_KYOUSUKE,"[FI] You two... It's merely a game, you're overreacting!"
+53,SPK_KURONEKO,[FI] ...Merely?
+54,SPK_KIRINO,[FI] ...A game?
+55,SPK_KYOUSUKE,[FI] Uwoh!
+56,SPK_KIRINO,[FI] What do you mean it's merely a game? Do you still not understand?
+57,SPK_KURONEKO,"[FI] This is a game, yet not a game. Have you still not realized that?"
+58,SPK_SAORI,"[FI] Well, well. The two of you don't need to be so fired up..."
+59,SPK_KIRINO,[FI] Hah!
+60,SPK_SAORI,[FI] Kyousuke-shi is already repenting.
+61,SPK_SAORI,"[FI] Anyway, what Kiririn-shi needs is to ""calm down""!"
+62,SPK_KIRINO,"[FI] I know that, even if you hadn't said it."
+63,,"[FI] After that, we changed our pairings many times and trained hard, but there was no breakthrough."
+64,,"[FI] Facing the national-level Kuroneko is out of question, but I still have trouble reading Kirino and Saori's moves."
+65,,"[FI] After being humiliated for dozens of rounds, this time it's Kirino & Kuroneko vs Saori & myself."
+66,,"[FI] No matter how you think about it, we should have no chance to win... However-"
+67,SPK_KIRINO,[FI] W-Wait! What are you doing?
+68,SPK_KURONEKO,[FI] You are in my way.
+69,SPK_KIRINO,[FI] I'm just trying to help you!
+70,SPK_KURONEKO,[FI] I don't need your help. I will maintain control over the battlefield by myself.
+71,SPK_KIRINO,[FI] Hah?!
+72,SPK_KURONEKO,"[FI] Frankly speaking, you're nothing but a nuisance."
+73,SPK_KIRINO,[FI] What's with that excuse!
+74,SPK_KURONEKO,[FI] Then how about having a 3-on-1 battle? I can release my sealed powers if there's nobody in my way.
+75,SPK_KIRINO,[FI] ...You really piss me off.
+76,,[FI] It's always like this...
+77,,"[FI] In the end, they forgot about the controllers and the quarreling started."
+78,,[FI] With the two of them like that-
+79,SPK_SAORI,[FI] Take that! There!
+80,,[FI] The uncontrolled characters are then swiftly taken care of.
+81,,"[FI] This memorable first victory, was brought to us by our two aces's ugly infighting."
+82,SPK_KYOUSUKE,[FI] You two... At least be friendly when you play together!
+83,,"[FI] Although they socialize without reservation when playing games, when it comes to being on good terms outside of that..."
+84,,"[FI] There's something more to it, huh?"

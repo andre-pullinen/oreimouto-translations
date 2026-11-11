@@ -1,0 +1,108 @@
+ID,SPEAKER,TEXT
+0,,[FI] The day after my exchange with Saori.
+1,,"[FI] I received a mail saying, ""I am really grateful for yesterday""."
+2,SPK_KYOUSUKE,[FI] Mail? ...From Saori.
+3,SPK_KYOUSUKE,"[FI] Since it's about yesterday, it must be regarding the goods?"
+4,SPK_KYOUSUKE,[FI] Let's see what it says...
+5,SPK_SAORI,[FI] Thank you for yesterday. ＠ω＠ノシ
+6,SPK_KYOUSUKE,[FI] A mail that's completely turning me off from the get go!
+7,,[FI] Can't she use emoticons like a normal high school girl would?
+8,,"[FI] Well, whatever, moving on."
+9,SPK_SAORI,"[FI] After that, I flew into the sky."
+10,SPK_KYOUSUKE,[FI] Her message's also flying.
+11,SPK_SAORI,"[FI] The feeling of lightness, and feet not touching the ground... Do you know of it?"
+12,SPK_SAORI,[FI] That feeling is also similar to that of a mother who lost her child.
+13,SPK_SAORI,"[FI] Yes, like myself who parted with my treasures..."
+14,,[FI] What's with this strange prose? What's she trying to tell me?
+15,SPK_SAORI,"[FI] When I came to, I was staring at an unknown ceiling."
+16,SPK_SAORI,[FI] I only heard later that I had collapsed on the train platform.
+17,SPK_SAORI,"[FI] Because of that, a few trains had to stop..."
+18,SPK_SAORI,[FI] Did you meet any problems on the way home?
+19,SPK_SAORI,"[FI] Because I was worried about this, I sneaked out of the ward to send this message."
+20,,[FI] Sneaked out of the ward...
+21,,[FI] Does that mean... She fainted and got sent to the hospital?!
+22,,"[FI] And if she sent this mail, that means she's outside the ward!"
+23,SPK_KYOUSUKE,"[FI] Pick up, pick up..."
+24,SPK_KYOUSUKE,[FI] It's no use...
+25,SPK_KYOUSUKE,[FI] Oh! It connected!
+26,SPK_KYOUSUKE,"[FI] Hello, Saori?"
+27,SPK_SAORI,[FI] Kyousuke-shi...
+28,SPK_SAORI,[FI] You've seen my mail?
+29,,"[FI] Oh... This classy voice... That Saori... She uses it occasionally on the phone... But no matter how many times I hear it, I'm still not used to it..."
+30,SPK_SAORI,"[FI] That mail was a mistake, so please forget about it..."
+31,SPK_KYOUSUKE,[FI] Which hospital are you at now?
+32,SPK_SAORI,"[FI] You won't listen, will you?"
+33,SPK_KYOUSUKE,[FI] Of course.
+34,SPK_SAORI,[FI] *sigh*...
+35,SPK_SAORI,[FI] Yokohama University Hospital.
+36,SPK_KYOUSUKE,"[FI] Yokohama City University Hospital, right?"
+37,SPK_KYOUSUKE,"[FI] Hold on, I'll be right there!"
+38,SPK_SAORI,[FI] Eh?! But! Here is...
+39,SPK_KYOUSUKE,[FI] If a mother gets separated with her child...
+40,SPK_KYOUSUKE,[FI] Then let them meet!
+41,,[FI] This is how I read Saori's mail as...
+42,,"[FI] ""I got so worried about the goods with you that I fainted. Please return them to me after all."""
+43,,"[FI] ...Then, I have no choice but to go, right?"
+44,SPK_KYOUSUKE,[FI] Saori!!!!
+45,SPK_SAORI,"[FI] ...You really came, Kyousuke-shi."
+46,SPK_KYOUSUKE,"[FI] Yup, got a problem with it?"
+47,SPK_SAORI,[FI] No. I only feel happy about it.
+48,SPK_SAORI,"[FI] However, I can't agree with raising your voice in the hospital."
+49,SPK_KYOUSUKE,[FI] Ugh... You're right...
+50,SPK_SAORI,"[FI] Well... This is a private room, so we won't be bothering other people."
+51,,[FI] Hmm? She laughed...
+52,,[FI] What's this? She's in better spirits than I thought.
+53,SPK_KYOUSUKE,"[FI] Anyway, why did you get hospitalized?"
+54,SPK_KYOUSUKE,[FI] You wrote that you fainted on the train platform in the mail. Did you bump your head or something?
+55,SPK_SAORI,"[FI] No, I simply got lightheaded due to overwork."
+56,SPK_KYOUSUKE,[FI] Lightheaded due to overwork?
+57,,[FI] Can it be that her spirit worsened because she parted with her otaku goods?
+58,,"[FI] No no, it can't be that."
+59,,[FI] Is what I thought... But this is Saori...
+60,,[FI] I looked at the backpack that I brought.
+61,,[FI] Inside it were the otaku goods Saori entrusted me with.
+62,,[FI] Saori passed it to me as she could only have asked me.
+63,SPK_KYOUSUKE,[FI] ......
+64,SPK_SAORI,"[FI] Kyousuke-shi, that's..."
+65,SPK_KYOUSUKE,"[FI] Ah, nothing... This is..."
+66,SPK_KYOUSUKE,[FI] It's just something I brought along by mistake!
+67,SPK_KYOUSUKE,"[FI] Therefore please don't mind it one bit at all, no worries!"
+68,SPK_SAORI,[FI] Kyousuke-shi...
+69,SPK_SAORI,"[FI] Thank you very much for specially making your way here. But, 【I'm completely fine now】."
+70,SPK_KYOUSUKE,[FI] Really?
+71,SPK_SAORI,"[FI] Yes, seeing your face is enough to make me feel better!"
+72,SPK_KYOUSUKE,[FI] Saori... Those goods...
+73,SPK_KYOUSUKE,[FI] I should return them to you after all.
+74,SPK_SAORI,[FI] Why?
+75,SPK_KYOUSUKE,[FI] Why you ask...
+76,SPK_KYOUSUKE,[FI] Because they're important to you? Because you didn't actually want to part with them?
+77,SPK_SAORI,[FI] That is unrelated to the present situation.
+78,SPK_SAORI,"[FI] Also, I want you to hold on to them by all means."
+79,SPK_KYOUSUKE,"[FI] Say, Saori."
+80,SPK_KYOUSUKE,[FI] Something really did happen.
+81,SPK_SAORI,"[FI] I'm simply exhausted. Summer Comiket's about to start, so I have my hands full."
+82,SPK_SAORI,[FI] But I'm fine now!
+83,SPK_KYOUSUKE,"[FI] I see. That's good, then."
+84,SPK_SAORI,[FI] ...Kyousuke-shi.
+85,SPK_KYOUSUKE,[FI] What is it?
+86,SPK_SAORI,[FI] I have a request.
+87,SPK_SAORI,[FI] Could you keep this hospitalization a secret from Kiririn-shi and Kuroneko-shi?
+88,SPK_KYOUSUKE,[FI] Huh? Why?
+89,SPK_KYOUSUKE,[FI] They would want to come visit you if they knew you were hospitalized.
+90,SPK_SAORI,[FI] That's why I would rather you kept quiet about it.
+91,SPK_SAORI,[FI] I feel really bad that I have caused you trouble as a result.
+92,SPK_SAORI,[FI] And I can't let those two worry about me too...
+93,SPK_KYOUSUKE,"[FI] I understand your feelings, but are you really okay with that?"
+94,SPK_SAORI,[FI] There weren't any problems from the medical examination.
+95,SPK_SAORI,[FI] Could you keep this a secret between the two of us?
+96,SPK_KYOUSUKE,"[FI] Well, if you put it like that..."
+97,SPK_SAORI,"[FI] I am indebted to you, Kyousuke-shi."
+98,SPK_SAORI,[FI] My deepest apologies for all the troubles I caused you.
+99,SPK_KYOUSUKE,"[FI] It's all right. ""Troubles""? Don't act so reserved."
+100,SPK_SAORI,[FI] But...
+101,SPK_KYOUSUKE,"[FI] That much isn't ""trouble"" for me! Maybe if we were strangers..."
+102,SPK_KYOUSUKE,"[FI] We're friends, right?"
+103,SPK_SAORI,[FI] ...haha.
+104,SPK_SAORI,"[FI] Hahahaha, indeed we are!"
+105,,"[FI] As I saw Saori laughing merrily, I thought..."
+106,,"[FI] No matter who, friends are great!"

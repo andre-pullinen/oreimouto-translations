@@ -1,0 +1,184 @@
+ID,SPEAKER,TEXT
+0,SPK_KIRINO,"[FI] ...Huh, so this is her house?"
+1,SPK_KIRINO,[FI] ...This sure is relaxing.
+2,SPK_KYOUSUKE,[FI] Kinda reminds me of Manami's home.
+3,SPK_KIRINO,[FI] Shut up.
+4,SPK_KIRINO,"[FI] Hey, hey, Tama-chan~"
+5,SPK_TAMAKI,[FI] !
+6,SPK_KIRINO,[FI] Come here♪ I'll give you a hug①
+7,SPK_TAMAKI,[FI] ...
+8,,"[FI] Tamaki shook her head very vigorously to reject 
+Kirino."
+9,SPK_KIRINO,[FI] Don't be like that~♪ Come over here~①
+10,,"[FI] There's no way you're going to attract little girls 
+talking like a gross creeper."
+11,,[FI] It's even giving me chills.
+12,SPK_TAMAKI,[FI] ...uhg
+13,,"[FI] Tamaki is looking at Kirino as if she's seen a 
+cockroach, and then-"
+14,,[FI] She ran up to me and sat on my lap.
+15,SPK_KYOUSUKE,[FI] Oh?
+16,SPK_TAMAKI,[FI] Ehehe.
+17,,[FI] This is bad.
+18,,[FI] This little sister is super cute.
+19,SPK_KIRINO,[FI] ...
+20,,[FI] This is bad.
+21,,[FI] This little sister is super scary.
+22,SPK_HINATA,"[FI] Kiri-nee, Kiri-nee!"
+23,SPK_KIRINO,[FI] Huh? What's up?
+24,SPK_HINATA,[FI] Wanna check out Ruri-nee's room!
+25,SPK_KIRINO,[FI] Oh-
+26,SPK_KIRINO,"[FI] Hehehe... Hina-chan, you think of some good things."
+27,SPK_HINATA,"[FI] Hehehe, Kiri-nee too, you get what I'm saying."
+28,,"[FI] They just met, yet they're already getting along 
+this well."
+29,SPK_KYOUSUKE,"[FI] Don't do anything bad, you two."
+30,SPK_HINATA,"[FI] Kousaka-kun, you're no fun!"
+31,SPK_KIRINO,"[FI] Yeah, that's right, you'd better shut up. How can I 
+miss out on such an amusing opportunity?"
+32,SPK_KYOUSUKE,[FI] ...These little sisters don't listen to a word I say.
+33,SPK_HINATA,"[FI] There's a picture of you in her room, Kiri-nee."
+34,SPK_KIRINO,[FI] Really? I totally wanna see that!
+35,SPK_HINATA,"[FI] Not only that, there's-"
+36,SPK_KIRINO,"[FI] Let's go already, before she comes back!"
+37,SPK_HINATA,"[FI] Okay, Kousaka-kun. Take care of Tama-chan."
+38,SPK_KYOUSUKE,[FI] ...And there they went.
+39,SPK_KYOUSUKE,[FI] ...I don't care... good grief.
+40,,[FI] Kirino and Hinata left the room.
+41,,"[FI] In other words, there's only Tamaki and me left 
+here."
+42,SPK_TAMAKI,[FI] ...
+43,SPK_KYOUSUKE,[FI] ...Ummm.
+44,SPK_KYOUSUKE,[FI] Wanna play something?
+45,SPK_TAMAKI,[FI] Yeah!
+46,SPK_KYOUSUKE,"[FI] Okay, what do you wanna play?"
+47,SPK_TAMAKI,[FI] Meruru!
+48,SPK_KYOUSUKE,[FI] ?  Meruru make-believe?
+49,,[FI] Tamaki shook her head.
+50,,[FI] Looks like I'm wrong.
+51,SPK_TAMAKI,[FI] Deee-bui-deee.
+52,SPK_KYOUSUKE,[FI] ?
+53,,[FI] I have no idea what she's saying.
+54,SPK_TAMAKI,[FI] Dee-bui-dee.
+55,SPK_KYOUSUKE,[FI] Ah... you mean a DVD?
+56,SPK_TAMAKI,[FI] Yeah!
+57,,[FI] Tamaki pointed at the side of the TV.
+58,,[FI] Meruru DVDs are laid out there.
+59,SPK_KYOUSUKE,[FI] Kuroneko actually owns Meruru DVDs...
+60,SPK_KURONEKO,"[FI] ...Well then, I'm borrowing this."
+61,SPK_KIRINO,"[FI] Hehe, it looks like you have finally realized the 
+greatness of Meruru."
+62,SPK_KURONEKO,[FI] Please don't be so foolish.
+63,SPK_KURONEKO,"[FI] Well, it is true that the battle scenes are of high 
+quality, but I have no intention of changing my 
+opinion on the garbage scenario."
+64,SPK_KURONEKO,"[FI] Heh, at best, it is worth watching to the end as a 
+sign of social obligation."
+65,SPK_KIRINO,"[FI] Oh you're so stubborn, you can't even admit you 
+enjoyed it and you want to watch the rest of it."
+66,,"[FI] Yeah, that did happen a while back, Kirino pushed 
+it onto her."
+67,,"[FI] So, it's still here, huh."
+68,SPK_KYOUSUKE,"[FI] ...Haha, this brings back memories."
+69,SPK_KYOUSUKE,"[FI] Okay, shall we watch Meruru?"
+70,SPK_TAMAKI,[FI] Yeah!
+71,,[FI] With that--
+72,,[FI] Tamaki and I started watching the Meruru DVD.
+73,SPK_MERURU,[FI] Me-ru meru meru meru meru meru me-
+74,SPK_TAMAKI,[FI] Me-ru meru meru meru meru meru me-
+75,SPK_TAMAKI,[FI] Hehehe.
+76,SPK_KYOUSUKE,[FI] Haha.
+77,SPK_TAMAKI,"[FI] You sing too, Onii-chan!"
+78,SPK_KYOUSUKE,[FI] Eh? Me too?
+79,SPK_TAMAKI,[FI] Me-ru meru meru meru meru meru me-
+80,SPK_KYOUSUKE,[FI] Me...me-ru meru meru meru meru meru me...
+81,,[FI] Guh... how embarrassing.
+82,SPK_TAMAKI,[FI] Hahaha.
+83,SPK_KYOUSUKE,[FI] ...Heh.
+84,,"[FI] Well, it's fine if she's enjoying it."
+85,SPK_MERURU,"[FI] Please watch ""Stardust☆Witch Meruru"" again next 
+week☆"
+86,SPK_TAMAKI,[FI] Okaay.
+87,,[FI] The first episode of Meruru ended.
+88,SPK_KYOUSUKE,[FI] ...Did you have fun?
+89,SPK_TAMAKI,[FI] Yeah!
+90,,[FI] I bet she has seen this many times by now...
+91,,[FI] Does she ever get tired of it?
+92,,[FI] Probably not...
+93,,"[FI] The reason being ""because she's a kid""."
+94,,"[FI] I mean, even my little sister has seen Meruru to 
+completion countless times now."
+95,,"[FI] Maybe that's what being an otaku is all about, I 
+guess."
+96,SPK_KYOUSUKE,"[FI] What do you wanna do now? Wanna watch the 
+next episode?"
+97,SPK_TAMAKI,[FI] Hmm...
+98,,"[FI] Tamaki put her finger to her lips, deep in thought 
+just like how Kuroneko does."
+99,,"[FI] Not soon after, she thought of something and her 
+expression glistened."
+100,SPK_TAMAKI,[FI] Let's play house!
+101,SPK_KYOUSUKE,"[FI] That's fine. Playing house, right?"
+102,SPK_TAMAKI,[FI] Yeah.
+103,SPK_KYOUSUKE,"[FI] So, what roles should we have?"
+104,SPK_TAMAKI,[FI] Onii-chan will be the Dad.
+105,SPK_KYOUSUKE,"[FI] Haha, okay, I'll be the Dad."
+106,SPK_KYOUSUKE,[FI] What about you?
+107,SPK_TAMAKI,[FI] The Mom!
+108,SPK_KYOUSUKE,"[FI] I see. Haha, then we're a married couple."
+109,SPK_TAMAKI,[FI] Ehehe.
+110,SPK_TAMAKI,[FI] Daad.
+111,SPK_KYOUSUKE,"[FI] What is it, Mom?"
+112,SPK_TAMAKI,[FI] Let's kiss①
+113,SPK_KYOUSUKE,[FI] Hahahaha.
+114,SPK_KYOUSUKE,[FI] [font_size=44]Huuhh!?[/font_size]
+115,SPK_KYOUSUKE,[FI] W-What... did you say?
+116,SPK_TAMAKI,[FI] Let's kiss①
+117,SPK_KYOUSUKE,[FI] Umm...
+118,,"[FI] No way I can do that, of course."
+119,,[FI] It's just a game of playing house.
+120,SPK_TAMAKI,[FI] ...We can't?
+121,SPK_KYOUSUKE,[FI] I-It's still light out.
+122,SPK_TAMAKI,[FI] We can't unless it's night?
+123,SPK_KYOUSUKE,"[FI] Y-Yeah, that."
+124,,[FI] What am I even saying?
+125,,[FI] I'm getting panicked over an elementary schooler.
+126,SPK_TAMAKI,[FI] But... my Dad and Mom kiss even when it's daytime?
+127,,"[FI] Dear parents of Kuroneko, what are you two doing 
+in front of your kids?!"
+128,,[FI] Are you trying for a fourth child?!
+129,,"[FI] Hmm, what should I do? Think, Kyousuke."
+130,,[FI] How do I get out of this crisis?
+131,SPK_KYOUSUKE,"[FI] ...When it comes to kissing, if you aren't married for 
+real, you shouldn't be doing it."
+132,SPK_TAMAKI,[FI] Oh...
+133,SPK_KYOUSUKE,[FI] That's why we can't kiss.
+134,,[FI] I'll die if someone overheard me say that.
+135,SPK_TAMAKI,[FI] Okay.
+136,SPK_KYOUSUKE,[FI] Anything else is fine though.
+137,SPK_TAMAKI,[FI] Then...
+138,SPK_TAMAKI,[FI] Carry me.
+139,SPK_KYOUSUKE,[FI] Okay. Come here.
+140,SPK_TAMAKI,[FI] Yup!
+141,,"[FI] I held Tamaki in my arms as she held on to me 
+tightly."
+142,,"[FI] But in a marriage setting, the phrase ""carry me"" 
+comes out when..."
+143,,[FI] Don't tell me...
+144,,"[FI] Yep. Her parents sure have a unique way of 
+expressing affection for each other."
+145,SPK_TAMAKI,[FI] Onii-chan.
+146,SPK_KYOUSUKE,[FI] Hm? Time to stop playing house?
+147,SPK_TAMAKI,[FI] Let's draw a picture together.
+148,SPK_KYOUSUKE,"[FI] Okay, a picture, that's fine..."
+149,,[FI] And like that...
+150,,[FI] I played with Tamaki for a while.
+151,,[FI] But not soon after...
+152,SPK_KYOUSUKE,"[FI] Tamaki-chan, next is..."
+153,SPK_TAMAKI,[FI] ...*zzz*
+154,,[FI] Looks like she fell asleep from playing so much.
+155,SPK_KYOUSUKE,[FI] ...Haha.
+156,SPK_KYOUSUKE,[FI] I should find her futon for her.
+157,SPK_KYOUSUKE,[FI] ...*yawn*
+158,SPK_KYOUSUKE,[FI] ...They're not even back yet.
+159,,[FI] ...I'm... getting sleepy too...

@@ -1,0 +1,192 @@
+ID,SPEAKER,TEXT
+0,,[FI] I have to tell Manami how I feel...
+1,,[FI] But what should I say... I'm not good with words.
+2,,"[FI] At times like this, what am I supposed to do..."
+3,SPK_KYOUSUKE,"[FI] Manami, I..."
+4,SPK_KYOUSUKE,"[FI] At the very least, I don't hate you, nor dislike you even at all... not one bit."
+5,SPK_MANAMI,[FI] O-Okay... Thanks...
+6,SPK_MANAMI,"[FI] But, Kyou-chan, you're hesitating now... right? If that wasn't the case, we wouldn't be having this conversation..."
+7,SPK_MANAMI,[FI] That's because Kyou-chan is such a kind person...
+8,SPK_KYOUSUKE,[FI] Manami...
+9,,[FI] Talking as we walk won't work. I just have to tell her properly!
+10,SPK_KYOUSUKE,[FI] Why don't we sit in the park and talk? I can't focus on the conversation while I'm walking.
+11,SPK_MANAMI,[FI] O-Okay...
+12,,"[FI] Manami... She's following, right.."
+13,,"[FI] Manami was tottering a few steps just behind me. She's steadily following me, but she seemed depressed."
+14,SPK_MANAMI,[FI] ...
+15,SPK_KYOUSUKE,"[FI] Good, there's no one around."
+16,SPK_MANAMI,"[FI] I see... Yes, this way, you can take your time."
+17,SPK_KYOUSUKE,[FI] Shall we sit here?
+18,SPK_MANAMI,[FI] ...Sure.
+19,,[FI] She smiled and laughed. But something's definitely wrong.
+20,,[FI] Am I the one to blame for that face?
+21,,"[FI] ""There's no way this relationship will ever change""... is false. This I understand."
+22,SPK_KYOUSUKE,[FI] Can I ask you one thing?
+23,SPK_MANAMI,[FI] Yes... What is it?
+24,SPK_KYOUSUKE,"[FI] The day after the school trip, you told me, ""Be my boyfriend""."
+25,SPK_KYOUSUKE,[FI] Why did you bring that up so suddenly?
+26,SPK_MANAMI,"[FI] Why, you say..."
+27,SPK_KYOUSUKE,"[FI] That's a weird, indirect way to put it, but it can't be helped. Now that I think about it, it's around that time that I started to think ""she's strange""."
+28,SPK_MANAMI,[FI] ......
+29,SPK_KYOUSUKE,[FI] The Manami I know isn't the kind who's bold enough to say such things like that.
+30,SPK_KYOUSUKE,[FI] What changed you?
+31,SPK_MANAMI,[FI] ......
+32,SPK_MANAMI,"[FI] Recently, I've been exchanging emails and phone calls with someone."
+33,SPK_MANAMI,"[FI] I told her that recently, my childhood friend seemed troubled for various reasons, and asked for advice."
+34,SPK_MANAMI,"[FI] And she told me ""You have to support him by becoming his girlfriend""."
+35,SPK_MANAMI,"[FI] Then, I said ""Well then! I'll do my best."""
+36,SPK_KYOUSUKE,"[FI] Yeah, I understand..."
+37,,"[FI] In short, this means Manami took advice from some friend I know nothing about."
+38,,"[FI] ""Troubled for various reasons"" she says. She must be referring to the recent uproars with Kuroneko, Kirino and all them."
+39,,"[FI] There's a high possibility that the so-called adviser misinterpreted ""childhood friend"" as ""love interest""."
+40,,[FI] Falling in love with your childhood friend is a recurring theme in Galge too.
+41,SPK_KYOUSUKE,"[FI] Say, Manami. You know me really well, don't you?"
+42,SPK_MANAMI,"[FI] Hm? Ah, yes... For example, during the 2nd year of elementary school, you came over to my house, wet your bed and blamed it on Rock."
+43,SPK_KYOUSUKE,"[FI] While that's true, I'm pretty sure it has nothing to do with this!"
+44,SPK_MANAMI,[FI] Ahah! S-Sorry...
+45,SPK_KYOUSUKE,"[FI] Err, you also know how I can only throw balls straight like an idiot, right?"
+46,SPK_MANAMI,[FI] Kyou-chan's not an idiot～
+47,SPK_KYOUSUKE,"[FI] No, I am an idiot. Because right now, I don't even know what I'm trying to say to you."
+48,SPK_MANAMI,[FI] Hm...
+49,,"[FI] Okay! I'll say it! The things I feel, I'll tell them all to Manami!"
+50,SPK_KYOUSUKE,"[FI] Manami, I like it when we are together."
+51,SPK_MANAMI,[FI] Yes... Thanks...
+52,SPK_KYOUSUKE,[FI] But there's one more thing I must say.
+53,SPK_MANAMI,[FI] One more thing?
+54,SPK_KYOUSUKE,[FI] I like the old Manami more than the current Manami.
+55,SPK_MANAMI,[FI] Ah...
+56,SPK_MANAMI,[FI] The old... Me?
+57,SPK_KYOUSUKE,"[FI] Though the word ""old"" may not be completely accurate."
+58,SPK_MANAMI,[FI] Am I... weird now?
+59,SPK_KYOUSUKE,"[FI] I just... ugh, I can't say it right. I still don't understand it myself."
+60,SPK_MANAMI,[FI] ...
+61,SPK_KYOUSUKE,"[FI] But, will you listen to me?"
+62,SPK_MANAMI,[FI] Yes...
+63,SPK_KYOUSUKE,"[FI] Always going home together, the carefree chats."
+64,SPK_KYOUSUKE,"[FI] Occasionally going to your house, eating Japanese sweets, and so on."
+65,SPK_MANAMI,[FI] Yes.
+66,SPK_KYOUSUKE,[FI] Those things were really nice.
+67,SPK_MANAMI,[FI] Oh. I'm glad...
+68,SPK_KYOUSUKE,"[FI] I think I don't really need anything special. That is, when I'm with you."
+69,SPK_KYOUSUKE,[FI] I mean... you simply being here with me is enough...
+70,SPK_MANAMI,[FI] Kyou-chan...
+71,SPK_KYOUSUKE,[FI] When I'm with you... is when I'm the most at ease.
+72,SPK_MANAMI,[FI] The most...
+73,SPK_KYOUSUKE,"[FI] That's right. Even if we don't do anything special, it's no big deal."
+74,SPK_KYOUSUKE,"[FI] Like, how should I say this... Warmth?"
+75,SPK_MANAMI,[FI] Warmth...
+76,SPK_KYOUSUKE,[FI] Yeah. I like the warmth we share.
+77,SPK_MANAMI,"[FI] I see... Then, I really have to turn back to my old se--"
+78,SPK_KYOUSUKE,[FI] No. Wait.
+79,SPK_MANAMI,[FI] Oh?
+80,SPK_KYOUSUKE,"[FI] You don't have to turn back to anything. Because I also ""like"" the ""current"" Manami."
+81,SPK_MANAMI,[FI] Kyou-chan...
+82,SPK_KYOUSUKE,"[FI] See, I wasn't joking when I said ""New Manami"". Surpass both ""past"" and ""present"" to become a new Manami in the future. How does that sound?"
+83,SPK_MANAMI,[FI] The future... me?
+84,,"[FI] In front of me, Manami, with sparkling eyes, totally looked like the stereotypical ""childhood friend"" from a Galge."
+85,,[FI] Yes. Like... after you have chosen the correct choice in a very important scene and are confident in your ability to see the one true end.
+86,,"[FI] Manami and I are ""childhood friends"" and ""lovers"". Rather than choose one over the other, we should aim for something more later on."
+87,SPK_MANAMI,"[FI] Yes, okay～"
+88,SPK_KYOUSUKE,[FI] Are you really okay with this?
+89,SPK_MANAMI,[FI] Yes.
+90,SPK_KYOUSUKE,[FI] I... didn't I say something really awful?
+91,SPK_MANAMI,"[FI] No～, It's not awful at all. I understand, too."
+92,SPK_MANAMI,"[FI] The old me is more like me... Surely, this is the true me. But the current me is also undeniably me, so I have to cherish them both!"
+93,SPK_MANAMI,"[FI] Also, Kyou-chan was uneasy, so I understood, ""As we are now, it just won't work""."
+94,SPK_KYOUSUKE,"[FI] S-so, so you understand?!"
+95,SPK_MANAMI,[FI] That's because Kyou-chan is so easy to understand!
+96,SPK_KYOUSUKE,[FI] Am I?
+97,SPK_MANAMI,[FI] Yes!
+98,,"[FI] With this... It's seems,for now, things worked out?"
+99,SPK_MANAMI,"[FI] Uff, But I have to apologize to Ayase-chan..."
+100,SPK_KYOUSUKE,[FI] ......Ayase?
+101,SPK_MANAMI,"[FI] Ah? Just forget it, okay? Hehe."
+102,SPK_KYOUSUKE,"[FI] ...So that's how it is, huh..."
+103,,[FI] I guessed the ringleader.
+104,,[FI] There was a VERY good reason for Manami's sudden obsession with a romantic relationship.
+105,,"[FI] Seriously... But, oh well."
+106,,"[FI] Because of that, I understood what the important thing that I wanted to do was."
+107,SPK_MANAMI,[FI] Kyou-chan.
+108,SPK_KYOUSUKE,[FI] Hm? What is it?
+109,SPK_MANAMI,[FI] Thanks for coming out and telling me.
+110,SPK_KYOUSUKE,[FI] No problem.
+111,,"[FI] I accepted those last words from Manami as they were, completely unaware of how much I would regret them."
+112,,[FI] The usual atmosphere was flowing around us.
+113,,[FI] So I pretended not to notice.
+114,,"[FI] The fact that behind Manami's glasses, her eyes were slightly teary."
+115,SPK_KYOUSUKE,[FI] I... It's just a thought and I don't know if it's right or not but...
+116,SPK_MANAMI,[FI] Hm?
+117,SPK_KYOUSUKE,[FI] You... Maybe you've fallen in love with the idea of love?
+118,SPK_MANAMI,[FI] In love... with love?
+119,SPK_KYOUSUKE,"[FI] Yeah, it seemed like that."
+120,SPK_MANAMI,[FI] Am I weird somehow...
+121,SPK_KYOUSUKE,"[FI] Not weird, just... different, I guess. It only seems like you were overdoing things. Honestly."
+122,SPK_MANAMI,[FI] Over... doing it?
+123,SPK_KYOUSUKE,"[FI] Yes, I told you; I don't know how I feel myself."
+124,SPK_KYOUSUKE,"[FI] Also, it seemed like you were being really careful for my sake."
+125,SPK_MANAMI,[FI] ......
+126,SPK_KYOUSUKE,"[FI] Since your attitude changed suddenly, what am I supposed to do?"
+127,SPK_MANAMI,[FI] Kyou-chan...
+128,SPK_KYOUSUKE,[FI] Sorry. Those are my honest feelings.
+129,SPK_MANAMI,"[FI] Thank you, Kyou-chan. You really know how I am..."
+130,SPK_KYOUSUKE,[FI] That's because we're always together.
+131,SPK_MANAMI,[FI] Yes! Always together!
+132,,"[FI] ""Yes,"" Manami nodded, finally cracking a smile. I could feel the tense atmosphere loosen slightly."
+133,,[FI] This is the usual warmth between Manami and me. The feeling I could see lasting forever.
+134,SPK_MANAMI,"[FI] I see, that's true. Kyou-chan was having a hard time."
+135,SPK_KYOUSUKE,[FI] Yeah! It was really a pain!
+136,SPK_MANAMI,[FI] Ehehe... Sorry.
+137,SPK_KYOUSUKE,"[FI] Don't be. There's no rush, right?"
+138,SPK_MANAMI,[FI] Yes.
+139,SPK_KYOUSUKE,"[FI] Because we've always been together, haven't we?"
+140,SPK_MANAMI,[FI] And even from now on... maybe?
+141,SPK_KYOUSUKE,[FI] Yup. I think so.
+142,,"[FI] I don't like sudden changes, but we can do it gradually. Manami and I will definitely stick together."
+143,SPK_MANAMI,[FI] Just like the big river.
+144,SPK_KYOUSUKE,[FI] You think so?
+145,SPK_MANAMI,"[FI] Yes. The flow of a river is something that never seems to change, but it still changes little by little, right?"
+146,SPK_KYOUSUKE,[FI] That's true.
+147,SPK_MANAMI,[FI] Perhaps that way of changing is the best.
+148,SPK_KYOUSUKE,[FI] Don't you have it all figured out already? Ahahah...
+149,SPK_MANAMI,"[FI] That's not true, I only just realized it! ""Slow is just fine."""
+150,SPK_KYOUSUKE,"[FI] This is how it is between us, right?"
+151,SPK_MANAMI,[FI] Yes!
+152,SPK_MANAMI,"[FI] Kyou-chan, I don't really understand what you mean... Maybe you don't like me-"
+153,SPK_KYOUSUKE,[FI] Gah!! I told you that's not it!
+154,,"[FI] Take a deep breath... blow it out... okay, Ready!"
+155,SPK_KYOUSUKE,[FI] Manami!
+156,SPK_MANAMI,[FI] H-Hyaww!
+157,,"[FI] To be unable to escape from this, I firmly gripped Manami's shoulders."
+158,SPK_KYOUSUKE,"[FI] I'm not sure I can say this right. But, I definitely won't lie!"
+159,SPK_MANAMI,[FI] ...Okay...
+160,SPK_KYOUSUKE,"[FI] I think you know this, but I'm really clumsy and awkward."
+161,SPK_MANAMI,[FI] ......
+162,SPK_KYOUSUKE,"[FI] So, I'm sorry if I hurt you."
+163,,[FI] Tears? Am I crying?
+164,,"[FI] No, even if I cry, I have to say it."
+165,SPK_MANAMI,[FI] Kyou-chan...
+166,SPK_KYOUSUKE,"[FI] I'll tell you my feelings honestly, so listen until I'm done."
+167,SPK_MANAMI,[FI] Y-Yes. Understood.
+168,SPK_KYOUSUKE,"[FI] Manami, so... You're fine with our new relationship, right?"
+169,SPK_MANAMI,[FI] *nod nod*
+170,SPK_KYOUSUKE,"[FI] Including... being a couple, right?"
+171,SPK_MANAMI,[FI] ......Yes...
+172,SPK_KYOUSUKE,"[FI] Okay. I understand your feelings, and it's not like I'm not interested in you."
+173,SPK_MANAMI,[FI] Not like... You're not..
+174,SPK_KYOUSUKE,[FI] Yeah... But... Give me time.
+175,SPK_KYOUSUKE,"[FI] That may be a pitiful thing to say, but I'm not omnipotent."
+176,SPK_KYOUSUKE,[FI] So give me time in order to be able to think of you as a girlfriend.
+177,SPK_KYOUSUKE,[FI] If not... The time we spent together up until now... It seems like it'll be completely ruined.
+178,SPK_KYOUSUKE,"[FI] I really don't want that. For me, the time I spent together with you... It just feels so incredible."
+179,SPK_MANAMI,[FI] Kyou-chan!
+180,SPK_KYOUSUKE,[FI] I definitely don't want to just throw it all away!
+181,,[FI] Crap... that was really passionate.
+182,SPK_MANAMI,[FI] Teeheehee.
+183,,[FI] Manami's face is really red and there's no question my face is the same as hers.
+184,SPK_MANAMI,"[FI] Yes, I understand. Thank you for opening your heart to me."
+185,,"[FI] Gently, Manami's hand brushed mine. Out fingertips touched naturally without any tension."
+186,SPK_MANAMI,"[FI] Let's take our time... take things slow, Kyou-chan."
+187,,"[FI] I was thinking about it the whole time. The distance between Manami and me, the memories we have together. No matter how you look at it, we've spent"
+188,,[FI] a lot of time together.
+189,,"[FI] And so, she advised Manami that she should become my girlfriend to support me. She is the real culprit behind Manami's attitude those past few"
+190,,[FI] days.

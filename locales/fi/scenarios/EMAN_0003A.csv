@@ -1,0 +1,106 @@
+ID,SPEAKER,TEXT
+0,,"[FI] Yesterday, Manami told me, ""There's something I want to tell you."" So we headed to the park along the way home."
+1,,"[FI] ...I guess even unusual things do happen, huh."
+2,SPK_MANAMI,"[FI] Kyou-chan, there's something I want to talk about. May I?"
+3,SPK_KYOUSUKE,"[FI] What's with the formality? Besides, that's why we're here right? Just go ahead."
+4,SPK_MANAMI,"[FI] Yes, thank you. You see, actually--"
+5,SPK_KYOUSUKE,"[FI] Hm? A phone call? Sorry Manami, wait a minute."
+6,SPK_MANAMI,[FI] S-Sure.
+7,SPK_KYOUSUKE,[FI] Hello?
+8,SPK_KIRINO,[FI] Answer immediately when I call you!
+9,SPK_KYOUSUKE,"[FI] Oh Kirino, is it? It's rare to get calls from you."
+10,SPK_KIRINO,"[FI] It's an emergency, so I have no other choice."
+11,SPK_KYOUSUKE,[FI] Emergency...? Did something happen?
+12,SPK_KIRINO,"[FI] W-Well! Moments ago, there was a sudden announcement on the blog!"
+13,SPK_KYOUSUKE,[FI] Huh? What's that? Blog announcement?
+14,SPK_KIRINO,[FI] Like I said～! It says they're holding a Meruru event right now in Akihabara--
+15,SPK_KYOUSUKE,"[FI] Ah, I get it now... ""That"" kind of emergency."
+16,SPK_KIRINO,"[FI] What's wrong with...""that""?"
+17,SPK_KYOUSUKE,"[FI] At the moment, I already have plans that I can't just drop."
+18,SPK_KIRINO,[FI] Huh? Why didn't I hear anything about this?
+19,SPK_KYOUSUKE,[FI] That's because I didn't tell you. Do I have to report to you now?
+20,SPK_KIRINO,"[FI] Wha, why are you so cocky--"
+21,SPK_KYOUSUKE,"[FI] Anyways, I can't come right now. If you want to go to Akiba, ask Kuroneko or someone else."
+22,SPK_KIRINO,"[FI] Hey! Hold it right there! First of all, I didn't even say one word about wanting to go to Akiba with you!"
+23,SPK_KYOUSUKE,"[FI] Yeah, yeah. I'm hanging up--"
+24,SPK_KYOUSUKE,[FI] *sigh*...
+25,,"[FI] Geez, that Kirino... Only she would think of that as an emergency..."
+26,,[FI] I bet she just sees me as a servant to order around.
+27,SPK_MANAMI,"[FI] Hey, was that Kirino-chan just now?"
+28,SPK_MANAMI,[FI] Perhaps... that was an important matter...
+29,SPK_KYOUSUKE,"[FI] Nah, it's okay. It wasn't anything important."
+30,SPK_MANAMI,[FI] Is... that so? That's fine then...
+31,SPK_KYOUSUKE,"[FI] More importantly, let's continue. So, what was it?"
+32,SPK_MANAMI,"[FI] Oh, well. Actually--"
+33,SPK_MANAMI,[FI] I need some life counseling.
+34,SPK_KYOUSUKE,"[FI] I know, right?! I totally knew you'd say that! There's no way you'd betray the development! On the contrary, how refreshing!!!"
+35,SPK_MANAMI,"[FI] Kyou-chan, what's wrong?! You suddenly seem very excited!"
+36,SPK_KYOUSUKE,"[FI] Nah, just talking to myself, just ignore it."
+37,SPK_KYOUSUKE,"[FI] Hmm, so... you want some life counseling from me?"
+38,SPK_MANAMI,[FI] Yes.
+39,SPK_KYOUSUKE,"[FI] It's not about you cutting your hair too short again, is it?"
+40,SPK_MANAMI,[FI] It's not about that! It's something more important!
+41,SPK_KYOUSUKE,"[FI] Hmm... Okay, I understand."
+42,SPK_MANAMI,"[FI] Hm? Somehow, you suddenly look very serious about this."
+43,SPK_KYOUSUKE,[FI] I guess so. I kinda realized that everyone worries about the most unexpected things.
+44,SPK_MANAMI,[FI] Oh～? I see.
+45,SPK_KYOUSUKE,[FI] So? What's the life counseling about?
+46,SPK_MANAMI,[FI] ...There!
+47,SPK_KYOUSUKE,"[FI] Huh? What are you doing, pointing your finger at me?"
+48,SPK_MANAMI,[FI] ...This!
+49,SPK_KYOUSUKE,[FI] My...
+50,SPK_MANAMI,[FI] *nodnod*
+51,SPK_KYOUSUKE,[FI] How troublesome! Ah well.  My... what?
+52,SPK_MANAMI,[FI] It's about... relationships.
+53,SPK_KYOUSUKE,[FI] Relationships? So that's what this life counseling is about?
+54,SPK_MANAMI,[FI] Y-Yes.
+55,SPK_KYOUSUKE,[FI] I don't understand this at all.
+56,SPK_MANAMI,"[FI] Well... lately, you seem to have been meeting and getting along with a lot of people, and they are all very cute girls..."
+57,SPK_KYOUSUKE,[FI] ......
+58,,"[FI] Hmm... Now that she mentions it, that's certainly true."
+59,,"[FI] Ever since Kirino's life counseling. I met Kuroneko, Saori, as well as Ayase, etc..."
+60,,"[FI] If I think carefully, it's all girls."
+61,,"[FI] ...In fact, isn't this the most popular I've ever been in my life?"
+62,,[FI] ...As if.
+63,,"[FI] Kirino is my little sister, while Kuroneko is... *c-cough*! Kirino's otaku friend. Nothing more, nothing less."
+64,,"[FI] The same holds true for Saori with her swirly glasses, and Ayase has reached the point where she strongly wants to erase me from society."
+65,SPK_MANAMI,"[FI] Also, recently, you haven't been going to the library as much anymore. That's why... it got me a little bit worried..."
+66,,"[FI] Manami is saying ""a little bit""..."
+67,,"[FI] But because we've been together for a long time, I know that she's pretty worried when she actually voices her thoughts."
+68,,"[FI] Indeed, she's worried about how I haven't been putting much effort in studying for the exams lately."
+69,SPK_KYOUSUKE,"[FI] Manami, you really got the wrong idea. There's no way I can be popular!"
+70,SPK_MANAMI,[FI] Is that so?
+71,SPK_MANAMI,"[FI] You have a kind, gentle and caring attitude. And I believe that girls want to rely on you for that reason."
+72,SPK_KYOUSUKE,[FI] What's that? You're awfully generous with the praises today.
+73,SPK_MANAMI,[FI] I've always thought that about you! So... it's making me a little worried.
+74,,"[FI] ...Worried? Ahh, so it's not about studying for the exams, but about being seen with one girl after another? And that they're Kirino's friends too..."
+75,SPK_KYOUSUKE,"[FI] Wait! You're mistaken, Manami!"
+76,SPK_MANAMI,[FI] Mistaken?
+77,SPK_KYOUSUKE,"[FI] Right now, you're suspecting I somehow might be getting along too well with girls, right?"
+78,SPK_MANAMI,"[FI] N-No, it's not like I'm suspicious... I'm just a little worried, that's all..."
+79,,"[FI] ...Hold it, Kyousuke..."
+80,,[FI] T-The fact that your childhood friend is worrying about how you 'might do something to your little sister's friends' is no joke!
+81,SPK_KYOUSUKE,[FI] No way! I'm not that kind of guy! There's no way!
+82,SPK_MANAMI,[FI] ...Really?
+83,SPK_KYOUSUKE,"[FI] Of course! If you want proof, I'll do whatever it takes!"
+84,SPK_MANAMI,"[FI] Um, then... Then..."
+85,SPK_KYOUSUKE,[FI] Yeah! Ask me for anything!
+86,SPK_MANAMI,[FI] How about... becoming my boyfriend?
+87,SPK_KYOUSUKE,[FI] .........Eh?
+88,SPK_MANAMI,"[FI] This is the real purpose of my 'life counseling', Kyou-chan."
+89,SPK_KYOUSUKE,"[FI] Well, about that... umm, Manami."
+90,SPK_MANAMI,[FI] Yes?
+91,SPK_KYOUSUKE,"[FI] Right now, you're suspecting I somehow might be getting along too well with girls, right?"
+92,SPK_MANAMI,"[FI] N-No, it's not like I'm suspicious... I'm just a little worried, that's all..."
+93,,"[FI] ...Hold it, Kyousuke."
+94,,"[FI] T-The fact that your childhood friend is worrying about how you 'might do something to your little sister's friends', is no joke!"
+95,SPK_KYOUSUKE,[FI] No way! I'm not that kind of guy! There's no way!
+96,SPK_MANAMI,[FI] ...Really?
+97,SPK_KYOUSUKE,"[FI] Of course! If you want proof, I'll do whatever it takes!"
+98,SPK_MANAMI,"[FI] Um, then... Then..."
+99,SPK_KYOUSUKE,[FI] Yeah! Ask me anything!
+100,SPK_MANAMI,[FI] How about... becoming my boyfriend?
+101,SPK_KYOUSUKE,[FI] .........Eh?
+102,SPK_MANAMI,"[FI] This is the real purpose of my 'life counseling', Kyou-chan."
+103,,"[FI] Though, ""something I want to tell you""... what's with that vague statement? On top of that, she's been wearing a serious expression, like she's been deep"
+104,,[FI] in thought for a while.

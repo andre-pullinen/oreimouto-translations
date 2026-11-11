@@ -1,0 +1,36 @@
+ID,SPEAKER,TEXT
+0,SPK_KIRINO,[FI] Good grief... what the heck is going on?
+1,,"[FI] That Kirino, she seems irritated now..."
+2,,[FI] Should I follow up with a few words?
+3,,"[FI] No, what bothers me more is....."
+4,,"[FI] It's Kirino's words about ""not knowing anything""."
+5,SPK_KYOUSUKE,[FI] Sorry. I'm not trying to confuse you.
+6,SPK_KYOUSUKE,"[FI] But, let me confirm it one more time. Do you really not know Kuroneko and Saori?"
+7,SPK_KIRINO,[FI] ...I don't know them.
+8,,"[FI] Could it be, could it be, could it be--!"
+9,,"[FI] Mom said it might be her imagination, but it's no joke."
+10,,[FI] Kirino's behavior is clearly different from usual.
+11,,"[FI] A-Anyway, I've got to calm down first!"
+12,,"[FI] For the time being, it seems that her attitude towards school, club, work and our parents isn't different from usual."
+13,,"[FI] But on the other hand, when it comes to Meruru and all the Galges she treasures so much, she's firmly rejecting them."
+14,,"[FI] Furthermore, it's not like she's doing it because she's ashamed of them like in the past, but rather she's clearly displaying revulsion towards them."
+15,,[FI] ....I gradually came to understand the situation.
+16,,[FI] ...That's right!
+17,SPK_KYOUSUKE,[FI] Lend me your laptop for a bit.
+18,SPK_KIRINO,[FI] Hey! What are you doing!
+19,,"[FI] Hmm? It's in standby mode. What's going on? ...For now, I'll unlock it."
+20,SPK_MERURU,[FI] Stardust ☆ Witch Meruru! Starting now----♪
+21,,"[FI] ...As usual, it had a full-blown otaku start-up sound. The desktop is covered entirely with Meruru images..."
+22,SPK_KIRINO,"[FI] Y-You, what have you done to my laptop!"
+23,SPK_KYOUSUKE,"[FI] ...You said it yourself before, didn't you? That you were changing the laptop system sound to the song you made."
+24,SPK_KIRINO,"[FI] Huh, the song I made?"
+25,SPK_KYOUSUKE,"[FI] Yes, you got me to listen to it before I went for my school trip, remember? It's the denpa song that you were boasting about."
+26,SPK_KIRINO,[FI] I don't know anything about any denpa thing! Hurry up and get away from my computer!
+27,,[FI] She'll definitely think that it's me that installed the Meruru theme as well...
+28,,"[FI] Well, that's doesn't matter. At any rate, what other leads do I have... Hmm?"
+29,SPK_KYOUSUKE,"[FI] The chat window is still open. Conversation logs from yesterday, the other parties... Kuroneko and Saori."
+30,SPK_KIRINO,"[FI] Like I said, I don't know those people."
+31,SPK_KYOUSUKE,"[FI] But look, there are logs left on the computer, aren't there?"
+32,SPK_KIRINO,[FI] Those are just nonsense.
+33,,[FI] She... She's actually saying such a thing.
+34,,"[FI] ...However, based on the chat logs I'm seeing, it seems they still had contact yesterday."

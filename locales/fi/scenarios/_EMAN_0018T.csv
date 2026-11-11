@@ -1,0 +1,177 @@
+ID,SPEAKER,TEXT
+0,SPK_MANAMI,"[FI] Now then, let's see how much you remember! I 
+have a quiz for you!"
+1,SPK_KYOUSUKE,"[FI] Hey, what's with this all of a sudden?"
+2,SPK_MANAMI,"[FI] It's just for fun, don't think too hard about it~"
+3,SPK_KYOUSUKE,[FI] R-Right... I'll answer anything you got for me!
+4,,"[FI] I have no idea how many of these I can answer 
+correctly though."
+5,SPK_MANAMI,"[FI] Okay, question one!"
+6,SPK_MANAMI,"[FI] What is the official name of Kinkaku-ji Temple, also 
+known as the Golden Pavilion?"
+7,SPK_KYOUSUKE,"[FI] Pfft, even I know that. Rokuon-ji Temple."
+8,SPK_MANAMI,"[FI] Correct! The reliquary hall in front of us is called 
+""Kinkaku"", a Golden Pavilion."
+9,SPK_KYOUSUKE,"[FI] The name Kinkaku-ji Temple was derived from that 
+and became the nickname for the whole temple, 
+right?"
+10,SPK_MANAMI,"[FI] Yes, you're right! Great job!"
+11,SPK_KYOUSUKE,"[FI] ...Uh, what was it?"
+12,SPK_MANAMI,"[FI] It's Rokuon-ji Temple, Kyou-chan."
+13,SPK_KYOUSUKE,"[FI] Oh yeah. Uh huh, of course it's Rokuon-ji Temple."
+14,SPK_MANAMI,"[FI] Geez, you can't just forget about this stuff."
+15,,"[FI] Well, this isn't some essential knowledge that's 
+needed for our daily lives."
+16,SPK_MANAMI,"[FI] Okay, next question!"
+17,SPK_KYOUSUKE,[FI] O-Okay...
+18,SPK_MANAMI,"[FI] Was Kinkaku-ji Temple built by Ashikaga 
+Yoshimitsu?"
+19,SPK_KYOUSUKE,"[FI] Nah, that's wrong."
+20,SPK_MANAMI,[FI] Eeh?
+21,SPK_KYOUSUKE,[FI] The one who built Kinkaku-ji Temple was...
+22,SPK_MANAMI,[FI] ..Was?
+23,SPK_KYOUSUKE,[FI] The builder at the time!
+24,SPK_MANAMI,[FI] Kyou-chan... this isn't some trick question.
+25,SPK_KYOUSUKE,"[FI] I just wanted to try saying that. I know Ashikaga 
+Yoshimitsu was the guy who built it."
+26,SPK_MANAMI,"[FI] Geez, then just answer the question properly."
+27,SPK_KYOUSUKE,[FI] Yeah yeah...
+28,SPK_KYOUSUKE,[FI] ...
+29,SPK_KYOUSUKE,"[FI] Yeah, isn't that right? I definitely remember that 
+Ashikaga Yoshimitsu built it."
+30,SPK_MANAMI,[FI] Correct! Maybe that was too easy?
+31,SPK_KYOUSUKE,"[FI] Ginkaku-ji Temple, the Silver Pavilion was built by 
+Ashikaga Yoshimasa, right?"
+32,SPK_MANAMI,"[FI] Yup, that's right. The official name for that is 
+Jishou-ji Temple."
+33,SPK_KYOUSUKE,"[FI] Well, I can handle that much, at least."
+34,SPK_MANAMI,"[FI] Okay then, final question."
+35,SPK_KYOUSUKE,"[FI] Oh, the last one?"
+36,SPK_MANAMI,"[FI] Kinkaku-ji Temple was built in 1397, also known as 
+Oei 4 at the time, correct?"
+37,SPK_KYOUSUKE,"[FI] Come on, you're asking me the year?"
+38,SPK_MANAMI,"[FI] Good luck, Kyou-chan."
+39,SPK_KYOUSUKE,[FI] Ugh...
+40,SPK_KYOUSUKE,"[FI] It's 1394, right?"
+41,SPK_MANAMI,"[FI] Too bad, incorrect!"
+42,SPK_KYOUSUKE,[FI] I'm really bad at remembering dates...
+43,SPK_MANAMI,"[FI] 1394 was the year that Ashikaga Yoshimitsu 
+became Grand Chancellor of State."
+44,SPK_KYOUSUKE,"[FI] 1394, Ashikaga Yoshimitsu became the Grand 
+Chancellor of State... okay, I'll remember that."
+45,SPK_MANAMI,[FI] Try a little harder... okay?
+46,SPK_KYOUSUKE,[FI] ...
+47,SPK_KYOUSUKE,"[FI] Kinkaku-ji Temple was built in 1397, the 4th year of 
+Oei... yup, that's correct."
+48,,"[FI] I answered with confidence... but I was actually 
+going on my hazy memory."
+49,SPK_MANAMI,"[FI] Amazing, that's right!"
+50,SPK_KYOUSUKE,[FI] I guess that's that.
+51,SPK_MANAMI,"[FI] I thought maybe you'd forgotten it. You're so 
+smart, Kyou-chan."
+52,SPK_KYOUSUKE,"[FI] Nah, it was just luck. You, on the other hand, 
+remembered it all... Well, you got the brains for that 
+sort of thing."
+53,SPK_MANAMI,"[FI] Eh? No, no, not at all."
+54,SPK_MANAMI,"[FI] Hey, Kyou-chan, can I borrow your point card for a 
+moment?"
+55,SPK_KYOUSUKE,[FI] Does this really deserve points?
+56,SPK_MANAMI,"[FI] Yup. It brought back some fond memories of when 
+we were studying for entrance exams, I'm so 
+happy."
+57,SPK_KYOUSUKE,[FI] I see...
+58,SPK_MANAMI,[FI] Thank you for your continued patronage!①
+59,SPK_KYOUSUKE,[FI] I guess I don't really remember anything at all...
+60,SPK_MANAMI,"[FI] You haven't been studying as much after finishing 
+the exams."
+61,SPK_KYOUSUKE,[FI] ...Yeah...
+62,,"[FI] I couldn't give the right answers... Man, just how did 
+I forget all of that?"
+63,SPK_MANAMI,"[FI] Now then, let's see how much you remember! I 
+have a quiz for you!"
+64,SPK_KYOUSUKE,"[FI] Hey, what's with this all of a sudden?"
+65,SPK_MANAMI,"[FI] It's just for fun, don't think too hard about it~"
+66,SPK_KYOUSUKE,[FI] R-Right... I'll answer anything you got for me!
+67,,"[FI] I have no idea how many of these I can answer 
+correctly though."
+68,SPK_MANAMI,"[FI] Okay, question one!"
+69,SPK_MANAMI,"[FI] What is the official name of Kinkaku-ji Temple, also 
+known as the Golden Pavilion?"
+70,SPK_KYOUSUKE,"[FI] Pfft, even I know that. Rokuon-ji Temple."
+71,SPK_MANAMI,"[FI] Correct! The reliquary hall in front of us is called 
+""Kinkaku"", a Golden Pavilion."
+72,SPK_KYOUSUKE,"[FI] The name Kinkaku-ji Temple was derived from that 
+and became the nickname for the whole temple, 
+right?"
+73,SPK_MANAMI,"[FI] Yes, you're right! Great job!"
+74,SPK_KYOUSUKE,"[FI] ...Uh, what was it?"
+75,SPK_MANAMI,"[FI] It's Rokuon-ji Temple, Kyou-chan."
+76,SPK_KYOUSUKE,"[FI] Oh yeah. Uh huh, of course it's Rokuon-ji Temple."
+77,SPK_MANAMI,"[FI] Geez, you can't just forget about this stuff."
+78,,"[FI] Well, this isn't some essential knowledge that's 
+needed for our daily lives."
+79,SPK_MANAMI,"[FI] Okay, next question!"
+80,SPK_KYOUSUKE,[FI] O-Okay...
+81,SPK_MANAMI,"[FI] Was Kinkaku-ji Temple built by Ashikaga 
+Yoshimitsu?"
+82,SPK_KYOUSUKE,"[FI] Nah, that's wrong."
+83,SPK_MANAMI,[FI] Eeh?
+84,SPK_KYOUSUKE,[FI] The one who built Kinkaku-ji Temple was...
+85,SPK_MANAMI,[FI] ..Was?
+86,SPK_KYOUSUKE,[FI] The builder at the time!
+87,SPK_MANAMI,[FI] Kyou-chan... this isn't some trick question.
+88,SPK_KYOUSUKE,"[FI] I just wanted to try saying that. I know Ashikaga 
+Yoshimitsu was the guy who built it."
+89,SPK_MANAMI,"[FI] Geez, then just answer the question properly."
+90,SPK_KYOUSUKE,[FI] Yeah yeah...
+91,SPK_KYOUSUKE,[FI] ...
+92,SPK_KYOUSUKE,"[FI] Yeah, isn't that right? I definitely remember that 
+Ashikaga Yoshimitsu built it."
+93,SPK_MANAMI,[FI] Correct! Maybe that was too easy?
+94,SPK_KYOUSUKE,"[FI] Ginkaku-ji Temple, the Silver Pavilion was built by 
+Ashikaga Yoshimasa, right?"
+95,SPK_MANAMI,"[FI] Yup, that's right. The official name for that is 
+Jishou-ji Temple."
+96,SPK_KYOUSUKE,"[FI] Well, I can handle that much, at least."
+97,SPK_MANAMI,"[FI] Okay then, final question."
+98,SPK_KYOUSUKE,"[FI] Oh, the last one?"
+99,SPK_MANAMI,"[FI] Kinkaku-ji Temple was built in 1397, also known as 
+Oei 4 at the time, correct?"
+100,SPK_KYOUSUKE,"[FI] Come on, you're asking me the year?"
+101,SPK_MANAMI,"[FI] Good luck, Kyou-chan."
+102,SPK_KYOUSUKE,[FI] Ugh...
+103,SPK_KYOUSUKE,"[FI] It's 1394, right?"
+104,SPK_MANAMI,"[FI] Too bad, incorrect!"
+105,SPK_KYOUSUKE,[FI] I'm really bad at remembering dates...
+106,SPK_MANAMI,"[FI] 1394 was the year that Ashikaga Yoshimitsu 
+became Grand Chancellor of State."
+107,SPK_KYOUSUKE,"[FI] 1394, Ashikaga Yoshimitsu became the Grand 
+Chancellor of State... okay, I'll remember that."
+108,SPK_MANAMI,[FI] Try a little harder... okay?
+109,SPK_KYOUSUKE,[FI] ...
+110,SPK_KYOUSUKE,"[FI] Kinkaku-ji Temple was built in 1397, the 4th year of 
+Oei... yup, that's correct."
+111,,"[FI] I answered with confidence... but I was actually 
+going on my hazy memory."
+112,SPK_MANAMI,"[FI] Amazing, that's right!"
+113,SPK_KYOUSUKE,[FI] I guess that's that.
+114,SPK_MANAMI,"[FI] I thought maybe you'd forgotten it. You're so 
+smart, Kyou-chan."
+115,SPK_KYOUSUKE,"[FI] Nah, it was just luck. You, on the other hand, 
+remembered it all... Well, you got the brains for that 
+sort of thing."
+116,SPK_MANAMI,"[FI] Eh? No, no, not at all."
+117,SPK_MANAMI,"[FI] Hey, Kyou-chan, can I borrow your point card for a 
+moment?"
+118,SPK_KYOUSUKE,[FI] Does this really deserve points?
+119,SPK_MANAMI,"[FI] Yup. It brought back some fond memories of when 
+we were studying for entrance exams, I'm so 
+happy."
+120,SPK_KYOUSUKE,[FI] I see...
+121,SPK_MANAMI,[FI] Thank you for your continued patronage!①
+122,SPK_KYOUSUKE,[FI] I guess I don't really remember anything at all...
+123,SPK_MANAMI,"[FI] You haven't been studying as much after finishing 
+the exams."
+124,SPK_KYOUSUKE,[FI] ...Yeah...
+125,,"[FI] I couldn't give the right answers... Man, just how did 
+I forget all of that?"

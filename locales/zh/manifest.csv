@@ -1,0 +1,14 @@
+KEY,VALUE
+locale,zh_CN
+name,简体中文
+short,ZHO
+author,PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋
+version,1.0.0
+schema_version,2
+tags,beta
+tag_note_beta,Предварительная **бета-версия** перевода.\n\n- Завершена вычитка основных сценариев\n- Интегрирован CJK-шрифт **Noto Sans SC**
+font_ui,fonts/NotoSansSC-Medium.otf
+font_dialogue,fonts/NotoSansSC-Medium.otf
+font_speaker,fonts/NotoSansSC-Medium.otf
+font_accent,fonts/NotoSansSC-Medium.otf
+font_fallback,fonts/NotoSansSC-Medium.otf

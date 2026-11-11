@@ -1,0 +1,153 @@
+ID,SPEAKER,TEXT
+0,SPK_SAORI,"[FI] Could it be, Kyousuke-shi..."
+1,SPK_SAORI,[FI] That you're doubting me?
+2,SPK_KYOUSUKE,[FI] N-No such thing. I'm just worried about you.
+3,SPK_KYOUSUKE,[FI] Do you really think that I've been calling you and waiting for you in chatrooms out of mere curiosity...
+4,SPK_KYOUSUKE,"[FI] Replacing someone on their appointment, showing in their stead at the meeting place?"
+5,SPK_SAORI,[FI] Yes.
+6,SPK_KYOUSUKE,[FI] An instant reply?!
+7,SPK_SAORI,[FI] I didn't say it's bad to do it out of mere curiosity. I am extremely honored by that.
+8,SPK_KYOUSUKE,"[FI] Then, why aren't you talking to me?"
+9,SPK_SAORI,[FI] Do you still remember what I said to you at the maid cafe back then?
+10,SPK_SAORI,"[FI] I had to go for an marriage interview, and..."
+11,,[FI] Marriage interview...
+12,,"[FI] That's right. We went to Akihabara after the Siscaly tournament, and she spilled that inadvertently."
+13,,"[FI] This marriage interview, is that what Saori was anxious about recently?"
+14,,[FI] But what did she say at that time?
+15,,"[FI] She laughed it off as if it was a joke, didn't she?"
+16,,"[FI] It feels like I should say something, but I can't think of anything suitable to say..."
+17,,"[FI] Saori may look huge, but she's actually younger than me."
+18,,"[FI] Despite that, I got a glimpse of a world that is unknown to me."
+19,,"[FI] Surely, she must feel disheartened."
+20,SPK_KYOUSUKE,"[FI] At that time, didn't you say it was just a ""life experience""?"
+21,SPK_SAORI,[FI] I thought it would just be a life experience.
+22,SPK_SAORI,"[FI] Even so, I should have said it."
+23,,"[FI] In that case, don't make such a sad smile..."
+24,SPK_KYOUSUKE,"[FI] You mean, that marriage interview is a serious thing..."
+25,SPK_SAORI,[FI] Really really very serious.
+26,SPK_KYOUSUKE,"[FI] But, it was only a marriage interview, right?"
+27,SPK_KYOUSUKE,"[FI] It's not like you have to settle down; if you end up rejecting it, it'll work out..."
+28,SPK_SAORI,[FI] ............
+29,SPK_KYOUSUKE,"[FI] Eh, what's with the silence?"
+30,SPK_SAORI,[FI] Actually...
+31,SPK_SAORI,"[FI] I have to uphold the honor of my parents, so... I'm... getting engaged."
+32,SPK_KYOUSUKE,[FI] ...............Are thou serious?
+33,SPK_SAORI,[FI] I am serious.
+34,SPK_KYOUSUKE,"[FI] B-But, nothing's finalized yet..."
+35,SPK_SAORI,[FI] ...Even the reservations for the ceremonial hall have been placed.
+36,SPK_KYOUSUKE,[FI] Seriously...
+37,SPK_SAORI,"[FI] Kyousuke-shi... It's really hard to say, but..."
+38,SPK_SAORI,[FI] I'd like to have this Life Consultation for once.
+39,,"[FI] I had a little premonition about this, but I never expected even Saori would ask for a life consultation in the end..."
+40,SPK_KYOUSUKE,[FI] Okay. You'll have to explain this first.
+41,SPK_SAORI,"[FI] Actually, my fiance said that he wanted me to drop my otaku hobby."
+42,SPK_SAORI,[FI] I too am kind of bothered by that.
+43,SPK_KYOUSUKE,[FI] I see...
+44,SPK_KYOUSUKE,"[FI] But your family is pretty wealthy, isn't it?"
+45,SPK_KYOUSUKE,[FI] Couldn't you just turn down the request to stop your hobby?
+46,SPK_SAORI,[FI] The person in this marriage interview is the son of a family who owns a big listed company.
+47,SPK_SAORI,"[FI] He's doing very well in his career, is very well-mannered, and his speech is intelligent-sounding and charming..."
+48,SPK_SAORI,"[FI] Furthermore, his future annual income would be tens of millions."
+49,SPK_KYOUSUKE,[FI] Whoa... That can't be real...!
+50,,"[FI] That's that, right? The one of a kind treasure?"
+51,,"[FI] Even though I'm a man, those qualities are making my heart beat faster."
+52,,[FI] So wouldn't a woman rush straight for it?
+53,SPK_SAORI,[FI] But he's almost 40.
+54,SPK_KYOUSUKE,[FI] That's the bit that rules out everything!
+55,SPK_SAORI,[FI] Age doesn't matter in love...
+56,SPK_KYOUSUKE,"[FI] That may be true, but..."
+57,SPK_KYOUSUKE,"[FI] But this is an marriage interview, right? Any affection and love haven't even started."
+58,SPK_SAORI,"[FI] Still, I have to accept for the sake of my parents' honor."
+59,,"[FI] Parents' honor, huh..."
+60,,"[FI] It isn't a world I'm familiar with; for Saori, it's a family matter."
+61,SPK_SAORI,"[FI] He told me to dispose of all my otaku goods, but..."
+62,SPK_SAORI,"[FI] No matter what, I couldn't bear to throw away the treasures filled with memories."
+63,SPK_KYOUSUKE,"[FI] Because of that, you passed those goods to Kirino and me?"
+64,SPK_SAORI,[FI] Yes...
+65,SPK_SAORI,"[FI] If it's Kyousuke-shi and Kiririn-shi, I thought I could entrust my memories to you."
+66,SPK_SAORI,"[FI] However, I'm really sorry for causing both of you trouble."
+67,SPK_KYOUSUKE,"[FI] Nope, you did it because you trusted us, right?"
+68,SPK_KYOUSUKE,[FI] Then it isn't considered a bother.
+69,SPK_SAORI,[FI] ...I am very grateful.
+70,SPK_KYOUSUKE,"[FI] But, regarding the engagement..."
+71,SPK_KYOUSUKE,"[FI] I'm sorry, but I can't say anything about it."
+72,,"[FI] If they are engaged, then it's an issue between the two."
+73,,"[FI] No matter how much she trusts me, I'm an outsider. It's not good to intrude."
+74,,[FI] This should be a matter of mutual agreement.
+75,SPK_KYOUSUKE,"[FI] But, even after getting married, completely rejecting your lifelong partner's hobby is something that I can't accept."
+76,SPK_SAORI,[FI] Kyousuke-shi...
+77,SPK_KYOUSUKE,[FI] It's marriage... right?
+78,SPK_KYOUSUKE,[FI] It's completely different from a casual date.
+79,SPK_KYOUSUKE,[FI] Do you plan to live the rest of your life as dictated by your husband?
+80,SPK_SAORI,[FI] That's...
+81,SPK_SAORI,[FI] That's something I definitely don't want...!
+82,SPK_KYOUSUKE,[FI] Then it's decided. I shouldn't be the one keeping your treasures.
+83,SPK_KYOUSUKE,[FI] You should have your fiance understand your otaku hobby!
+84,SPK_SAORI,[FI] Hmm? You look like you have something to say?
+85,SPK_KYOUSUKE,"[FI] Well, I have a mountain full of them."
+86,,"[FI] Come to think of it, when Saori rejected my gifts, she looked really dejected."
+87,,"[FI] ...Surely from then on, it would be impossible to get more figures..."
+88,,[FI] Is that a result of the marriage interview?
+89,,[FI] Did Saori come to a resolution of sorts?
+90,SPK_KYOUSUKE,"[FI] You said, a future that will never be granted..."
+91,SPK_KYOUSUKE,[FI] Were you referring to this?
+92,SPK_SAORI,"[FI] Yes, I was."
+93,SPK_SAORI,[FI] I was told to leave my otaku hobby behind by my marriage prospect.
+94,SPK_KYOUSUKE,[FI] As I thought...
+95,SPK_SAORI,[FI] The person in this marriage interview is the son of a family who owns a big listed company.
+96,SPK_SAORI,"[FI] He's doing very well in his career, is very well-mannered, and his speech is intelligent-sounding and charming..."
+97,SPK_SAORI,"[FI] Furthermore, his future annual income would be tens of millions."
+98,SPK_KYOUSUKE,[FI] Whoa... That can't be real...!
+99,,"[FI] That's that, right? The one of a kind treasure?"
+100,,"[FI] Even though I'm a man, those qualities are making my heart beat faster."
+101,,[FI] So wouldn't a woman rush straight for it?
+102,SPK_SAORI,[FI] But he's almost 40.
+103,SPK_KYOUSUKE,[FI] That's the bit that rules out everything!
+104,SPK_SAORI,[FI] Age doesn't matter in love...
+105,SPK_KYOUSUKE,"[FI] That may be true, but..."
+106,SPK_KYOUSUKE,"[FI] But this is an marriage interview, right? Any affection and love haven't even started."
+107,SPK_SAORI,"[FI] Still, I have to accept for the sake of my parents' honor."
+108,,[FI] Saori fell silent with a painful sigh.
+109,,[FI] This is where I reached a possibility.
+110,,"[FI] Due to the appearance of her marriage prospect, Saori grieves the fact that she won't be able to marry the one she really loves?"
+111,,"[FI] And thus, she stubbornly refused to confide to me about those private circumstances?"
+112,SPK_SAORI,"[FI] Well, that kind of joke is interesting from time to time!"
+113,SPK_KYOUSUKE,[FI] Damn it! That's like a modern day Romeo and Juliet!
+114,SPK_SAORI,[FI] ......Huh?
+115,SPK_SAORI,"[FI] Err, Kyousuke-shi...? It's an abrupt question, but..."
+116,SPK_SAORI,"[FI] Listening to the conversation, just where did you pull that Romeo and Juliet from?"
+117,SPK_KYOUSUKE,"[FI] No, you don't have to say anything, I understand."
+118,SPK_KYOUSUKE,"[FI] Leave it to me for now. You just have to fail the marriage interview, right?"
+119,SPK_SAORI,[FI] Kyou-Kyousuke-shi! Your voice is too loud!
+120,SPK_KYOUSUKE,[FI] Do you think I can stay silent about this?!
+121,SPK_KYOUSUKE,[FI] Do you like this marriage prospect? Do you love him?!
+122,SPK_SAORI,[FI] That's...
+123,SPK_KYOUSUKE,"[FI] Okay, it's decided. Now guide me this guy's house."
+124,SPK_SAORI,[FI] Eeeh?!
+125,SPK_KYOUSUKE,"[FI] But, Saori. It's marriage, right?"
+126,SPK_KYOUSUKE,[FI] It's not just going out with someone.
+127,SPK_SAORI,[FI] This... is deliberate.
+128,SPK_KYOUSUKE,[FI] Do you mean that you intend to live the rest of your life as a maid listening to the orders of her master?
+129,SPK_KYOUSUKE,[FI] Are you going to lie about your feelings and blow your life for your parents' sake?
+130,SPK_KYOUSUKE,[FI] Are you fine with such a life?!
+131,SPK_SAORI,[FI] I... I can't accept those conditions!
+132,SPK_KYOUSUKE,[FI] Then it's decided!
+133,SPK_KYOUSUKE,"[FI] In the end, I can't accept your treasure."
+134,SPK_KYOUSUKE,[FI] He'll have to understand about your otaku hobby!
+135,SPK_KYOUSUKE,[FI] Do you plan to live the rest of your life while sealing your otaku hobby away?!
+136,SPK_SAORI,[FI] Yes...
+137,,"[FI] ""Yes,"" you say... Is that really fine with you?"
+138,SPK_KYOUSUKE,[FI] Can you really give up on your way of life so easily?
+139,SPK_KYOUSUKE,[FI] Is the appearance of a marriage prospect enough for you to throw away your otaku hobby?
+140,SPK_KYOUSUKE,[FI] Is it fine to throw away the trigger behind Kirino and Kuroneko's encounter?!
+141,SPK_SAORI,[FI] ...
+142,SPK_KYOUSUKE,[FI] Don't simply follow in silence with your head low.
+143,SPK_SAORI,[FI] But...
+144,SPK_KYOUSUKE,[FI] Don't you understand after this?
+145,SPK_KYOUSUKE,"[FI] In that case, I'll say it directly."
+146,SPK_SAORI,[FI] EEEH?!
+147,SPK_KYOUSUKE,[FI] Take me to that marriage prospect's house. Right away.
+148,SPK_SAORI,[FI] Kyousuke-shi! This is much too reckless!
+149,SPK_KYOUSUKE,"[FI] Shush! Today, I made up my mind!"
+150,SPK_KYOUSUKE,"[FI] Ready, GO!!"
+151,SPK_SAORI,[FI] THEEEEEEE-HECKKKKKK

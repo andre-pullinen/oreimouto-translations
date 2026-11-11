@@ -1,0 +1,90 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,京都特产，如你所愿买回来了
+1,SPK_KURONEKO,是么，不过，已经不要了
+2,SPK_KYOUSUKE,哈？　这是怎么回事？
+3,SPK_KURONEKO,我改变主意了，没有其他理由
+4,SPK_KYOUSUKE,等等等等等等……难不成在我去京都的那段时间里发生了什么了吗？
+5,SPK_KURONEKO,没什么
+6,,发生了什么了吧
+7,SPK_KYOUSUKE,……总之一起回去吧
+8,SPK_KURONEKO,和你……一起吗……？
+9,SPK_KYOUSUKE,不行吗？
+10,SPK_KURONEKO,……哼，有做这种事情的必然性存在吗？
+11,SPK_KURONEKO,我有什么理由要和你一起回去？
+12,SPK_KYOUSUKE,理由什么的，不能一起回去吗？
+13,SPK_KURONEKO,……是的，没错，行动要是没有正当理由的话是没有必要去执行的
+14,SPK_KURONEKO,没有意识的行动，就和流水枯叶一般……
+15,SPK_KYOUSUKE,哈……
+16,,总觉得……是不是有些奇怪啊？　黑猫这家伙……
+17,SPK_KYOUSUKE,……哈？
+18,,说、说什么呢？　黑猫这家伙……
+19,SPK_KURONEKO,没听见吗？
+20,SPK_KURONEKO,那我再说一遍，我没有和学长一起回家的理由
+21,SPK_KYOUSUKE,没、没必要说的这个份上吧？
+22,SPK_KURONEKO,哎……真希望你差不多该明白了……
+23,SPK_KURONEKO,我没法和你一起回去
+24,,怎么了？　黑猫这家伙有些奇怪啊？
+25,,那么，该怎么办呢……
+26,SPK_KURONEKO,不好意思，我现在没有时间在这磨磨蹭蹭的
+27,SPK_KURONEKO,那么再见了，学长
+28,SPK_KYOUSUKE,黑猫，能问你一件事吗？
+29,SPK_KURONEKO,什么事？
+30,SPK_KYOUSUKE,那个，假如说……
+31,SPK_KURONEKO,……什么？
+32,SPK_KYOUSUKE,是、是不是有中意的对象了？
+33,SPK_KURONEKO,怎、怎么可能的事嘛
+34,SPK_KYOUSUKE,是、是嘛……稍微松了一口气了……
+35,SPK_KURONEKO,你、你突然间说出这些让人困扰的话做什么呢……
+36,SPK_KYOUSUKE,……真是冷淡啊……我可是会寂寞的哦……
+37,SPK_KURONEKO,那是你的事吧？　我可是有我自己的事
+38,SPK_KYOUSUKE,哼～，什么事？
+39,SPK_KURONEKO,……没必要和你说
+40,SPK_KURONEKO,再说了，寂寞什么的也都是骗人的吧？　学长已经有贝尔菲戈尔……不对，有田村学姐在了吧
+41,SPK_KYOUSUKE,为啥会提起麻奈实？　那家伙做了什么了吗？
+42,SPK_KYOUSUKE,而且，你不在了的话会感到寂寞这话可是真的
+43,SPK_KURONEKO,…………是嘛
+44,SPK_KURONEKO,……学长，趁现在就和你明说了
+45,SPK_KYOUSUKE,哦，说什么？
+46,SPK_KURONEKO,……不要再和我走得太近了
+47,SPK_KYOUSUKE,那算啥，新出的笑话吗？
+48,SPK_KURONEKO,要是你这么认为的话，那学长还真是有够乐天的
+49,SPK_KYOUSUKE,我只是想当做开玩笑而已！　因为……
+50,SPK_KURONEKO,因为……什么？
+51,SPK_KYOUSUKE,那样的话不是太寂寞了吗
+52,SPK_KURONEKO,……
+53,SPK_KURONEKO,……就是你摆出这副表情出来，也不会改变我的意思的
+54,SPK_KYOUSUKE,什么嘛，到底在搞什么啊
+55,SPK_KURONEKO,不明白也没关系，只是想告诉你而已
+56,SPK_KYOUSUKE,给我说个理由出来，理由
+57,SPK_KURONEKO,没有必要说，反正说了也没用
+58,SPK_KYOUSUKE,为什么没用啊？　不说出来怎么会知道呢
+59,SPK_KURONEKO,这样对双方都会有好的结果的……
+60,SPK_KURONEKO,你、你不是也有要做的事吗？
+61,SPK_KYOUSUKE,要、要做的事……？
+62,SPK_KURONEKO,真是的……学长是应考生吧？
+63,SPK_KYOUSUKE,……啊……
+64,SPK_KURONEKO,明白了吧？　既然双方都有自己的事情，那么这么做也都是为了双方好
+65,SPK_KYOUSUKE,你以为这样我就能接受了吗，给我好好说明一下
+66,SPK_KURONEKO,不要以为所有话都可以和别人说的
+67,SPK_KURONEKO,对于人来说还是有很多事情是不能和别人说的
+68,SPK_KYOUSUKE,话虽如此……
+69,SPK_KYOUSUKE,不明所以啊……
+70,SPK_KURONEKO,嗯，这就行了，因为我也不太明白
+71,SPK_KYOUSUKE,你这算什么啊……
+72,SPK_KURONEKO,没用就是没用
+73,SPK_KURONEKO,现在你的意思只会阻碍我探寻灵魂的航路，所以你必须要远离我才行
+74,SPK_KYOUSUKE,什么啊……
+75,SPK_KURONEKO,就是字面意思
+76,SPK_KURONEKO,话就到此结束了
+77,SPK_KYOUSUKE,喂、喂？　……你到底是怎么了啊
+78,SPK_KURONEKO,即没有回答你的必要，也没有义务回答你
+79,SPK_KYOUSUKE,至于说的这份上吗？　我明明就在担心你的说……
+80,SPK_KURONEKO,能不能不要这么失落？　看着很不舒服
+81,SPK_KYOUSUKE,…………给我等下
+82,SPK_KURONEKO,我已经没话可说了
+83,SPK_KYOUSUKE,刚刚你说的『不要和我再扯上关系了』……是认真的吗？
+84,SPK_KURONEKO,……是的，是认真的
+85,SPK_KURONEKO,……不要再和我扯上关系了
+86,SPK_KYOUSUKE,什么啊……这算什么
+87,,看来我是相当地失落啊
+88,,连我自己都吓一跳了，为什么……我会……觉得如此悲伤？

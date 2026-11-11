@@ -1,0 +1,277 @@
+ID,SPEAKER,TEXT
+0,,"[FI] --Welcome, visitor from afar, to our world known as 
+the Destiny Record."
+1,,"[FI] ......This is the valley of endings and rebirths, the 
+place where many destinies assemble."
+2,,"[FI] --Well then, tell me about your past..."
+3,SPK_KIRIRIN,"[FI] Okayokayokay~! That's enough beating around the 
+bush~♪"
+4,SPK_KIRIRIN,"[FI] Now, let's start from the top."
+5,SPK_KIRIRIN,"[FI] Thank you for buying ""Ore no Imouto ga Konna ni 
+Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga 
+Nai""!"
+6,SPK_KIRIRIN,"[FI] How do you do? I'm the one that governs your 
+destiny, the super adorable fairy Kiririn~"
+7,SPK_KIRIRIN,[FI] And this is Kuronyan.
+8,SPK_KURONYAN,[FI] Nice to meet you.
+9,SPK_KIRIRIN,[FI] Hm? Do we resemble someone?
+10,SPK_KIRIRIN,"[FI] That's just your imagination, no need to worry 
+about such minor details♪"
+11,SPK_KIRIRIN,"[FI] I mean, where else could you find girls this cute?"
+12,SPK_KURONYAN,"[FI] How unabashed of you. Alright, let's get to the real 
+issue at hand."
+13,SPK_KIRIRIN,"[FI] OK, um~ We will now give a brief explanation of 
+the game and decide on your destined scenario to 
+play."
+14,SPK_KIRIRIN,"[FI] This game is a sequel to the previous title, ""Ore no 
+Imouto ga Konna ni Kawaii Wake ga Nai Portable"", 
+but..."
+15,SPK_KIRIRIN,"[FI] How should I put it? It seems pretty complicated 
+from where I'm standing."
+16,SPK_KIRIRIN,"[FI] This game contains the usual format of stories 
+continuing after the previous game's endings, while 
+having stories that aren't linked at all."
+17,SPK_KURONYAN,"[FI] You're making it harder to understand with that 
+kind of explanation."
+18,SPK_KURONYAN,"[FI] Other than a few exceptions, this game starts at 
+the point of you starting a relationship with your 
+lover- or someone you care for."
+19,SPK_KURONYAN,"[FI] Being with your beloved girlfriend... Spending a fun 
+summertime together - that's basically the idea of 
+this game."
+20,SPK_KURONYAN,[FI] Do you understand now?
+21,SPK_KIRIRIN,"[FI] We will now start asking questions about ""Your 
+Cute Lover"", so do answer this seriously!"
+22,SPK_KURONYAN,"[FI] If your feelings for your beloved girlfriend are 
+genuine, you'll definitely be able to choose the 
+correct choices."
+23,SPK_KURONYAN,"[FI] Now then, take these first."
+24,SPK_KURONYAN,"[FI] Order Record Effect (O.R.E System), the key items 
+to answer our questions."
+25,SPK_KIRIRIN,[FI] O.R.E for short.
+26,SPK_KURONYAN,[FI] ...Do you know how to use these?
+27,SPK_KIRIRIN,"[FI] Yes yes, just like that."
+28,SPK_KURONYAN,[FI] ...What a helpless being. I'll explain it then.
+29,SPK_KURONYAN,[FI] ......
+30,SPK_KURONYAN,"[FI] ...Do you see the O.R.Es displayed on the top corners 
+of the screen right now?"
+31,SPK_KURONYAN,"[FI] Select them by pressing Left or Right on the D-Pad, 
+then press the Square button to confirm your 
+choice."
+32,SPK_KURONYAN,[FI] Do you understand?
+33,SPK_KIRIRIN,"[FI] By the way, not selecting anything in this example is 
+the same as selecting No."
+34,SPK_KIRIRIN,"[FI] Yes yes, just like that."
+35,SPK_KURONYAN,"[FI] ...You really are helpless. I'll explain it again, once 
+more."
+36,SPK_KIRIRIN,"[FI] OK, let's kick this off!"
+37,SPK_KURONYAN,"[FI] Yes... Let's embark on a journey to discover your 
+past."
+38,SPK_KIRIRIN,[FI] Let's start with the super fundamental stuff.
+39,SPK_KIRIRIN,"[FI] Have you played the previous game, ""Ore no 
+Imouto ga Konna ni Kawaii Wake ga Nai Portable"" 
+before?"
+40,SPK_KIRIRIN,"[FI] And also, fully completed?"
+41,SPK_KIRIRIN,"[FI] Uh huh, of course you did-"
+42,SPK_KIRIRIN,"[FI] Well, let's see here..."
+43,SPK_KIRIRIN,"[FI] Hey, so I just checked, but there's no save data of 
+the previous game though?"
+44,SPK_KIRIRIN,[FI] You... Have you really played it?
+45,SPK_KURONYAN,"[FI] Claiming someone hasn't played it because you 
+can't find the save data is a rash decision."
+46,SPK_KURONYAN,"[FI] Since he's saying he played it, please believe him."
+47,SPK_KIRIRIN,[FI] Kay.
+48,SPK_KIRIRIN,"[FI] Well then, that's the gist of it."
+49,SPK_KIRIRIN,"[FI] ...Whoa, it's true. There's the previous game's save 
+data."
+50,SPK_KURONYAN,[FI] Thank you for properly playing it.
+51,SPK_KIRIRIN,"[FI] Well then, that's the gist of it."
+52,SPK_KIRIRIN,[FI] Wow-!? It's fully completed!!
+53,SPK_KURONYAN,[FI] ...Oh my. Really?
+54,SPK_KIRIRIN,[FI] Really really. Check it out. Here.
+55,SPK_KURONYAN,[FI] ...Amazing.
+56,SPK_KURONYAN,"[FI] You've worked hard. You're a true little sister 
+master."
+57,SPK_KIRIRIN,"[FI] Um... I'll say this only once, so listen carefully."
+58,SPK_KIRIRIN,"[FI] Thanks, Aniki."
+59,SPK_KURONYAN,[FI] Please try to fully complete this game too.
+60,SPK_KIRIRIN,"[FI] Well then, that's the gist of it."
+61,SPK_KIRIRIN,"[FI] Hey, you! Why are you playing the sequel without 
+playing the previous game!"
+62,SPK_KIRIRIN,"[FI] It's bundled in the same package with this game, 
+so get to it quickly!"
+63,SPK_KIRIRIN,"[FI] Well, suddenly playing this isn't really a problem 
+though..."
+64,SPK_KURONYAN,"[FI] Ending up in this situation isn't an oversight. That's 
+why we are here."
+65,SPK_KURONYAN,"[FI] He hasn't played the previous game, so we'll guide 
+him to the routes that contain little connections to 
+the past."
+66,SPK_KIRIRIN,"[FI] That's true. Well then, that's the gist of it."
+67,SPK_KIRIRIN,[FI] This time I'll give you these 3 O.R.Es.
+68,SPK_KIRIRIN,"[FI] Right, good luck!"
+69,SPK_KURONYAN,"[FI] Your destiny contains misfortune... I'm looking 
+forward to what kind of tale you will spin..."
+70,SPK_KIRIRIN,[FI] Have a safe journey♪
+71,SPK_KIRIRIN,"[FI] Oh, this is..."
+72,SPK_KURONYAN,"[FI] Yes, that's right. The public park commonly used 
+for climactic scenes in the previous game."
+73,SPK_KURONYAN,"[FI] Isn't it an appropriate location for the next 
+question?"
+74,SPK_KIRIRIN,[FI] I see.
+75,SPK_KIRIRIN,"[FI] Alright, onto the next question."
+76,SPK_KIRIRIN,[FI] Do you have a girlfriend?
+77,SPK_KURONYAN,"[FI] ...I see, so you already have a girlfriend."
+78,SPK_KURONYAN,"[FI] ...I see, so you still don't have a girlfriend."
+79,SPK_KURONYAN,"[FI] If that is the case, I will hand you these O.R.Es."
+80,SPK_KIRIRIN,"[FI] It would be nice if you could get a girlfriend~ I'll 
+be rooting for you①"
+81,SPK_KURONYAN,"[FI] Your destiny contains misfortune... I'm looking 
+forward to what kind of tale you will spin..."
+82,SPK_KIRIRIN,[FI] Have a safe journey♪
+83,SPK_KURONYAN,"[FI] Now then... let's use this location for the next 
+question."
+84,SPK_KIRIRIN,"[FI] Okay, listen up."
+85,SPK_KIRIRIN,[FI] So... What kind of person is your girlfriend like?
+86,SPK_KURONYAN,[FI] We should ask for specifics.
+87,SPK_KURONYAN,[FI] Perhaps your sweetheart is...
+88,SPK_KURONYAN,[FI] like this person?
+89,SPK_KIRIRIN,[FI] There's no way!
+90,SPK_KURONYAN,"[FI] Well then,"
+91,SPK_KURONYAN,[FI] like this?
+92,SPK_KIRIRIN,[FI] Don't show such disgusting pictures!
+93,SPK_KURONYAN,"[FI] By the way, I got these images from your mobile 
+phone."
+94,SPK_KIRIRIN,[FI] Liar! Y-You're wrong!
+95,SPK_KIRIRIN,[FI] Sheesh... Take this seriously!
+96,SPK_KURONYAN,"[FI] Fine, fine."
+97,SPK_KURONYAN,"[FI] Now, I'll hand you the O.R.Es to respond to a 
+question again."
+98,SPK_KURONYAN,[FI] Here's the question. Is your girlfriend:
+99,SPK_KURONYAN,"[FI] This kind of high-school girl that has a mysterious 
+charm?"
+100,SPK_KIRIRIN,[FI] Hey.
+101,SPK_KIRIRIN,"[FI] Isn't that cunning? Hey, isn't that cunning of you?"
+102,SPK_KURONYAN,[FI] What do you mean? I don't quite understand.
+103,SPK_KIRIRIN,[FI] You got it all wrong. In this situation...
+104,SPK_KIRIRIN,[FI] You're supposed to use this image here.
+105,SPK_KIRIRIN,"[FI] This type of ""gathering and lifting"" high school 
+student?"
+106,SPK_KIRIRIN,[FI] Or...
+107,SPK_KIRIRIN,"[FI] This type of middle school student with ample sex 
+appeal?"
+108,SPK_KURONYAN,[FI] ...That's full of bad intentions.
+109,SPK_KIRIRIN,"[FI] Shut up. Well, how about it?"
+110,SPK_KIRIRIN,"[FI] Is your girlfriend a middle school student? Or is she 
+a high school student?"
+111,SPK_KIRIRIN,[FI] Huh... I see.
+112,SPK_KURONYAN,[FI] I understood that well.
+113,SPK_KIRIRIN,"[FI] Then, onto the last question."
+114,SPK_KIRIRIN,[FI] Is your girlfriend...
+115,SPK_KIRIRIN,[FI] a little sister?
+116,SPK_KURONYAN,"[FI] ...That way of asking can lead to a dangerous 
+misunderstanding."
+117,SPK_KURONYAN,"[FI] To clarify, she meant to ask ""Does your girlfriend 
+have an older brother or sister?"""
+118,SPK_KURONYAN,[FI] Go on... How about it?
+119,SPK_KIRIRIN,"[FI] ...Yup, I got it."
+120,SPK_KIRIRIN,[FI] The last question's answer... I have noted that down.
+121,SPK_KURONYAN,"[FI] Congratulations... To you, I grant you these O.R.Es."
+122,SPK_KURONYAN,[FI] Thank you for keeping us company.
+123,SPK_KIRIRIN,"[FI] Take care. Send our regards to that super cute 
+girlfriend!"
+124,SPK_KURONYAN,[FI] Thank you for keeping us company.
+125,SPK_KIRIRIN,"[FI] Take care. Send our regards to that super cute 
+girlfriend!"
+126,SPK_KIRIRIN,[FI] Eh? Your girlfriend is a high school student?
+127,SPK_KIRIRIN,[FI] For real~? Unbelievable.
+128,SPK_KIRIRIN,"[FI] I mean, isn't a high school student already an old 
+hag?"
+129,SPK_KURONYAN,[FI] Say as much as you like. You're just like a kid.
+130,SPK_KIRIRIN,[FI] I win when it comes to breasts though!
+131,SPK_KURONYAN,[FI] Kuh... You have a comeback for everything...
+132,SPK_KIRIRIN,"[FI] Well... anyways, this time I'm giving you these O.R.Es."
+133,SPK_KIRIRIN,"[FI] Not appreciating the good points of middle school 
+students... You're really losing out on life, you know?"
+134,SPK_KURONYAN,"[FI] Yes, yes. Stop being a sore loser and let's send him 
+out on his way."
+135,SPK_KIRIRIN,[FI] Just leave already! You idiot!
+136,SPK_KURONYAN,"[FI] Take care. Hey... senpai? Isn't it about time to wake 
+up?"
+137,SPK_KIRIRIN,[FI] Hm? Huh?
+138,SPK_KIRIRIN,"[FI] Your girlfriend is neither a middle nor high school 
+student..."
+139,SPK_KIRIRIN,"[FI] Wait, w-w-w-what do you mean?"
+140,SPK_KURONYAN,[FI] Ele...
+141,SPK_KURONYAN,[FI] Y-Y-You mean... an elementary school student...
+142,SPK_KIRIRIN,"[FI] You're actually dating an elementary school 
+student?!"
+143,SPK_KURONYAN,[FI] You're the worst kind of scum...
+144,SPK_KIRIRIN,"[FI] Pervert pervert pervert! Just get out of here 
+already----!"
+145,SPK_KURONYAN,[FI] ...I've given it some thought.
+146,SPK_KURONYAN,[FI] There's only one O.R.E that matches these criteria.
+147,SPK_KIRIRIN,[FI] Seriously? Does it exist? Something like that?
+148,SPK_KURONYAN,[FI] Yes...
+149,SPK_KURONYAN,"[FI] In this case, the O.R.E I'm handing to you is... this."
+150,SPK_KIRIRIN,"[FI] Eh? I don't get it? How does this match the 
+criteria?"
+151,SPK_KURONYAN,"[FI] That is of course... something to be found out 
+afterward."
+152,SPK_KURONYAN,[FI] Well... it's almost time. Please return to your world.
+153,SPK_KIRIRIN,[FI] Eh-? I really don't understand thou-
+154,SPK_KYOUSUKE,[FI] ...*yawn*
+155,SPK_KYOUSUKE,[FI] It feels like I just had an outrageous dream.
+156,,[FI] My name is Kousaka Kyousuke. An ordinary student.
+157,,"[FI] ...Just kidding, there's probably no need for this 
+self-introduction."
+158,,[FI] It's way too hot outside.
+159,,"[FI] Today, I will be fully enjoying my summer vacation, 
+like usual."
+160,,"[FI] Well then, Summer Comiket ended already, so..."
+161,SPK_KYOUSUKE,[FI] What should I do today?
+162,,[FI] Ask Kirino out?
+163,SPK_KYOUSUKE,[FI] ..................
+164,SPK_KYOUSUKE,[FI] ............
+165,SPK_KYOUSUKE,[FI] ......
+166,,[FI] Ask Kuroneko out?
+167,SPK_KYOUSUKE,[FI] ..................
+168,SPK_KYOUSUKE,[FI] ............
+169,SPK_KYOUSUKE,[FI] ......
+170,,[FI] Ask Saori out?
+171,SPK_KYOUSUKE,[FI] ..................
+172,SPK_KYOUSUKE,[FI] ............
+173,SPK_KYOUSUKE,[FI] ......
+174,,[FI] Ask Manami out?
+175,SPK_KYOUSUKE,[FI] ..................
+176,SPK_KYOUSUKE,[FI] ............
+177,SPK_KYOUSUKE,[FI] ......
+178,,[FI] Ask Ayase out?
+179,SPK_KYOUSUKE,[FI] ..................
+180,SPK_KYOUSUKE,[FI] ............
+181,SPK_KYOUSUKE,[FI] ......
+182,,[FI] Ask Kanako out?
+183,SPK_KYOUSUKE,[FI] ..................
+184,SPK_KYOUSUKE,[FI] ............
+185,SPK_KYOUSUKE,[FI] ......
+186,,[FI] Go to the Games Research Club?
+187,SPK_KYOUSUKE,[FI] ..................
+188,SPK_KYOUSUKE,[FI] ............
+189,SPK_KYOUSUKE,[FI] ......
+190,,"[FI] Hmm, I guess..."
+191,SPK_KYOUSUKE,[FI] ......Let's ask Kirino out.
+192,SPK_KYOUSUKE,[FI] ......Let's ask Kuroneko out.
+193,SPK_KYOUSUKE,[FI] ......Let's ask Saori out.
+194,SPK_KYOUSUKE,[FI] ......Let's ask Manami out.
+195,SPK_KYOUSUKE,[FI] ......Let's ask Ayase out.
+196,SPK_KYOUSUKE,[FI] ......Let's ask Kanako out.
+197,SPK_KYOUSUKE,"[FI] ......I should visit the Games Research Club every 
+now and then."
+198,SPK_KYOUSUKE,"[FI] Well, let's not ask anyone out..."
+199,,"[FI] I got some spare time, let's go to the bookstore."
+200,,"[FI] Although I've arrived at the bookstore, I wasn't 
+looking for anything in particular. Well, it's a change 
+of pace, back to studying now."
+201,,[FI] However.
+202,SPK_UNKNOWN,[FI] Kousaka-kun!
+203,,[FI] That's when I came across unexpected company...

@@ -1,0 +1,111 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,[FI] Brace yourself. Lunch is on me today.
+1,SPK_MANAMI,[FI] Eh?
+2,,"[FI] It's not a secret or anything, but I've been working 
+part-time lately. Not only that, but it was also 
+payday yesterday!"
+3,SPK_KYOUSUKE,"[FI] Okay then, what do you want to eat? Anything's 
+fine, so don't hold back."
+4,SPK_MANAMI,[FI] A-Anything's fine with you?
+5,SPK_KYOUSUKE,"[FI] Yep, anything!"
+6,SPK_MANAMI,"[FI] Hmmm... I wonder? Kyou-chan, are you sure?"
+7,SPK_KYOUSUKE,[FI] Leave it to me! Just ask and ye shall receive!
+8,SPK_MANAMI,[FI] ...Anything's fine?
+9,SPK_KYOUSUKE,"[FI] Of course! It's not like I can do this all the time, you 
+know. I gotta act the part of a good boyfriend 
+from time to time, right?"
+10,SPK_MANAMI,"[FI] Wow~ Kyou-chan, you seem more reliable than 
+ever today~"
+11,SPK_KYOUSUKE,"[FI] You mean today “as usual"", right?"
+12,SPK_MANAMI,"[FI] Ehehe, that’s right!"
+13,SPK_KYOUSUKE,[FI] ......
+14,SPK_MANAMI,"[FI] Kyou-chan, it's not too late for you to reconsider, 
+you know? I don't mind..."
+15,SPK_KYOUSUKE,"[FI] Well, er, I mean... I was wondering what I should say 
+to get you to take up my offer."
+16,SPK_MANAMI,[FI] Is that so?
+17,SPK_KYOUSUKE,"[FI] Yeah. Don't worry about it. Come on, just tell me 
+what food's on your mind?"
+18,SPK_MANAMI,[FI] ...Is it really okay?
+19,SPK_KYOUSUKE,"[FI] Yeah, it's all good."
+20,SPK_MANAMI,[FI] Hmm...
+21,SPK_MANAMI,"[FI] Then, maybe I will take up your offer?"
+22,SPK_KYOUSUKE,"[FI] In any case, don't hold back. Because――"
+23,SPK_MANAMI,[FI] ――Because what?
+24,SPK_KYOUSUKE,"[FI] I just got my pay, and that means this is the only 
+time to indulge in luxury."
+25,SPK_MANAMI,"[FI] That's amazing, Kyou-chan~ You're so rich now, 
+aren't you?"
+26,SPK_KYOUSUKE,"[FI] Yeah, I'm practically loaded now! Hahahaha!"
+27,SPK_MANAMI,"[FI] But this is the fruit of your hard work, surely you 
+have something you want to get for yourself..."
+28,SPK_KYOUSUKE,"[FI] Something I want, huh..."
+29,SPK_KYOUSUKE,[FI] That'd be Manami!
+30,SPK_MANAMI,"[FI] Eh? EH? Kyou-chan, what are you saying?"
+31,SPK_KYOUSUKE,"[FI] All I want is you, you heard me! ...I'm not repeating 
+that again."
+32,SPK_MANAMI,"[FI] But... I'm already attached to Kyou-chan, aren’t I..."
+33,SPK_KYOUSUKE,[FI] Huh?
+34,SPK_MANAMI,"[FI] I would stay with you even if you didn't give me 
+any money, you know?"
+35,SPK_KYOUSUKE,"[FI] No no, I didn't mean it like that!"
+36,SPK_KYOUSUKE,"[FI] I'm only working part-time in order to afford these 
+experiences together."
+37,SPK_MANAMI,[FI] I see...
+38,SPK_KYOUSUKE,[FI] ...
+39,SPK_KYOUSUKE,"[FI] As of now, there is nothing I really want."
+40,SPK_MANAMI,[FI] Really? Then why are you working part time?
+41,SPK_KYOUSUKE,"[FI] I don't have any special reason, but if anything I'd 
+say it's more to enjoy our time together."
+42,SPK_MANAMI,"[FI] Thank you, Kyou-chan. But you know, you don't 
+need to force yourself to get a job just for that..."
+43,SPK_KYOUSUKE,"[FI] I don't think I'm forcing myself too much. I'm doing 
+this because I want to."
+44,SPK_KYOUSUKE,"[FI] So, you don't have to worry about that."
+45,SPK_MANAMI,"[FI] Mm~ In that case, I would be happier if you save 
+up a bit for the future."
+46,SPK_KYOUSUKE,"[FI] Hahaha, that's just like you, Manami."
+47,SPK_MANAMI,"[FI] Retirement is very important, Kyou-chan!"
+48,SPK_KYOUSUKE,[FI] More like utility bills.
+49,SPK_KYOUSUKE,"[FI] So, have you decided on what you want to eat?"
+50,SPK_MANAMI,[FI] Hmmmm~ Nothing comes to mind for me.
+51,SPK_KYOUSUKE,"[FI] Yeah, we probably got side-tracked for too long, 
+huh?"
+52,SPK_MANAMI,"[FI] Really though, I wonder what's good? Kyou-chan, 
+can you decide for me?"
+53,SPK_KYOUSUKE,[FI] I don't have anything in mind either.
+54,SPK_MANAMI,"[FI] In that case, I will just have whatever you're 
+having!"
+55,SPK_KYOUSUKE,"[FI] Manami... It's my treat, so there would be no point if 
+I made the decision, right?"
+56,SPK_MANAMI,"[FI] That's true. Still, I can’t just decide on such short 
+notice."
+57,SPK_KYOUSUKE,[FI] It'll be tough on me if you don't decide...
+58,SPK_MANAMI,"[FI] Mm~ I will just go with Kyou-chan’s 
+recommendation."
+59,SPK_KYOUSUKE,[FI] ...
+60,SPK_MANAMI,"[FI] I guess Kyou-chan doesn't have anything in mind 
+either?"
+61,SPK_KYOUSUKE,[FI] Come on... What's the point in me choosing?
+62,SPK_MANAMI,"[FI] But I want to have what you're having too, you 
+know?"
+63,SPK_KYOUSUKE,[FI] Even if you say that...
+64,SPK_MANAMI,"[FI] I'm not particular about food... I just like watching 
+Kyou-chan eating happily."
+65,SPK_KYOUSUKE,"[FI] You sure you're okay with that? No need to hold 
+back at this point."
+66,SPK_MANAMI,"[FI] Yup, I'm fine, really."
+67,,"[FI] She's definitely being considerate here. I won't 
+force it, but let her take some time to decide."
+68,SPK_KYOUSUKE,"[FI] Then, let's think about it together while we walk."
+69,SPK_MANAMI,"[FI] Um... Kyou-chan, you took the time to listen to me, 
+and I... Sorry."
+70,SPK_KYOUSUKE,"[FI] No need to apologize. I should've planned 
+something before heading out."
+71,SPK_MANAMI,"[FI] Then again, such a sudden invitation does feel 
+exciting and fun."
+72,SPK_KYOUSUKE,"[FI] That's good to hear. It's a rare experience for us, 
+so let's have a bit of fun?"
+73,SPK_MANAMI,[FI] Okay~
+74,,"[FI] I took Manami's hand in mine and walked towards 
+the train station."

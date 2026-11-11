@@ -1,0 +1,36 @@
+ID,SPEAKER,TEXT
+0,SPK_DOCTOR,"[FI] Although I can only perform a simple medical examination here, this is just a simple case of overwork and lack of sleep."
+1,SPK_KYOUSUKE,[FI] Whew... That's good to hear...
+2,SPK_DOCTOR,"[FI] Well then, I will be leaving for a while, let me know when she comes around, all right?"
+3,SPK_KYOUSUKE,"[FI] That's what the doctor said, Kuroneko."
+4,,[FI] It looks like Kuroneko... isn't going to be waking up anytime soon.
+5,SPK_KYOUSUKE,"[FI] Wake up soon, I have to scold you no matter what."
+6,,"[FI] Besides, this is the first time... that I'm so close to Kuroneko's face..."
+7,,[FI] We haven't been this close because of the distance between us.
+8,,"[FI] Her cheeks are a little red... But, it seems that she has calmed down... That's really great..."
+9,,[FI] She's been sulking a lot recently...
+10,SPK_KYOUSUKE,[FI] Haha... It'll be great if her mood gets better when she wakes up.
+11,SPK_KURONEKO,[FI] Nnn...
+12,SPK_KYOUSUKE,"[FI] Kuroneko, are you awake?"
+13,SPK_KURONEKO,[FI] This place is...
+14,SPK_KYOUSUKE,[FI] The infirmary. Don't you remember? You collapsed all of a sudden.
+15,SPK_KURONEKO,"[FI] ...I do remember, quite clearly."
+16,SPK_KYOUSUKE,"[FI] Geez... But, since you're unexpectedly full of vigor, I'm quite relieved."
+17,SPK_KURONEKO,"[FI] Besides, it's just lack of sleep and overwork, isn't it? You don't have to be so worried."
+18,SPK_KYOUSUKE,"[FI] Even if it's nothing big, if you collapse, won't it be all for nothing?"
+19,SPK_KURONEKO,[FI] Right... Initially I thought I would be able to continue like this... I'm really worthless.
+20,SPK_KYOUSUKE,"[FI] You...! Good grief, I can't handle you... You won't listen even if I say it again, right?"
+21,SPK_KURONEKO,[FI] Of course. I'm not obliged to listen to you.
+22,SPK_KYOUSUKE,"[FI] Yeah yeah... Well, I'll just say it again just for the sake of it."
+23,SPK_KYOUSUKE,"[FI] In short, stop overworking yourself... I can't always come out to stop you."
+24,SPK_KURONEKO,"[FI] ...As for what happened this time, I feel that it's you who got me angry for no reason in the first place..."
+25,SPK_KYOUSUKE,[FI] Yes yes... It's my bad... Just take it as my fault then.
+26,SPK_KYOUSUKE,"[FI] But you know, you should take extra care since you already collapsed once. It will be troublesome if you aren't lucky."
+27,SPK_KYOUSUKE,"[FI] It's okay to make me worried. After all, it's me who's concerned for you on my own accord."
+28,SPK_KYOUSUKE,"[FI] However, if you're causing the others to worry... you should stop."
+29,SPK_KYOUSUKE,[FI] It's better to avoid making everyone... sad.
+30,SPK_KURONEKO,[FI] ...That's right... That's something I don't wish to see either.
+31,SPK_KYOUSUKE,"[FI] Yeah, is that so. It makes me happy that you're willing to listen."
+32,SPK_KYOUSUKE,[FI] Well then... I'll go get the doctor here.
+33,SPK_KURONEKO,[FI] ......Hold it.
+34,SPK_KYOUSUKE,[FI] ? What is it?

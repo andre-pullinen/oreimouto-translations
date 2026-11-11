@@ -1,0 +1,81 @@
+ID,SPEAKER,TEXT
+0,SPK_KURONEKO,[FI] ...What is it?
+1,SPK_KYOUSUKE,[FI] I have something to talk to you about.
+2,SPK_KURONEKO,[FI] It seems that you have mustered up some enthusiasm... but it is still useless no matter how many times you say it.
+3,SPK_KYOUSUKE,"[FI] I don't know if it'll be useless or not. Come on, accompany me for a bit."
+4,SPK_KURONEKO,"[FI] Unfortunately, I don't have the time to talk to you."
+5,SPK_KYOUSUKE,"[FI] You might not have stuff to talk about, but I have things I need to say to you."
+6,SPK_KURONEKO,[FI] ...You're sure being forceful.
+7,SPK_KYOUSUKE,[FI] Isn't it useless if I don't do that to the current you?
+8,SPK_KURONEKO,[FI] So you're trying to twist my will with force?
+9,SPK_KYOUSUKE,"[FI] Nothing of that sort, you just won't listen if I don't speak more forcefully."
+10,SPK_KYOUSUKE,"[FI] After all, I have had some experience before."
+11,SPK_KURONEKO,[FI] ...I see. However...
+12,SPK_KYOUSUKE,[FI] Then please try to make some time...
+13,SPK_KURONEKO,[FI] Going for a low profile this time? Do you think bowing your head and begging will work?
+14,SPK_KURONEKO,"[FI] It's useless, your pride is worthless if you lower yourself just like that."
+15,SPK_KYOUSUKE,"[FI] It's true that my pride is worthless, reducing myself to this. I know fully well about my own worthlessness."
+16,SPK_KYOUSUKE,[FI] But please! Listen to what I have to say!
+17,SPK_KURONEKO,"[FI] ...No, I have nothing to say to you."
+18,SPK_KURONEKO,"[FI] In any case, don't interfere."
+19,SPK_KYOUSUKE,[FI] Interfere...? I'm just going to talk to you on the way home...
+20,SPK_KURONEKO,"[FI] It's certainly a waste of time being forced to stay here. Fine, I'll go to the clubroom instead."
+21,SPK_KYOUSUKE,[FI] ...Aren't you planning on going home?
+22,SPK_KURONEKO,[FI] ...I just remembered I had something to do.
+23,SPK_KYOUSUKE,[FI] Then I'll accompany you.
+24,SPK_KURONEKO,"[FI] ...You do know that this will be hindering my goal, yes?"
+25,SPK_KYOUSUKE,"[FI] I'm also a member of the club. There's no problem, right?"
+26,SPK_KURONEKO,"[FI] ...Certainly, you're indeed a member too. However, you do know paper members will only hinder other members of the club?"
+27,SPK_KYOUSUKE,"[FI] T-There shouldn't be any problem if I kept quiet, right?"
+28,SPK_KURONEKO,"[FI] You'll just be an eyesore if you stayed there, senpai."
+29,SPK_KYOUSUKE,[FI] Y-You don't have to say it like that...
+30,SPK_KYOUSUKE,[FI] So you just don't want to be with me?
+31,SPK_KURONEKO,[FI] It seems that you perceived that quite well. That's exactly what I feel.
+32,SPK_KYOUSUKE,[FI] ...Am I really such a hindrance to you?
+33,SPK_KURONEKO,[FI] Absolutely. What do you want me to say this time to reject you?
+34,SPK_KYOUSUKE,"[FI] ...Anything will do, just say it."
+35,SPK_KURONEKO,"[FI] All right, then I will."
+36,SPK_KURONEKO,[FI] You're a hindrance.
+37,SPK_KURONEKO,"[FI] I'll say it as many times as necessary. To be entirely honest, you're being a pain."
+38,SPK_KURONEKO,[FI] Reflect on how your own actions can cause troubles for others.
+39,SPK_KURONEKO,[FI] How many rejections will it take for that low IQ brain of yours to understand?
+40,SPK_KYOUSUKE,[FI] Eh!? Eh?!
+41,SPK_KYOUSUKE,[FI] ...You're being quite harsh.
+42,SPK_KURONEKO,[FI] That's because you've already done this.
+43,SPK_KYOUSUKE,[FI] I don't get it! I'm just worried about you!
+44,SPK_KYOUSUKE,[FI] Why are you rejecting me?!
+45,SPK_KYOUSUKE,"[FI] Me! Not just me, Kirino too! Everyone too!"
+46,SPK_KURONEKO,[FI] ......You won't understand even if I were to say it.
+47,SPK_KYOUSUKE,[FI] You wouldn't know that!
+48,SPK_KURONEKO,[FI] Quiet. Drive these words into your skull. Stop following me around.
+49,SPK_KYOUSUKE,[FI] Don't say such a thing... Won't people naturally be concerned about someone they know if they were to act strange all of a sudden?
+50,SPK_KURONEKO,[FI] ......Is that so?
+51,SPK_KYOUSUKE,"[FI] Yes, wouldn't you be concerned too if someone you know acted strange?"
+52,SPK_KURONEKO,[FI] It depends on the person. I make a distinction between friends and mere acquaintances.
+53,SPK_KYOUSUKE,"[FI] I don't think we're complete strangers, right?"
+54,SPK_KYOUSUKE,"[FI] You're a friend who hangs out with us, and even came to my house to play, right?"
+55,SPK_KURONEKO,[FI] ...Even though that's true...
+56,SPK_KYOUSUKE,[FI] ...I'm getting more worried the more you put it this way.
+57,SPK_KURONEKO,"[FI] It's useless to worry, just accept it if the person in question says so."
+58,SPK_KYOUSUKE,[FI] That's why I said I'm getting more worried when you're acting like this!
+59,SPK_KURONEKO,"[FI] *sigh*... Do you know what ""None of your business"" is?"
+60,SPK_KYOUSUKE,[FI] ...Is that how it is right now?
+61,SPK_KURONEKO,"[FI] Yes, exactly."
+62,SPK_KURONEKO,"[FI] *sigh*... Senpai, don't you get it even though I've said this much?"
+63,SPK_KYOUSUKE,"[FI] Yeah, I don't get it. I don't know what to say to get you to understand."
+64,SPK_KURONEKO,"[FI] Then let me tell you, I wish you would give up."
+65,SPK_KURONEKO,"[FI] Pestering isn't a form of expressing concern, do you get it?"
+66,SPK_KYOUSUKE,[FI] That's what I'll do if I think it's required...
+67,SPK_KYOUSUKE,"[FI] But, from what it seems, there's no choice but to pester you endlessly."
+68,SPK_KYOUSUKE,[FI] That's why...
+69,SPK_KYOUSUKE,"[FI] ....I got it already, this is the last time, so let me accompany you."
+70,SPK_KURONEKO,"[FI] The last time? What are you talking about? To begin with, nothing has happened yet..."
+71,SPK_KURONEKO,[FI] Do you really get it?
+72,SPK_KYOUSUKE,"[FI] ...Nope, I don't get it at all."
+73,SPK_KURONEKO,"[FI] Oh really, then I'll put it across clearer, since it's tedious."
+74,SPK_KURONEKO,[FI] So it's better if you stop it.
+75,SPK_KYOUSUKE,"[FI] ...Tedious, you say... It's a setback even to me when you say that."
+76,SPK_KURONEKO,"[FI] Then I'll say it a few more times, it's tedious."
+77,SPK_KYOUSUKE,"[FI] Then as a last struggle being the tedious person, I'll just pester you all the way."
+78,,[FI] I won't let you escape anymore...
+79,SPK_KURONEKO,[FI] Wha-

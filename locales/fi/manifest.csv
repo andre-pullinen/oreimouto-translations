@@ -1,0 +1,9 @@
+KEY,VALUE
+locale,fi
+name,Suomi
+short,FIN
+author,Suomi Käännöstiimi
+version,1.0.0
+schema_version,2
+tags,partial
+tag_note_partial,Kokeellinen testikäännös alustalle.\n\n- O.S.I.S. ja dialogikoe: **100%**\n- Pääjuoni: työn alla

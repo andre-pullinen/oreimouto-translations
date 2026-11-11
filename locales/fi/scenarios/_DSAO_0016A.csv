@@ -1,0 +1,103 @@
+ID,SPEAKER,TEXT
+0,SPK_SAORI,[FI] Kanata-san... Thank you for today.
+1,SPK_SAORI,"[FI] It was very nostalgic. And... I'm glad I could 
+introduce you to Kyousuke-shi."
+2,SPK_KANATA,"[FI] Yeah. Same here, thank you. I'm glad I got the 
+chance to talk to you again."
+3,SPK_SAORI,[FI] Yeah.
+4,SPK_KANATA,[FI] Will you introduce Kyousuke-kun to the others?
+5,SPK_SAORI,"[FI] Yes, if I get the chance."
+6,SPK_KANATA,[FI] 'Mkay.
+7,SPK_KANATA,"[FI] By the way, did you know that Kaorin-shi returned 
+to Japan?"
+8,SPK_SAORI,[FI] ...Eh?
+9,SPK_SAORI,[FI] Eh... Big Sis- My sister has?
+10,SPK_KANATA,"[FI] Ah, I knew she didn't tell you... that woman."
+11,SPK_KANATA,"[FI] Well, whatever. If that's how it is, pretend I didn't 
+say that then."
+12,SPK_SAORI,[FI] ...She's back...in Japan...
+13,,"[FI] Upon hearing the news of her sister returning, Saori 
+sank deep into thought."
+14,,"[FI] Kanata-san, who interrupted the conversation with 
+Saori..."
+15,SPK_KANATA,[FI] Eheh.
+16,,"[FI] She made a ω expression with her mouth and got 
+closer to my face."
+17,SPK_KANATA,"[FI] Hey hey~, Kyousuke-kun?"
+18,SPK_KYOUSUKE,[FI] Y-Yes?
+19,,"[FI] While I was getting nervous from her mischievous 
+behavior, she whispered into my ear."
+20,SPK_KANATA,[FI] Can I ask you a little something?
+21,SPK_KYOUSUKE,[FI] Is it something you don't want Saori to hear?
+22,SPK_KANATA,[FI] How smart of you♪ Yep.
+23,SPK_KYOUSUKE,"[FI] Sure, if it's something I can answer."
+24,SPK_KANATA,"[FI] You're Saorin-shi-, Saori-chan's boyfriend right?"
+25,SPK_KYOUSUKE,[FI] Yes.
+26,SPK_KANATA,[FI] Then...
+27,SPK_KANATA,"[FI] There's the Saori-chan right here, and the one 
+without the glasses."
+28,SPK_KANATA,[FI] Which one do you prefer?
+29,SPK_KYOUSUKE,[FI] ...Why are you asking me that?
+30,SPK_KANATA,[FI] Mmm... hehehehehe.
+31,SPK_KANATA,"[FI] I said it, didn't I? She's like a little sister to me."
+32,SPK_KANATA,"[FI] I want to e-va-lu-ate the boyfriend my cute little 
+sister brought①"
+33,SPK_KYOUSUKE,[FI] ----
+34,SPK_KYOUSUKE,[FI] You're testing me to see if I'm worthy for her?
+35,SPK_KANATA,[FI] Hehe~
+36,SPK_KANATA,"[FI] Is it weird for an older sister to be meddlesome 
+when it concerns her cute little sister?"
+37,,[FI] A foolish question.
+38,SPK_KYOUSUKE,"[FI] It's not weird, not at all."
+39,,[FI] If that's the reason...
+40,,"[FI] I have a little sister too, so I have to answer 
+appropriately."
+41,SPK_KYOUSUKE,[FI] I-
+42,SPK_KYOUSUKE,[FI] I like Saori Bajeena better.
+43,SPK_KANATA,"[FI] Hmmhmm, and why's that?"
+44,SPK_KYOUSUKE,"[FI] Of course, I like her true self without the glasses 
+too, but..."
+45,SPK_KYOUSUKE,"[FI] Her in that weird outfit is proof of all the hard work 
+she has done."
+46,SPK_KYOUSUKE,[FI] That's why I like Saori Bajeena better.
+47,SPK_KANATA,[FI] ......
+48,SPK_KANATA,[FI] I got it... Thanks for answering.
+49,SPK_KYOUSUKE,[FI] How... did I do?
+50,SPK_KANATA,[FI] Hehe-
+51,SPK_KANATA,[FI] That's-a-secret①
+52,SPK_KYOUSUKE,[FI] That so.
+53,,"[FI] To be honest, I don't know if that was the right 
+answer."
+54,,"[FI] It's just that, I conveyed my true feelings."
+55,,[FI] I need to have confidence in my answer.
+56,SPK_KYOUSUKE,[FI] I like her without her glasses.
+57,SPK_KANATA,[FI] Hmmhmm. And why's that?
+58,SPK_KYOUSUKE,"[FI] Of course, I also like her in that weird outfit, but..."
+59,SPK_KYOUSUKE,"[FI] I feel that when she took off her glasses, it was 
+proof she finally opened her heart to me."
+60,SPK_KYOUSUKE,"[FI] I mean, she is a really shy person, right?"
+61,SPK_KYOUSUKE,"[FI] Yet, she worked hard to show her true self."
+62,SPK_KYOUSUKE,[FI] There's no way I couldn't love that.
+63,SPK_KANATA,[FI] ......
+64,SPK_KANATA,[FI] I got it... Thanks for answering.
+65,SPK_KYOUSUKE,[FI] How... did I do?
+66,SPK_KANATA,[FI] Hehe-
+67,SPK_KANATA,[FI] That's-a-secret①
+68,SPK_KYOUSUKE,[FI] I see.
+69,,"[FI] To be honest, I don't know if that was the right 
+answer."
+70,,"[FI] It's just that, I conveyed my true feelings."
+71,,[FI] I need to have confidence in my answer.
+72,SPK_KYOUSUKE,[FI] I love both. I can't compare them.
+73,SPK_KYOUSUKE,"[FI] No matter her outfit, way of speaking, or 
+personality, she is still Saori."
+74,SPK_KANATA,[FI] ......
+75,SPK_KANATA,[FI] I got it... Thanks for answering.
+76,SPK_KYOUSUKE,[FI] How... did I do?
+77,SPK_KANATA,[FI] Hehe-
+78,SPK_KANATA,[FI] That's-a-secret①
+79,SPK_KYOUSUKE,[FI] I see.
+80,,"[FI] To be honest, I don't know if that was the right 
+answer."
+81,,"[FI] It's just that, I conveyed my true feelings."
+82,,[FI] I need to have confidence in my answer.

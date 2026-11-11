@@ -1,0 +1,73 @@
+ID,SPEAKER,TEXT
+0,,[FI] The day after the Siscaly tournament.
+1,,[FI] I took the chance for a stroll during the sunset to take a break from studying.
+2,SPK_KYOUSUKE,"[FI] Ah, hello?"
+3,SPK_MANAMI,"[FI] Kyou-chan, are you free right now?"
+4,SPK_KYOUSUKE,[FI] Yeah.
+5,SPK_KYOUSUKE,[FI] ...So? What's up?
+6,SPK_MANAMI,[FI] I want to tell you that I'll be going early tomorrow.
+7,SPK_KYOUSUKE,[FI] Eh? Is there something tomorrow?
+8,SPK_MANAMI,[FI] Why... There's the school trip tomorrow!
+9,SPK_KYOUSUKE,[FI] AH!
+10,,[FI] Crap... I totally forgot about it!
+11,,"[FI] There was the Siscaly tournament, so I forgot how soon it was..."
+12,,[FI] I-I'm such an idiot!
+13,SPK_MANAMI,"[FI] Kyou-chan, are you all right?"
+14,SPK_MANAMI,"[FI] You're not going to tell me you ""haven't prepared anything"", right?"
+15,,"[FI] That's exactly what it is... Everything about this school trip had completely disappeared from my mind, including the preparation."
+16,SPK_KYOUSUKE,[FI] H-How should I say this...
+17,SPK_MANAMI,[FI] What's wrong? Your voice's kinda shaky.
+18,SPK_KYOUSUKE,"[FI] Oh... how should I put it, I'm in trouble."
+19,SPK_MANAMI,[FI] I already felt like it wasn't right when I saw that you left your school trip handbook at school...
+20,SPK_KYOUSUKE,[FI] Ehh! Seriously?!
+21,SPK_MANAMI,"[FI] From what it sounds like, Kyou-chan, you didn't check the contents?"
+22,SPK_KYOUSUKE,[FI] I didn't! Was there something of importance?!
+23,SPK_MANAMI,[FI] There's a sticker in it that's used for the group activity for that very day.
+24,SPK_KYOUSUKE,[FI] This is bad--! Should I sneak into the school right now?!
+25,SPK_MANAMI,[FI] I-It's not necessary for you to do that. I took Kyou-chan's handbook with me as a precaution.
+26,SPK_KYOUSUKE,[FI] As expected from Manami! That's my childhood friend! I'm coming over to your place right now!!
+27,SPK_UNKNOWN,"[FI] Oh, isn't that Onii-san?"
+28,SPK_KYOUSUKE,[FI] That voice... could it be...
+29,,"[FI] I turned around, and there stood--"
+30,SPK_KYOUSUKE,[FI] A-Ayase...
+31,SPK_AYASE,"[FI] Good day, Onii-san. What are you in such a hurry for?"
+32,,"[FI] Aragaki Ayase. Kirino's close friend, as well as her modeling colleague."
+33,,"[FI] In other words, her ""official"" friend."
+34,,"[FI] Besides my sister, Ayase is the prettiest person I've met so far."
+35,,"[FI] Honestly, as far as appearances goes, she's totally my type but..."
+36,SPK_AYASE,[FI] Could it be... that you're plotting lewd things against Kirino again...
+37,SPK_KYOUSUKE,[FI] Is that the only explanation you could come up to explain my sprint...
+38,,"[FI] And what's with that ""again""? There hasn't been a single time where I've planned anything lewd against her since she was born!"
+39,SPK_AYASE,"[FI] Looking at the breathless perverted Onii-san running like that, anyone would agree."
+40,SPK_KYOUSUKE,[FI] Ugh...!
+41,,"[FI] That's right. Because of various reasons, Ayase firmly believes I'm a pervert."
+42,,"[FI] Because of many complicated reasons that entwine together, resolving that misunderstanding is impossible."
+43,,"[FI] So to me, Ayase is a problematic person in many ways."
+44,SPK_KYOUSUKE,[FI] Fate sure is ironic...
+45,SPK_AYASE,[FI] Hmm? Did you say something?
+46,SPK_KYOUSUKE,"[FI] No, nothing."
+47,,[FI] So please don't press your personal alarm button just yet.
+48,SPK_AYASE,"[FI] That aside, weren't you in a hurry?"
+49,SPK_KYOUSUKE,"[FI] Ah, now that you mention it..."
+50,SPK_KYOUSUKE,"[FI] However, it's rare for you to start a conversation with me, so I might as well..."
+51,SPK_AYASE,[FI] I merely saw Onii-san and greeted you.
+52,SPK_AYASE,"[FI] There wasn't a particular reason, so I'll take my leave now."
+53,SPK_KYOUSUKE,[FI] And there she goes...
+54,SPK_KYOUSUKE,"[FI] Good grief, my heart is moved every time she makes that angelic face. She truly is a devil..."
+55,SPK_KYOUSUKE,"[FI] Wait, I shouldn't be thinking of these things right now. I need to hurry to Manami's place!"
+56,SPK_AYASE,"[FI] Oh, Onii-san?"
+57,SPK_KYOUSUKE,"[FI] Yo, Ayase! Sorry, I'm in a hurry right now!"
+58,SPK_AYASE,[FI] Ah. Could it be that you heard something regarding the school trip from Onee-san?
+59,SPK_KYOUSUKE,[FI] Eh? Why would Ayase know about this?
+60,SPK_AYASE,[FI] I've heard about the school trip while talking on the phone with Onee-san yesterday.
+61,SPK_AYASE,"[FI] Onii-san isn't serious enough, so Onee-san was worried."
+62,,"[FI] Guh... That Manami, you didn't say anything weird to Ayase right?"
+63,SPK_AYASE,"[FI] Ahh, I only heard about the school trip from Onee-san and nothing else, so don't worry."
+64,SPK_AYASE,"[FI] Besides, my evaluation of Onii-san is already rock bottom, so it won't go any lower."
+65,SPK_KYOUSUKE,[FI] Ahaha...
+66,,"[FI] ...Even though I brought it upon myself, I can't get over it..."
+67,SPK_AYASE,"[FI] Now, now, don't just stand there and sulk. How about hurrying up?"
+68,SPK_AYASE,"[FI] Onee-san is waiting for you, isn't she?"
+69,SPK_KYOUSUKE,[FI] T-That's right!
+70,SPK_KYOUSUKE,"[FI] See you, Ayase!"
+71,SPK_AYASE,"[FI] Yes, see you next time."

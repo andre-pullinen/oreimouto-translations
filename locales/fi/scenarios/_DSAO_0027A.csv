@@ -1,0 +1,95 @@
+ID,SPEAKER,TEXT
+0,,"[FI] And so, Saori and I rushed home."
+1,SPK_KYOUSUKE,[FI] I'm back.
+2,SPK_SAORI,[FI] Pardon my intrusion.
+3,SPK_KYOUSUKE,[FI] Hey~ Kirino!
+4,SPK_KYOUSUKE,[FI] We're back!
+5,,[FI] ...
+6,,[FI] No answer.
+7,SPK_KYOUSUKE,[FI] That's weird.
+8,SPK_SAORI,[FI] Are they... out?
+9,SPK_KYOUSUKE,[FI] They shouldn't be...
+10,SPK_KYOUSUKE,[FI] Hello?
+11,SPK_KIRINO,[FI] Are you home?
+12,SPK_KYOUSUKE,"[FI] Yeah. Why are you using your cellphone in the 
+house?"
+13,SPK_KIRINO,[FI] The living room. Go in.
+14,SPK_SAORI,[FI] Is it Kiririn-san?
+15,SPK_KYOUSUKE,"[FI] Yeah, I wasn't told why, but she said to go into the 
+living room."
+16,SPK_SAORI,"[FI] Maybe it's the ""sideshow""."
+17,SPK_KYOUSUKE,"[FI] Well yeah, it probably is."
+18,SPK_KYOUSUKE,"[FI] Okay, let's listen to her and go on in."
+19,SPK_SAORI,[FI] Okay.
+20,,"[FI] I took Saori to the living room, proceeding with 
+caution."
+21,,[FI] And when I opened the door...
+22,SPK_KYOUSUKE,[FI] Eh?
+23,SPK_SAORI,[FI] What is this...
+24,SPK_KYOUSUKE,[FI] What are you guys doing?
+25,SPK_KIRINO,[FI] ...
+26,SPK_KURONEKO,[FI] ...
+27,SPK_KIRINO,[FI] ...Um.
+28,SPK_KIRINO,[FI] You say it.
+29,SPK_KURONEKO,[FI] Eh?
+30,SPK_KURONEKO,[FI] No way. I-I don't even know what to say.
+31,SPK_KIRINO,"[FI] Huh, you should be able to just by thinking, right?"
+32,SPK_KURONEKO,"[FI] I-I'm not good at these things... Didn't you say, 
+""Leave this to me""?"
+33,SPK_KIRINO,"[FI] Sorry, it's too much for me lol"
+34,SPK_KURONEKO,[FI] You...
+35,,"[FI] Kuroneko and Kirino are fighting amongst each 
+other by whispering."
+36,,"[FI] Saori and I just watched this unfold, not knowing 
+how to react."
+37,SPK_KIRINO,"[FI] Together then, together."
+38,SPK_KURONEKO,"[FI] O-Okay... Then, here we go."
+39,SPK_KURONEKO,[FI] Um... Uhh... This is...
+40,SPK_KIRINO,[FI] U-Umm...
+41,SPK_BOTH,[FI] [font_size=26]Congratulations![/font_size]
+42,SPK_KIRINO,"[FI] You two started dating, right?"
+43,SPK_KURONEKO,"[FI] Some time back, I saw you two by coincidence..."
+44,SPK_KURONEKO,[FI] And... Um... After discussing amongst ourselves...
+45,SPK_KURONEKO,[FI] I thought... [font_size=19]we should...[/font_size] [font_size=15]celebrate...[/font_size]
+46,,[FI] That must be embarrassing.
+47,,"[FI] Kuroneko's voice crumbled into a whisper as her 
+face grew red."
+48,SPK_KYOUSUKE,[FI] ...So that's how you found out...
+49,SPK_KYOUSUKE,"[FI] But, thanks."
+50,SPK_KYOUSUKE,"[FI] The thing is, we were planning on telling you guys 
+after the gathering today."
+51,SPK_KYOUSUKE,[FI] That we were a couple.
+52,SPK_KURONEKO,[FI] I-Is that so?
+53,SPK_KURONEKO,[FI] Then... it all works out.
+54,SPK_SAORI,[FI] Kiririn-san... Kuroneko-san...
+55,SPK_SAORI,[FI] ...You two...
+56,SPK_KIRINO,[FI] Why do you look like you're about to cry?
+57,SPK_SAORI,[FI] ...Because... Because...
+58,SPK_KURONEKO,"[FI] Oh my, your true self... really is a crybaby."
+59,SPK_SAORI,"[FI] No... not at all. I'm sure that even with the glasses, 
+I'd be crying."
+60,SPK_KURONEKO,[FI] Really?
+61,,"[FI] Kuroneko kindly nodded and gave Saori a 
+handkerchief."
+62,,[FI] She almost looked like Saori's older sister.
+63,SPK_KURONEKO,[FI] Senpai.
+64,SPK_KYOUSUKE,[FI] What is it?
+65,SPK_KURONEKO,[FI] Can I... entrust my friend to you?
+66,SPK_KYOUSUKE,"[FI] Yeah, leave it to me."
+67,,[FI] ...
+68,SPK_KIRINO,[FI] Saori.
+69,SPK_SAORI,[FI] ...Yes.
+70,SPK_KIRINO,"[FI] This guy may have some pathetic parts, is plain, 
+lazy, and really really really reeeaaallly 
+thick-headed."
+71,SPK_KIRINO,"[FI] He's beyond hope, but..."
+72,SPK_KYOUSUKE,[FI] Hey.
+73,,[FI] You don't have to go that far.
+74,SPK_KIRINO,[FI] ...Please take care of my brother.
+75,SPK_SAORI,[FI] I will...!
+76,SPK_KIRINO,"[FI] He's soft-hearted and stupid, so... if you leave him 
+alone, he'll immediately over-work himself."
+77,SPK_KIRINO,"[FI] It'll be a lot of work, but..."
+78,SPK_KIRINO,[FI] Do look after him well.
+79,SPK_SAORI,[FI] ---
+80,SPK_SAORI,[FI] I will respectfully comply.

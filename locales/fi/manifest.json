@@ -1,0 +1,18 @@
+{
+  "id": "lang_fi_community",
+  "locale": "fi",
+  "display_name": "Suomi",
+  "team_name": "Suomi Käännöstiimi",
+  "authors": [
+    "Suomi Käännöstiimi"
+  ],
+  "version": "1.0.0",
+  "description": "Finnish translation verification pack for OreImouto Re:Port",
+  "tags": [
+    "partial"
+  ],
+  "tag_notes": {
+    "partial": "Kokeellinen testikäännös alustalle.\n\n- O.S.I.S. ja dialogikoe: **100%**\n- Pääjuoni: työn alla"
+  },
+  "test_package": true
+}

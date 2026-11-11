@@ -1,0 +1,42 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"[FI] Now then, what should we do today?"
+1,SPK_KIRINO,[FI] What about your studying?
+2,SPK_KYOUSUKE,[FI] I took care of that last night.
+3,SPK_KIRINO,[FI] Great.
+4,SPK_KIRINO,"[FI] You're starting to get it. How to use your time 
+efficiently, I mean."
+5,SPK_KYOUSUKE,[FI] All thanks to you.
+6,,"[FI] Thanks to that, I feel sleepy."
+7,,[FI] There are many things I want and have to do...
+8,,"[FI] If I intend to get everything done, then it's natural 
+to feel this way."
+9,,[FI] So anyway...
+10,,[FI] We're going on a date.
+11,SPK_KIRINO,[FI] So? Where are you taking me today?
+12,SPK_KYOUSUKE,[FI] How about going to Akiba again?
+13,SPK_KIRINO,[FI] ...Huh?
+14,SPK_KIRINO,"[FI] Eh? What? I couldn't hear you well... Can you 
+repeat yourself?"
+15,SPK_KYOUSUKE,[FI] ...How about going to Akiba again?
+16,SPK_KIRINO,"[FI] Tch, we went there just the other day."
+17,SPK_KYOUSUKE,"[FI] ...But you looked like you really enjoyed yourself 
+there."
+18,SPK_KIRINO,"[FI] That doesn't mean you should take me to the same 
+place over and over again."
+19,SPK_KIRINO,[FI] I can't believe you would seriously consider that.
+20,SPK_KYOUSUKE,"[FI] So, how should we do this? Go somewhere 
+different every time?"
+21,SPK_KIRINO,[FI] That's right. So you do understand.
+22,SPK_KYOUSUKE,[FI] ......
+23,,"[FI] When it comes to dating spots, I haven't got a clue."
+24,,"[FI] On the other hand, when I considered looking at 
+magazines to find a place, she told me to think 
+using my own head."
+25,,[FI] She really is a bothersome woman.
+26,SPK_KIRINO,"[FI] Never mind, it's fine."
+27,SPK_KIRINO,"[FI] There's a place I have in mind today... So I'll forgive 
+you this time."
+28,SPK_KIRINO,"[FI] Got it? Next time, you think up a date course."
+29,SPK_KYOUSUKE,"[FI] Yes, yes, I get it."
+30,SPK_KYOUSUKE,[FI] So... Where is it you want to go?
+31,SPK_KIRINO,[FI] Outside the train station.

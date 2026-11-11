@@ -1,0 +1,115 @@
+ID,SPEAKER,TEXT
+0,,"[FI] In the end, we ended up going to the usual 
+electronics store. It's not like I didn't want to, but..."
+1,SPK_KURONEKO,"[FI] Wha... that pen tablet has dropped in price... If only 
+we waited a bit longer."
+2,SPK_KYOUSUKE,"[FI] But if we did wait, you wouldn't have made the 
+deadline, right?"
+3,,"[FI] With that exchange, we browsed around the 
+electronics store..."
+4,SPK_KYOUSUKE,[FI] This... doesn't feel like how a date should be.
+5,,"[FI] As we returned to the train station, I muttered that 
+complaint."
+6,,"[FI] I mean, it wasn't very different from what we 
+would normally do with Saori and gang, so now 
+with just Kuroneko herself..."
+7,SPK_KURONEKO,[FI] ...
+8,SPK_KYOUSUKE,"[FI] Hey, Kuro-"
+9,SPK_WOMAN,"[FI] Um, excuse me. Do you have a second?"
+10,,"[FI] Unfortunately, a lady with a survey had caught 
+hold of Kuroneko at the train station."
+11,SPK_WOMAN,"[FI] Excuse me! If you have the time, can you help me 
+fill out a very simple survey..."
+12,SPK_KURONEKO,[FI] ...Ah!
+13,SPK_WOMAN,"[FI] If you two were to go on vacation, where would 
+you..."
+14,SPK_KURONEKO,"[FI] Ah, no... I..."
+15,,"[FI] Usually this wouldn't be a problem, but Kuroneko 
+cast her eyes down."
+16,,"[FI] As I thought, something's not right with her."
+17,SPK_KYOUSUKE,[FI] Excuse me. If I could?
+18,SPK_WOMAN,"[FI] Yes, what is it?"
+19,SPK_KURONEKO,[FI] Ah...
+20,SPK_KURONEKO,[FI] Thanks.
+21,,"[FI] The cause of that behavior if I had to guess... 
+nature calls."
+22,SPK_KURONEKO,[FI] Thanks for waiting.
+23,SPK_KYOUSUKE,"[FI] Oh, welcome back. If you needed to go, you 
+should've just went."
+24,SPK_KURONEKO,"[FI] What are you going on about? I was just calling 
+Hinata and Tamaki, also..."
+25,,"[FI] Putting away your handkerchief while you say that 
+isn't very convincing, you know?"
+26,SPK_KYOUSUKE,"[FI] You went to the toilet, right?"
+27,SPK_KURONEKO,[FI] Didn't I tell you otherwise? I'll curse you.
+28,SPK_KYOUSUKE,[FI] ...
+29,SPK_KURONEKO,"[FI] ...No, that was a lie. I'm sorry."
+30,SPK_KURONEKO,"[FI] To be honest, I had been holding it ever since we 
+left the cafe..."
+31,SPK_KYOUSUKE,[FI] It would've been better if you just told me.
+32,SPK_KURONEKO,"[FI] But, it's embarrassing... and I was nervous..."
+33,SPK_KYOUSUKE,"[FI] You mean, because you're with me?"
+34,SPK_KURONEKO,"[FI] Of course! I mean, this is our first date..."
+35,SPK_KYOUSUKE,[FI] D-Don't say something so embarrassing...
+36,SPK_KURONEKO,[FI] A-Aren't you the one who made me say it?
+37,SPK_KYOUSUKE,[FI] ...That's right. It's my fault.
+38,SPK_KURONEKO,[FI] R-Right now... um...
+39,SPK_KURONEKO,[FI] I'm... going to go flower picking.
+40,SPK_KYOUSUKE,"[FI] I see. That strange behavior of hers... It seems like 
+she needed to go to the toilet."
+41,SPK_KURONEKO,[FI] Thanks for waiting.
+42,SPK_KYOUSUKE,"[FI] Ah, welcome back."
+43,SPK_KURONEKO,[FI] ...
+44,SPK_KYOUSUKE,[FI] What's wrong?
+45,SPK_KURONEKO,"[FI] Well, I suppose it was pointless to expect you to be 
+considerate..."
+46,SPK_KYOUSUKE,"[FI] Uh, Kuroneko-san? Why have you become so angry 
+with me?"
+47,SPK_KURONEKO,[FI] Touch your heart and ask yourself that.
+48,SPK_KYOUSUKE,"[FI] Uhh, so..."
+49,SPK_KURONEKO,"[FI] ...You could have helped when that survey lady got 
+involved with me earlier."
+50,SPK_KYOUSUKE,"[FI] Oh no, that was impossible. It's not like I have some 
+supernatural power."
+51,SPK_KURONEKO,"[FI] You're up to the task. If your dormant powers 
+within were to be awoken..."
+52,SPK_KYOUSUKE,"[FI] That's impossible, you know?"
+53,SPK_KURONEKO,"[FI] ...Looks like it will take quite some time for your 
+awakening."
+54,SPK_KURONEKO,"[FI] So, where shall we go next? This time, I'll 
+accompany you wherever you want to go."
+55,SPK_KYOUSUKE,"[FI] That's fine and all but, what happened to those 
+nerves from a first date?"
+56,SPK_KURONEKO,"[FI] It's mostly gone now, thanks to what happened 
+earlier."
+57,,"[FI] As Kuroneko said that, we walked towards the 
+department stores. It's starting to feel like a normal 
+date now."
+58,SPK_KYOUSUKE,"[FI] Okay, let's go check out some CDs."
+59,SPK_KURONEKO,[FI] Is there something you have in mind?
+60,SPK_KYOUSUKE,"[FI] Well no, but... Feels like it would be more 
+appropriate for a date."
+61,SPK_KURONEKO,[FI] W-We might as well then...
+62,,"[FI] And with that simple train of thought, we arrived at 
+the CD shop, but..."
+63,SPK_KYOUSUKE,"[FI] ...I don't understand this at all. What kind of albums 
+are popular nowadays?"
+64,SPK_KURONEKO,"[FI] Even if you asked me, I wouldn't know."
+65,SPK_KYOUSUKE,"[FI] I know the titles for J-POP but... Western music and 
+the likes are beyond me."
+66,SPK_KURONEKO,[FI] If it were Anisong...
+67,SPK_KURONEKO,[FI] Ah.
+68,SPK_KYOUSUKE,[FI] Hm? Kuroneko?
+69,SPK_KURONEKO,"[FI] This still remains here, it seems."
+70,SPK_KYOUSUKE,[FI] What did you find?
+71,SPK_KURONEKO,"[FI] A ""Maschera"" Season 1 DVD box-set."
+72,SPK_KYOUSUKE,[FI] Ah...
+73,,"[FI] Probably leftover stock. It even has a 50% off 
+sticker."
+74,SPK_KURONEKO,"[FI] It's alright. You don't have to say anything. But it's 
+not like us fans have abandoned our hopes for a 
+sequel."
+75,SPK_KYOUSUKE,[FI] R-Really.
+76,,"[FI] She's completely different from earlier, she's fully in 
+her element now. Once again, we're back to how 
+we usually act around each other."

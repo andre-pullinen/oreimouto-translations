@@ -1,0 +1,157 @@
+ID,SPEAKER,TEXT
+0,SPK_MANAMI,"[FI] S-Sorry, it surprised me... It seems like I got a bit confused."
+1,SPK_KYOUSUKE,[FI] It seems like you're fine now.
+2,SPK_MANAMI,[FI] Y-Yes.
+3,SPK_KYOUSUKE,[FI] Then... Back to our conversation.
+4,SPK_KYOUSUKE,"[FI] So... Hm... Manami, you're worried about my popularity?"
+5,SPK_MANAMI,[FI] Yes.
+6,SPK_KYOUSUKE,"[FI] Don't ""Yes"" me! You're supposed to interject here!"
+7,SPK_MANAMI,[FI] Oh?  Am I?
+8,SPK_KYOUSUKE,"[FI] You are! You should say something like ""Kyou-chan, popular? I've never seen such a thing!"""
+9,,"[FI] That being said, I'd prefer if she didn't say something like that."
+10,,"[FI] But if this nosy granny saw me getting too intimate with girls, she'd give me a lecture or two."
+11,SPK_KYOUSUKE,"[FI] Anyway, this concludes our conversation."
+12,SPK_KYOUSUKE,"[FI] Because you're concerned about me, you asked me to become your boyfriend right?"
+13,SPK_MANAMI,[FI] Y-Yes. That's... the case.
+14,,"[FI] Indeed, if I got myself a girlfriend, I wouldn't get those weird thoughts of the other girls anymore..."
+15,,"[FI] As for her, diminishing the source of her worries might ease her, won't it?"
+16,,"[FI] I might also be able to clear up that whole ""Evil brother trying to get his hands on his little sister's friends"" misunderstanding."
+17,SPK_MANAMI,[FI] H-How about it...
+18,SPK_KYOUSUKE,[FI] Well... I like you anyways.
+19,SPK_MANAMI,[FI] Eh..?  N-No way...
+20,SPK_KYOUSUKE,[FI] Why? Doubting it?
+21,SPK_MANAMI,"[FI] T-That's not it! It's just that, since you said it so casually... I was a bit surprised..."
+22,,[FI] It's not like these feelings are a lie.
+23,,"[FI] Me liking Manami is a fact. However, a relationship is a completely different matter."
+24,,"[FI] Akagi mentioned it before, but at that time, I assumed he was fooling around and shrugged it off."
+25,,"[FI] But now that I think about it, how's that?"
+26,,"[FI] Going to school together, studying together on days off.."
+27,,"[FI] For highschoolers, isn't that what you'd call dating?"
+28,SPK_KYOUSUKE,[FI] .....
+29,SPK_MANAMI,[FI] Kyo... Kyou-chan?
+30,,"[FI] And then, this situation. Considering the current flow; this is it, I'm being confessed to. And without realizing it, I stubbornly decided to play dumb."
+31,,[FI] It's a disgrace for a man to do such a thoughtless thing to his long-time childhood friend.
+32,SPK_KYOUSUKE,[FI] ...So? Are we dating?
+33,SPK_MANAMI,[FI] Ah!?  Is that okay?
+34,SPK_KYOUSUKE,"[FI] What's that, aren't you the one who asked for it?"
+35,SPK_MANAMI,"[FI] B-But, me?"
+36,SPK_MANAMI,"[FI] I'm not a beauty like Kirino, nor am I cute like Ayase..."
+37,SPK_KYOUSUKE,[FI] Kirino's my little sister. And again Ayase?!
+38,SPK_KYOUSUKE,"[FI] But well, didn't you ask me out in order to clear up that misunderstanding with them?"
+39,SPK_MANAMI,[FI] ...Eh?
+40,SPK_KYOUSUKE,[FI] Am I wrong?
+41,SPK_MANAMI,"[FI] Eh, um... no, you're not..."
+42,SPK_KYOUSUKE,[FI] Then that's fine.
+43,SPK_MANAMI,[FI] ...Yes.
+44,SPK_KYOUSUKE,"[FI] Good, It's decided."
+45,SPK_MANAMI,[FI] Hm... By the way...
+46,SPK_KYOUSUKE,[FI] Yeah?
+47,SPK_MANAMI,[FI] How much... do you love me?
+48,SPK_KYOUSUKE,[FI] Huh?  What's this all of a sudden?
+49,SPK_MANAMI,"[FI] F-For example, the ""wanting to be together every day"" kind of love..."
+50,SPK_MANAMI,"[FI] Or the kind of love where you want to go on dates, or think about marriage..."
+51,SPK_KYOUSUKE,"[FI] In one word, that would be... 【engagement】?"
+52,SPK_MANAMI,[FI] ......!
+53,,"[FI] As expected, this is going too far!"
+54,,[FI] But... all things considered...
+55,,"[FI] I imagine things several years in the future. Until now, Manami was only my neighbor."
+56,,"[FI] The warm and comforting conversations we've always had, I could only think will continue as always."
+57,,"[FI] And it's not something I didn't want. Rather, it was a comfortable feeling. That way of life, it feels as if it'll continue forever..."
+58,,"[FI] If so, getting engaged is not necessarily a mistake..."
+59,SPK_KYOUSUKE,"[FI] ...Hm, yeah, that much I guess."
+60,SPK_MANAMI,[FI] R-Really?
+61,SPK_KYOUSUKE,[FI] Hm? Is there a problem?
+62,SPK_MANAMI,"[FI] No, no! There isn't!"
+63,SPK_KYOUSUKE,"[FI] Then, it's settled."
+64,SPK_MANAMI,"[FI] Then, thennn...."
+65,SPK_MANAMI,[FI] From now on I'm... Kyou-chan's girlfriend... right?
+66,SPK_KYOUSUKE,[FI] Yep. Seems like it.
+67,SPK_MANAMI,[FI] Hehehehe. Girlfriend... Teehehehe.
+68,SPK_KYOUSUKE,"[FI] What's that, you weirdo."
+69,SPK_MANAMI,[FI] No～. It's nothing.
+70,SPK_KYOUSUKE,[FI] Is it?
+71,SPK_MANAMI,"[FI] Say, it's not much but... I have a request."
+72,SPK_KYOUSUKE,[FI] Hm?  What is it this time?
+73,SPK_MANAMI,[FI] Life counseling... As a continuation of that...
+74,SPK_KYOUSUKE,[FI] Where have I heard that phrase before...
+75,SPK_MANAMI,[FI] Hand....
+76,SPK_KYOUSUKE,[FI] Hm?
+77,SPK_MANAMI,[FI] Can we hold hands? Only a little is fine so...
+78,SPK_KYOUSUKE,[FI] A-Aah. I don't mind... It's no big deal...
+79,SPK_MANAMI,"[FI] Thank you, Kyou-chan."
+80,SPK_KYOUSUKE,"[FI] We've held hands before as kids, haven't we? Why are you even thanking me?"
+81,SPK_MANAMI,"[FI] Fufufu. Well, I'll forgive you for the way you're holding onto that."
+82,SPK_KYOUSUKE,[FI] Huh?
+83,,[FI] Well... It seems that the cozy relationship we had is going to change a bit starting tomorrow.
+84,,"[FI] Manami's life counseling was somehow different from my sister's. It wasn't an ordeal. Rather, it was more like a kind and open-hearted conversation."
+85,,"[FI] While I was thinking about it, Manami and I were walking side by side."
+86,SPK_MANAMI,"[FI] S-Say, Kyou-chan. Is that..."
+87,SPK_KYOUSUKE,[FI] Huh?
+88,SPK_KYOUSUKE,[FI] ......Kirino?
+89,,[FI] Why is she here...? She was even all excited about going to that Meruru event in Akiba.
+90,SPK_KIRINO,[FI] ......Guh!
+91,SPK_KYOUSUKE,[FI] Oh?  She's already gone.
+92,SPK_MANAMI,[FI] ......
+93,SPK_KYOUSUKE,"[FI] Oh well, she's just like always."
+94,SPK_MANAMI,[FI] ...!
+95,SPK_KYOUSUKE,"[FI] Hey, Manami? What's is it, all of a sudden?!"
+96,SPK_KYOUSUKE,[FI] Geez... Wait! Manami!
+97,SPK_MANAMI,"[FI] K-Kirino-chan, wait!"
+98,SPK_KIRINO,"[FI] Huh? What is it! Or rather, don't chase after me!"
+99,SPK_MANAMI,[FI] I have something...! To tell you! Please...! Hear me out...!
+100,SPK_KIRINO,[FI] I don't want to hear it! I'm going somewhere! I'm busy!
+101,SPK_KYOUSUKE,[FI] *pant* *pant*
+102,SPK_KYOUSUKE,[FI] W-Why are they...! Talking...! And running at the same time...!
+103,SPK_MANAMI,[FI] Kirino-chan! About earlier...! You see...!
+104,SPK_KIRINO,"[FI] I told you... I don't care, didn't I!"
+105,SPK_KYOUSUKE,"[FI] Ahh...ahh... W-Wait, Kirino, why are you in such a bad mood?"
+106,SPK_KIRINO,[FI] Gnn... You... Meruru's...!
+107,SPK_KYOUSUKE,[FI] ...Me?  Meruru?
+108,SPK_KIRINO,[FI] Shut up! I'm going already! If I don't hurry... I'm going to miss the event!
+109,SPK_KYOUSUKE,[FI] ...Hey! Idiot! Watch out!
+110,SPK_MANAMI,[FI] Kirino-chan!
+111,SPK_KIRINO,[FI] ...Huh?
+112,,[FI] It happened in an instant.
+113,,"[FI] As she started running, in front of Kirino, a car..."
+114,SPK_KYOUSUKE,[FI] Kirinooooooo!!
+115,SPK_KIRINO,[FI] Waaaaaaaaaaaah!!
+116,SPK_KYOUSUKE,[FI] Ma-Manami!!
+117,SPK_KIRINO,[FI] Ow! Aah aah ah...
+118,SPK_KYOUSUKE,[FI] Kirino! Manami! Are you alright!
+119,SPK_KIRINO,[FI] Ow ow ow... W-What...
+120,SPK_KIRINO,[FI] Huh...
+121,SPK_MANAMI,[FI] Are you... okay?
+122,SPK_KIRINO,[FI] W-Wait! W-What are you doing?!
+123,SPK_MANAMI,"[FI] What...? Whoooooa?! It's true, how did I do that?! I thought that Kirino was in danger and my body moved on its own..."
+124,SPK_KYOUSUKE,"[FI] Manami, that's the first time in my life I've seen you act so fast."
+125,SPK_MANAMI,"[FI] I don't understand, I couldn't think straight."
+126,SPK_KYOUSUKE,"[FI] Unbelievable, is this the blazing power of stupidity!? I don't know but, as expected of a granny...!!"
+127,SPK_MANAMI,"[FI] Kirino-chan, are you hurt..."
+128,SPK_KIRINO,[FI] Not... really but...
+129,SPK_MANAMI,[FI] Is that so～ That's a relief～
+130,SPK_MANAMI,[FI] Ah...!
+131,SPK_KIRINO,"[FI] But rather, your leg!"
+132,SPK_MANAMI,"[FI] Ah, ahaha. It looks like it's scratched. But it's shallow, so it's fine～"
+133,SPK_MANAMI,"[FI] More importantly, I'm glad that nothing happened to you～"
+134,SPK_MANAMI,[FI] All is well!
+135,SPK_KYOUSUKE,"[FI] Manami, are you okay?"
+136,SPK_MANAMI,[FI] Yes. I'll clean the wound and put a band-aid on it. It stopped hurting already.
+137,,"[FI] As she said so, she showed off the band-aid she put on her knee."
+138,SPK_KYOUSUKE,"[FI] If that's the case, then it's alright. Kirino, don't you have something to say?"
+139,SPK_KIRINO,[FI] Hmph...
+140,SPK_KYOUSUKE,"[FI] What's with that ""Hmph""... You just got saved, what's with your attitude!"
+141,SPK_KIRINO,"[FI] I... I have stuff to do in Akiba, so..."
+142,SPK_KYOUSUKE,"[FI] Hey, c'mon, Kirino! Hey!"
+143,SPK_KYOUSUKE,[FI] And she's gone...
+144,,[FI] What was I even expecting?
+145,,[FI] She fled when she saw that we were here. And she didn't even say thanks to Manami...
+146,,"[FI] Before, when Manami came to my house to cook something and Kirino had acted displeased with everything, she still thanked her for the meal."
+147,,[FI] That place was supposed to be safe from my unyielding sister. Though this time...
+148,SPK_KYOUSUKE,"[FI] Sorry, Manami. I'll talk some sense into her later."
+149,SPK_MANAMI,"[FI] No, I don't mind. As long as Kirino-chan is safe, that's enough!"
+150,SPK_KYOUSUKE,[FI] You... Saying stuff like that will be the end of you someday.
+151,SPK_MANAMI,"[FI] No, it'll be fine, surely."
+152,SPK_KYOUSUKE,[FI] Why is that?
+153,SPK_MANAMI,"[FI] I have a nice boyfriend now, so... He'll protect me!"
+154,SPK_KYOUSUKE,[FI] Ahah... I see... Indeed.
+155,SPK_MANAMI,[FI] ...Teehehee.

@@ -1,0 +1,96 @@
+ID,SPEAKER,TEXT
+0,SPK_KIRINO,"[FI] You two seem to be getting along well lately, Saori, 
+Kanako."
+1,SPK_KANAKO,[FI] Pretty much.
+2,SPK_SAORI,"[FI] Is that so? I think we got along before as well, 
+though."
+3,SPK_KANAKO,"[FI] That's not it. Lately we've been together a lot 
+because of that, right?"
+4,SPK_SAORI,"[FI] Aah, now that you mention it, that's true."
+5,SPK_KIRINO,"[FI] Eh, what, what? Tell me, tell me."
+6,SPK_KANAKO,[FI] Eh? What should I do~~♪
+7,SPK_AYASE,[FI] Kanako is in the middle of doing bridal training.
+8,SPK_KANAKO,"[FI] Hey, don't spill the beans~"
+9,SPK_KIRINO,[FI] Seriously?! Kanako is getting married?!
+10,SPK_KANAKO,"[FI] Ah, no... that's not it."
+11,SPK_KANAKO,"[FI] See?! It's your fault she had a weird 
+misunderstanding, Ayase."
+12,SPK_AYASE,"[FI] Sorry, sorry."
+13,SPK_AYASE,"[FI] Kanako started doing bridal training for the sake of 
+her parents."
+14,SPK_KIRINO,[FI] Hmm? What do you mean?
+15,SPK_KANAKO,[FI] I've... never gotten along with my folks.
+16,SPK_KANAKO,"[FI] But, recently, due to various reasons... I made up 
+my mind to give it a rest and make up with them."
+17,SPK_KANAKO,"[FI] You know how I'm... like this, right?"
+18,,"[FI] Well, she doesn't have upstanding behavior, that's 
+true."
+19,SPK_KANAKO,"[FI] My folks are strict, so I can't meet with them until I 
+improve myself a bit."
+20,,"[FI] Can't meet with them, she says..."
+21,,[FI] I can't imagine... parents that are that strict.
+22,SPK_SAORI,"[FI] In order to create a chance to make up with her 
+parents... Kanako-san started doing bridal training."
+23,SPK_KANAKO,"[FI] It feels a bit different from bridal training, though."
+24,SPK_KANAKO,[FI] I'm indebted to various people for it.
+25,SPK_SAORI,"[FI] Hehe, lately I've been taking lessons together with 
+her."
+26,SPK_KIRINO,"[FI] Ah, so you started getting along well because of 
+that, I see."
+27,SPK_KIRINO,"[FI] Aren't you great, Kanako?"
+28,SPK_KANAKO,"[FI] I'm not really that great. Getting along with my 
+folks, isn't that something anyone can normally do?"
+29,SPK_KANAKO,"[FI] I couldn't do that normal thing, even now."
+30,SPK_KANAKO,"[FI] There's nothing great about it at all. I'm just an 
+idiot acting like an idiot, starting my homework right 
+at the last minute."
+31,,"[FI] Kanako might have a lot of things going on in her 
+life."
+32,,[FI] Just like... us.
+33,,"[FI] Yes, we..."
+34,,"[FI] ...managed to grow up from back then, even if it's 
+only a little."
+35,SPK_KIRINO,"[FI] Yes, yes."
+36,SPK_KURONEKO,[FI] Really now... we have a flood of visitors.
+37,SPK_MANAMI,[FI] Hello~
+38,SPK_KIRINO,"[FI] Ah, Manami-san, welcome!"
+39,SPK_MANAMI,"[FI] Ah, it looks like everyone has already arrived~"
+40,SPK_KIRINO,[FI] Eh? Already?
+41,,"[FI] Wasn't it just coincidence that everyone ended up 
+here today?"
+42,SPK_MANAMI,[FI] ...Ah.
+43,SPK_AYASE,[FI] O-Onee-san!
+44,SPK_MANAMI,"[FI] S-Sorry, Ayase-chan~"
+45,SPK_KIRINO,[FI] Eh? What? Is something going on?
+46,SPK_KURONEKO,[FI] ...Oh my.
+47,SPK_SAORI,[FI] Fufufu.
+48,SPK_KANAKO,"[FI] Hehe... Actually, isn't it almost about time already?"
+49,SPK_AYASE,"[FI] Hmm, perhaps."
+50,SPK_KIRINO,"[FI] Eh? Eh~, what, what? What are you guys talking 
+about?"
+51,SPK_KURONEKO,[FI] Kirino... please close your eyes for a little while.
+52,SPK_KIRINO,[FI] Eh? Why? Are you going to kiss me?
+53,SPK_KURONEKO,[FI] T-There's no way I would do that.
+54,SPK_KURONEKO,"[FI] G-Geez... you two siblings are exactly alike in this 
+aspect."
+55,SPK_KANAKO,"[FI] They aren't related by blood, though."
+56,SPK_KURONEKO,"[FI] *cough*, enough already... just close your eyes."
+57,SPK_KIRINO,[FI] Kay.
+58,SPK_KIRINO,[FI] Like this?
+59,SPK_MANAMI,"[FI] Yeah, then... just wait a little."
+60,,[FI] .........
+61,SPK_KIRINO,[FI] Are you done?
+62,SPK_AYASE,[FI] Nope.
+63,,[FI] .........
+64,SPK_KIRINO,"[FI] This is long enough, right?"
+65,SPK_MANAMI,[FI] Please wait a little while longer~
+66,,[FI] .........
+67,SPK_KIRINO,[FI] How about now?
+68,SPK_SAORI,[FI] Fufufu... wait just a short while longer~
+69,,[FI] ...Seriously?
+70,SPK_KIRINO,"[FI] Hey, how long do you intend to make me wait?"
+71,SPK_UNKNOWN_2,[FI] It's fine now. Open your eyes.
+72,,[FI] Finally. Just what the heck is...
+73,,"[FI] Wait, that voice just now?!"
+74,SPK_KIRINO,[FI] Kyousu...
+75,,"[FI] I hurriedly opened my eyes, and..."

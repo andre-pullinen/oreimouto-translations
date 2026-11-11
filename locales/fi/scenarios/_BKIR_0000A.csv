@@ -1,0 +1,78 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,[FI] Let's try inviting Kirino.
+1,,"[FI] Ah, there she is."
+2,SPK_KYOUSUKE,"[FI] Hey Kirino, got a minute?"
+3,SPK_KIRINO,[FI] Huh? What?
+4,,[FI] Her reply is rather irritating.
+5,,"[FI] At least she replies instead of just ignoring me, 
+which is an improvement from before."
+6,,"[FI] But... why am I trying to invite her, of all things?"
+7,,[FI] I don't even understand it myself.
+8,,"[FI] It's as if I'm being manipulated by destiny or the 
+likes."
+9,SPK_KYOUSUKE,[FI] Wanna go to the beach?
+10,SPK_KIRINO,[FI] Eh?
+11,SPK_KIRINO,[FI] Did you invite Saori and company too?
+12,SPK_KYOUSUKE,"[FI] No, I was thinking of going with just the two of us..."
+13,SPK_KIRINO,[FI] Eh?!
+14,SPK_KYOUSUKE,"[FI] Although, inviting them isn't a bad idea either."
+15,SPK_KIRINO,[FI] E-Eh?! W-Wai-
+16,SPK_KYOUSUKE,[FI] Since you said so yourself.
+17,SPK_KIRINO,[FI] Didn't I just tell you to wait?!
+18,SPK_KIRINO,"[FI] Why are you moving the conversation along by 
+yourself?!"
+19,SPK_KYOUSUKE,[FI] ...You don't have to throw a cushion at me over that.
+20,SPK_KIRINO,[FI] S-Shut up!
+21,SPK_KIRINO,[FI] So... what's this?
+22,SPK_KIRINO,"[FI] You want to go to the beach, just the two of us?"
+23,,[FI] What's with that annoying expression?
+24,SPK_KYOUSUKE,[FI] I think it's fine if we invite them.
+25,SPK_KIRINO,"[FI] But you actually want to go with me alone, right?"
+26,SPK_KYOUSUKE,"[FI] No, not really."
+27,SPK_KIRINO,"[FI] Huh? You liar! You said at the beginning that you 
+wanted to go with just the two of us!"
+28,SPK_KYOUSUKE,[FI] Why are you snapping at me like that?
+29,SPK_KIRINO,[FI] I'm not snapping at you.
+30,SPK_KYOUSUKE,[FI] Liar. You're totally in a bad mood.
+31,SPK_KIRINO,[FI] I said I'm not in a bad mood at all!
+32,,[FI] ...What should I do with her?
+33,,[FI] Hmm.
+34,SPK_KIRINO,[FI] And so? What will you do?
+35,,"[FI] Well, no helping it I guess. I'll give in."
+36,SPK_KYOUSUKE,[FI] Then let's go with just the two of us.
+37,SPK_KIRINO,[FI] Yeah.
+38,SPK_KIRINO,[FI] I guess I got no choice.
+39,SPK_KIRINO,[FI] Since you wish to go with me alone that much...
+40,SPK_KIRINO,"[FI] I guess I'll go, even though I don't want to."
+41,SPK_KYOUSUKE,[FI] .........
+42,,[FI] ...This girl.
+43,,[FI] Seriously... she's just...
+44,SPK_KIRINO,"[FI] You look like you've been doing your best studying 
+lately, right?"
+45,SPK_KIRINO,[FI] Isn't this like a reward from me to you then?
+46,SPK_KYOUSUKE,"[FI] Yeah, yeah."
+47,SPK_KYOUSUKE,[FI] I'm so touched that I'm about to tear up.
+48,SPK_KIRINO,"[FI] ...Hehe, I know, right?"
+49,,[FI] Sarcasm doesn't even get through to her.
+50,,[FI] She's invincible.
+51,,[FI] Isn't there some way to get back at her?
+52,SPK_KYOUSUKE,"[FI] Hey, Kirino."
+53,SPK_KIRINO,[FI] Hm? What?
+54,SPK_KYOUSUKE,"[FI] It's fine if only the two of us go to the beach, but..."
+55,SPK_KYOUSUKE,"[FI] Come to think of it, we're..."
+56,SPK_KYOUSUKE,[FI] ...non-blood related siblings.
+57,SPK_KIRINO,[FI] Wha...
+58,SPK_KIRINO,[FI] Why are you saying that at a time like this?!
+59,SPK_KYOUSUKE,"[FI] Hmm, I wonder why."
+60,SPK_KIRINO,[FI] Y-You [font_size=24]pervert![/font_size] [font_size=26]Siscon![/font_size]
+61,SPK_KIRINO,[FI] W-What on earth are you thinking?!
+62,SPK_KYOUSUKE,"[FI] Hey, hey, same goes for you. Why are you getting 
+all flustered like that?"
+63,SPK_KYOUSUKE,"[FI] All I did was simply state that we're not related by 
+blood."
+64,SPK_KYOUSUKE,[FI] How on earth did you interpret that?
+65,SPK_KIRINO,[FI] ～～～～～！
+66,SPK_KYOUSUKE,[FI] Hahahaha!
+67,,"[FI] Ahh, I feel so much better now."
+68,SPK_KIRINO,[FI] Die!
+69,SPK_KYOUSUKE,[FI] Ouch!

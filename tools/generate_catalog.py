@@ -15,13 +15,63 @@ import re
 import sys
 from typing import Dict, List, Tuple
 
-CYRILLIC_OR_LATIN = re.compile(r"[a-zA-Zа-яА-ЯёЁ]")
+JP_CHAR = re.compile(r"[\u3041-\u3096\u30a1-\u30fa\u3400-\u4dbf\u4e00-\u9fff]")
+CYRILLIC = re.compile(r"[а-яА-ЯёЁ]")
+LATIN = re.compile(r"[a-zA-Z]")
 
 
-def count_locale_progress(locale_sc_dir: str, template_sc_dir: str) -> Tuple[int, int, float]:
+def is_line_translated(locale: str, text: str, tmpl_text: str) -> bool:
     """
-    Counts total scenario lines and translated lines.
-    A line is considered translated if TEXT is non-empty and contains localized characters.
+    Determines if a scenario line is properly localized.
+    - Counts visual novel pauses ('......', '?!'), symbols, and numbers as translated
+      if they represent intentional narrative silence or sound effects.
+    - Detects untranslated raw Japanese text in non-Japanese locales.
+    - Detects untranslated English fallbacks in Cyrillic/non-English locales.
+    """
+    text = text.strip()
+    tmpl_text = tmpl_text.strip()
+
+    if not text:
+        return not tmpl_text
+
+    if locale == "zh" or locale.startswith("zh"):
+        # Chinese requires Hanzi; Japanese Kana indicates untranslated lines
+        if re.search(r"[\u3040-\u30ff]", text):
+            return False
+        if re.search(r"[\u4e00-\u9fff]", text):
+            return True
+        return True
+
+    # Raw Japanese characters in non-Japanese locales indicate untranslated lines
+    if JP_CHAR.search(text):
+        if locale == "ru" and CYRILLIC.search(text):
+            return True
+        if locale != "ru" and LATIN.search(text):
+            return True
+        return False
+
+    if locale == "en":
+        # English: any valid non-Japanese line is localized (dialogue, pauses, punctuation)
+        return True
+
+    if locale == "ru":
+        # Russian requires Cyrillic; English letters mean untranslated fallback
+        if CYRILLIC.search(text):
+            return True
+        if LATIN.search(text):
+            return False
+        # Pure punctuation/numbers are valid translated pauses if template was also punctuation
+        if tmpl_text and not LATIN.search(tmpl_text):
+            return True
+        return False
+
+    # Default for other locales (fi, etc.)
+    return True
+
+
+def count_locale_progress(locale: str, locale_sc_dir: str, template_sc_dir: str) -> Tuple[int, int, float]:
+    """
+    Counts total scenario lines and translated lines with locale awareness.
     """
     total_lines = 0
     translated_lines = 0
@@ -34,6 +84,15 @@ def count_locale_progress(locale_sc_dir: str, template_sc_dir: str) -> Tuple[int
         sc_path = os.path.join(locale_sc_dir, fn)
         tmpl_path = os.path.join(template_sc_dir, fn) if os.path.isdir(template_sc_dir) else ""
 
+        tmpl_lines: Dict[str, str] = {}
+        if tmpl_path and os.path.isfile(tmpl_path):
+            with open(tmpl_path, "r", encoding="utf-8", errors="replace") as tf:
+                tr = csv.reader(tf)
+                next(tr, None)
+                for r in tr:
+                    if len(r) > 2:
+                        tmpl_lines[r[0]] = r[2]
+
         with open(sc_path, "r", encoding="utf-8") as f:
             reader = csv.reader(f)
             next(reader, None)  # skip header
@@ -41,8 +100,10 @@ def count_locale_progress(locale_sc_dir: str, template_sc_dir: str) -> Tuple[int
                 if len(row) < 3:
                     continue
                 total_lines += 1
-                text = row[2].strip()
-                if text and CYRILLIC_OR_LATIN.search(text):
+                lid = row[0]
+                text = row[2]
+                tmpl_text = tmpl_lines.get(lid, "")
+                if is_line_translated(locale, text, tmpl_text):
                     translated_lines += 1
 
     pct = round((translated_lines / total_lines * 100.0), 2) if total_lines > 0 else 0.0
@@ -91,6 +152,9 @@ def generate_catalog(
                 except Exception:
                     pass
 
+        if manifest.get("test_package", False):
+            continue
+
         pkg_id = manifest.get("id", f"lang_{loc}_community")
         pkg_name = manifest.get("display_name", loc.upper())
         team_name = manifest.get("team_name", "Community")
@@ -100,10 +164,11 @@ def generate_catalog(
         links = manifest.get("links", {})
 
         sc_dir = os.path.join(loc_dir, "scenarios")
-        total_lines, trans_lines, progress = count_locale_progress(sc_dir, template_sc_dir)
+        total_lines, trans_lines, progress = count_locale_progress(loc, sc_dir, template_sc_dir)
 
+        loc_code = manifest.get("locale", loc)
         # Check for prebuilt PCK in dist/ or build if requested
-        pck_name = f"lang_{loc}.pck"
+        pck_name = f"lang_{loc_code.lower()}.pck"
         dist_pck_path = os.path.join(repo_root, "dist", pck_name)
 
         size_bytes = 0
@@ -119,8 +184,9 @@ def generate_catalog(
 
         pkg_entry = {
             "id": pkg_id,
-            "locale": loc,
+            "locale": loc_code,
             "name": pkg_name,
+            "short": manifest.get("short", ("RUS" if loc == "ru" else ("ENG" if loc == "en" else loc[:3].upper()))),
             "team_name": team_name,
             "authors": authors,
             "version": version,
@@ -131,6 +197,8 @@ def generate_catalog(
             "url": url,
             "sha256": sha256,
             "size_bytes": size_bytes,
+            "tags": manifest.get("tags", []),
+            "tag_notes": manifest.get("tag_notes", {}),
             "links": links,
         }
         catalog["packages"].append(pkg_entry)

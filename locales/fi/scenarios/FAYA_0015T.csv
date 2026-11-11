@@ -1,0 +1,55 @@
+ID,SPEAKER,TEXT
+0,SPK_SAORI,"[FI] As a matter of fact, Kyousuke-shi, I've been watching you since you stepped into the shop. Who is this beautiful girl in your company?"
+1,,[FI] I guess this is the first time Ayase and Saori meet...
+2,,[FI] This'll become quite troublesome if I don't do this right.
+3,,[FI] Which means it's time for a two-shot conversation.
+4,SPK_KYOUSUKE,"[FI] Let me introduce you. This is Aragaki Ayase, Kirino's classmate."
+5,SPK_AYASE,[FI] P-Pleased to meet you...
+6,SPK_SAORI,"[FI] Oh! If I recall, we met once on the way home from last year's 【Summer Comiket】."
+7,SPK_AYASE,[FI] Ah... You were with Kirino...
+8,,"[FI] Well, it seems as if they've at least seen each other before."
+9,SPK_KYOUSUKE,"[FI] Ayase, this is Saori Bajeena."
+10,SPK_AYASE,[FI] B-Bajeena?
+11,SPK_SAORI,"[FI] Indeed, it is my soul name!"
+12,SPK_KYOUSUKE,"[FI] What ""soul name""? Don't make things confusing."
+13,SPK_SAORI,[FI] Beg your pardon.
+14,SPK_KYOUSUKE,"[FI] Ayase, you see, Saori Bajeena is her handle name."
+15,SPK_AYASE,[FI] Her handle name... I see.
+16,SPK_SAORI,"[FI] Kyousuke-shi, that's a pretty nice comeback."
+17,SPK_KYOUSUKE,[FI] Are you an idiot?!
+18,SPK_AYASE,[FI] ......
+19,SPK_AYASE,[FI] S-Soul name? Eh? What...
+20,SPK_SAORI,"[FI] Oh dear, I seem to have made you confused."
+21,SPK_SAORI,[FI] I apologize. Saori Bajeena is my handle name.
+22,SPK_AYASE,[FI] O-Oh. Your handle name...
+23,,"[FI] No matter how you look at it, these two don't work well together."
+24,,[FI] But what am I doing exactly? I should ease things up.
+25,SPK_SAORI,"[FI] Well, how about I address you as Ayase-shi?"
+26,SPK_AYASE,[FI] O-Okay.
+27,SPK_SAORI,"[FI] So then, why is Kyousuke-shi here with Ayase-shi?"
+28,SPK_SAORI,[FI] Aha... Could it be that you're on a date?
+29,SPK_KYOUSUKE,"[FI] W-Well, I guess so!"
+30,SPK_SAORI,[FI] Oh! I knew it!
+31,SPK_SAORI,"[FI] My, Kyousuke-shi is moving up in life!"
+32,SPK_KYOUSUKE,"[FI] Ahahaha! Yeah, totally!"
+33,SPK_AYASE,[FI] What nonsense are you spouting? Just die!
+34,SPK_KYOUSUKE,[FI] Gah! It hurts! Are you trying to kill me?!
+35,SPK_AYASE,[FI] That's because you're lying!
+36,SPK_KYOUSUKE,[FI] Why can't you let me boast at least a little?
+37,SPK_KYOUSUKE,[FI] Besides... isn't this kind of like a date?
+38,SPK_AYASE,"[FI] It is not! G-Geez, don't get so carried away..."
+39,SPK_SAORI,[FI] ...You're into S&M? Interesting.
+40,SPK_KYOUSUKE,"[FI] Sorry, that was a lie. We're not on a date."
+41,SPK_KYOUSUKE,"[FI] No, not at all. It's not like that."
+42,SPK_SAORI,"[FI] Oh, is that so?"
+43,SPK_SAORI,"[FI] Well then, why are you two in Akiba?"
+44,SPK_KYOUSUKE,"[FI] You see, Ayase doesn't really like all this otaku stuff."
+45,SPK_SAORI,[FI] Okay.
+46,SPK_AYASE,"[FI] O-Onii-san, you don't have to put it like that..."
+47,SPK_KYOUSUKE,[FI] Just leave it to me.
+48,,[FI] Saori wouldn't get angry over such petty matters.
+49,SPK_KYOUSUKE,"[FI] She doesn't like otaku stuff, but she's best friends with Kirino."
+50,SPK_SAORI,"[FI] Yes, okay."
+51,SPK_KYOUSUKE,"[FI] So she was thinking she'd try understanding Kirino's hobby, even if just a little."
+52,SPK_SAORI,[FI] So it's like that.
+53,SPK_SAORI,"[FI] You're a very nice person, Ayase-shi."

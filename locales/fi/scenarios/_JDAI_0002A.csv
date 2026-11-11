@@ -1,0 +1,159 @@
+ID,SPEAKER,TEXT
+0,SPK_YOSHINO,"[FI] ""It's not the art of loving that's hard, but the art of 
+being loved."""
+1,SPK_YOSHINO,[FI] - Alphonse Daudet
+2,SPK_YOSHINO,"[FI] This is the Kousaka household, located somewhere 
+in Chiba."
+3,SPK_YOSHINO,"[FI] In this residence, worried maidens assemble, 
+seeking answers from the master of life, every night."
+4,SPK_YOSHINO,"[FI] Now then, I wonder who tonight's guest will be..."
+5,SPK_DAISUKE,[FI] Come in...
+6,SPK_SAORI,[FI] E-Excuse me.
+7,SPK_DAISUKE,[FI] Who goes there?
+8,SPK_SAORI,[FI] Eeek!
+9,SPK_SAORI,[FI] M-My apologies for the late introduction. I am Saori.
+10,SPK_DAISUKE,[FI] Hmm...
+11,SPK_SAORI,"[FI] Um, I heard that if I were to come here, I could 
+take part in a life consultation."
+12,SPK_DAISUKE,"[FI] Correct. This place exists to show the way to lost 
+youths like you."
+13,SPK_DAISUKE,"[FI] In here, hold nothing back, just say whatever you 
+want."
+14,SPK_DAISUKE,"[FI] In return, I will not hold back either."
+15,SPK_SAORI,"[FI] Ugh... The mere thought of having a consultation 
+with you is terrifying, Uncle."
+16,SPK_DAISUKE,[FI] Who are you calling Uncle? Address me by Sensei.
+17,SPK_SAORI,"[FI] Y-Yes, Sensei..."
+18,SPK_SAORI,[FI] U-Umm... I have something to consult with you.
+19,SPK_DAISUKE,[FI] What is it?
+20,SPK_SAORI,"[FI] W-Well... Lately, I've been constantly tuned out."
+21,SPK_DAISUKE,[FI] Tuned out...
+22,SPK_SAORI,[FI] Yes.
+23,SPK_SAORI,[FI] As a representative for otaku...
+24,SPK_SAORI,"[FI] I have done well to be able to showcase the best 
+of what a work has to offer. Surely!"
+25,SPK_SAORI,"[FI] And yet... the plot thickens without my knowledge, 
+and sometimes whole problems get resolved while 
+I'm told what happens afterwards..."
+26,SPK_SAORI,"[FI] I believe this is definitely due to my unexpected 
+lack of life experience."
+27,SPK_SAORI,"[FI] And I'm just a timid, ordinary super-cute lady, 
+which led to that happening."
+28,SPK_DAISUKE,[FI] H-Hmm...
+29,SPK_SAORI,"[FI] Naturally, I heard I'm able to appear as such in 
+this game, so I was pleased. Enough to run laps 
+around town."
+30,SPK_SAORI,"[FI] But, since I'm like that... I can't help but get 
+embarrassed in front of others..."
+31,SPK_SAORI,"[FI] I wanted to take the reins of the story but... for 
+someone like me..."
+32,SPK_DAISUKE,"[FI] I see... It seems you have plenty to worry about. By 
+the way..."
+33,SPK_DAISUKE,"[FI] What does ""tuned out"" mean?"
+34,SPK_SAORI,[FI] Eh...
+35,SPK_DAISUKE,"[FI] I've read newspapers but, I can't keep up with all 
+the words the youth uses these days."
+36,SPK_SAORI,[FI] ...Is this person really qualified to be a sensei?
+37,SPK_DAISUKE,[FI] What?
+38,SPK_SAORI,"[FI] N-No, nothing..."
+39,SPK_SAORI,"[FI] While it may be arrogant of me to explain... being 
+tuned out means, getting passed by-"
+40,SPK_SAORI,"[FI] In this case, ignoring me and progressing the story, 
+Sensei."
+41,SPK_DAISUKE,"[FI] Hmm... And to you, it's unforgivable."
+42,SPK_SAORI,"[FI] ""Unforgivable""... is going a bit too far, but I'm 
+frustrated by it."
+43,SPK_SAORI,"[FI] I've been granted the ability of the Joker card and 
+yet... the story advances without a chance for me to 
+demonstrate it."
+44,SPK_SAORI,"[FI] I'm not limited to just being the character that 
+defuses heated arguments by pouring water onto 
+people, you know?!"
+45,SPK_DAISUKE,[FI] ...
+46,SPK_DAISUKE,"[FI] ...Is that all you have to say, little girl?"
+47,SPK_SAORI,[FI] Eh...!
+48,SPK_DAISUKE,"[FI] Hmm, if you ask me, that's not even worth worrying 
+about..."
+49,SPK_DAISUKE,"[FI] Being tuned out, doesn't that mean you have some 
+underlying issues already?"
+50,SPK_SAORI,[FI] W-Well...
+51,SPK_DAISUKE,[FI] ...Look at this.
+52,SPK_SAORI,[FI] What is this? A mountain of magazines...
+53,SPK_DAISUKE,"[FI] My daughter is featur- *cough*  I mean, I love to 
+read them."
+54,SPK_DAISUKE,[FI] There's this passage here. Read it.
+55,SPK_DAISUKE,"[FI] Special Feature, ""What Men Often See in Annoying 
+Women""..."
+56,SPK_SAORI,[FI] [font_size=28]Wha---[/font_size]
+57,SPK_DAISUKE,"[FI] Point one, ""A constantly passive woman""."
+58,SPK_SAORI,[FI] Ughhh...!
+59,SPK_DAISUKE,"[FI] Point two, ""Looks away without making eye 
+contact""."
+60,SPK_SAORI,[FI] Gahhh...!
+61,SPK_DAISUKE,"[FI] Point three, ""Too docile in conversations, only 
+responding with hmms or ahhs, nothing of 
+substance""."
+62,SPK_SAORI,[FI] Eeeek!!
+63,SPK_DAISUKE,"[FI] Finally... [font_size=28]""Always talks about herself as if 
+she wants someone to comfort her""[/font_size]!"
+64,SPK_SAORI,[FI] A-Ahhhh...AHHHHHHHH...!!
+65,SPK_SAORI,"[FI] P-Please stop... I... might not be able to recover from 
+this..."
+66,SPK_DAISUKE,[FI] ...It looks like it struck a nerve.
+67,SPK_SAORI,"[FI] Yes... It's exactly as you say, I am just riddled with 
+many problems..."
+68,SPK_SAORI,"[FI] I knew it deep down already, someone like me just 
+isn't capable of taking the reins of a story..."
+69,SPK_DAISUKE,[FI] That's not true.
+70,SPK_SAORI,[FI] Eh...
+71,SPK_DAISUKE,"[FI] If you hate being tuned out, then make it so they 
+can't tune you out."
+72,SPK_SAORI,[FI] H-How would I...
+73,SPK_DAISUKE,[FI] I'll give you a piece of advice.
+74,SPK_SAORI,"[FI] Advice- Don't tell me, you're gonna recommend the 
+spiral glasses too..."
+75,SPK_DAISUKE,[FI] Spiral glasses? What is that?
+76,SPK_SAORI,"[FI] N-Nothing, I was talking to myself."
+77,SPK_DAISUKE,"[FI] Anyway... For starters, why not try training your 
+body?"
+78,SPK_DAISUKE,"[FI] That way, when people get ahead of themselves, 
+you can send them into oblivion with one strike."
+79,SPK_SAORI,[FI] N-No way... I could never do something so dreadful...!
+80,SPK_SAORI,"[FI] I mean, the yandere role is already filled-"
+81,SPK_DAISUKE,"[FI] I'm not telling you to actually murder people! You 
+fool!"
+82,SPK_DAISUKE,"[FI] What I mean is, have some dignity!"
+83,SPK_SAORI,[FI] ...Dignity...
+84,SPK_DAISUKE,"[FI] It's a technique often used against suspects who 
+stay silent."
+85,SPK_DAISUKE,"[FI] By having both a body and nerves of steel, others 
+will have the impression, ""No way I can beat this 
+person""."
+86,SPK_DAISUKE,"[FI] If you do that, everyone else will have no choice 
+but to take notice of you."
+87,SPK_SAORI,[FI] O-Okay...
+88,SPK_DAISUKE,"[FI] Training the body will train the mind... A trained 
+body without the need for weapons or tools is 
+where true strength lies."
+89,SPK_DAISUKE,"[FI] If I were to use one of the slang from youth like 
+you, you would be OP! Something like that."
+90,SPK_DAISUKE,"[FI] Seize the opportunity, aim for being truly OP!"
+91,SPK_SAORI,"[FI] What I lack, is dignity..."
+92,SPK_SAORI,[FI] To be truly OP...
+93,SPK_SAORI,[FI] I-I understand!
+94,SPK_SAORI,[FI] I will go straight home and start working out!
+95,SPK_DAISUKE,"[FI] Yes, a wise decision."
+96,SPK_SAORI,"[FI] Thank you, Sensei!"
+97,SPK_SAORI,[FI] I will call you master #2 from now on!
+98,SPK_SAORI,"[FI] Well then, excuse me."
+99,SPK_DAISUKE,[FI] Mmm... she left.
+100,SPK_DAISUKE,[FI] Today's moral lesson!!
+101,SPK_DAISUKE,"[FI] [font_size=30]Before becoming afraid of others, you 
+should first train yourself!![/font_size]"
+102,SPK_YOSHINO,"[FI] And so, Daisuke has guided the path of another lost 
+maiden. Let us meet on another moonlit night."
+103,SPK_YOSHINO,"[FI] Your advice today was really magnificent, darling."
+104,SPK_DAISUKE,[FI] Master #2... I'm not the first then...
+105,SPK_YOSHINO,"[FI] ...You gave such a splendid suggestion, yet you're 
+fussing about that?"
+106,SPK_DAISUKE,[FI] Mmm...

@@ -1,0 +1,100 @@
+ID,SPEAKER,TEXT
+0,,[FI] The day after the tournament.
+1,SPK_KYOUSUKE,[FI] Akihabara is bustling as ever.
+2,,"[FI] This area is often seen as an ""Otaku's Den"", but really, it's quite sophisticated."
+3,,[FI] The public square in front of the station is pretty clean; it makes the place spacious and relaxing.
+4,,[FI] Saori and Kuroneko have already arrived and are sitting on a bench in the public square.
+5,,"[FI] Oh right, the first time that I met Saori and Kuroneko was in Akihabara as well..."
+6,SPK_SAORI,"[FI] Well then, to celebrate the end of the tournament, to the holy land we came!"
+7,SPK_SAORI,"[FI] Let's go shop around since we're here, alright?"
+8,SPK_KYOUSUKE,[FI] Shopping...
+9,,[FI] There wouldn't be any atmosphere to it if we were to celebrate immediately. This might be good to raise the tension.
+10,SPK_KYOUSUKE,"[FI] Yeah, alright. Do you guys agree?"
+11,SPK_KIRINO,[FI] It's fine with me.
+12,SPK_KURONEKO,[FI] I don't mind; do what you want.
+13,SPK_KYOUSUKE,"[FI] You heard them, Saori."
+14,SPK_SAORI,"[FI] I got it! Well then, where should we go first?"
+15,SPK_KYOUSUKE,[FI] Is there any place that you'd recommend?
+16,SPK_SAORI,[FI] Every place in Akihabara is recommended... Hmm...
+17,,[FI] And so Saori pondered for a while.
+18,,"[FI] She's probably searching through the endless ""Akiba-data"" inside her head."
+19,SPK_SAORI,[FI] How about we go to 【Radio Kaikan】 or 【AniMate】?
+20,SPK_SAORI,"[FI] Kyousuke-shi, do you have any places that you would like to visit?"
+21,,[FI] ...*gulp*
+22,,"[FI] It seems simple enough, but in reality, the answer may be of crucial importance."
+23,,"[FI] If I were to choose a place they don't care about, I'm sure that it would turn into some quarrel again."
+24,,[FI] Hmm... Where should we go?
+25,,"[FI] Also, I shouldn't choose a tiring place..."
+26,SPK_KYOUSUKE,[FI] What do we actually do at Radio Kaikan?
+27,SPK_KIRINO,[FI] Ah～～～～～～～～～!!!
+28,SPK_KYOUSUKE,[FI] W-What's wrong? W-W-W-What is it?
+29,SPK_KIRINO,[FI] Radio Kaikan! I want to go to Radio Kaikan!
+30,SPK_KYOUSUKE,[FI] What's with Radio Kaikan?
+31,SPK_KIRINO,[FI] Because Radio Kaikan has a figurine shop and there's a special 【Sis×Sis】 booth that started selling limited edition goodies!
+32,SPK_KYOUSUKE,[FI] Sis×Sis - Sister Sister: Siscon Love Story?
+33,,[FI] ...*sigh*.
+34,,[FI] I'm getting quite familiar with such topics.
+35,,[FI] The contents are... that of a bishoujo game.
+36,,"[FI] Because the story is about having a love triangle relationship with your little sisters ""Rinko"" and ""Miyabi"", my head hurts."
+37,,"[FI] According to Kirino, it's a ""tear-jerking"" ""godly game"". But I frankly don't get it."
+38,,"[FI] However, I do know how to make my own little sister cry..."
+39,SPK_KIRINO,[FI] Stop dilly-dallying! They'll be sold out if we don't hurry up!
+40,SPK_KYOUSUKE,[FI] They won't be sold out that quickly. Calm down a bit. You'll hurt yourself if you panic.
+41,SPK_KIRINO,"[FI] Sis×Sis is a ""godly game""!"
+42,SPK_KYOUSUKE,"[FI] Ah, hey! Don't run!"
+43,SPK_KIRINO,[FI] Damn! I want this! This too! And that too!
+44,SPK_KYOUSUKE,[FI] A-Aren't you buying too much?
+45,SPK_KIRINO,[FI] Shut it! How I spend my own money is up to me!
+46,,"[FI] This girl, she practically spent all her wages earned as a model, on ""Sis×Sis""..."
+47,SPK_KIRINO,[FI] What a big haul! I'm so happy!
+48,SPK_SAORI,"[FI] Isn't that great, Kiririn-shi."
+49,SPK_KURONEKO,[FI] It isn't that bad to observe humans acting like that every once in a while.
+50,SPK_KIRINO,[FI] You're still speaking like that～ I can lend them to you if you're interested.
+51,SPK_KURONEKO,[FI] Wha...? Who said such a thing...
+52,SPK_KIRINO,"[FI] Look, look. You want to try them out too, don't you?"
+53,SPK_SAORI,"[FI] Hahaha! Deepening mutual bonds through games! Ah, how wonderful!"
+54,,"[FI] Well, she's looking all happy and everything... Oh well."
+55,SPK_KYOUSUKE,[FI] What do you do in AniMate?
+56,SPK_SAORI,"[FI] Ohh! As expected of Kyousuke-shi, good choice!"
+57,,"[FI] Saori shaped her mouth like that of a cat, and threw her head back."
+58,SPK_SAORI,"[FI] It seems that today, there's Morimura Kaede-dono doing an autograph session at AniMate!"
+59,SPK_KIRINO,[FI] Seriously?!
+60,SPK_KURONEKO,"[FI] This is true, is it?"
+61,SPK_KYOUSUKE,[FI] Who's that?
+62,,"[FI] Not just Kirino, but even the usually expressionless Kuroneko had a reaction... This person must really be something."
+63,,"[FI] Recently, I've been getting more and more familiar with ""that genre of topics"", but I'm still an amateur after all."
+64,,[FI] Just hearing the name isn't enough for me to recognize it.
+65,SPK_KIRINO,[FI] Holy crap! We have to hurry! DASH!
+66,SPK_KYOUSUKE,"[FI] Ah, hey! Don't run!"
+67,SPK_KIRINO,[FI] Oh man... I can't stop shaking.
+68,SPK_KIRINO,"[FI] I can't believe I got to shake hands with Morimura Kaede-san... This isn't a dream, right?"
+69,SPK_SAORI,"[FI] Even for an Akihabara veteran like me, it's been a long time since I got so excited..."
+70,SPK_KURONEKO,[FI] It was quite impressive...
+71,SPK_KIRINO,[FI] Did you see? Kaede-san held my hand gently and winked at me!
+72,SPK_KURONEKO,[FI] Wasn't yours just a normal blink? The one she gave me was a wink.
+73,SPK_KIRINO,[FI] I've decided! I will never wash my hands!
+74,,[FI] Uwah... That's such a classic reaction...
+75,SPK_SAORI,"[FI] Kyousuke-shi, thank you very much for considering my feelings."
+76,,"[FI] Saying that, Saori held out her hands to me. Then..."
+77,SPK_KYOUSUKE,"[FI] ...Ah, well. It's not like that..."
+78,,[FI] I held out my right hand...
+79,,[FI] Careful now!!
+80,,[FI] I held out my left hand and shook hands with Saori...
+81,SPK_KYOUSUKE,"[FI] ...By the way, what kind of person is Morimura Kaede?"
+82,SPK_SAORI,"[FI] Kaede-shi is not only a writer, but also a singer, model and star; truly a multi-talented person!"
+83,SPK_SAORI,[FI] Rumor has it she's participating in a Broadway musical next...
+84,SPK_KIRINO,"[FI] That's amazing, isn't it! I totally admire her!"
+85,SPK_KYOUSUKE,"[FI] Oh, I see."
+86,,[FI] ...I don't.
+87,SPK_KYOUSUKE,[FI] I don't mind where we go....
+88,SPK_SAORI,[FI] I see... That's a shame.
+89,SPK_KIRINO,"[FI] Eeeh? We've already come to Akiba, so I wanna go somewhere at least!"
+90,SPK_KURONEKO,"[FI] That's right, the four of us are together now. Vainly wasting our time goes against the rules of my soul."
+91,SPK_KIRINO,"[FI] You mean you want to have fun, right? You're being way too cryptic."
+92,SPK_KURONEKO,[FI] Would you stop summarizing other people's speeches...
+93,SPK_SAORI,"[FI] Hahaha, you two sure get along with each other."
+94,,[FI] I get exhausted every time I go around Akiba with these girls.
+95,SPK_SAORI,[FI] Then what about relaxing in a Maid Cafe?
+96,SPK_KYOUSUKE,[FI] Oh! That's a good idea!
+97,SPK_KIRINO,[FI] Huh...
+98,,"[FI] Ignoring Kirino's lingering glare, we headed for a Maid Cafe."

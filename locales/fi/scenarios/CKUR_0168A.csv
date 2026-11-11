@@ -1,0 +1,99 @@
+ID,SPEAKER,TEXT
+0,,"[FI] And with that, I focused on continuing my work."
+1,SPK_UNKNOWN,[FI] We're home～!
+2,SPK_KYOUSUKE,[FI] Eh?
+3,,"[FI] Eh, did someone come home?"
+4,SPK_UNKNOWN,"[FI] Sis, isn't that a pair of shoes that we've never seen before?"
+5,SPK_UNKNOWN,"[FI] Ah, you're right."
+6,SPK_UNKNOWN,"[FI] Ruri-nee～, did someone come over～?"
+7,SPK_KYOUSUKE,[FI] Could it be... that they're Kuroneko's sisters!
+8,SPK_UNKNOWN,[FI] Ah.
+9,SPK_KYOUSUKE,[FI] Ah...
+10,SPK_KYOUSUKE,[FI] ...Pardon the intrusion.
+11,SPK_UNKNOWN,"[FI] Yes, we're glad to have you."
+12,,"[FI] ...Looks like a very energetic and cute child, just like a mini version of Kuroneko. She should still be in kindergarten, I think."
+13,SPK_UNKNOWN,[FI] ...Woah!
+14,,[FI] This lively child should still be in elementary school... right? She looks really taken aback.
+15,SPK_OLDER_SIS,[FI] ...B-B-Bo...
+16,SPK_KYOUSUKE,[FI] ?
+17,SPK_OLDER_SIS,[FI] Ruri-nee's boyfriend-----------!
+18,SPK_KYOUSUKE,[FI] Ehh!
+19,SPK_OLDER_SIS,[FI] Wow---! She really got a boyfriend!!
+20,SPK_KYOUSUKE,[FI] W-W-Wha...
+21,SPK_OLDER_SIS,[FI] I've been thinking something's amiss recently!
+22,SPK_OLDER_SIS,"[FI] Saying ""go out and play today"", ""three hours... leaving the room will let you avoid being cursed by the Demon King to turn into tonight's dinner""... stuff"
+23,SPK_OLDER_SIS,[FI] like that!
+24,SPK_OLDER_SIS,[FI] Sneaky peeky sneaky peeky～
+25,SPK_OLDER_SIS,[FI] So that's what's been going on... Ehehe～
+26,SPK_LITTLE_SIS,[FI] Eh～～～～?
+27,SPK_KYOUSUKE,[FI] I-It's not like that! You're both mistaken!
+28,SPK_KYOUSUKE,[FI] I'm not her boyfriend!
+29,SPK_OLDER_SIS,[FI] Eh? Is that so?
+30,SPK_KYOUSUKE,"[FI] Yeah, I'm Kousaka Kyousuke. Uhh, I'm in the same club as your sister, pleased to meet you."
+31,SPK_OLDER_SIS,[FI] Woah! I've heard of that name before!
+32,SPK_KYOUSUKE,[FI] Eh?
+33,SPK_OLDER_SIS,"[FI] So you're the brother of that 'bitch' who always quarrels with Ruri-nee on the phone, right!"
+34,SPK_KYOUSUKE,"[FI] Yeah, that's me, no doubt about it."
+35,SPK_KYOUSUKE,"[FI] ...Kirino. You're being remembered by Kuroneko's sisters in a very remarkable way, you know?"
+36,SPK_OLDER_SIS,[FI] Well... can I call you the bitch's brother?
+37,SPK_KYOUSUKE,[FI] Not good at all! ...Call me something else.
+38,SPK_OLDER_SIS,[FI] Ehh～? Well then...
+39,SPK_LITTLE_SIS,[FI] Big brother.
+40,SPK_KYOUSUKE,[FI] Eh?
+41,SPK_LITTLE_SIS,[FI] Big brother～
+42,SPK_KYOUSUKE,[FI] A-Ahh...
+43,SPK_LITTLE_SIS,[FI] Ehehe.
+44,,[FI] How cute! She's completely different from my own sister.
+45,,"[FI] I mustn't bring Kirino to this house, because something bad will happen..."
+46,SPK_OLDER_SIS,[FI] I'll just call you Kousaka-kun for now.
+47,SPK_KYOUSUKE,"[FI] Yeah, that will do."
+48,SPK_OLDER_SIS,"[FI] Hey, hey, Kousaka-kun."
+49,SPK_KYOUSUKE,[FI] Hmm? What is it?
+50,,[FI] ...This kid is being over-familiar.
+51,SPK_OLDER_SIS,[FI] Will you get married to Ruri-nee?
+52,SPK_KYOUSUKE,[FI] *choke*
+53,SPK_KYOUSUKE,"[FI] H-How is that possible! I said I'm not her boyfriend already, didn't I?"
+54,SPK_OLDER_SIS,[FI] Eh～? But...
+55,SPK_OLDER_SIS,"[FI] Ruri-nee did mention it before, I think she said it should be you, Kousaka-kun, right?"
+56,SPK_KYOUSUKE,[FI] H-How was it said?
+57,SPK_OLDER_SIS,"[FI] ""...Hmph... don't take me for a fool. I, too, have a guy... that has formed a 'contract' with me."""
+58,SPK_OLDER_SIS,"[FI] ""His name in this world is 'Kyousuke'. While I was still the Black Beast in the past, he's a ferocious beast that once paired with me..."""
+59,SPK_KYOUSUKE,[FI] What did that fool tell her own sisters...
+60,SPK_OLDER_SIS,[FI] Initially I assumed that boyfriend in her mind was 2D...
+61,SPK_KYOUSUKE,[FI] You're really too cruel.
+62,SPK_OLDER_SIS,[FI] I didn't think you'd really exist! It really took me by surprise! S-S-So then! What was that 'contract'... what was it all about? Hyah～①
+63,SPK_KYOUSUKE,"[FI] I don't know what you're imagining, but it's all a misunderstanding!"
+64,SPK_OLDER_SIS,[FI] Then what was that 'contract' all about?
+65,SPK_KYOUSUKE,[FI] ...I-I don't know.
+66,SPK_LITTLE_SIS,"[FI] It's a kiss, right?"
+67,SPK_KYOUSUKE,[FI] !?!?!
+68,,[FI] T-This kid---
+69,SPK_KURONEKO,[FI] W-What was the ruckus all about... you---two...
+70,SPK_OLDER_SIS,"[FI] Ah, she petrified."
+71,SPK_KURONEKO,[FI] T-This... what's the meaning of this.
+72,SPK_KYOUSUKE,[FI] ...It is as you see.
+73,SPK_KURONEKO,[FI] ...!! Kuh...
+74,SPK_KURONEKO,"[FI] Hu... Kukuku... You two... I said I allowed you two to play outdoors until evening, didn't I? Why are you two here?"
+75,SPK_OLDER_SIS,"[FI] But it's hot outside, isn't it～?"
+76,SPK_LITTLE_SIS,[FI] Isn't it～?
+77,SPK_KURONEKO,[FI] Hmm... is that all you have... to say?
+78,SPK_OLDER_SIS,"[FI] Oh no! Ruri-nee is actually angry... Please save us, Kousaka-kun!"
+79,SPK_LITTLE_SIS,[FI] Please save us～ Big brother～
+80,SPK_KYOUSUKE,[FI] D-Don't use me as a shield!
+81,SPK_KURONEKO,[FI] Oh my.. You seem to be getting along with them pretty well.
+82,SPK_KYOUSUKE,"[FI] ...Please think of something to calm her down, she's your elder sister, right?"
+83,SPK_OLDER_SIS,"[FI] All right, leave it to me!"
+84,SPK_OLDER_SIS,[FI] I have a question for Ruri-nee!
+85,SPK_KURONEKO,[FI] ...What?
+86,SPK_OLDER_SIS,[FI] Did Ruri-nee take a bath with the intention to form a 'contract' with Kousaka-kun?
+87,SPK_KURONEKO,[FI] Wh...
+88,SPK_OLDER_SIS,"[FI] Ehehe, we disturbed you two unknowingly--- and that's why you're angry!"
+89,,[FI] Unbelievable! This is adding fuel to the fire!
+90,SPK_KURONEKO,[FI] ............
+91,SPK_KURONEKO,[FI] ...Hmph.
+92,SPK_KYOUSUKE,[FI] Ku-Kuroneko...
+93,SPK_KURONEKO,"[FI] I'm sorry about this, senpai. It seems like I'll have to excuse myself again."
+94,SPK_KURONEKO,[FI] I have no choice but to teach my sister a lesson right now.
+95,SPK_KYOUSUKE,[FI] ...G-Go ahead.
+96,SPK_OLDER_SIS,[FI] Noooooooooo～～!
+97,,[FI] An angered sister Kuroneko is truly terrifying.

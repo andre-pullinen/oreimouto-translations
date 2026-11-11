@@ -1,0 +1,107 @@
+ID,SPEAKER,TEXT
+0,,"[FI] The game project for the cultural festival is doing 
+well, the Akagi siblings are on better terms. Finally, 
+the countdown to boobs steadily approaches."
+1,,"[FI] It appeared that everything around me is going 
+smoothly."
+2,,"[FI] However, with summer vacation nearing its end and 
+the second semester of school starting up, the 
+game production is at its climax on this certain day..."
+3,SPK_MAKABE,"[FI] ...So, if this cutscene is added here, it would be 
+easier for players new to the RPG genre to 
+understand it."
+4,SPK_SENA,"[FI] Amazing! Makabe-senpai, you made that in such 
+short notice?"
+5,SPK_MAKABE,"[FI] Not at all, I only ported bits and pieces from the 
+collaboration with the club president, along with 
+some of my programming."
+6,SPK_MAKABE,"[FI] While it's up to you to make the contents 
+interesting, I'll do all the back-end support I can."
+7,SPK_SENA,"[FI] How reliable... Wonderful, Senpai!"
+8,SPK_MAKABE,"[FI] Hahaha, don't praise me so much, it's embarrassing."
+9,,"[FI] I casually sent an invitation, ""Wanna check out at 
+the club room?"", but things are about to take a 
+turn for the worse."
+10,,"[FI] After seeing his lovely little sister and a guy talking 
+like that, Akagi went berserk in an instant."
+11,SPK_AKAGI,[FI] It's him... I'm sure it's him...! I finally found him!!!
+12,SPK_KYOUSUKE,"[FI] ...Hey, what are you doing in front of our clubroom?"
+13,SPK_AKAGI,[FI] [font_size=33]Kousakaaaaaa!!![/font_size]
+14,SPK_KYOUSUKE,"[FI] [font_size=28]Ahhhh!! Don't throw yourself at me while 
+crying! That's creepy![/font_size]"
+15,SPK_AKAGI,[FI] But Sena-chaaaaaan!!
+16,SPK_KYOUSUKE,"[FI] Don't throw a tantrum, calm down. We completed 
+phase one of Sena's situation, right? I even texted 
+you with, ""She doesn't have anyone she likes."""
+17,SPK_AKAGI,"[FI] Yeah! Right after receiving your text, Sena gave 
+me a present. It was a blissful moment, getting a 
+gift from an angel♪"
+18,SPK_KYOUSUKE,[FI] Yeah? That's good. Let's leave it at that then.
+19,SPK_AKAGI,"[FI] I'm not done yet, don't push me aside, 
+Kousaka[font_size=23]a[/font_size][font_size=24]a[/font_size][font_size=25]a[/font_size][font_size=26]a[/font_size][font_size=26]a[/font_size][font_size=27]![/font_size][font_size=28]![/font_size]"
+20,SPK_KYOUSUKE,"[FI] Ahh, geez! I got it, I'll tell you about what's going 
+on, so stop clinging onto me!"
+21,SPK_KURONEKO,"[FI] Hello, Senpai."
+22,SPK_KYOUSUKE,[FI] ...Ah.
+23,SPK_KURONEKO,[FI] ...
+24,SPK_KYOUSUKE,[FI] W-What's with that stare?
+25,SPK_KURONEKO,"[FI] All those stories, I had no doubt that they were 
+merely her delusions, but... Senpai, you're really..."
+26,SPK_KYOUSUKE,"[FI] Of course not!! Stop backing away already, I'm 
+begging you!"
+27,SPK_KURONEKO,[FI] P-Please don't go embracing one another in public.
+28,SPK_KYOUSUKE,[FI] That's no embrace! I was being grabbed by him.
+29,SPK_KURONEKO,"[FI] W-Whatever the case, I'll be in the club room. 
+Please finish your lover's quarrel at once."
+30,SPK_KYOUSUKE,"[FI] What's this turn of events... This rotten ocean of 
+misunderstandings is spreading far and wide 
+around me."
+31,SPK_AKAGI,"[FI] Well you're a natural M, there's no avoiding it."
+32,SPK_KYOUSUKE,"[FI] [font_size=33]This is 100% your fault![/font_size] Get off 
+me already! And why are you 
+even here!"
+33,SPK_AKAGI,"[FI] Ah yeah, let's continue from where we left off! 
+Kousaka, you know me... I've been keeping Sena's 
+present closeby, look!"
+34,,"[FI] Akagi pulls a game out of his bag. And don't keep it 
+on your person, that's not a handheld game."
+35,SPK_KYOUSUKE,[FI] And?
+36,SPK_AKAGI,"[FI] But guess what... Sena was acting a bit weird that 
+day. It was like her mind was in another place..."
+37,,"[FI] It was probably buried within the rotten ocean, 
+knowing her."
+38,SPK_AKAGI,"[FI] So that's why I'm asking, who the heck is this 
+person?!"
+39,SPK_KYOUSUKE,"[FI] Who...? Ah, Makabe? He's a second year in our club."
+40,SPK_AKAGI,"[FI] That's him! The pest that's been stalking Sena 
+everywhere! I know it!!!"
+41,SPK_KYOUSUKE,"[FI] Huh? Didn't I resolve that issue for you? How long 
+are you gonna keep this up?"
+42,SPK_AKAGI,"[FI] As long as he lives, we're nowhere near a solution! 
+He was talking to her earlier like they were close, 
+that brat...!"
+43,SPK_KYOUSUKE,"[FI] I don't know what you're going on about, but I 
+have stuff to do in the club room. Have fun with 
+your conspiracies. See ya."
+44,SPK_AKAGI,"[FI] His face and voice are nice, so it's gotta be him...!!"
+45,SPK_KYOUSUKE,[FI] Just how are you coming to that conclusion...
+46,,"[FI] Ignoring Akagi's spouting of curses, I opened the 
+clubroom door."
+47,SPK_KYOUSUKE,[FI] What's up.
+48,SPK_SENA,"[FI] Kousaka-senpai, you're late."
+49,SPK_KYOUSUKE,"[FI] Yeah, something came up."
+50,SPK_KURONEKO,"[FI] Yes, something..."
+51,,"[FI] As I sneaked a peek while pretending to look away, 
+Kuroneko glared at me coldly. Thanks to Akagi, yet 
+another annoyance surfaced..."
+52,SPK_MAKABE,"[FI] Well, the club president isn't here yet, so isn't it fine?"
+53,SPK_PRESIDENT,[FI] Yo.
+54,SPK_PRESIDENT,"[FI] Ah, so everyone's here already?"
+55,SPK_KYOUSUKE,[FI] Yup.
+56,SPK_MAKABE,"[FI] Huh? Don't we have one person too many? There's 
+someone behind you two..."
+57,SPK_KYOUSUKE,[FI] Huh?
+58,,"[FI] I followed my gaze towards where Makabe 
+pointed, it was..."
+59,SPK_KYOUSUKE,[FI] [font_size=44]Geh![/font_size]
+60,,[FI] Akagi! He followed me inside!

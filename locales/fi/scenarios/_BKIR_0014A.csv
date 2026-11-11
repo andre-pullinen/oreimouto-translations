@@ -1,0 +1,127 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"[FI] Hey, Kirino. Yesterday you said it would go well 
+with Ayase, but... it's not going well at all."
+1,SPK_KIRINO,[FI] It'll be fine. Just trust me a little.
+2,SPK_KYOUSUKE,[FI] But...
+3,,[FI] My life is hanging in the balance here.
+4,SPK_KIRINO,"[FI] Okay, just leave it to me."
+5,SPK_KIRINO,"[FI] ...Hey, Ayase."
+6,SPK_KIRINO,[FI] Kyousuke and I aren't related by blood.
+7,SPK_KIRINO,[FI] Doesn't it make you laugh?
+8,SPK_KIRINO,"[FI] It sounds like a lie... and yet, it's the truth."
+9,SPK_AYASE,[FI] ...Really? It isn't a lie?
+10,SPK_KIRINO,"[FI] Yeah, it's true."
+11,SPK_KIRINO,[FI] ...Do you believe me?
+12,SPK_AYASE,[FI] .........
+13,SPK_AYASE,"[FI] Yes, I believe you."
+14,SPK_AYASE,[FI] I see...
+15,SPK_AYASE,[FI] ...I see.
+16,,"[FI] Ayase slowly nodded as if she had come to 
+understand something on her own."
+17,SPK_AYASE,"[FI] I'm so happy for you, Kirino."
+18,SPK_AYASE,[FI] I truly am.
+19,SPK_KYOUSUKE,[FI] ......
+20,,[FI] Eh?
+21,,[FI] What's with this turn of events?
+22,,"[FI] This girl isn't Saori, but Ayase, right?"
+23,,[FI] Since it's Ayase...
+24,,[FI] How was she persuaded so easily like this?
+25,SPK_KYOUSUKE,[FI] H-Hey...
+26,SPK_KYOUSUKE,[FI] Are you... really Ayase?
+27,SPK_AYASE,[FI] Hehe.
+28,SPK_AYASE,"[FI] How rude. Just what kind of person do you think I 
+am?"
+29,,[FI] A grim reaper.
+30,,[FI] No way I'll actually say that out loud though.
+31,SPK_AYASE,"[FI] What I'm opposed to is an indecent relationship 
+between actual siblings."
+32,SPK_AYASE,"[FI] If Kirino and Onii-san aren't related by blood, I've 
+lost almost all reason to get angry."
+33,SPK_KYOUSUKE,[FI] ......Almost?
+34,SPK_AYASE,"[FI] Yes, almost."
+35,SPK_AYASE,"[FI] Honestly, I am a little angry."
+36,SPK_KIRINO,[FI] ...Eh? You are?
+37,SPK_AYASE,"[FI] Yes. After all, it's frustrating."
+38,,"[FI] Ayase then stared right into my eyes, as if implying 
+some hidden meaning."
+39,,[FI] With slightly wet yet perfectly clear eyes.
+40,SPK_AYASE,[FI] It's as if Kirino... has been taken away by Onii-san.
+41,SPK_KIRINO,[FI] That's not true.
+42,SPK_KIRINO,"[FI] You're my best friend, aren't you, Ayase? Neither of 
+you are above the other."
+43,SPK_AYASE,"[FI] Yeah... Thank you, Kirino."
+44,,"[FI] Ayase smiled kindly, almost as if she's an angel."
+45,SPK_AYASE,[FI] Onii-san... I have some important questions for you.
+46,SPK_AYASE,[FI] Will you answer them?
+47,SPK_KYOUSUKE,"[FI] ...Yeah, if it's something I can answer."
+48,SPK_AYASE,[FI] Thank you very much.
+49,SPK_AYASE,[FI] Onii-san.
+50,SPK_AYASE,[FI] Do you like Kirino?
+51,,[FI] An easy question.
+52,SPK_KYOUSUKE,[FI] Of course.
+53,SPK_KYOUSUKE,[FI] I truly like Kirino.
+54,SPK_AYASE,[FI] I know.
+55,SPK_KYOUSUKE,[FI] Huh?
+56,SPK_AYASE,"[FI] Then, the next question."
+57,SPK_AYASE,[FI] Onii-san.
+58,SPK_AYASE,[FI] Do you love Kirino?
+59,,[FI] Yet another easy question.
+60,SPK_KIRINO,[FI] A-Ayase... It's embarrassing.
+61,SPK_AYASE,"[FI] Hehe, sorry, Kirino. But, I just have to know."
+62,SPK_AYASE,"[FI] How about it, Onii-san?"
+63,SPK_KYOUSUKE,[FI] I...
+64,SPK_KYOUSUKE,[FI] love Kirino.
+65,,[FI] I answered with my true feelings.
+66,SPK_KIRINO,[FI] Ua... Uaah.
+67,,[FI] Don't be so embarrassed.
+68,,"[FI] I was being serious, I'll get embarrassed too if you 
+react like that."
+69,,"[FI] In response to my answer, Ayase..."
+70,SPK_AYASE,[FI] I know.
+71,SPK_KYOUSUKE,"[FI] Wait, hey."
+72,SPK_AYASE,"[FI] I knew that Onii-san truly liked and loved Kirino 
+since I first met you."
+73,SPK_AYASE,"[FI] I thought it was only natural. If you weren't related 
+to Kirino by blood... of course it'll turn out this way."
+74,SPK_AYASE,"[FI] But, I'm still a bit worried."
+75,SPK_AYASE,"[FI] I know that Onii-san truly likes and loves Kirino 
+enough, but..."
+76,SPK_AYASE,"[FI] ...Kyousuke-san, will you stop being Kirino's older 
+brother?"
+77,,[FI] One might say... What do you mean by that?
+78,,[FI] But I didn't need to ask that foolish question.
+79,SPK_KYOUSUKE,[FI] I'll stop.
+80,SPK_AYASE,[FI] ?!
+81,SPK_KYOUSUKE,"[FI] Isn't that obvious? I've become Kirino's boyfriend, 
+after all."
+82,SPK_AYASE,[FI] ......
+83,SPK_KIRINO,[FI] ...Kyousuke.
+84,SPK_AYASE,[FI] I understand.
+85,SPK_AYASE,"[FI] Well, but..."
+86,SPK_AYASE,"[FI] No matter what you say, I can't make a judgment 
+based on words without seeing the results."
+87,SPK_KYOUSUKE,"[FI] Well, that's true."
+88,SPK_AYASE,[FI] Yes.
+89,SPK_AYASE,[FI] Onii-san.
+90,SPK_AYASE,[FI] If you don't make Kirino happy...
+91,SPK_AYASE,[FI] I'll kill you①
+92,,[FI] Really now...
+93,,[FI] I knew that without you telling me.
+94,SPK_KYOUSUKE,[FI] I won't stop.
+95,SPK_AYASE,[FI] ?!
+96,SPK_KYOUSUKE,"[FI] I'm Kirino's older brother and lover. That's fine, isn't 
+it?"
+97,SPK_AYASE,[FI] ......
+98,SPK_KIRINO,[FI] ...Kyousuke.
+99,SPK_AYASE,[FI] I understand.
+100,SPK_AYASE,"[FI] ...Although I don't agree with it at all, I get what 
+you mean."
+101,SPK_AYASE,"[FI] No matter what you say, I can't make a judgment 
+based on words without seeing the results."
+102,SPK_KYOUSUKE,"[FI] Well, that's true."
+103,SPK_AYASE,[FI] Yes.
+104,SPK_AYASE,[FI] Onii-san.
+105,SPK_AYASE,[FI] If you don't make Kirino happy...
+106,SPK_AYASE,[FI] I'll kill you①
+107,,[FI] Really now...
+108,,[FI] I knew that without you telling me.

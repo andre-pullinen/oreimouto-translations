@@ -1,0 +1,113 @@
+ID,SPEAKER,TEXT
+0,,[FI] I arrived at the Game Center in front of the station.
+1,,[FI] The place is as noisy as ever.
+2,,"[FI] For starters, I'll check the fighting game corner 
+where she's likely to be."
+3,SPK_OTAKU_1,"[FI] [font_size=28]Whoaa! Finally, a 100-win streak![/font_size]"
+4,SPK_OTAKU_2,[FI] She's ridiculously strong! And a beauty too...
+5,SPK_KYOUSUKE,[FI] Oh...
+6,,[FI] Could that be Kuroneko?
+7,,"[FI] I made my way through the crowd, trying to catch 
+a glimpse of this female gamer who achieved a 
+100-win streak."
+8,,[FI] However...
+9,SPK_KYOUSUKE,[FI] ...Not her.
+10,,"[FI] There seems to be female gamers who are as 
+skilled as Kuroneko."
+11,,[FI] Maybe she's the one Sena was talking about.
+12,,"[FI] Well, that's the least of my worries right now."
+13,SPK_KYOUSUKE,[FI] ...Can't find her.
+14,,[FI] Is she even in here?
+15,,"[FI] In the midst of giving up and having no luck, I 
+headed to the remaining medal game corner."
+16,,[FI] When I arrived...
+17,SPK_UNKNOWN_4,[FI] You're doing it!
+18,SPK_UNKNOWN_4,"[FI] Kuroneko-san! You are a genius! Indeed, the cat 
+that descended to darkness...!"
+19,,[FI] ...
+20,SPK_KYOUSUKE,[FI] Whoa now... That voice sounds so familiar.
+21,,[FI] I approached the voice in a hurry and-
+22,,[FI] ...it was this very scene you see here.
+23,,[FI] Hey... What does one make of this?
+24,SPK_KURONEKO,"[FI] ...Hmph... You shouldn't be surprised over something 
+as trivial as this."
+25,SPK_KURONEKO,"[FI] Look, here it comes again."
+26,SPK_FATE,[FI] [font_size=44]Kyaaa!①[/font_size]
+27,SPK_FATE,"[FI] Beautiful! How did you do that?! It's not just 
+targeting a winning sequence, right?!"
+28,SPK_KURONEKO,"[FI] ...Fufu... It's intuition. I am sensing the waves of 
+darkness."
+29,SPK_FATE,"[FI] I don't really understand but that doesn't matter! 
+As expected of Kuroneko-san!"
+30,SPK_KURONEKO,"[FI] My current form is not known as Kuroneko, but 
+Yamineko. Please don't be mistaken."
+31,SPK_FATE,"[FI] Yes, Yamineko-san, right? Okay, okay!"
+32,SPK_FATE,"[FI] Hey, so, can you do the same with the other 
+machines too?"
+33,SPK_KURONEKO,[FI] A simple task.
+34,SPK_FATE,"[FI] [font_size=33]Impressive! I love you, 
+Kuroneko-san![/font_size]"
+35,SPK_KURONEKO,[FI] Please stop saying such disgusting things.
+36,SPK_FATE,"[FI] Kufufufu... *slurp*! If I can use this girl's skills, I'll 
+definitely be riding the gravy train! Victory! The 
+ending of Oreimo!"
+37,SPK_KYOUSUKE,[FI] What are you doing?
+38,SPK_KURONEKO,[FI] [font_size=44]!?[/font_size]
+39,SPK_FATE,"[FI] O-Oh, I thought it was some random person but it's 
+just Kyousuke-kun. What's up?"
+40,,"[FI] ...Uh, there may be people who might not recognize 
+her, so I'll explain."
+41,,"[FI] This money-monger of a woman is Iori Fate 
+Setsuna."
+42,,"[FI] Many things happened and she became 
+unemployed, a Legendary Freeter, one who 
+survives through part-time jobs."
+43,SPK_KYOUSUKE,"[FI] What do you mean ""what's up?"" What are you 
+doing in a place like this?"
+44,SPK_FATE,[FI] Can't you tell by looking? I'm hitting the slots!
+45,SPK_KYOUSUKE,"[FI] I can tell! I don't mean that, but about what you're 
+scheming while embracing Kuroneko."
+46,SPK_FATE,"[FI] You've seen it too, haven't you? That impossible 
+Super Winning Sequence Technique!"
+47,SPK_FATE,"[FI] If it's her, she can easily conquer it! That thing 
+which ruined so many gamblers, that-"
+48,SPK_KYOUSUKE,[FI] Okay stop right there.
+49,SPK_FATE,"[FI] Aw, what's with you? I was getting to the good 
+part."
+50,SPK_KYOUSUKE,"[FI] I get the gist of it, even if you don't say it."
+51,SPK_FATE,"[FI] Well! In that case, this discussion is simple!"
+52,SPK_FATE,"[FI] That's how it is, so please pray for our success."
+53,SPK_KYOUSUKE,[FI] [font_size=33]Like hell I will![/font_size]
+54,SPK_KYOUSUKE,"[FI] Please don't involve Kuroneko in your shady 
+scheme."
+55,SPK_FATE,[FI] But it's not a shady scheme~
+56,SPK_FATE,[FI] It's gambling your life away for the final victory~
+57,SPK_KYOUSUKE,[FI] That's even worse!
+58,SPK_KYOUSUKE,"[FI] *sigh*... Come on, let's go, Kuroneko. You shouldn't 
+associate yourself with such people."
+59,SPK_KURONEKO,[FI] ...Kuroneko? Who might that be?
+60,SPK_KURONEKO,"[FI] I am the angel of vengeance ""Yamineko""... An 
+abominable being whose heart was ruined by the 
+darkness."
+61,SPK_KURONEKO,"[FI] Leave, human. I shall continue down this path of 
+destruction."
+62,SPK_KYOUSUKE,[FI] ...
+63,,[FI] Not good.
+64,,[FI] Kuroneko is straying from the right path.
+65,,"[FI] I had my suspicions that she's slightly off from 
+usual, going by what Hinata-chan said, but-"
+66,SPK_KURONEKO,[FI] Hmph. I've told you already.
+67,SPK_KURONEKO,"[FI] Right now... I'm the angel of vengeance, Yamineko."
+68,,"[FI] Ah, so she hasn't recovered from that yet."
+69,,"[FI] In fact, it looks like things might be getting worse."
+70,SPK_FATE,"[FI] See? You heard her, didn't you?"
+71,,[FI] Fate-san pointed sternly at my face.
+72,SPK_FATE,[FI] Humans like you should just go back home!
+73,SPK_FATE,"[FI] Yes, we are fallen angels, staking our lives in this 
+game of darkness..."
+74,SPK_FATE,[FI] This is no place for the likes of you.
+75,,"[FI] She has regressed, she has regressed!"
+76,,[FI] Even this one has regressed into a middle schooler!
+77,,"[FI] This aura of ""Yamineko"" is terrifying."
+78,,"[FI] The ""sickness"" known as Chuunibyou..."
+79,SPK_KYOUSUKE,"[FI] ...This isn't contagious, right?"

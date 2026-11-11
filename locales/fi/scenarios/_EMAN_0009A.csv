@@ -1,0 +1,145 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"[FI] So, where are we going next? Frankly, I don't know 
+where the famous spots are around here."
+1,SPK_MANAMI,"[FI] Hold on, let me check..."
+2,,"[FI] Manami pulls out a sightseeing guidebook, diligently 
+looking through the page she marked with some 
+post-it notes."
+3,SPK_KYOUSUKE,"[FI] You even brought that along, huh..."
+4,SPK_MANAMI,"[FI] Oh, sorry. I wasn't trying to hide it or anything..."
+5,SPK_KYOUSUKE,"[FI] Judging from the state of that book, it sure seems 
+like you've been reading it pretty thoroughly."
+6,SPK_MANAMI,"[FI] It's just the two of us, so I thought it would be 
+nice to find some interesting places to visit."
+7,SPK_KYOUSUKE,[FI] Just like what happened during the school trip.
+8,SPK_MANAMI,"[FI] Oh, it's totally different compared to that."
+9,SPK_KYOUSUKE,"[FI] I guess that's true. We don't have to worry about 
+other people now."
+10,,"[FI] Unlike the school trip, it's free and easy with just 
+the two of us, so there's no need to rush."
+11,SPK_MANAMI,"[FI] Yup. So, Kyou-chan, just let me know if there are 
+any places you want to check out."
+12,SPK_KYOUSUKE,[FI] 'Kay.
+13,SPK_MANAMI,"[FI] Ehehe, now then... where should we go..."
+14,SPK_KYOUSUKE,"[FI] Hey, how about the Jishu Shrine?"
+15,SPK_MANAMI,"[FI] Do you want to go, Kyou-chan?"
+16,SPK_KYOUSUKE,"[FI] Don't worry about me, but didn't you say you'd like 
+to visit the waterfall famed for marriages?"
+17,SPK_MANAMI,"[FI] Well yeah, but... I think I'm fine now."
+18,SPK_KYOUSUKE,[FI] ? What do you mean by that?
+19,SPK_MANAMI,"[FI] Well, my wish has come true."
+20,SPK_KYOUSUKE,"[FI] Y-Yeah, I guess there's no need to go then."
+21,,"[FI] If you're already with someone, it would be kind of 
+strange to go get blessed to find a lover..."
+22,SPK_MANAMI,"[FI] I'm happy to be with you, Kyou-chan. But... I 
+wonder if you feel the same?"
+23,SPK_KYOUSUKE,"[FI] You don't even need to ask me that, do you?"
+24,SPK_MANAMI,"[FI] Hehe... Yup, I thought so."
+25,SPK_KYOUSUKE,"[FI] I've thought about it, but nothing comes to mind."
+26,SPK_MANAMI,[FI] Want to read this sightseeing guide with me?
+27,SPK_KYOUSUKE,"[FI] I'll read it after you've finished. You only have that 
+one guidebook after all."
+28,SPK_MANAMI,"[FI] Ah, yeah... okay, hold on. I'll make a decision soon."
+29,SPK_KYOUSUKE,[FI] There's no need to rush.
+30,SPK_MANAMI,"[FI] How about we go for a stroll from Adashino 
+Nenbutsu Temple to the Togetsu-kyo Bridge in 
+Arashiyama?"
+31,SPK_KYOUSUKE,[FI] Togetsu-kyo?
+32,SPK_MANAMI,"[FI] Literally ""Moon Crossing Bridge"", it's at the foot of 
+Arashiyama. Says here it's made of wood~"
+33,SPK_MANAMI,"[FI] There's lots of greenery around there, along with 
+many temples as well."
+34,,"[FI] You know, she's definitely living up to her title as an 
+old lady... What a plain and simple choice. I don't 
+dislike that side of her though."
+35,SPK_KYOUSUKE,"[FI] Fine by me, but looks like it's a long way to go. Can 
+you handle it?"
+36,SPK_MANAMI,"[FI] Don't worry. There's still some rock candy left, 
+there's also drinks and hydration salts if we get 
+sweaty."
+37,SPK_KYOUSUKE,[FI] Aren't you a little crazy prepared for everything?!
+38,,"[FI] I mean, that way of thinking and prepping for the 
+worst is way too old-fashioned!"
+39,,"[FI] Is she really the same age as me? Sometimes I 
+really wonder..."
+40,SPK_MANAMI,"[FI] I even have enough for you too, Kyou-chan."
+41,SPK_KYOUSUKE,"[FI] Well, I definitely appreciate that, but..."
+42,,"[FI] What is this? It's turning out to be a family trip than 
+a trip for lovers..."
+43,SPK_MANAMI,"[FI] The weather's pretty good too, so a stroll would 
+feel really nice~"
+44,SPK_KYOUSUKE,"[FI] For sure. I mean, we're already here, so let's enjoy 
+Kyoto to the fullest."
+45,SPK_MANAMI,[FI] Yup!
+46,SPK_KYOUSUKE,"[FI] So, where are we going next? Frankly, I don't know 
+where the famous spots are around here."
+47,SPK_MANAMI,"[FI] Hold on, let me check..."
+48,,"[FI] Manami pulls out a sightseeing guidebook, diligently 
+looking through the page she marked with some 
+post-it notes."
+49,SPK_KYOUSUKE,"[FI] You even brought that along, huh..."
+50,SPK_MANAMI,"[FI] Oh, sorry. I wasn't trying to hide it or anything..."
+51,SPK_KYOUSUKE,"[FI] Judging from the state of that book, it sure seems 
+like you've been reading it pretty thoroughly."
+52,SPK_MANAMI,"[FI] It's just the two of us, so I thought it would be 
+nice if we went to interesting places."
+53,SPK_KYOUSUKE,[FI] Just like what happened during the school trip.
+54,SPK_MANAMI,"[FI] Oh, it's totally different compared to that."
+55,SPK_KYOUSUKE,"[FI] I guess that's true. We don't have to worry about 
+other people now."
+56,,"[FI] Unlike the school trip, it's free and easy with just 
+the two of us, so there's no need to rush."
+57,SPK_MANAMI,"[FI] Yup. So, Kyou-chan, just let me know if there are 
+any places you want to check out."
+58,SPK_KYOUSUKE,[FI] 'Kay.
+59,SPK_MANAMI,"[FI] Ehehe, now then... where should we go..."
+60,SPK_KYOUSUKE,"[FI] Hey, how about the Jishu Shrine?"
+61,SPK_MANAMI,"[FI] Do you want to go, Kyou-chan?"
+62,SPK_KYOUSUKE,"[FI] Don't worry about me, but didn't you say you'd like 
+to visit the waterfall famed for marriages?"
+63,SPK_MANAMI,"[FI] Well yeah, but... I think I'm fine now."
+64,SPK_KYOUSUKE,[FI] ? What do you mean by that?
+65,SPK_MANAMI,"[FI] Well, my wish has come true."
+66,SPK_KYOUSUKE,"[FI] Y-Yeah, I guess there's no need to go then."
+67,,"[FI] If you're already with someone, it would be kind of 
+strange to go get blessed to find a lover..."
+68,SPK_MANAMI,"[FI] I'm happy to be with you, Kyou-chan. But... I 
+wonder if you feel the same?"
+69,SPK_KYOUSUKE,"[FI] You don't even need to ask me that, do you?"
+70,SPK_MANAMI,"[FI] Hehe... Yup, I thought so."
+71,SPK_KYOUSUKE,"[FI] I've thought about it, but nothing comes to mind."
+72,SPK_MANAMI,[FI] Want to read this sightseeing guide with me?
+73,SPK_KYOUSUKE,"[FI] I'll read it after you've finished. You only have that 
+one guidebook after all."
+74,SPK_MANAMI,"[FI] Ah, yeah... okay, hold on. I'll make a decision soon."
+75,SPK_KYOUSUKE,[FI] There's no need to rush.
+76,SPK_MANAMI,"[FI] How about we go for a stroll from Adashino 
+Nenbutsu Temple to the Togetsu-kyo Bridge in 
+Arashiyama?"
+77,SPK_KYOUSUKE,[FI] Togetsu-kyo Bridge?
+78,SPK_MANAMI,"[FI] Literally ""Moon Crossing Bridge"", it's at the foot of 
+Arashiyama. Says here it's made of wood~"
+79,SPK_MANAMI,"[FI] There's lots of greenery around there, along with 
+many temples as well."
+80,,"[FI] You know, she's definitely living up to her title as an 
+old lady... What a plain and simple choice. I don't 
+dislike that side of her though."
+81,SPK_KYOUSUKE,"[FI] Fine by me, but looks like it's a long way to go. Can 
+you handle it?"
+82,SPK_MANAMI,"[FI] Don't worry. There's still some rock candy left, 
+there's also drinks and hydration salts if we get 
+sweaty."
+83,SPK_KYOUSUKE,[FI] Aren't you a little crazy prepared for everything?!
+84,,"[FI] I mean, that way of thinking and prepping for the 
+worst is way too old-fashioned!"
+85,,"[FI] Is she really the same age as me? Sometimes I 
+really wonder..."
+86,SPK_MANAMI,"[FI] I even have enough for you too, Kyou-chan."
+87,SPK_KYOUSUKE,"[FI] Well, I definitely appreciate that, but..."
+88,,"[FI] What is this? It's turning out to be a family trip than 
+a trip for lovers..."
+89,SPK_MANAMI,"[FI] The weather's pretty good too, so a stroll would 
+feel really nice~"
+90,SPK_KYOUSUKE,"[FI] For sure. I mean, we're already here, so let's enjoy 
+Kyoto to the fullest."
+91,SPK_MANAMI,[FI] Yup!

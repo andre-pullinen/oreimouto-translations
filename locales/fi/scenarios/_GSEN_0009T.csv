@@ -1,0 +1,121 @@
+ID,SPEAKER,TEXT
+0,SPK_SENA,"[FI] Senpai, do you already know what we should be 
+working on?"
+1,SPK_KYOUSUKE,"[FI] Well... when the development begins, there's nothing 
+I can help out on, right?"
+2,SPK_KYOUSUKE,"[FI] You said it before, that I should manage the 
+progress of the project. So I gave it a shot."
+3,SPK_SENA,"[FI] Oh, well then..."
+4,SPK_SENA,[FI] What role should Gokou-san have?
+5,SPK_KYOUSUKE,[FI] A support role.
+6,SPK_KYOUSUKE,"[FI] Kuroneko's good at writing, drawing, and 
+programming. But for the bulk of this project, Sena 
+wants to handle them all, right?"
+7,SPK_SENA,"[FI] You're... right. If it's possible, I want to give it a try, 
+but..."
+8,SPK_KYOUSUKE,"[FI] That's why you're in charge of the tasks a single 
+person can complete, while Kuroneko follows up 
+with the other tasks."
+9,SPK_SENA,"[FI] That might work. Like maps and backgrounds, or 
+the lines from minor characters..."
+10,SPK_KURONEKO,"[FI] Yes. And having her focus on the BL parts makes it 
+easier for me."
+11,SPK_KYOUSUKE,[FI] Uhh... yeah... well...
+12,SPK_SENA,"[FI] ...Don't just stumble right off the bat. You're making 
+me anxious."
+13,SPK_KYOUSUKE,"[FI] B-But I can't help it, alright? At the time, I didn't 
+know if you or Kuroneko would lead the project, 
+so I couldn't assign any roles."
+14,SPK_KURONEKO,[FI] ...I'll be the support.
+15,SPK_KYOUSUKE,[FI] Huh?
+16,SPK_KURONEKO,"[FI] The main scripts and illustrations, they'll be done by 
+Akagi-san this time."
+17,SPK_KURONEKO,"[FI] Nevertheless, I'll handle anything she can't. For 
+example, NPC dialogue, backgrounds, map 
+illustrations... I can help in many ways."
+18,SPK_KYOUSUKE,[FI] I-I see. My bad.
+19,SPK_SENA,"[FI] Let's have Gokou-san as support then, what about 
+the President?"
+20,SPK_KYOUSUKE,[FI] I think he should be the play tester.
+21,SPK_SENA,"[FI] [font_size=28]Huh!? Him, of all people?[/font_size]"
+22,SPK_KURONEKO,[FI] That's quite a bold decision.
+23,SPK_PRESIDENT,"[FI] Evaluating me based off my sense of game 
+balance, you're pretty good, Kousaka."
+24,SPK_KYOUSUKE,"[FI] But don't you see? If you tweak the game based 
+on what he likes, the game balance will be 
+completely wrecked."
+25,SPK_KYOUSUKE,"[FI] We'll have him playtest instead, if we do the 
+opposite of what he says, we can get something 
+good out of it."
+26,SPK_PRESIDENT,[FI] ...To think such a method existed!
+27,SPK_SENA,"[FI] He isn't praising you, President!"
+28,SPK_KURONEKO,[FI] But certainly... that method just might work.
+29,SPK_KYOUSUKE,[FI] Right?
+30,SPK_SENA,"[FI] It's like he's in the right place at the right time... 
+huh?"
+31,SPK_SENA,"[FI] W-Why aren't you answering, Kousaka-senpai!"
+32,SPK_KYOUSUKE,"[FI] I mean, don't you already know? I can't say if he's 
+completely useless... or involving him at all might ruin 
+the game..."
+33,SPK_PRESIDENT,"[FI] I can hear you even if you're whispering, Kousaka."
+34,SPK_KURONEKO,"[FI] Well then. Having him as the playtester won't be 
+bad at all."
+35,SPK_SENA,[FI] Play tester? The president!
+36,SPK_KYOUSUKE,"[FI] Hey now, if we take his feedback as a reference, 
+won't the game just turn out bad?"
+37,SPK_KURONEKO,"[FI] Precisely. We'll get a shitty game if we take his 
+feedback. If that's the case, what will happen if we 
+do the complete opposite of what he says..."
+38,SPK_SENA,"[FI] I see, learning from a bad example, huh?"
+39,SPK_KYOUSUKE,"[FI] Ignoring the bad ideas, so the game will be even 
+better... I never thought we could use him like that!"
+40,SPK_SENA,"[FI] Great idea, let's go with that!"
+41,SPK_PRESIDENT,[FI] ...This treatment is just terrible...
+42,SPK_KURONEKO,"[FI] Okay, our roles are settled then. What about you?"
+43,SPK_KYOUSUKE,"[FI] I'm working on the schedule and deliverables. Not 
+only that, debugging and other small tasks."
+44,SPK_SENA,"[FI] In that case, we're done with deciding the roles."
+45,SPK_MAKABE,"[FI] Huh? But we haven't decided what I should do 
+though?"
+46,SPK_SENA,"[FI] You already have the important role of becoming 
+my model."
+47,SPK_SENA,"[FI] I said it before but, I intend to model the main 
+character after you, Makabe-senpai."
+48,SPK_SENA,"[FI] Ah, but if you could exchange passionate gazes 
+with the President like you usually do, then that's 
+good enough for me."
+49,SPK_KYOUSUKE,[FI] ......
+50,SPK_KURONEKO,[FI] ......
+51,SPK_SENA,"[FI] I won't ask you to show me how you get roughed 
+up by dwarves in reality, I'll just draw it based on 
+my imagination."
+52,SPK_SENA,"[FI] I already have the rough sketch, wanna see? I 
+couldn't stop drawing after a while, it got a little 
+saucy, lolol"
+53,SPK_KYOUSUKE,"[FI] Cut it out already, Makabe-kun's life points are 
+about to reach 0."
+54,SPK_SENA,[FI] ...Ah!
+55,SPK_MAKABE,"[FI] It's... fine... If sacrificing me will allow Akagi-san to 
+make her game fun, even I can..."
+56,SPK_KYOUSUKE,"[FI] Look what you done, his spirit is practically leaving 
+his body."
+57,SPK_SENA,"[FI] S-S-S-Sorry, Makabe-senpai! I can't believe I just...!"
+58,SPK_SENA,"[FI] So in short, the selling point is a sword and sorcery 
+RPG. The impossible delusions in a school setting 
+can now be made possible!"
+59,SPK_SENA,"[FI] Hence, I can use magic as a pretense to draw a lot 
+of torture scenes."
+60,SPK_SENA,"[FI] Props to make magic staffs, riding dragons, the 
+usual tentacle slime scene! Spread my imagination 
+far and wide, reaching out to the infinite BL world-"
+61,,"[FI] Sena's eyes glistened as she went on and on about 
+the details of what would happen to the hero 
+(=Makabe) in the game."
+62,,"[FI] And with that, the endless rotten delusions 
+continued on..."
+63,,"[FI] By the time she came to her senses, she's already 
+spent nearly an hour rambling."
+64,,"[FI] After getting everything out of her system... Sena 
+calmed down and lowered her head."
+65,SPK_SENA,"[FI] ...Sorry, I... did it again, huh..."
+66,SPK_KYOUSUKE,"[FI] Y-Yeah, you sure did..."

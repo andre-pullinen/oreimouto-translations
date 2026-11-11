@@ -1,0 +1,42 @@
+{
+  "id": "lang_zh_cn_community",
+  "locale": "zh_CN",
+  "display_name": "简体中文",
+  "short": "ZHO",
+  "team_name": "PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋汉化联盟",
+  "authors": [
+    "毫米子弹",
+    "RacZY7",
+    "死宅一个",
+    "Amalamya",
+    "大蘑菇酱",
+    "九十九",
+    "无节操女王",
+    "藤花末叶",
+    "法理守护神",
+    "十七的苍真",
+    "幻影の碎片",
+    "MKN2",
+    "気持い",
+    "PSP吧汉化组"
+  ],
+  "version": "1.0.0",
+  "description": "PSP平台《我的妹妹不可能这么可爱 便携版》Disc 1与Disc 2完整简体中文汉化包。由PSP吧汉化组、俺妹吧与游戏嗯蛋汉化联盟联合译制。",
+  "links": {
+    "baidu_tieba": "https://tieba.baidu.com/p/1628163531",
+    "k73": "http://www.k73.com/psp/3067.html"
+  },
+  "tags": [
+    "beta"
+  ],
+  "tag_notes": {
+    "beta": "Предварительная **бета-версия** перевода.\n\n- Завершена вычитка основных сценариев\n- Интегрирован CJK-шрифт **Noto Sans SC**"
+  },
+  "fonts": {
+    "ui": "fonts/NotoSansSC-Medium.otf",
+    "dialogue": "fonts/NotoSansSC-Medium.otf",
+    "speaker": "fonts/NotoSansSC-Medium.otf",
+    "accent": "fonts/NotoSansSC-Medium.otf",
+    "fallback": "fonts/NotoSansSC-Medium.otf"
+  }
+}

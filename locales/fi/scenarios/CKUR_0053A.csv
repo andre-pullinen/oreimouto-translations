@@ -1,0 +1,75 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"[FI] Well, I've arrived in Akihabara, but... where are they?"
+1,SPK_SAORI,[FI] Oh! Isn't that Kyousuke-shi?
+2,SPK_KYOUSUKE,"[FI] Oh... Ahh! W-What a coincidence, hahaha!"
+3,SPK_KURONEKO,[FI] ...Huh?
+4,SPK_KYOUSUKE,[FI] Yo.
+5,SPK_KURONEKO,[FI] W-Why...
+6,,[FI] Uwah... she's clearly getting flustered now that I'm here...
+7,,"[FI] This is expected, since the one she told to ""stay away"" is now right in front of her."
+8,SPK_KURONEKO,"[FI] ...Why is senpai here, I wonder?"
+9,SPK_KYOUSUKE,"[FI] Ah, actually..."
+10,SPK_SAORI,[FI] What a coincidence! This must be a strange stroke of fate!
+11,,"[FI] Hey hey, isn't this becoming a little too obvious?"
+12,SPK_SAORI,"[FI] Kyousuke-shi, if you have the time, would you care to join us both for some shopping?"
+13,SPK_KYOUSUKE,"[FI] Sure, that's fine with me, but..."
+14,SPK_SAORI,[FI] That's great. How about you Kuroneko-shi?
+15,SPK_KURONEKO,[FI] We met by coincidence... T-Then it can't be helped.
+16,SPK_SAORI,[FI] That's how it should be!
+17,SPK_KURONEKO,"[FI] ...Let's go, we can't be wasting time here."
+18,SPK_SAORI,[FI] Understood!
+19,SPK_SAORI,"[FI] Well then, let's go!"
+20,SPK_KYOUSUKE,"[FI] Still, I didn't think that she would agree to it that easily."
+21,SPK_SAORI,"[FI] Huhuhu, I'm sure that Kuroneko-shi is also secretly delighted."
+22,SPK_KYOUSUKE,"[FI] Really? I wouldn't think so, judging from her prior attitude."
+23,SPK_SAORI,[FI] I didn't see anything that would indicate otherwise.
+24,SPK_KYOUSUKE,"[FI] I think you should get a new pair of glasses, Saori."
+25,SPK_KURONEKO,[FI] ...Here we are.
+26,SPK_KYOUSUKE,[FI] Does this place sell things like art supplies?
+27,SPK_KURONEKO,"[FI] How ignorant, just keep quiet and follow us."
+28,SPK_KYOUSUKE,[FI] Isn't this a shop that deals with electronics and games?
+29,SPK_SAORI,[FI] It's the best shop in Akiba for digital drawing tools!
+30,SPK_KYOUSUKE,"[FI] Ah, I see..."
+31,SPK_KURONEKO,[FI] I'm heading in.
+32,SPK_SAORI,[FI] Agreed!
+33,SPK_KYOUSUKE,"[FI] Ah, wait for me!"
+34,SPK_SAORI,"[FI] Oh, the shape of this tablet pen is quite unique."
+35,SPK_KURONEKO,"[FI] It's designed with ergonomics in mind. Even if you use it for a while, your hands won't get tired."
+36,SPK_SAORI,"[FI] I see, this looks like it would be most useful during crunch times."
+37,SPK_KURONEKO,"[FI] Yes. However, you must pay attention to the wear and tear of the pen tip. That's why it's better to buy spare ones as well."
+38,,[FI] ...What kind of alien language are they talking in?
+39,,[FI] I can't follow along with their conversation at all...
+40,,"[FI] If this goes on, it looks like I won't be able to fulfill my goal of talking to Kuroneko... What should I do?"
+41,SPK_KURONEKO,"[FI] If you have a spare budget, it's best to buy a transparent screen overlay too, so the pen strokes can come out prettier."
+42,SPK_SAORI,"[FI] Hoho, I see. That's pretty impressive. I focus on hand drawings more than digital drawings, so I didn't know much about it."
+43,SPK_SAORI,"[FI] I have a profound respect for your vast knowledge, wouldn't you agree Kyousuke-shi?"
+44,SPK_KYOUSUKE,"[FI] Eh!? Ah, yeah, that's right. It's amazing that you know that much."
+45,SPK_KURONEKO,[FI] ...This is all merely common knowledge.
+46,SPK_KYOUSUKE,[FI] That's not the case. You're very knowledgeable about the usage of specific tools.
+47,SPK_KYOUSUKE,"[FI] Which means you use them a lot at home, right?"
+48,SPK_KURONEKO,"[FI] No, I try them in places like these until I get the hang of them."
+49,SPK_KYOUSUKE,[FI] I-I see.
+50,SPK_KURONEKO,"[FI] To get the best results, it's natural to try them out thoroughly."
+51,SPK_KYOUSUKE,[FI] I-I guess so...
+52,,[FI] So is she in a bad mood after all...
+53,,"[FI] Hmm, I can't figure her out..."
+54,SPK_SAORI,[FI] Well then... I feel like we've seen enough of everything here. It's time to pay for the items.
+55,SPK_SAORI,"[FI] Say, since the register is a bit crowded, could the two of you wait outside for a while?"
+56,SPK_KURONEKO,"[FI] I understand, I'll leave it to you."
+57,SPK_SAORI,[FI] Much appreciated! Well then!
+58,,[FI] Saori... you're as reliable as always.
+59,,[FI] I won't waste this opportunity you gave me!
+60,,[FI] Now it's time to try and talk to Kuroneko...
+61,SPK_KURONEKO,[FI] Let's go.
+62,SPK_KYOUSUKE,"[FI] Ah, yeah."
+63,SPK_KYOUSUKE,[FI] Akihabara sure is crowded today.
+64,SPK_KURONEKO,[FI] That's right.
+65,SPK_KYOUSUKE,"[FI] Feels a little tiring waiting for Saori, though."
+66,SPK_KURONEKO,[FI] That's right.
+67,SPK_KYOUSUKE,"[FI] Also, it seems like Saori isn't coming yet..."
+68,SPK_KURONEKO,[FI] That's right.
+69,SPK_KYOUSUKE,[FI] ......
+70,SPK_KURONEKO,[FI] ......
+71,,[FI] I-I can't continue the conversation! Crap... what should I do?
+72,SPK_KURONEKO,"[FI] ...You lied, didn't you?"
+73,SPK_KYOUSUKE,[FI] ...Eh?

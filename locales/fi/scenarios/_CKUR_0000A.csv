@@ -1,0 +1,240 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"[FI] This is a good opportunity, I should invite Kuroneko 
+out somewhere."
+1,,"[FI] I thought about my girlfriend, who I'd just started 
+dating this summer."
+2,,"[FI] She's my junior at school, close friends with Kirino 
+and me, and an awkward chuunibyou at that..."
+3,,[FI] A-Anyways!
+4,SPK_KYOUSUKE,"[FI] Come to think of it, I haven't had a proper date 
+with her yet."
+5,,"[FI] It wouldn't be a bad idea to seize the moment to 
+create fond summer memories with Kuroneko. With 
+that in mind..."
+6,SPK_KYOUSUKE,"[FI] Since arranging a date by phone is kinda boring, I 
+should go meet her in person!"
+7,SPK_KYOUSUKE,"[FI] ...Crap, this is really embarrassing..."
+8,,"[FI] Right, I haven't even made arrangements to meet! 
+I-If I suddenly barged in on her, wouldn't I just be 
+a bother..."
+9,SPK_UNKNOWN,"[FI] ...What are you doing, Senpai?"
+10,SPK_KYOUSUKE,[FI] Whoa!? K-Kuroneko? Why are you here...
+11,SPK_KURONEKO,[FI] This is my house after all. Why wouldn't I be here?
+12,SPK_KURONEKO,"[FI] ...Hinata was saying, Kousaka-kun was holding his 
+head groaning about something in front of the 
+house, so I came flying out..."
+13,,"[FI] Kuroneko's hand was gripping onto a first aid kit 
+for some reason... Did she think I was injured?"
+14,,"[FI] I mean, just how loud was I groaning..."
+15,SPK_KURONEKO,"[FI] So, what can I do for you? I was in the midst of 
+mastering alchemy to retrieve some essence from 
+my witch's cauldron."
+16,SPK_KYOUSUKE,"[FI] Ah, were you in the middle of cooking? My bad."
+17,SPK_KURONEKO,[FI] ...
+18,SPK_KYOUSUKE,[FI] ? What's the matter?
+19,SPK_KURONEKO,"[FI] N-Nothing at all. Anyway, is there an important 
+matter I should know about?"
+20,SPK_KYOUSUKE,"[FI] Well, actually, since it is summer, why don't we go 
+somewhere together?"
+21,SPK_KURONEKO,[FI] ...Eh?
+22,SPK_KYOUSUKE,"[FI] Summer vacation's almost over, you know... I mean, 
+we are dating, after all..."
+23,SPK_KURONEKO,[FI] I-Indeed. I can... consider it.
+24,SPK_KYOUSUKE,[FI] R-Really? So is there somewhere you'd like to go?
+25,SPK_KURONEKO,"[FI] Yes... I had something in mind. Would you like to 
+accompany me?"
+26,SPK_KYOUSUKE,[FI] Of course!
+27,SPK_KURONEKO,"[FI] Okay, the day after tomorrow then. Is it okay if we 
+meet at my house?"
+28,SPK_KYOUSUKE,[FI] Got it.
+29,,"[FI] --Thus, our date has been arranged."
+30,,"[FI] Heh, just you wait and see. I will definitely create 
+the best memories this summer!"
+31,SPK_KYOUSUKE,[FI] It's hot...
+32,,"[FI] Above me, blue sky and white clouds. Before me, 
+the wide ocean. Kuroneko and I came to the beach 
+nearby."
+33,SPK_KYOUSUKE,"[FI] ...Seriously though, it's way too hot, isn't it?"
+34,SPK_UNKNOWN,"[FI] If you keep saying it's hot, don't you know it's going 
+to get even hotter?"
+35,SPK_KURONEKO,[FI] D-Don't stare at me like that.
+36,SPK_KYOUSUKE,"[FI] Ah, sorry."
+37,,"[FI] Since we're at the beach, and it's summer... 
+naturally, Kuroneko was in a swimsuit."
+38,SPK_KURONEKO,"[FI] Good grief, it looks like it'll be a long wait before 
+you awaken the dormant black beast within you."
+39,SPK_KYOUSUKE,[FI] No need for something like that to wake up.
+40,SPK_KYOUSUKE,[FI] Still...
+41,,"[FI] In order to avoid my gaze, Kuroneko was sitting on 
+the ground grasping her knees."
+42,SPK_KURONEKO,[FI] ...Do you have something to say?
+43,SPK_KYOUSUKE,"[FI] Well, I'm just wondering when you're going to 
+show me your swimsuit properly."
+44,SPK_KURONEKO,"[FI] Ah, erm..."
+45,SPK_KURONEKO,[FI] ...Don't look at me with such dirty eyes.
+46,SPK_KYOUSUKE,"[FI] Well, hey! Isn't it normal to be in a swimsuit while at 
+the beach?"
+47,SPK_KURONEKO,"[FI] Honestly... I came here to collect shellfish, you know."
+48,SPK_KURONEKO,[FI] There was no need for me to wear a swimsuit.
+49,SPK_KYOUSUKE,"[FI] Yeah, yeah..."
+50,SPK_KURONEKO,[FI] ...Do you wish to see it that badly?
+51,SPK_KYOUSUKE,[FI] Eh...
+52,SPK_KURONEKO,"[FI] I'm asking you if you really wish to see me in a 
+swimsuit."
+53,SPK_KYOUSUKE,"[FI] Well, yeah..."
+54,SPK_KURONEKO,[FI] I-I guess there's no helping it...
+55,SPK_KURONEKO,"[FI] ...It's not weird, is it?"
+56,SPK_KYOUSUKE,"[FI] No, you look really cute."
+57,SPK_KURONEKO,[FI] ...R-Really...
+58,,"[FI] Oh, don't we have a pretty good atmosphere going 
+on right now?"
+59,SPK_HINATA,[FI] Hey~ Ruri-nee! Kousaka-kun!
+60,SPK_TAMAKI,[FI] Hey~
+61,,"[FI] And with that, the sweet atmosphere ended 
+instantly."
+62,SPK_KURONEKO,[FI] What's wrong?
+63,,"[FI] Kuroneko easily shifted gears from an embarrassed 
+girlfriend to a dependent elder sister."
+64,SPK_TAMAKI,"[FI] Nee-sama, I've gathered a lot!"
+65,SPK_KURONEKO,"[FI] Oh my, you've done well, haven't you."
+66,SPK_HINATA,"[FI] Nihihi, at this rate, it's simply a matter of time 
+before we collect all the shellfish on this beach."
+67,SPK_KYOUSUKE,"[FI] Of course, that would never happen..."
+68,,"[FI] As I was saying that, I took a peek at the bucket 
+Hinata-chan was holding, there were a decent 
+amount of clams inside."
+69,SPK_KYOUSUKE,"[FI] Oh-, that's quite a lot."
+70,SPK_HINATA,"[FI] Well, that's expected if you leave it to us!"
+71,SPK_TAMAKI,[FI] Has Onii-chan found anything?
+72,SPK_KYOUSUKE,"[FI] Well, about that..."
+73,SPK_HINATA,"[FI] Uwah, nothing at all?! Looks like you'll be going 
+without lunch today, Kousaka-kun."
+74,SPK_KURONEKO,"[FI] I spent a lot of time and effort to prepare it, but..."
+75,SPK_KYOUSUKE,[FI] What!
+76,SPK_KURONEKO,"[FI] If man will not work, he shall not eat."
+77,SPK_KYOUSUKE,"[FI] Wait, wait! I'll show you what I'm really made of! 
+Look forward to it!"
+78,SPK_KURONEKO,"[FI] Yes yes, I'm counting on you."
+79,SPK_HINATA,"[FI] Uwah, Kousaka-kun has fallen completely into 
+Ruri-nee's hands, just by getting through to his 
+stomach..."
+80,SPK_KYOUSUKE,"[FI] Leave me alone. Aren't you girls pretty much the 
+same?"
+81,SPK_HINATA,"[FI] Well, that's just how it is~"
+82,SPK_TAMAKI,[FI] It's because Nee-sama's cooking is really delicious.
+83,SPK_HINATA,"[FI] Hey, more importantly~"
+84,SPK_KYOUSUKE,[FI] Hm?
+85,SPK_HINATA,"[FI] How's my swimsuit?! I bet Kousaka-kun's 
+completely enchanted by my sexiness?"
+86,SPK_KYOUSUKE,"[FI] No, Kuroneko's swimsuit is definitely cuter."
+87,SPK_KURONEKO,[FI] ...
+88,SPK_HINATA,"[FI] You're bragging about her! That's only because 
+she's your girlfriend, right!"
+89,SPK_KYOUSUKE,[FI] It's nothing like that.
+90,SPK_KYOUSUKE,[FI] Huh? What are you even saying?
+91,SPK_HINATA,"[FI] Wait!? Haven't you considered buttering up to your 
+lovely sister-in-law?"
+92,SPK_KYOUSUKE,"[FI] No no, not at all. It pales in comparison to Kuroneko..."
+93,SPK_KURONEKO,"[FI] Kukuku... This man's soul is fully in my grasp, down 
+to the last shred."
+94,SPK_HINATA,"[FI] Guh, this lovey-dovey couple! Even though Ruri-nee 
+has the same bust size as me..."
+95,SPK_KYOUSUKE,[FI] What did you say...
+96,,"[FI] Kuroneko and Hinata-chan have the same bust 
+size? Wait, wait, wait, assuming Hinata-chan's are 
+normal for her age, that means... eh?"
+97,SPK_KURONEKO,"[FI] Fu, fufufu... I was wondering what you were going 
+to say, to think they were such nonsense..."
+98,SPK_HINATA,"[FI] Nonsense? Oh no, you're so wrong! Since you won't 
+show your swimsuit to your boyfriend, the reason 
+has to be..."
+99,SPK_HINATA,[FI] Ouch!? You really just hit me?!
+100,SPK_KURONEKO,"[FI] I-It's because you were saying nothing but absurd 
+things."
+101,SPK_HINATA,"[FI] Yeah? Then tell me why you're blushing so much! 
+Well? Try saying it!"
+102,SPK_KURONEKO,[FI] ...
+103,SPK_HINATA,[FI] Hyaa!
+104,SPK_KURONEKO,"[FI] Fu... kukuku... I'm sorry, Senpai. I have to excuse 
+myself for a while..."
+105,SPK_KYOUSUKE,[FI] O-Okay...
+106,SPK_KURONEKO,"[FI] Come now, Hinata. It seems like some rehabilitation 
+is in order..."
+107,SPK_HINATA,[FI] N-ooooooo--!
+108,,"[FI] Just like that, Hinata-chan was taken to a distant 
+place by Kuroneko... Farewell."
+109,,"[FI] Like a calf loaded onto a wagon, Hinata-chan got 
+dragged away by Kuroneko. Well, hang in there. I'll 
+pray for you."
+110,SPK_KYOUSUKE,[FI] ...Are you really okay with this?
+111,SPK_TAMAKI,"[FI] ? Is something wrong, Onii-chan?"
+112,SPK_KYOUSUKE,"[FI] No, it's nothing. Let's fill up your bucket before they 
+come back."
+113,SPK_TAMAKI,[FI] Okay!
+114,,"[FI] As I continued the shellfish gathering with 
+Tamaki-chan, I faintly recalled the things that 
+happened during the summer."
+115,,"[FI] You know, a lot of things did happen..."
+116,,"[FI] Carrying the overworked and unconscious 
+Kuroneko, hurrying to the school infirmary."
+117,,"[FI] Helping out with her doujin, going to Kuroneko's 
+house."
+118,,"[FI] Which reminds me, that was also the first time I 
+met Hinata-chan and Tamaki-chan."
+119,SPK_KURONEKO,"[FI] This is a ritual to break the curse. And now I'll 
+make a new one."
+120,,"[FI] After that, Kuroneko and I became lovers."
+121,SPK_KURONEKO,"[FI] If only you were to call me ""onee-sama"" obediently, 
+I would be able to say that phrase... what a pity."
+122,SPK_KURONEKO,[FI] It's 'My Little Sister Can't Be This Cute'.
+123,SPK_KYOUSUKE,"[FI] Oh yeah, I wonder if Kirino is still mad?"
+124,SPK_TAMAKI,[FI] ...
+125,,"[FI] Kirino doesn't show it, but since she likes Kuroneko 
+so much, she'll probably get over it."
+126,,"[FI] That aside, the most important thing now concerns 
+me and Kuroneko."
+127,,"[FI] ...Even though we've gone through so much trouble 
+to become a couple, things haven't progressed at 
+all."
+128,,"[FI] Well, this is my first time dating a girl, I should be 
+ecstatic. However..."
+129,,"[FI] Even now, we still don't even hold hands at all..."
+130,SPK_KYOUSUKE,[FI] Kuroneko's not done changing yet?
+131,SPK_HINATA,"[FI] Now now, girls do take time to change, you know?"
+132,SPK_KYOUSUKE,"[FI] But a certain someone came out pretty fast, huh?"
+133,SPK_HINATA,"[FI] Kousaka-kun, don't you have any consideration for a 
+maiden?"
+134,SPK_KYOUSUKE,"[FI] Hey. Putting that aside, I have a question to ask."
+135,SPK_HINATA,"[FI] That aside?! W-Well, whatever. Ask away?"
+136,SPK_KYOUSUKE,"[FI] It's nothing serious, but when did Kuroneko... you 
+know... start acting like that? Like her outfit and 
+such?"
+137,SPK_TAMAKI,"[FI] Nee-sama's spiritual awakening? That happened 
+recently."
+138,SPK_HINATA,"[FI] ...A few years ago, I think. But, why this out of the 
+blue?"
+139,SPK_KYOUSUKE,"[FI] Well, um..."
+140,,"[FI] Just like seeing her in a swimsuit, I also want to see 
+her dressed up normally... stuff like that."
+141,,"[FI] I mean, Gothic Lolita-style Kuroneko is cute too!"
+142,SPK_HINATA,"[FI] Ah, so you're thinking about what happens after the 
+wedding?"
+143,SPK_KYOUSUKE,"[FI] Pfft?! What are you saying, all of a sudden!"
+144,,"[FI] Well, naturally, I'm also concerned about that. If 
+there's no development and Kuroneko's chuunibyou 
+takes a turn for the worse..."
+145,SPK_KURONEKO,"[FI] I am the Angel of Vengeance ""Yamineko""... an 
+abominable existence whose heart has been 
+devoured by darkness."
+146,,"[FI] On top of that, if she gets tempted by Fate-san..."
+147,SPK_KURONEKO,"[FI] In order to win the short story award, I shall be 
+going out to gather material."
+148,SPK_KYOUSUKE,[FI] Where are you going?
+149,SPK_KURONEKO,[FI] ...A pachinko parlor.
+150,SPK_FATE,[FI] Let us be off! Kuroneko-san!
+151,,[FI] ...Things might get troublesome.
+152,SPK_HINATA,"[FI] What's wrong, Kousaka-kun? You don't look so good."
+153,SPK_KYOUSUKE,"[FI] A-Ah, it's nothing."
+154,,"[FI] Anyway, in order to avoid the worst possible 
+outcome, I should make my move."
+155,SPK_KURONEKO,[FI] Sorry for the wait... What's wrong?

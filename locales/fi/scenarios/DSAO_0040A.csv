@@ -1,0 +1,104 @@
+ID,SPEAKER,TEXT
+0,,[FI] ...The next day.
+1,,[FI] I went to school during the summer holidays to pass Kuroneko the information I got from Saori.
+2,SPK_KYOUSUKE,"[FI] Here, the stuff you wanted."
+3,SPK_KURONEKO,[FI] ...Certainly. I'll take it.
+4,SPK_KURONEKO,[FI] ...So.
+5,SPK_KURONEKO,"[FI] While using me as an excuse, what did you want to meet Saori for?"
+6,SPK_KYOUSUKE,[FI] Pfft!!
+7,SPK_KYOUSUKE,[FI] U-Using you as an excuse?
+8,SPK_KURONEKO,[FI] Please don't act dumb.
+9,SPK_KURONEKO,"[FI] You told me, right?"
+10,SPK_KURONEKO,"[FI] You said ""I had something to ask Saori""..."
+11,SPK_KYOUSUKE,"[FI] Is, is that so..."
+12,SPK_KURONEKO,"[FI] Yes. Senpai's speech and movements are carefully recorded in my deep consciousness, so there can be no mistakes."
+13,,[FI] Are you a recorder?!
+14,SPK_KURONEKO,"[FI] Saori's our mutual friend. There shouldn't be any problems letting me know stuff regarding her, right?"
+15,SPK_KURONEKO,[FI] Or could it be that it's something which cannot be told to me?
+16,,"[FI] It's not... that I can't tell her. But telling her about the marriage interview here, is..."
+17,,[FI] Saori didn't want me to tell anyone about her hospitalization. She probably doesn't want anyone know about her marriage interview either...
+18,,"[FI] Saori doesn't want Kirino or Kuroneko to worry, which I can understand."
+19,SPK_KURONEKO,"[FI] Come on, confess already."
+20,SPK_KYOUSUKE,[FI] It's nothing to confess; it's not really important...
+21,SPK_KURONEKO,"[FI] If it's nothing important, then it should be okay to say it."
+22,SPK_KYOUSUKE,[FI] That's...
+23,SPK_KURONEKO,[FI] It's not good for your body to keep it bottled up.
+24,SPK_KURONEKO,[FI] ...Let's see. For example...
+25,SPK_KURONEKO,"[FI] I could borrow the power of the Denizens of Darkness, and send curses to you night after night..."
+26,,"[FI] A normal person would say ""I'll give you missed calls every night"" instead."
+27,SPK_KYOUSUKE,"[FI] Like I said, it's really nothing important."
+28,SPK_KURONEKO,"[FI] Who knows? If you're being that stubborn, I'll be more suspicious instead."
+29,SPK_KYOUSUKE,"[FI] But, although she lost consciousness, she only stayed at the hospital for a few days before getting discharged."
+30,SPK_KURONEKO,[FI] ...Lost consciousness?
+31,SPK_KURONEKO,[FI] What do you mean by lost consciousness?
+32,SPK_KYOUSUKE,[FI] Eh...
+33,SPK_KYOUSUKE,"[FI] Well, you see..."
+34,SPK_KYOUSUKE,"[FI] Oh yes! I said ""YOU LOST""! You know, like in the fighting games!"
+35,SPK_KURONEKO,"[FI] She got hospitalized, right?"
+36,SPK_KYOUSUKE,[FI] Ooh?! I-If you come that close...
+37,SPK_KURONEKO,[FI] If you come that close? What are you saying?
+38,SPK_KURONEKO,"[FI] If that's a problem, then quickly confess."
+39,SPK_KYOUSUKE,[FI] T-That's right! Saori was hospitalized!
+40,SPK_KYOUSUKE,[FI] But she got discharged after a few days; there's nothing particularly wrong!
+41,SPK_KURONEKO,[FI] I see...
+42,SPK_KURONEKO,[FI] She told you while keeping me in the dark.
+43,,[FI] ...Could it be that I stepped on a land mine just now?
+44,,"[FI] Kuroneko's look transmitted to me a fierce feeling as if it said ""A secret between only you two, how shameless..."""
+45,,"[FI] I don't know whether it's just an illusion, but I feel the presence of a demon behind Kuroneko."
+46,SPK_KYOUSUKE,"[FI] Actually, it's rather complicated."
+47,SPK_KYOUSUKE,[FI] How do I put it... It's a little hard to say...
+48,SPK_KURONEKO,[FI] ...Why are you flustered?
+49,SPK_KURONEKO,[FI] It's not like I'm suspicious about the relationship between you two.
+50,SPK_KURONEKO,[FI] Saori probably told you:
+51,SPK_KURONEKO,"[FI] ""Please keep this a secret from Kiririn-shi and Kuroneko-shi"""
+52,SPK_KURONEKO,"[FI] and you were bearing that in mind, right?"
+53,,[FI] ...It's like Kuroneko could see through my heart.
+54,,"[FI] Or is this the so-called ""woman's intuition""?"
+55,,"[FI] Anyway, it's good that she understood the situation."
+56,SPK_KYOUSUKE,[FI] ...I got it. I'll confess.
+57,,[FI] I nodded without hesitation. I didn't want to draw suspicion.
+58,SPK_KURONEKO,"[FI] Hmph, as expected..."
+59,SPK_KYOUSUKE,[FI] I admit defeat to your observant eye.
+60,SPK_KURONEKO,[FI] Isn't that obvious? That's the power only given to the chosen one.
+61,SPK_KYOUSUKE,"[FI] Yes yes, just like that."
+62,SPK_KURONEKO,"[FI] Never mind that, I have to return the favor for Saori's information."
+63,SPK_KURONEKO,"[FI] If you meet her, could you pass this 【bracelet】 to her?"
+64,SPK_KYOUSUKE,[FI] What's with this ominous bracelet...
+65,SPK_KURONEKO,"[FI] It's an amulet. But, it's not just a simple amulet."
+66,SPK_KURONEKO,[FI] It's an amulet with the blessing of the Fallen Angel.
+67,,[FI] What Fallen Angel... The design looks like it has a curse instead...
+68,SPK_KYOUSUKE,"[FI] By the way, do you always carry around this kind of stuff?"
+69,SPK_KURONEKO,[FI] No.
+70,SPK_KURONEKO,"[FI] I obtained the lucky amulet, but it's of a conflicting wavelength with me."
+71,SPK_KYOUSUKE,[FI] What do you mean?
+72,SPK_KURONEKO,"[FI] I get dizzy when I wear it, and crows fly over me..."
+73,SPK_KURONEKO,"[FI] In the end, when my shoelace broke and I was troubled over it, your sister was like..."
+74,SPK_KURONEKO,"[FI] ""Are you so poor you can't get a proper shoelace? That's so sad lolololol"""
+75,SPK_KURONEKO,[FI] And that's how she made fun of me.
+76,SPK_KYOUSUKE,[FI] Then isn't it a cursed bracelet?!
+77,SPK_KURONEKO,[FI] ...This is proof of its effectiveness.
+78,,[FI] More like proof of the opposite effect.
+79,SPK_KURONEKO,"[FI] Unfortunately, it isn't of the same wavelength as me."
+80,SPK_KYOUSUKE,[FI] So it's wasted even if it has any effect?
+81,SPK_KURONEKO,"[FI] ...But, if a human who is different from me takes it, they might be able to conquer it."
+82,SPK_KURONEKO,[FI] That's why I want to pass it to her; to see whether she can do it.
+83,SPK_KYOUSUKE,[FI] You...
+84,SPK_KYOUSUKE,[FI] just want to experiment on Saori.
+85,SPK_KURONEKO,[FI] Oh? That's not true... Ufufu...
+86,,"[FI] She might say that, but she laughed evilly."
+87,,"[FI] Well, this is the usual for her, not having her actions and thoughts aligned."
+88,,"[FI] She says that, but she's actually worried for Saori."
+89,,"[FI] Even as she passed me the bracelet, her shoulder's awkwardly trembling."
+90,SPK_KURONEKO,"[FI] Well then, I'm busy here..."
+91,SPK_KURONEKO,"[FI] If you meet her, please pass it on."
+92,SPK_KYOUSUKE,"[FI] Hey, wait!"
+93,SPK_KURONEKO,[FI] ...What is it?
+94,SPK_KYOUSUKE,[FI] Can I ask one question?
+95,SPK_KYOUSUKE,"[FI] If it's not on the same wavelength, then why were you hanging onto it?"
+96,SPK_KURONEKO,[FI] ...Isn't it obvious?
+97,SPK_KURONEKO,[FI] I was thinking of giving it to you.
+98,SPK_KYOUSUKE,[FI] ...To me? Why?
+99,SPK_KURONEKO,[FI] ...Please think about it yourself.
+100,,[FI] ...Could it be.
+101,,[FI] It's her way of thanking me for getting the information for her?
+102,,[FI] There's actually no need for that; Kuroneko's really thoughtful.

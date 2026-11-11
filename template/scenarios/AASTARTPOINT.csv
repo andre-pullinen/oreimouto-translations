@@ -50,37 +50,37 @@ ID,SPEAKER,TEXT
 48,,DEBUG
 49,,DEBUG
 50,,DEBUG
-51,,ほげほげ[font_size=44]ほげほげ[/font_size]ほげほげ[font_size=11]ほげほげ[/font_size]ほげほげ
-52,,１、３
-53,,０、２
-54,,　、１
-55,,　、０
-56,,選択しませんでした
-57,,選択肢１を選択
-58,,選択肢２を選択
-59,,テスト２
-60,,　、３
-61,,　、２
-62,,２、１
-63,,１、０
-64,,０、
-65,,選択しませんでした
-66,,選択肢１を選択
-67,,選択肢２を選択
-68,,ウインドウテスト
-69,,ウインドウテスト終了
-70,,ツッコミテスト
-71,,ツッコミました
-72,,ツッコミませんでした
-73,,ツッコミテスト２
-74,,ツッコミました
-75,,ツッコミませんでした
-76,,ツッコミテスト終了
-77,,チャットウインドウクローズ
-78,,再オープン
-79,,ウインドウをクリア
-80,,テスト終了
-81,,テスト終了
+51,,Foobar[font_size=44]Foobar[/font_size]Foobar[font_size=11]Foobar[/font_size]Foobar
+52,,"1, 3"
+53,,"0, 2"
+54,,"  , 1"
+55,,"  , 0"
+56,,Did not choose
+57,,Selected Choice 1
+58,,Selected Choice 2
+59,,Test 2
+60,,"  , 3"
+61,,"  , 2"
+62,,"2, 1"
+63,,"1, 0"
+64,,"0,"
+65,,Did not choose
+66,,Selected Choice 1
+67,,Selected Choice 2
+68,,Window Test
+69,,Window Test End
+70,,Tsukkomi Test
+71,,Tsukkomi Performed
+72,,Tsukkomi Skipped
+73,,Tsukkomi Test 2
+74,,Tsukkomi Performed
+75,,Tsukkomi Skipped
+76,,Tsukkomi Test End
+77,,Close Chat Window
+78,,Reopen
+79,,Clear Window
+80,,Test End
+81,,Test End
 82,,NODE_000
 83,,NODE_001
 84,,NODE_003
@@ -88,33 +88,33 @@ ID,SPEAKER,TEXT
 86,,NODE_010
 87,,NODE_014
 88,,NODE_018
-89,,終了
-90,,ルビ表示テスト
-91,,天地爆烈、炎魔焦熱地獄、封神八十七式烈光流星乱舞、永遠力暴風雪↑文字中に改行されると切れる仕様です
-92,,永遠力暴風雪
-93,SPK_DEV_TEST,テスト永遠力暴風雪テスト
+89,,End
+90,,Ruby Display Test
+91,,"Heaven & Earth Explosion, Flame Demon Hell, Sealing God 87th Style Meteor Dance, Eternal Force Blizzard ^Line break during text cuts off by specification"
+92,,Eternal Force Blizzard
+93,SPK_DEV_TEST,Test Eternal Force Blizzard Test
 94,,→
 95,,←
 96,,↓
 97,,↑
 98,,→←
 99,,↑↓
-100,,テスト終了
-101,,テスト【オーナメント名】テスト
-102,SPK_DEV_TEST,テスト【オーナメント名】テスト
-103,,通常の弾幕
-104,,ばらつき多め
-105,,速い
-106,,小さい
-107,,色替え
-108,,頑張った結果がこれだよ！
-109,,いつものカットイン
-110,,カスタムカットイン
-111,,メッセージ
-112,,全取得しました
-113,,正面
-114,,左
-115,,右
+100,,Test End
+101,,Test [Ornament Name] Test
+102,SPK_DEV_TEST,Test [Ornament Name] Test
+103,,Normal Barrage
+104,,High Dispersion
+105,,Fast
+106,,Small
+107,,Color Change
+108,,This is the result of working hard!
+109,,Usual Cut-in
+110,,Custom Cut-in
+111,,Message
+112,,Acquired All
+113,,Front
+114,,Left
+115,,Right
 116,,NASI
 117,,HOHOEMI
 118,,ZYOUKIGEN
@@ -132,11 +132,11 @@ ID,SPEAKER,TEXT
 130,,MUKIRYOKU
 131,,TERE
 132,,TEREKAKUSI
-133,,ポーズ1
-134,,ポーズ2
-135,,ポーズ3
-136,,ポーズ4
-137,,ポーズ5
+133,,Pose 1
+134,,Pose 2
+135,,Pose 3
+136,,Pose 4
+137,,Pose 5
 138,,NO_HINT
 139,,MESEN_HAZUSHI
 140,,SOWASOWA
@@ -150,10 +150,10 @@ ID,SPEAKER,TEXT
 148,,AYASE_ONEGAI
 149,,MIGIMUKI
 150,,HIDARIMUKI
-151,,照れＯＮ
-152,,照れＯＦＦ
-153,,ヤンデレＯＮ
-154,,ヤンデレＯＦＦ
+151,,Blush ON
+152,,Blush OFF
+153,,Yandere ON
+154,,Yandere OFF
 155,,KI_IDLE_0_DAT
 156,,KI_IDLE_1_DAT
 157,,KI_ACTIVE_0_DAT

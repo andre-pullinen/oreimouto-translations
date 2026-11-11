@@ -1,0 +1,18 @@
+ID,SPEAKER,TEXT
+0,,[FI] ...This is something that occurred during work.
+1,SPK_KURONEKO,[FI] ...Ah.
+2,SPK_KYOUSUKE,[FI] Hmm? What's wrong?
+3,SPK_KURONEKO,[FI] It's nothing. I just thought of something I had to do.
+4,SPK_KYOUSUKE,"[FI] Is that so? In that case, how about we stop here for today?"
+5,SPK_KURONEKO,"[FI] No, it'll be done quick. Please continue with your work."
+6,SPK_KYOUSUKE,"[FI] Eh, is that okay with you?"
+7,SPK_KURONEKO,[FI] Why? Isn't it very inefficient if you're just waiting here?
+8,SPK_KYOUSUKE,"[FI] No, but... won't it be terrible if I were to make a mistake while you're not around..."
+9,SPK_KURONEKO,"[FI] Ah, so that's the issue..."
+10,SPK_KURONEKO,"[FI] As of right now, you're indeed not worthy to be called a capable assistant..."
+11,SPK_KURONEKO,"[FI] You're not here just to make mistakes, right?"
+12,SPK_KYOUSUKE,[FI] Y-Yeah! Isn't that obvious?
+13,SPK_KURONEKO,"[FI] If that's the case, then do your work with confidence. That's all I can say."
+14,SPK_KURONEKO,[FI] I'm counting on you for the time being.
+15,SPK_KYOUSUKE,[FI] ...Got it. Leave it to me.
+16,,[FI] This is a pretty heavy responsibility...

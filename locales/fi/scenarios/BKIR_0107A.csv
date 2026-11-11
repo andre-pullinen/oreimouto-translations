@@ -1,0 +1,168 @@
+ID,SPEAKER,TEXT
+0,,"[FI] After school, I immediately brought Kirino to the Akihabara station."
+1,,"[FI] I'm not sure if we're early, but Saori and Kuroneko are nowhere to be seen."
+2,SPK_KIRINO,"[FI] Heh～, so this is Akihabara."
+3,,"[FI] This girl, she's looking around as if this is her first time here."
+4,,[FI] Come to think of it... this was also where we met Kuroneko and Saori for the first time.
+5,,"[FI] Ooh, somehow it feels like things will go smoothly..."
+6,SPK_KIRINO,"[FI] Uwah, there are so many people just like you in groups～"
+7,,[FI] ...Or not.
+8,,[FI] Will everything go smoothly as it is?
+9,SPK_KIRINO,"[FI] Uwah! Isn't that person overdoing it? It's already out of fashion to be carrying a rucksack, and there's some rod-like thing sticking out of it..."
+10,,"[FI] Actually, only a minority of otaku dress in that style. But because it's rare, seeing it leaves a very strong impact."
+11,SPK_KYOUSUKE,"[FI] Yeah, even I think it's too much..."
+12,SPK_SAORI,[FI] Kiririn-shi! Kyousuke-shi! Over here!
+13,SPK_KYOUSUKE,"[FI] Wait, Saori?!"
+14,SPK_KIRINO,[FI] H-Hey... Don't tell me the duo you were telling me about..
+15,SPK_KYOUSUKE,"[FI] ...Yes, the big one is Saori, and the black one is Kuroneko. They're your friends."
+16,SPK_KIRINO,[FI] Ick...
+17,,"[FI] Well, it's normal to be shocked."
+18,,[FI] I did cough out the water I was drinking when we first met too...
+19,SPK_SAORI,"[FI] Well, well, Kyousuke-shi. The situation this time seems quite serious, 'tis not?"
+20,SPK_KURONEKO,"[FI] Yeah, now I can't help but think that you were born under the star of calamity."
+21,SPK_KYOUSUKE,"[FI] Sorry about that, you two. For making you specially come out here."
+22,,"[FI] Which reminds me, Saori's house is located pretty far away."
+23,,"[FI] And yet, she agreed to meet up once I contacted her. I really am no match for her."
+24,,"[FI] But... the important person here, Kirino, was like this, huh?"
+25,SPK_KIRINO,"[FI] ...Right, this is a dream... A bad dream..."
+26,SPK_KYOUSUKE,"[FI] Hey Kirino, snap back into reality."
+27,SPK_KIRINO,[FI] ...Uhh.
+28,,[FI] This Kirino... she's actually looking at Saori and Kuroneko as if they were some rare species.
+29,SPK_KYOUSUKE,"[FI] S-Say, Saori... Right now, Kirino..."
+30,SPK_SAORI,"[FI] Hahaha, you don't have to finish saying it, I fully understand, Kyousuke-shi."
+31,SPK_KYOUSUKE,[FI] ...Saori.
+32,SPK_SAORI,"[FI] Well then, first I'll introduce myself to Kiririn-shi. I am Saori Bageena. Would it be better if I say 'Nice to meet you'?"
+33,SPK_SAORI,[FI] And this person is...
+34,SPK_KURONEKO,"[FI] Hmph, it's not necessary to give out my name. I'm sure she has heard of my name just now."
+35,SPK_KIRINO,[FI] ...
+36,SPK_KYOUSUKE,"[FI] D-Don't say that, I'm sure you understand what's going on about Kirino from Saori, right?"
+37,SPK_KURONEKO,"[FI] ...It can't be helped if ""Nii-san"" puts it this way."
+38,SPK_KIRINO,[FI] Nii-san～?
+39,SPK_KYOUSUKE,"[FI] H-Hey! You, that was on purpose, wasn't it?!"
+40,SPK_KURONEKO,"[FI] My name is Kuroneko. You should carve my name onto your tiny soul, so as never to forget about it again."
+41,SPK_KIRINO,[FI] Huh?
+42,,"[FI] Uwah?! Without delay, Kirino had broken into her displeased mode caused by Kuroneko's way of speech!"
+43,SPK_KIRINO,[FI] Hey you. could you stop the nonsense you've been spouting since the start?
+44,SPK_KURONEKO,[FI] Hmph... At least her mouth is still the same.
+45,SPK_KURONEKO,"[FI] In that case, could you also stop putting on that remarkable fashionista style of yours? Akiba is the wrong place for that, you're an eyesore."
+46,SPK_KIRINO,[FI] W-What are you saying?! This is this year's fashionable...!
+47,,"[FI] What's with this... Based on this back-and-forth argument, isn't it the same as before..."
+48,SPK_SAORI,"[FI] Now, now, you two. This isn't the place to have a lover's quarrel. How about we promptly go to the maid cafe we frequent?"
+49,SPK_KYOUSUKE,"[FI] C-Come on, Saori also said it, so have a little self-control here, okay? Let's hurry to the maid cafe."
+50,SPK_KURONEKO,[FI] ......
+51,SPK_KIRINO,[FI] I'm... not going...
+52,SPK_KYOUSUKE,"[FI] H-Hey Kirino, what are you saying? Everybody gathered here just for the sake of recovering your memories, there's no meaning if you're not around!"
+53,SPK_KIRINO,[FI] But isn't a maid cafe a place where gross otakus go and gather in to see the waitresses dressed up in maid costumes?
+54,SPK_KIRINO,[FI] How could I go... to such a place?
+55,SPK_SAORI,[FI] Kiririn-shi...
+56,SPK_KURONEKO,"[FI] It doesn't matter if you don't wish to come. Shall we go, ""Nii-san""?"
+57,SPK_KIRINO,[FI] Don't decide that on your own! I don't want to walk together with such disgusting otakus!
+58,SPK_KIRINO,"[FI] And also, I'll say this now since there's a chance, but do you two know how prominent you are?"
+59,SPK_KIRINO,"[FI] To put it across clearly, I don't believe we're friends. It's a bad joke, right?"
+60,SPK_KYOUSUKE,[FI] --?!
+61,,[FI] H-Hey... she can't joke about what she has just said.
+62,,"[FI] Saori's spirits are obviously down, and Kuroneko's eyes are also a little wet."
+63,SPK_KYOUSUKE,"[FI] Hey, stop it, Kirino. These two are here today for your sake."
+64,SPK_KIRINO,"[FI] It's not like I asked them to. Rather, could you tell me in advance if we're meeting people like this?"
+65,,"[FI] Tch... This girl, is she still being stubborn?"
+66,,"[FI] A-Anyway, it'll be bad at this rate if I don't follow up and revert the situation!"
+67,SPK_KYOUSUKE,"[FI] S-Say, Saori. Kirino is currently..."
+68,SPK_SAORI,"[FI] ...I understand, Kyousuke-shi."
+69,SPK_KYOUSUKE,[FI] You understand... what exactly?
+70,,"[FI] W-What's wrong? What's with that strange exchanging of looks... Rather, w-why did the two of them smile so suddenly?"
+71,SPK_KIRINO,[FI] W-What's so funny?
+72,SPK_KURONEKO,"[FI] Funny? Right, everything about you is just simply laughable."
+73,SPK_KIRINO,[FI] ...Huh?
+74,SPK_KURONEKO,"[FI] You said you've lost your memories? If you're going to lie, you'll need to come up with something better than that."
+75,SPK_KURONEKO,"[FI] You're just like a kid that would bandage her own wrist for no reason. You just want others to make you feel special, and worry for you. That's why you"
+76,SPK_KURONEKO,"[FI] came up with this kind of setting for your own wilfulness, right?"
+77,SPK_SAORI,"[FI] Haha, a splendid Chuunibyou."
+78,SPK_KIRINO,[FI] What are the two of you saying?! I'm being serious...
+79,SPK_SAORI,"[FI] Thou need not feel embarrassed, Kiririn-shi. 'Tis something anyone can get, just like measles."
+80,SPK_KURONEKO,"[FI] Yes, I know your feelings like the palm of my hand. It can't be just ""anyone"", right?"
+81,SPK_KURONEKO,"[FI] There's only one person you wish to turn and look at you... That must be your elder brother that you just love too much, right?"
+82,SPK_KIRINO,[FI] W-Wha...?!
+83,,[FI] Ooooooh?! I recognize this atmosphere.
+84,,"[FI] Earthquakes, thunderstorms, fires, little sisters, before any natural disaster like those happens, everything will stop like this, and then..."
+85,SPK_KIRINO,[FI] W-W-W-W-W-Who would love this kind of a guy?! You Jakigan Chuunibyou girl-----------!
+86,SPK_KYOUSUKE,"[FI] C-C-C-C-Control yourself, Kirino----!"
+87,SPK_KIRINO,[FI] Let me go! I'm going to kill her!
+88,SPK_KYOUSUKE,"[FI] H-Hey, don't say something so dangerous in front of the station! H-Hey, don't struggle! Don't elbow me!"
+89,SPK_KIRINO,"[FI] Babbling nonsense just when I decide to listen for a while, who's a Chuunibyou?! Who's a kid?!"
+90,SPK_KIRINO,[FI] That all clearly describes you! Even though you're a damn wannabe writer that can only write self-satisfying Jakigan novels!
+91,,[FI] Y-You... just completely stepped on a landmine for Kuroneko.
+92,,"[FI] Even if your own book got published, that's too much..."
+93,SPK_KYOUSUKE,"[FI] ...Wait, hey. How did you know about Kuroneko's ambition to be a novelist?"
+94,SPK_KIRINO,[FI] Eh? Ah...
+95,,"[FI] It's true that I've showed Kirino the novel Kuroneko wrote. However, I didn't tell her if it was a professional novel or an amateur doujin story."
+96,,"[FI] Even if I explained, Kirino wouldn't have understood since she doesn't have otaku knowledge."
+97,SPK_KYOUSUKE,[FI] Which means...
+98,SPK_KIRINO,[FI] M-My... memories... have returned...
+99,SPK_KYOUSUKE,[FI] S-S-S-S...
+100,SPK_KYOUSUKE,[FI] Success-------!
+101,SPK_KIRINO,"[FI] D-Don't hug my head! Ahhh, enough, let me go!"
+102,SPK_KURONEKO,[FI] Oh my? So you really did lose your memories? I really thought you had measles.
+103,SPK_KURONEKO,[FI] A setting like memory loss is something only shallow-minded humans could have thought up.
+104,SPK_KIRINO,"[FI] L-Like I said, don't put me together with your Jakigan nonsense!"
+105,,[FI] Kirino and Kuroneko started a lover's quarrel.
+106,,"[FI] This is quite a common spectacle, but it's been a long time since then, so I just..."
+107,SPK_SAORI,"[FI] Eh, Kyousuke-shi? Are you crying?"
+108,SPK_KYOUSUKE,[FI] S-Shut up!
+109,,[FI] These are tears accumulated from fatigue and stress!
+110,,"[FI] Damn, that Saori... She smiled mischievously like she saw through everything..."
+111,,[FI] Eh... Saw through everything?
+112,SPK_KYOUSUKE,"[FI] ...By any chance, were you both putting up an act just to anger Kirino..."
+113,SPK_SAORI,"[FI] Eh, I really don't know what you're talking about..."
+114,,[FI] Then don't put a ':3' face and start whistling away.
+115,SPK_KYOUSUKE,"[FI] Hey, are you seriously saying that?"
+116,SPK_KIRINO,[FI] T-Then how else could I have put it!
+117,SPK_KYOUSUKE,[FI] ...
+118,SPK_KYOUSUKE,[FI] ...The one saying this isn't the true Kirino.
+119,SPK_KIRINO,[FI] Huh? What's with this about the real me?
+120,,"[FI] Yeah, I get it. To the current Kirino, that phrase is forbidden as it denies her existence."
+121,,"[FI] Nevertheless, I couldn't keep it in."
+122,SPK_KYOUSUKE,"[FI] My little sister is someone with a cheeky and extremely irritating personality, she calmly tells people to die, but..."
+123,SPK_KYOUSUKE,"[FI] ...Even so, she's not a person that will hurt her friends."
+124,SPK_KIRINO,[FI] ...?!
+125,SPK_KYOUSUKE,"[FI] That's why... the current you isn't my little sister. Even if Dad or Mom acknowledges you, I won't acknowledge you."
+126,,[FI] I yelled as my emotions overflowed.
+127,,[FI] Kirino's face went pale and didn't move as if time had stopped.
+128,,"[FI] Hmph, I'm don't care anymore."
+129,SPK_KYOUSUKE,"[FI] Kuroneko, Saori. I'm really sorry for asking you both to accompany me today. I'll treat you both at the maid cafe."
+130,SPK_SAORI,[FI] Kyousuke-shi...
+131,SPK_KURONEKO,[FI] Is this all right?
+132,SPK_KYOUSUKE,"[FI] ...There's no problem, let's go."
+133,,"[FI] Both of them were confused, looking from Kirino to me, but eventually they started walking behind me."
+134,,"[FI] For an instant, I saw Kirino with her her eyes cast down at the corner of my vision. However, I don't intend to stop."
+135,,"[FI] In the end, Kirino didn't come to the maid cafe."
+136,SPK_KYOUSUKE,[FI] Is that how the current... How the 'new you' really feels?
+137,SPK_KIRINO,[FI] D-Do you have a problem with it?
+138,,"[FI] Damn it, isn't this exactly the same as three days ago?"
+139,,"[FI] In other words, there's no turning back from the catastrophe here due to her dishonest personality, right?"
+140,,"[FI] Good grief, what should I do now?"
+141,,"[FI] Somehow, I need to let them know that what she just said isn't her true feelings."
+142,SPK_KURONEKO,[FI] ...Of course we have a problem with it. Just what do you think of us?
+143,SPK_KYOUSUKE,[FI] Kuroneko?!
+144,SPK_KIRINO,[FI] What? Didn't I say I think of you guys as disgusting otakus?
+145,SPK_KURONEKO,"[FI] Disgusting... Huh. Then, I wonder if you could explain which part is ""disgusting""?"
+146,SPK_KIRINO,[FI] H-Huh? What are you saying? I'll say it's disgusting if I feel that it is!
+147,SPK_KURONEKO,"[FI] I see. You define everything outside of your sense of aesthetics as ""disgusting"". It's an opinion quite like that of a brainless troll on the internet."
+148,SPK_KIRINO,[FI] Wha-?!
+149,SPK_KURONEKO,"[FI] By that definition, your appearance is ""disgusting"" in my eyes. Quickly undress or just get out of my sight, why don't you?"
+150,SPK_KIRINO,[FI] Y...You are one to talk! Take off that sultry black dress right now?! It makes me feel hot to the point of death just by looking at you!
+151,SPK_KURONEKO,"[FI] Hmph, you said the same thing the first time we met. Not only is your vocabulary, even your thinking is lacking."
+152,SPK_KIRINO,[FI] Gggmmmmnnnnnggghhh!!
+153,,"[FI] Oooh, that's Kuroneko for you. She has been researching on how to point out Kirino's faults during this past year."
+154,SPK_KURONEKO,"[FI] ...However, I don't dislike that part of you."
+155,SPK_KIRINO,[FI] ...Eh...
+156,SPK_KURONEKO,"[FI] It's quite stimulating to quarrel with you, and most of all it's very enjoyable to see you flip out."
+157,SPK_KIRINO,[FI] Wha... Wha...
+158,SPK_KYOUSUKE,[FI] Kuroneko... You...
+159,SPK_KURONEKO,[FI] It looks your true nature hasn't changed despite losing your memories... Very well. I will acknowledge you.
+160,SPK_SAORI,[FI] ...It's just as she said. I understood after looking at the two of you arguing.
+161,SPK_KURONEKO,[FI] The you that doesn't acknowledge otakus is still you. You've just broken the shell known as your self and changed yourself...
+162,SPK_SAORI,[FI] Kiririn-shi didn't change at all. She's still our friend.
+163,SPK_KIRINO,[FI] You two...
+164,SPK_KIRINO,[FI] Tch... I'm not happy about being acknowledged by otakus.
+165,,"[FI] Kirino... You can't hide your smile, just as usual."
+166,,"[FI] However... That's right. Even if she were to forget about her otaku interests, Kirino is still Kirino. My little sister."
