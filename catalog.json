@@ -27,8 +27,8 @@
       "total_lines": 37383,
       "translated_lines": 37383,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_en.pck",
-      "sha256": "3252d65e48b0a8458c19a59bbd35e5a27f0cfd149af5e80b4a612408d9cda0a9",
-      "size_bytes": 2489328,
+      "sha256": "13c2f0086d6de49d0690a43501a1dcd57bde01485ca1583b48a9ad2208d0cc44",
+      "size_bytes": 2469936,
       "tags": {},
       "tag_notes": {},
       "links": {
@@ -57,8 +57,8 @@
       "total_lines": 37383,
       "translated_lines": 31546,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
-      "sha256": "3204c4a5bf5348d76c7d3bdaa061fe8eb66b5cf8bcd87591ac6aa621ae2c1aac",
-      "size_bytes": 3506320,
+      "sha256": "f4aabea749a34cf0e36bf9b8f132121839d8619d0cb07bea5a9a03dce0d4de11",
+      "size_bytes": 3496464,
       "tags": {
         "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
       },
@@ -115,8 +115,8 @@
       "total_lines": 37383,
       "translated_lines": 37383,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_zh_cn.pck",
-      "sha256": "9c6eb06185d45eec074dea456da373c18be0548fc3db374a4412a6d3fdcaccce",
-      "size_bytes": 18960280,
+      "sha256": "ab984543e626e6b2f53829ea6edeab94914b8a548fe0f30d56c77aaf4598a8a9",
+      "size_bytes": 18941080,
       "tags": {
         "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
       },

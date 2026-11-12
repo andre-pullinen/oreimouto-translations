@@ -1,437 +1,4 @@
 KEY,STYLE,TEXT
-AKYO_0020T:TKA0020A,normal,This is just a misunderstanding!
-AKYO_0020T:TKA0020B,shout,I didn't see them!
-AKYO_0020T:TKA0020C,normal,NO!
-AKYO_0032T:TKA0032A,normal,YES
-AKYO_0032T:TKA0032B,normal,I didn't say that
-AKYO_0032T:TKA0032C,shout,IMPOSSIBLE!
-AKYO_0032T:TKA0032D,shout,Don't I have a right to object?!
-AKYO_0036T:TKA0036A,shout,Cool down!
-AKYO_0036T:TKA0036B,shout,Don't take me for a fool!
-AKYO_0036T:TKA0036C,shout,That's from a drama!
-AKYO_0036T:TKA0036D,shout,A Thief of Time?!
-AKYO_0038T:TKA0038A,normal,Are you referring to Kirino?
-AKYO_0038T:TKA0038B,normal,I'm not her subordinate
-AKYO_0038T:TKA0038C,normal,What?!
-AKYO_0038T:TKC0067C,normal,Are you for real?
-AKYO_0043T:TKA0043A,shout,No way!
-AKYO_0043T:TKA0043B,shout,What are you saying?!
-AKYO_0043T:TKA0043C,normal,Don't bother
-AKYO_0056T:TKA0056A,shout,There's nothing to be afraid of!
-AKYO_0056T:TKA0056B,shout,You said too much!
-AKYO_0056T:TKA0056C,shout,Don't say I'm a handicap!
-AKYO_0056T:TKA0056D,shout,Don't joke with me!
-AKYO_0070T:TKA0070A,normal,Denpa Song
-AKYO_0070T:TKA0070B,normal,What are you saying?
-AKYO_0070T:TKA0070C,shout,You're too noisy!
-AKYO_0070T:TKA0070D,shout,What's that?!
-AKYO_0070T:TKA0070E,shout,What's that?!
-AKYO_0078T:TKA0078A,shout,Don't try to dodge this!
-AKYO_0078T:TKA0078B,shout,No I haven't!
-AKYO_0078T:TKA0078C,shout,Don't try to dodge this!
-AKYO_0078T:TKA0078D,shout,So that means!
-AKYO_0082T:TKA0082A,shout,Not at all!
-AKYO_0082T:TKA0082B,shout,I don't get it!
-AKYO_0082T:TKA0082C,shout,Didn't you just say it?!
-AKYO_0082T:TKA0082D,shout,What's that?!
-AKYO_0136T:TKA0136A,shout,Lies!
-AKYO_0136T:TKA0136B,normal,How could I!
-AKYO_0136T:TKA0136C,shout,Bananas you say?!
-AKYO_0136T:TKA0136D,normal,Panty-less
-AKYO_0136T:TKA0136E,shout,No problem!
-AKYO_0138T:TKA0138A,shout,That's so many!
-AKYO_0138T:TKA0138B,shout,Exactly!
-AKYO_0138T:TKA0138C,shout,This is inconvenient!
-AKYO_0138T:TKA0138D,shout,How are you perfect?!
-AKYO_0138T:TKA0138E,normal,How did it turn that way?
-AKYO_0143T:TKA0143A,normal,Better not do that
-AKYO_0143T:TKA0143B,shout,Old lady's knowledge?!
-AKYO_0143T:TKA0143C,normal,What for?
-AKYO_0143T:TKA0143D,normal,Nope
-AKYO_0143T:TKA0143E,shout,I'm not lying!
-BKIR_0004T:TKA0070D,shout,What's that?!
-BKIR_0004T:TKB0004A,shout,What are you saying!?
-BKIR_0004T:TKB0004B,shout,Otaku stink!?
-BKIR_0004T:TKB0004C,shout,You!
-BKIR_0004T:TKB0004D,normal,"A while, you say?"
-BKIR_0013T:TKB0013A,normal,These are yours
-BKIR_0013T:TKB0013B,normal,I'm not lying to you
-BKIR_0013T:TKB0013C,normal,That's not it!
-BKIR_0013T:TKB0013D,shout,I don't get it at all!
-BKIR_0020T:TKB0020A,normal,Your voice is loud!
-BKIR_0020T:TKB0020B,normal,It's ambiguous
-BKIR_0020T:TKB0020C,shout,You should've told me!
-BKIR_0020T:TKB0020D,shout,Are you crazy?!
-BKIR_0025T:TKB0025A,shout,That's not it!
-BKIR_0025T:TKB0025B,normal,Same goes for you...
-BKIR_0025T:TKB0025C,shout,It's Saori!
-BKIR_0025T:TKB0025D,shout,Hey!
-BKIR_0025T:TKE0056C,shout,Are you an idiot?!
-BKIR_0033T:TKB0033A,shout,It's the truth!
-BKIR_0033T:TKB0033B,shout,I'm not a criminal!
-BKIR_0033T:TKB0033C,shout,What are you saying?!
-BKIR_0033T:TKB0033D,shout,I'll make you remember!
-BKIR_0033T:TKE0013A,normal,EH!?
-BKIR_0048T:TKB0048A,normal,It seems so...
-BKIR_0048T:TKB0048B,normal,Dad
-BKIR_0063T:TKB0063A,normal,That's troublesome
-BKIR_0063T:TKB0063B,shout,I was serious!
-BKIR_0063T:TKB0063C,normal,Are you serious?
-BKIR_0063T:TKB0063D,shout,What are you saying?!
-BKIR_0083T:TKB0083A,shout,You!!
-BKIR_0083T:TKB0083B,shout,That's troublesome!
-BKIR_0083T:TKB0083C,shout,That's not Kirino!
-BKIR_0083T:TKB0083D,shout,Shut up!
-BKIR_0083T:TKB0083E,shout,That WAS you!
-BKIR_0103T:TKB0103A,shout,That was you too!
-BKIR_0103T:TKB0103B,shout,You're too excited!
-BKIR_0103T:TKB0103C,shout,No!
-BKIR_0103T:TKB0103D,shout,Wait!
-BKIR_0123T:TKB0123A,normal,Who's the pervert?
-BKIR_0123T:TKB0123B,shout,I'm not lying!
-BKIR_0123T:TKB0123C,shout,You did?!
-BKIR_0123T:TKB0123D,shout,I didn't say it!
-CKUR_0035T:TKC0035A,normal,We can't go home together?
-CKUR_0035T:TKC0035B,normal,Can I ask you something?
-CKUR_0035T:TKC0035C,normal,What's that?
-CKUR_0043T:TKC0043A,shout,That's wrong!
-CKUR_0043T:TKC0043B,normal,How is that gross?
-CKUR_0055T:TKC0055A,normal,Phrased as a question
-CKUR_0055T:TKC0055B,normal,Never mind
-CKUR_0055T:TKC0055C,shout,GAH!
-CKUR_0055T:TKC0055D,normal,Really?
-CKUR_0067T:TKC0067A,normal,"It's a dream, right?"
-CKUR_0067T:TKC0067B,shout,You teasing me?!
-CKUR_0067T:TKC0067C,normal,Are you for real?
-CKUR_0093T:TKC0093A,normal,I have things to say
-CKUR_0093T:TKC0093B,normal,I'll accompany you
-CKUR_0093T:TKC0093C,normal,Don't say that...
-CKUR_0093T:TKC0093D,normal,I'll do that
-CKUR_0093T:TKE0013A,normal,EH!?
-CKUR_0100T:TKC0100A,normal,I'm worried...
-CKUR_0100T:TKC0100B,normal,Not nothing
-CKUR_0100T:TKC0100C,normal,I decide that
-CKUR_0100T:TKC0100D,normal,Yeah
-CKUR_0105T:TKC0105A,normal,That's being stubborn
-CKUR_0105T:TKC0105B,normal,Isn't that a given?
-CKUR_0105T:TKC0105C,normal,What's the meaning of that?
-CKUR_0105T:TKC0105D,normal,How is that even possible?
-CKUR_0105T:TKE0056C,shout,Are you an idiot?!
-CKUR_0108T:TKC0108A,normal,I'm concerned!
-CKUR_0108T:TKC0108B,normal,You don't get it?
-CKUR_0108T:TKC0108C,normal,You don't have to exert yourself
-CKUR_0108T:TKC0108D,shout,What's with that!
-CKUR_0125T:TKC0125A,normal,Just asking...?
-CKUR_0125T:TKC0125B,shout,I'm not!
-CKUR_0125T:TKC0125C,normal,Don't treat me like a dangerous person!
-CKUR_0125T:TKC0125D,normal,That's right
-CKUR_0175T:TKA0020C,normal,NO!
-CKUR_0175T:TKC0175A,normal,It's not!
-CKUR_0175T:TKC0175B,normal,I'm sure there's something else
-CKUR_0175T:TKC0175C,normal,Not over yet
-CKUR_0175T:TKC0175D,normal,What's that?
-CKUR_0175T:TKC0175E,shout,What the hell is that?!
-CKUR_0175T:TKC0175F,normal,You're noisy!
-DSAO_0003T:TKD0003A,normal,I don't get you!
-DSAO_0003T:TKD0003B,normal,I can't take it!
-DSAO_0003T:TKD0003C,shout,Wait a minute!
-DSAO_0003T:TKD0003D,shout,You'd rather die?!
-DSAO_0003T:TKD0003E,shout,Stop talking about seppuku!
-DSAO_0003T:TKE0056C,shout,Are you an idiot?!
-DSAO_0007T:TKD0007A,normal,That's not possible
-DSAO_0007T:TKD0007B,normal,I'm restraining myself
-DSAO_0007T:TKD0007C,normal,Don't follow my example
-DSAO_0007T:TKD0007D,shout,I surrender!
-DSAO_0026T:TKD0026A,shout,Don't say that!
-DSAO_0026T:TKD0026B,shout,Don't run away!
-DSAO_0026T:TKD0026C,shout,Understood!
-DSAO_0026T:TKD0026D,normal,I'm not lying
-DSAO_0026T:TKD0026E,shout,I never wanted that!
-DSAO_0026T:TKD0026F,normal,There's something!
-DSAO_0038T:TKD0038A,normal,Are you timid?
-DSAO_0038T:TKD0038B,normal,Maybe so
-DSAO_0038T:TKD0038C,normal,Who cares if he's an adult?!
-DSAO_0038T:TKD0038D,shout,It's not decided yet!
-DSAO_0053T:TKD0053A,normal,Why are you wavering?!
-DSAO_0053T:TKD0053B,normal,Cancel the engagement?
-DSAO_0053T:TKD0053C,shout,What's with the reading?
-DSAO_0053T:TKD0053D,shout,Don't act like a nice person!
-DSAO_0053T:TKD0053E,shout,I don't need it!!
-DSAO_0058T:TKD0058A,shout,This is your own problem!
-DSAO_0058T:TKD0058B,shout,We'll see that in time!
-DSAO_0058T:TKD0058C,normal,Will you live with regrets?!
-DSAO_0058T:TKD0058D,shout,Plan to run away?
-DSAO_0063T:TKD0063A,shout,I won't come back!
-DSAO_0063T:TKD0063B,shout,Something happened?!
-DSAO_0072T:TKD0072A,shout,Why are you angry?!
-DSAO_0072T:TKD0072B,normal,I don't think that
-DSAO_0072T:TKD0072C,normal,I didn't
-DSAO_0072T:TKD0072D,shout,You said it!
-DSAO_0072T:TKD0072E,normal,Don't say whatever pleases you!
-DSAO_0072T:TKD0072F,shout,Why is it exposed?!
-DSAO_0072T:TKD0072G,shout,Don't run away!
-DSAO_0075T:TKD0075A,shout,Don't disappear!
-DSAO_0075T:TKD0075B,shout,I'm gonna beat you!
-DSAO_0075T:TKD0075C,shout,I'm tired of hearing that!
-DSAO_0080T:TKD0080A,shout,It's moving against my will!
-DSAO_0080T:TKD0080B,normal,I don't get it
-DSAO_0080T:TKD0080C,shout,"Don't go, Saori!"
-DSAO_0080T:TKD0080D,shout,Once more!
-DSAO_0080T:TKD0080E,normal,Otaku route
-DSAO_0080T:TKD0080F,shout,Idiot!
-DSAO_0080T:TKD0080G,shout,"I am there, right?!"
-EMAN_0007T:TKE0007A,shout,What?!
-EMAN_0007T:TKE0007B,shout,Just listen!
-EMAN_0007T:TKE0007C,shout,Don't stare at me in disgust!
-EMAN_0007T:TKE0007D,normal,Should I go away?
-EMAN_0013T:TKE0013A,normal,EH!?
-EMAN_0013T:TKE0013B,normal,Came to wake me up?
-EMAN_0013T:TKE0013C,shout,So inconsiderate!
-EMAN_0013T:TKE0013D,shout,There's a next time?!
-EMAN_0013T:TKE0013E,shout,Seriously?!
-EMAN_0033T:TKE0033A,shout,I didn't!
-EMAN_0033T:TKE0033B,shout,Wait!
-EMAN_0033T:TKE0033C,shout,Cold tofu!?
-EMAN_0033T:TKE0033D,normal,It was definitely delicious!
-EMAN_0033T:TKE0056C,shout,Are you an idiot?!
-EMAN_0040T:TKE0040A,shout,Calm down!
-EMAN_0040T:TKE0040B,shout,That pattern?!
-EMAN_0040T:TKE0040C,normal,You mean...
-EMAN_0040T:TKE0040D,normal,The infamous...
-EMAN_0044T:TKE0044A,shout,Gnaha!!
-EMAN_0044T:TKE0044B,shout,Manami-san!!
-EMAN_0044T:TKE0044C,shout,NO WAY!!
-EMAN_0044T:TKE0044D,normal,You're strange
-EMAN_0056T:TKE0056A,shout,Don't be stupid!
-EMAN_0056T:TKE0056B,shout,Are you even listening!
-EMAN_0056T:TKE0056C,shout,Are you an idiot?!
-EMAN_0056T:TKE0056D,shout,That's wrong!
-EMAN_0064T:TKE0064A,shout,What are you asking?!
-EMAN_0064T:TKE0064B,normal,Cut it out!
-EMAN_0064T:TKE0064C,normal,Shouldn't I leave?
-EMAN_0064T:TKE0064D,normal,Kirino...
-EMAN_0064T:TKE0064E,normal,I'm grateful
-FAYA_0011T:TKF0011A,normal,Today?
-FAYA_0011T:TKF0011B,normal,That's great
-FAYA_0011T:TKF0011C,shout,Saturday?!
-FAYA_0011T:TKF0011D,normal,Of course not
-FAYA_0015T:TKE0056C,shout,Are you an idiot?!
-FAYA_0015T:TKF0015A,normal,Don't confuse things
-FAYA_0015T:TKF0015B,normal,"Well, sort of!"
-FAYA_0032T:TKF0032A,normal,"Kuroneko, right?"
-FAYA_0032T:TKF0032B,normal,That isn't possible
-FAYA_0032T:TKF0032C,shout,It's not like that!
-FAYA_0034T:TKF0034A,normal,"Well, sort of"
-FAYA_0034T:TKF0034B,normal,"Well, sort of"
-FAYA_0034T:TKF0034C,normal,Hey now
-FAYA_0043T:TKF0043D,normal,We're dating
-FAYA_0043T:TKF0043E,normal,It's not a lie
-GIFG_0005T:TKG0005A,normal,Say it honestly...
-GIFG_0005T:TKG0005B,shout,I didn't!
-GIFG_0005T:TKG0005C,shout,Alright!
-GIFG_0005T:TKG0005D,normal,Say...
-GIFG_0011T:TKG0011A,normal,But...
-GIFG_0011T:TKG0011B,normal,What's that?
-GIFG_0011T:TKG0011C,normal,You can't move?
-GIFG_0011T:TKG0011D,normal,What's that
-GIFG_0014T:TKG0014A,shout,Don't repeat it over and over!
-GIFG_0014T:TKG0014B,normal,Gah...!
-GIFG_0014T:TKG0014C,normal,Well then...
-GIFG_0014T:TKG0014D,normal,Death sentence...?
-GIFG_0017T:TKG0017A,normal,I don't want to!
-GIFG_0017T:TKG0017B,normal,Good grief...
-GIFG_0017T:TKG0017C,shout,I refuse!
-GIFG_0017T:TKG0017D,normal,"It's cute, right?"
-GIFG_0033T:TKG0033A,normal,Even if you say that...
-GIFG_0033T:TKG0033B,normal,I can't understand...
-GIFG_0033T:TKG0033C,shout,Didn't learn from last time?!
-GIFG_0033T:TKG0033D,normal,Ah...
-GIFG_0038T:TKG0038A,normal,That's not what I want to say
-GIFG_0038T:TKG0038B,normal,Eh? It's not good?
-GIFG_0038T:TKG0038C,normal,"As I thought, that's it..."
-GIFG_0038T:TKG0038D,normal,"You just want it, right?"
-_BKIR_0004T:BKIR_0004TA,shout,There's no such thing!
-BKIR_0004T:BKIR_0004TA,shout,There's no such thing!
-_BKIR_0004T:BKIR_0004TB,shout,That's wrong!
-BKIR_0004T:BKIR_0004TB,shout,That's wrong!
-_BKIR_0013T:BKIR_0013TA,normal,We're dating.
-BKIR_0013T:BKIR_0013TA,normal,We're dating.
-_BKIR_0020T:BKIR_0020TA,shout,Don't act like someone else!
-BKIR_0020T:BKIR_0020TA,shout,Don't act like someone else!
-_BKIR_0020T:BKIR_0020TB,normal,"It's a lie, stupid."
-BKIR_0020T:BKIR_0020TB,normal,"It's a lie, stupid."
-_BKIR_0023T:BKIR_0023TA,normal,Is your head okay?
-BKIR_0023T:BKIR_0023TA,normal,Is your head okay?
-_BKIR_0030T:BKIR_0030TA,shout,We won't break up!
-BKIR_0030T:BKIR_0030TA,shout,We won't break up!
-_BKIR_0030T:BKIR_0030TB,shout,I won't!
-BKIR_0030T:BKIR_0030TB,shout,I won't!
-_CKUR_0001T:CKUR_0001TA,normal,I wanna talk now.
-CKUR_0001T:CKUR_0001TA,normal,I wanna talk now.
-_CKUR_0001T:CKUR_0001TB,shout,That's not it!
-CKUR_0001T:CKUR_0001TB,shout,That's not it!
-_CKUR_0001T:CKUR_0001TC,shout,"Hey, you okay!?"
-CKUR_0001T:CKUR_0001TC,shout,"Hey, you okay!?"
-_CKUR_0005T:CKUR_0005TA,normal,I feel the same way.
-CKUR_0005T:CKUR_0005TA,normal,I feel the same way.
-_CKUR_0005T:CKUR_0005TB,normal,Let's go to the electronics shop.
-CKUR_0005T:CKUR_0005TB,normal,Let's go to the electronics shop.
-_CKUR_0005T:CKUR_0005TC,normal,I'll pay.
-CKUR_0005T:CKUR_0005TC,normal,I'll pay.
-_CKUR_0009T:CKUR_0009TA,normal,Yeah.
-CKUR_0009T:CKUR_0009TA,normal,Yeah.
-_CKUR_0009T:CKUR_0009TB,normal,I think you're plenty cute.
-CKUR_0009T:CKUR_0009TB,normal,I think you're plenty cute.
-_CKUR_0009T:CKUR_0009TC,shout,No way!
-CKUR_0009T:CKUR_0009TC,shout,No way!
-_CKUR_0016T:CKUR_0016TA,normal,It's fine then
-CKUR_0016T:CKUR_0016TA,normal,It's fine then
-_CKUR_0016T:CKUR_0016TB,normal,It's nothing
-CKUR_0016T:CKUR_0016TB,normal,It's nothing
-_CKUR_0016T:CKUR_0016TC,shout,It's a misunderstanding!
-CKUR_0016T:CKUR_0016TC,shout,It's a misunderstanding!
-_CKUR_0020T:CKUR_0020TA,normal,You're not foolish
-CKUR_0020T:CKUR_0020TA,normal,You're not foolish
-_CKUR_0020T:CKUR_0020TB,normal,I saw nothing
-CKUR_0020T:CKUR_0020TB,normal,I saw nothing
-_CKUR_0020T:CKUR_0020TC,normal,Of course
-CKUR_0020T:CKUR_0020TC,normal,Of course
-_DSAO_0003T:DSAO_0003TA,normal,Why did you run off?
-DSAO_0003T:DSAO_0003TA,normal,Why did you run off?
-_DSAO_0003T:DSAO_0003TB,normal,Just come as Bajeena
-DSAO_0003T:DSAO_0003TB,normal,Just come as Bajeena
-_DSAO_0025T:DSAO_0025TA,normal,You guys
-DSAO_0025T:DSAO_0025TA,normal,You guys
-_EMAN_0002T:EMAN_0002TA,normal,Leave it to me
-EMAN_0002T:EMAN_0002TA,normal,Leave it to me
-_EMAN_0002T:EMAN_0002TB,normal,That will be Manami
-EMAN_0002T:EMAN_0002TB,normal,That will be Manami
-_EMAN_0002T:EMAN_0002TC,normal,I have nothing in mind
-EMAN_0002T:EMAN_0002TC,normal,I have nothing in mind
-_EMAN_0008T:EMAN_0008TA,normal,Manami's imagining things
-EMAN_0008T:EMAN_0008TA,normal,Manami's imagining things
-_EMAN_0008T:EMAN_0008TB,normal,Extremely nervous
-EMAN_0008T:EMAN_0008TB,normal,Extremely nervous
-_EMAN_0008T:EMAN_0008TC,normal,Wanna go again?
-EMAN_0008T:EMAN_0008TC,normal,Wanna go again?
-_EMAN_0015T:EMAN_0015TA,normal,Why are you saying this now?
-EMAN_0015T:EMAN_0015TA,normal,Why are you saying this now?
-_EMAN_0015T:EMAN_0015TB,normal,Do I have to answer?
-EMAN_0015T:EMAN_0015TB,normal,Do I have to answer?
-_EMAN_0015T:EMAN_0015TC,normal,Somewhere else?
-EMAN_0015T:EMAN_0015TC,normal,Somewhere else?
-_EMAN_0018T:EMAN_0018TA,normal,Rokuon-ji Temple
-EMAN_0018T:EMAN_0018TA,normal,Rokuon-ji Temple
-_EMAN_0018T:EMAN_0018TB,shout,"No, that's wrong!"
-EMAN_0018T:EMAN_0018TB,shout,"No, that's wrong!"
-_EMAN_0018T:EMAN_0018TC,normal,"It's 1394, right?"
-EMAN_0018T:EMAN_0018TC,normal,"It's 1394, right?"
-_EMAN_0023T:EMAN_0023TA,normal,Like an evil magistrate?
-EMAN_0023T:EMAN_0023TA,normal,Like an evil magistrate?
-_EMAN_0023T:EMAN_0023TB,shout,You almost fell!
-EMAN_0023T:EMAN_0023TB,shout,You almost fell!
-_EMAN_0023T:EMAN_0023TC,normal,Of course.
-EMAN_0023T:EMAN_0023TC,normal,Of course.
-_FAYA_0005T:FAYA_0005TA,normal,Naturally
-FAYA_0005T:FAYA_0005TA,normal,Naturally
-_FAYA_0005T:FAYA_0005TB,shout,For Kirino's sake
-FAYA_0005T:FAYA_0005TB,shout,For Kirino's sake
-_FAYA_0005T:FAYA_0005TC,normal,I really wanted to see it
-FAYA_0005T:FAYA_0005TC,normal,I really wanted to see it
-_FAYA_0009T:FAYA_0009TA,normal,Of course I love you
-FAYA_0009T:FAYA_0009TA,normal,Of course I love you
-_FAYA_0009T:FAYA_0009TB,normal,In that case...
-FAYA_0009T:FAYA_0009TB,normal,In that case...
-_FAYA_0009T:FAYA_0009TC,normal,Now I'm curious
-FAYA_0009T:FAYA_0009TC,normal,Now I'm curious
-_FAYA_0013T:FAYA_0013TA,normal,If no one's around...
-FAYA_0013T:FAYA_0013TA,normal,If no one's around...
-_FAYA_0013T:FAYA_0013TB,normal,I really can't?
-FAYA_0013T:FAYA_0013TB,normal,I really can't?
-_FAYA_0013T:FAYA_0013TC,normal,The shade of that tree
-FAYA_0013T:FAYA_0013TC,normal,The shade of that tree
-_FAYA_0017T:FAYA_0017TA,normal,I'm looking at Ayase
-FAYA_0017T:FAYA_0017TA,normal,I'm looking at Ayase
-_FAYA_0017T:FAYA_0017TB,normal,Hold your hand...
-FAYA_0017T:FAYA_0017TB,normal,Hold your hand...
-_FAYA_0017T:FAYA_0017TC,normal,Let's hug each other
-FAYA_0017T:FAYA_0017TC,normal,Let's hug each other
-_FAYA_0025T:FAYA_0025TA,normal,Sorry
-FAYA_0025T:FAYA_0025TA,normal,Sorry
-_FAYA_0025T:FAYA_0025TB,normal,That swimsuit looks good on you.
-FAYA_0025T:FAYA_0025TB,normal,That swimsuit looks good on you.
-_FAYA_0025T:FAYA_0025TC,shout,Of course I'd follow Ayase!
-FAYA_0025T:FAYA_0025TC,shout,Of course I'd follow Ayase!
-_GSEN_0001T:GSEN_0001TA,shout,It's not an excuse!
-GSEN_0001T:GSEN_0001TA,shout,It's not an excuse!
-_GSEN_0001T:GSEN_0001TB,shout,I don't mean it that way!
-GSEN_0001T:GSEN_0001TB,shout,I don't mean it that way!
-_GSEN_0001T:GSEN_0001TC,normal,A-Ah... It doesn't happen often
-GSEN_0001T:GSEN_0001TC,normal,A-Ah... It doesn't happen often
-_GSEN_0005T:GSEN_0005TA,shout,That's a huge problem!
-GSEN_0005T:GSEN_0005TA,shout,That's a huge problem!
-_GSEN_0005T:GSEN_0005TB,normal,He might have his reasons
-GSEN_0005T:GSEN_0005TB,normal,He might have his reasons
-_GSEN_0005T:GSEN_0005TC,shout,You're guilty of it too!?
-GSEN_0005T:GSEN_0005TC,shout,You're guilty of it too!?
-_GSEN_0009T:GSEN_0009TA,normal,Support
-GSEN_0009T:GSEN_0009TA,normal,Support
-_GSEN_0009T:GSEN_0009TB,normal,Play tester
-GSEN_0009T:GSEN_0009TB,normal,Play tester
-_GSEN_0009T:GSEN_0009TC,normal,His life points are zero
-GSEN_0009T:GSEN_0009TC,normal,His life points are zero
-_GSEN_0013T:GSEN_0013TA,shout,Will you stop it already!?
-GSEN_0013T:GSEN_0013TA,shout,Will you stop it already!?
-_GSEN_0013T:GSEN_0013TB,normal,Is there someone you like?
-GSEN_0013T:GSEN_0013TB,normal,Is there someone you like?
-_GSEN_0013T:GSEN_0013TC,shout,That's the main part!?
-GSEN_0013T:GSEN_0013TC,shout,That's the main part!?
-_GSEN_0017T:GSEN_0017TA,normal,Calm down
-GSEN_0017T:GSEN_0017TA,normal,Calm down
-_GSEN_0017T:GSEN_0017TB,normal,I'm used to dealing with Akagi
-GSEN_0017T:GSEN_0017TB,normal,I'm used to dealing with Akagi
-_GSEN_0017T:GSEN_0017TC,normal,Kuroneko said the same
-GSEN_0017T:GSEN_0017TC,normal,Kuroneko said the same
-_GSEN_0020T:GSEN_0020TA,normal,Aren't they fine?
-GSEN_0020T:GSEN_0020TA,normal,Aren't they fine?
-_GSEN_0020T:GSEN_0020TB,normal,"Cute, I guess."
-GSEN_0020T:GSEN_0020TB,normal,"Cute, I guess."
-_GSEN_0020T:GSEN_0020TC,normal,Why wouldn't it be?
-GSEN_0020T:GSEN_0020TC,normal,Why wouldn't it be?
-_IYAM_0003T:IYAM_0003TA,normal,Whatever's fine
-IYAM_0003T:IYAM_0003TA,normal,Whatever's fine
-_IYAM_0003T:IYAM_0003TB,normal,I'm worried
-IYAM_0003T:IYAM_0003TB,normal,I'm worried
-_KIFK_0001T:KIFK_0001TA,normal,Date
-KIFK_0001T:KIFK_0001TA,normal,Date
-_KIFK_0001T:KIFK_0001TB,normal,A Guy
-KIFK_0001T:KIFK_0001TB,normal,A Guy
-_KIFK_0001T:KIFK_0001TC,normal,Kyousuke
-KIFK_0001T:KIFK_0001TC,normal,Kyousuke
-_KIFK_0006T:KIFK_0006TA,normal,(laughs)
-KIFK_0006T:KIFK_0006TA,normal,(laughs)
-_KIFK_0006T:KIFK_0006TB,normal,Lolicon
-KIFK_0006T:KIFK_0006TB,normal,Lolicon
-_KIFK_0019T:KIFK_0019TA,normal,...Hello
-KIFK_0019T:KIFK_0019TA,normal,...Hello
-_KIFK_0019T:KIFK_0019TB,normal,Something like that
-KIFK_0019T:KIFK_0019TB,normal,Something like that
-_KIFK_0019T:KIFK_0019TC,normal,Teach me how to cook
-KIFK_0019T:KIFK_0019TC,normal,Teach me how to cook
-_KIFK_0028T:KIFK_0028TA,normal,Are you listening?
-KIFK_0028T:KIFK_0028TA,normal,Are you listening?
-_KIFK_0028T:KIFK_0028TB,normal,It makes me sad
-KIFK_0028T:KIFK_0028TB,normal,It makes me sad
-_KIFK_0028T:KIFK_0028TC,normal,That's irrelevant?
-KIFK_0028T:KIFK_0028TC,normal,That's irrelevant?
-_KIFK_0028T:KIFK_0028TD,shout,Don't change the subject!
-KIFK_0028T:KIFK_0028TD,shout,Don't change the subject!
-_KIFK_0030T:KIFK_0030TA,normal,Ero game
-KIFK_0030T:KIFK_0030TA,normal,Ero game
-_KIFK_0033T:KIFK_0033TA,shout,WHAT!?
-KIFK_0033T:KIFK_0033TA,shout,WHAT!?
-_KIFK_0033T:KIFK_0033TB,normal,Like I care lol
-KIFK_0033T:KIFK_0033TB,normal,Like I care lol
 TKA0020A,normal,This is just a misunderstanding!
 TKA0020B,shout,I didn't see them!
 TKA0020C,normal,NO!
@@ -446,7 +13,6 @@ TKA0036D,shout,A Thief of Time?!
 TKA0038A,normal,Are you referring to Kirino?
 TKA0038B,normal,I'm not her subordinate
 TKA0038C,normal,What?!
-TKC0067C,normal,Are you for real?
 TKA0043A,shout,No way!
 TKA0043B,shout,What are you saying?!
 TKA0043C,normal,Don't bother
@@ -498,12 +64,10 @@ TKB0025A,shout,That's not it!
 TKB0025B,normal,Same goes for you...
 TKB0025C,shout,It's Saori!
 TKB0025D,shout,Hey!
-TKE0056C,shout,Are you an idiot?!
 TKB0033A,shout,It's the truth!
 TKB0033B,shout,I'm not a criminal!
 TKB0033C,shout,What are you saying?!
 TKB0033D,shout,I'll make you remember!
-TKE0013A,normal,EH!?
 TKB0048A,normal,It seems so...
 TKB0048B,normal,Dad
 TKB0063A,normal,That's troublesome
@@ -534,6 +98,7 @@ TKC0055C,shout,GAH!
 TKC0055D,normal,Really?
 TKC0067A,normal,"It's a dream, right?"
 TKC0067B,shout,You teasing me?!
+TKC0067C,normal,Are you for real?
 TKC0093A,normal,I have things to say
 TKC0093B,normal,I'll accompany you
 TKC0093C,normal,Don't say that...
@@ -607,10 +172,12 @@ TKD0080D,shout,Once more!
 TKD0080E,normal,Otaku route
 TKD0080F,shout,Idiot!
 TKD0080G,shout,"I am there, right?!"
+TKD0080H,shout,I won't let it end like this!
 TKE0007A,shout,What?!
 TKE0007B,shout,Just listen!
 TKE0007C,shout,Don't stare at me in disgust!
 TKE0007D,normal,Should I go away?
+TKE0013A,normal,EH!?
 TKE0013B,normal,Came to wake me up?
 TKE0013C,shout,So inconsiderate!
 TKE0013D,shout,There's a next time?!
@@ -629,6 +196,7 @@ TKE0044C,shout,NO WAY!!
 TKE0044D,normal,You're strange
 TKE0056A,shout,Don't be stupid!
 TKE0056B,shout,Are you even listening!
+TKE0056C,shout,Are you an idiot?!
 TKE0056D,shout,That's wrong!
 TKE0064A,shout,What are you asking?!
 TKE0064B,normal,Cut it out!
