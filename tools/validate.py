@@ -82,7 +82,7 @@ def validate_manifest_json(path: str, expected_locale: str) -> List[ValidationEr
             errors.append(ValidationError(path, f"Missing required manifest field: '{k}'"))
 
     loc = data.get("locale", "").strip().lower()
-    if loc != expected_locale:
+    if loc != expected_locale and not loc.startswith(expected_locale + "_") and not loc.startswith(expected_locale + "-"):
         errors.append(ValidationError(path, f"Locale in manifest ('{loc}') does not match directory ('{expected_locale}')"))
 
     return errors
