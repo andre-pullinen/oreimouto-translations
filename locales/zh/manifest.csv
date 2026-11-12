@@ -6,7 +6,7 @@ author,PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋
 version,1.0.0
 schema_version,2
 tags,beta
-tag_note_beta,Предварительная **бета-версия** перевода.\n\n- Завершена вычитка основных сценариев\n- Интегрирован CJK-шрифт **Noto Sans SC**
+tag_note_beta,当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**
 font_ui,fonts/NotoSansSC-Medium.otf
 font_dialogue,fonts/NotoSansSC-Medium.otf
 font_speaker,fonts/NotoSansSC-Medium.otf

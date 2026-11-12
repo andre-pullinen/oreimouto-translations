@@ -45,13 +45,13 @@
       "total_lines": 37383,
       "translated_lines": 31546,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
-      "sha256": "5e7aba62b35a4663c80996fd0ddbe1d22558e018f76e72f947808c1aac16d972",
-      "size_bytes": 3505584,
+      "sha256": "8a08ec6a4dc44aede5a72e6de0d852ef81d1d599cfcd88fd15570451d0b7ed32",
+      "size_bytes": 3506592,
       "tags": [
         "partial"
       ],
       "tag_notes": {
-        "partial": "Переведено **84%** текста основного сюжета.\n\n- Ветка Кирино: **100%**\n- Ветка Куронеко: **70%**\n- Реплики O.S.I.S.: в процессе"
+        "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
       },
       "links": {
         "vk": "https://vk.com/elevationnovel",
@@ -86,13 +86,13 @@
       "total_lines": 37383,
       "translated_lines": 37383,
       "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_zh_cn.pck",
-      "sha256": "ff3e0cc680c470aa9810d0ea4ce4f8c677bff15fa40cb1f798ad686f3b704f77",
-      "size_bytes": 18960940,
+      "sha256": "0494c98d6769479a8a3506a4f1daccadc1f47f819a50bb9a00e87253c0545d31",
+      "size_bytes": 18960780,
       "tags": [
         "beta"
       ],
       "tag_notes": {
-        "beta": "Предварительная **бета-версия** перевода.\n\n- Завершена вычитка основных сценариев\n- Интегрирован CJK-шрифт **Noto Sans SC**"
+        "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
       },
       "links": {
         "baidu_tieba": "https://tieba.baidu.com/p/1628163531",
