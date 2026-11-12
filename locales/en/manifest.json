@@ -1,17 +1,21 @@
 {
-  "id": "lang_en_community",
+  "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
+  "id": "lang_en",
   "locale": "en",
-  "display_name": "English",
-  "team_name": "Rinjinbu Translations",
-  "authors": [
+  "name": "English",
+  "short": "ENG",
+  "version": "1.0.0",
+  "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
+  "team": "Rinjinbu Translations",
+  "translators": [
     "Dizzy Ziddy",
     "Chronoes",
     "EternalDreamer",
     "Rinjinbu Translations"
   ],
-  "version": "1.0.0",
-  "tags": [],
-  "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
+  "progress": 100.0,
+  "tags": {},
+  "fonts": {},
   "links": {
     "website": "https://rinjinbutranslations.blogspot.com/",
     "romhacking": "https://www.romhacking.net/translations/5873/"

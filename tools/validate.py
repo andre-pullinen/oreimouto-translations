@@ -11,9 +11,8 @@ import os
 import sys
 from typing import Dict, List, Set, Tuple
 
-REQUIRED_MANIFEST_KEYS = {"id", "locale", "display_name", "version", "team_name", "authors", "description"}
+REQUIRED_MANIFEST_KEYS = {"id", "locale", "name", "short", "version", "description", "team", "translators"}
 REQUIRED_ROOT_CSVS = {
-    "manifest.csv": ["KEY", "VALUE"],
     "speakers.csv": ["SPEAKER_ID", "NAME"],
     "scene_titles.csv": ["SCENE_ID", "TITLE"],
     "toasts.csv": ["TOAST_KEY", "TEXT"],
@@ -78,8 +77,24 @@ def validate_manifest_json(path: str, expected_locale: str) -> List[ValidationEr
         return [ValidationError(path, f"JSON parse error: {e}")]
 
     for k in REQUIRED_MANIFEST_KEYS:
-        if k not in data or not data[k]:
-            errors.append(ValidationError(path, f"Missing required manifest field: '{k}'"))
+        if k not in data or data[k] is None or data[k] == "":
+            errors.append(ValidationError(path, f"Missing or empty required manifest field: '{k}'"))
+
+    translators = data.get("translators")
+    if translators is not None and not isinstance(translators, list):
+        errors.append(ValidationError(path, f"Field 'translators' must be a list of strings"))
+
+    tags = data.get("tags")
+    if tags is not None and not isinstance(tags, (dict, list)):
+        errors.append(ValidationError(path, f"Field 'tags' must be a dictionary or list"))
+
+    fonts = data.get("fonts")
+    if fonts is not None and not isinstance(fonts, dict):
+        errors.append(ValidationError(path, f"Field 'fonts' must be a dictionary"))
+
+    links = data.get("links")
+    if links is not None and not isinstance(links, dict):
+        errors.append(ValidationError(path, f"Field 'links' must be a dictionary"))
 
     loc = data.get("locale", "").strip().lower()
     if loc != expected_locale and not loc.startswith(expected_locale + "_") and not loc.startswith(expected_locale + "-"):

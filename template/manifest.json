@@ -1,11 +1,16 @@
 {
+  "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
   "id": "lang_template",
   "locale": "en",
-  "display_name": "Base Template",
-  "team_name": "OreImouto Team",
-  "authors": [
+  "name": "Base Template",
+  "short": "TMP",
+  "version": "1.0.0",
+  "description": "Master base template for OreImouto Re:Port community translations.",
+  "team": "OreImouto Team",
+  "translators": [
     "OreImouto Team"
   ],
-  "version": "1.0.0",
-  "description": "Master base template for OreImouto Re:Port community translations."
+  "tags": {},
+  "fonts": {},
+  "links": {}
 }

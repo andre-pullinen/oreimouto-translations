@@ -1,23 +1,12 @@
 # OreImouto Re:Port — Translation Guide
 
-Welcome to the community translation hub for **OreImouto Re:Port** (*Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable* PC port).
+Welcome to the **OreImouto Re:Port** community translation guide! This document explains how translations are structured, how to add a new language, and how to test your changes locally.
 
-This repository contains community translation source files and tools to compile, validate, and package translations into binary `.pck` files for the game.
+## 1. Overview & Architecture
 
----
+OreImouto Re:Port uses a zero-dependency, table-based translation format. All game text (dialogues, choices, character names, UI strings) is stored in UTF-8 CSV files.
 
-## 1. How Translations Work
-
-OreImouto Re:Port uses a multi-layered Virtual File System (VFS).
-Language packs are mounted dynamically at runtime as virtual overlays:
-
-```
-user://packs/lang_<locale>.pck -> res://assets/data/lang/<locale>/...
-```
-
-At runtime, dialogue texts, character names, UI strings, O.R.E. titles, OSIS tsukkomi choices, and toasts are resolved dynamically from the active language pack overlay.
-
----
+Each language is compiled into a standalone binary package (`lang_<locale>.pck`) that overlays the game's virtual file system (VFS) at runtime. The in-game client automatically checks for translation updates and downloads new or updated packs seamlessly.
 
 ## 2. Directory Structure of a Language Pack
 
@@ -25,8 +14,7 @@ Each locale lives inside `locales/<locale_code>/`:
 
 ```
 locales/<locale>/
-├── manifest.json       # Metadata displayed in in-game translation hub & UI
-├── manifest.csv        # Metadata bundled inside the binary PCK
+├── manifest.json       # Metadata displayed in in-game settings & UI
 ├── speakers.csv        # Canonical Speaker ID -> Translated Display Name
 ├── scene_titles.csv    # SCENE_ID -> Translated Chapter/Scene title
 ├── toasts.csv          # TOAST_KEY -> Translated system notification
@@ -40,8 +28,6 @@ locales/<locale>/
     └── ...
 ```
 
----
-
 ## 3. Starting a New Language Translation
 
 1. **Fork & Clone** this repository.
@@ -53,34 +39,42 @@ locales/<locale>/
 4. Update `manifest.json`:
    ```json
    {
-     "id": "lang_es_community",
+     "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
+     "id": "lang_es",
      "locale": "es",
-     "display_name": "Español",
-     "team_name": "Spanish Translation Team",
-     "authors": [
+     "name": "Español",
+     "short": "ESP",
+     "version": "1.0.0",
+     "description": "Traducción al español de Ore no Imouto Portable para PC.",
+     "team": "Spanish Translation Team",
+     "translators": [
        "Translator 1",
        "Translator 2"
      ],
-     "version": "1.0.0",
-     "description": "Traducción al español de Ore no Imouto Portable para PC.",
+     "progress": 100.0,
+     "tags": {},
+     "fonts": {},
      "links": {
        "website": "https://your-translation-team.org",
        "discord": "https://discord.gg/example"
      }
    }
    ```
-5. Update `manifest.csv`:
-   ```csv
-   KEY,VALUE
-   locale,es
-   name,Español
-   short,ESP
-   author,Spanish Translation Team
-   version,1.0.0
-   schema_version,2
-   ```
 
----
+   **Manifest Fields Specification:**
+   - **`$schema`**: Points to the official JSON schema for validation and autocompletion in VS Code.
+   - **`id`**: Unique identifier for the package (e.g. `lang_es`, `lang_ru`).
+   - **`locale`**: ISO 639-1 / BCP 47 language code (`es`, `ru`, `en`, `zh_CN`).
+   - **`name`**: Native display name of the language (e.g. `Español`, `Русский`, `简体中文`).
+   - **`short`**: 3-letter uppercase badge label shown in the in-game UI (e.g. `ESP`, `RUS`, `ENG`).
+   - **`version`**: Semantic version string (e.g. `1.0.0`).
+   - **`description`**: Summary of the translation scope.
+   - **`team`**: Name of the translation team or lead.
+   - **`translators`**: List of individual contributors and translators.
+   - **`progress`**: *(Optional)* Percentage of translated lines (0.0 - 100.0).
+   - **`tags`**: *(Optional)* Dictionary mapping status tags (`partial`, `beta`, `wip`, `ai`) to Markdown explanation tooltips (or an empty object `{}` when complete).
+   - **`fonts`**: *(Optional)* Mapping of custom font roles (`ui`, `dialogue`, `speaker`, `accent`, `fallback`).
+   - **`links`**: *(Optional)* Map of external project links (`website`, `discord`, `vk`, `romhacking`).
 
 ## 4. Translating Files
 
@@ -138,8 +132,6 @@ AKYO_0020T:TKA0020B,shout,I didn't see them!
 ```
 Translate `TEXT`. Keep `KEY` and `STYLE` unchanged.
 
----
-
 ## 5. CSV Rules & Encoding
 
 - **Encoding:** Always save as standard **UTF-8 (without BOM)**.
@@ -147,8 +139,6 @@ Translate `TEXT`. Keep `KEY` and `STYLE` unchanged.
   - If a text contains commas (`,`), newlines (`\n`), or double quotes (`"`), wrap the whole field in `"..."`.
   - Escaped double quotes inside text must be doubled (`""`).
   - Example: `"She said, ""Hello!"""`
-
----
 
 ## 6. Testing Your Translation Locally
 
@@ -172,8 +162,6 @@ Copy the generated `.pck` file into the game's `packs/` folder:
 
 Launch the game, open **Settings $\to$ Language**, and select your language!
 
----
-
 ## 7. Submitting Your Translation
 
 Once validated and tested:
@@ -184,4 +172,4 @@ Once validated and tested:
    ```
 2. Push to your fork and submit a **Pull Request**.
 3. Automated GitHub Actions will validate your files.
-4. Once merged, GitHub Actions will compile the binary package and deploy it to the Translation Hub for all players worldwide!
+4. Once merged, GitHub Actions will compile the binary package and deploy it for all players worldwide!

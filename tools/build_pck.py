@@ -33,25 +33,14 @@ def build_pck(source_dir: str, output_pck_path: str, locale: str = None) -> Tupl
     if not os.path.isdir(source_dir):
         return False, f"Source directory not found: {source_dir}", 0, ""
 
-    # Detect locale from manifest.json, manifest.csv, or folder name
+    # Detect locale from manifest.json or folder name
     if not locale:
         manifest_json_path = os.path.join(source_dir, "manifest.json")
-        manifest_csv_path = os.path.join(source_dir, "manifest.csv")
         if os.path.isfile(manifest_json_path):
             try:
                 with open(manifest_json_path, "r", encoding="utf-8") as f:
                     manifest = json.load(f)
                     locale = manifest.get("locale")
-            except Exception:
-                pass
-        if not locale and os.path.isfile(manifest_csv_path):
-            try:
-                with open(manifest_csv_path, "r", encoding="utf-8") as f:
-                    for line in f:
-                        parts = line.strip().split(",")
-                        if len(parts) >= 2 and parts[0].strip().lower() == "locale":
-                            locale = parts[1].strip().lower()
-                            break
             except Exception:
                 pass
         if not locale:

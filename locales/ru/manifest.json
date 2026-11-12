@@ -1,20 +1,21 @@
 {
-  "id": "lang_ru_community",
+  "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
+  "id": "lang_ru",
   "locale": "ru",
-  "display_name": "Русский",
-  "team_name": "Elevation",
-  "authors": [
+  "name": "Русский",
+  "short": "RUS",
+  "version": "1.0.0",
+  "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
+  "team": "Elevation",
+  "translators": [
     "The_Almighty_D",
     "Elevation"
   ],
-  "version": "1.0.0",
-  "tags": [
-    "partial"
-  ],
-  "tag_notes": {
+  "progress": 84.39,
+  "tags": {
     "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
   },
-  "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
+  "fonts": {},
   "links": {
     "vk": "https://vk.com/elevationnovel",
     "ruvn": "https://ruvn.org/novels/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai"

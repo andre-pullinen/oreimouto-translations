@@ -1,0 +1,96 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OreImouto Language Pack Manifest",
+  "description": "Metadata specification for OreImouto Re:Port language translation packs.",
+  "type": "object",
+  "required": [
+    "id",
+    "locale",
+    "name",
+    "short",
+    "version",
+    "description",
+    "team",
+    "translators"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "URI of the JSON Schema definition."
+    },
+    "id": {
+      "type": "string",
+      "description": "Unique package identifier (e.g., lang_en, lang_ru, lang_zh_cn)."
+    },
+    "locale": {
+      "type": "string",
+      "description": "ISO 639-1 / BCP 47 locale code (e.g., en, ru, zh_CN, ja)."
+    },
+    "name": {
+      "type": "string",
+      "description": "Native display name of the language (e.g., Русский, English, 简体中文)."
+    },
+    "short": {
+      "type": "string",
+      "description": "3-letter uppercase badge label (e.g., RUS, ENG, ZHO)."
+    },
+    "version": {
+      "type": "string",
+      "description": "Semantic version of the translation pack (e.g., 1.0.0)."
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of the translation pack."
+    },
+    "team": {
+      "type": "string",
+      "description": "Translating team or group name (e.g., Elevation, Rinjinbu Translations)."
+    },
+    "translators": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of individual translators and contributors."
+    },
+    "progress": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Overall translation completion percentage (0.0 - 100.0)."
+    },
+    "tags": {
+      "type": [
+        "object",
+        "array"
+      ],
+      "description": "Status tags (e.g., partial, beta) mapped to Markdown tooltip explanations, or an array of tag strings.",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "fonts": {
+      "type": "object",
+      "description": "Custom font mappings for the locale (ui, dialogue, speaker, accent, fallback).",
+      "properties": {
+        "ui": { "type": "string" },
+        "ui_bold": { "type": "string" },
+        "ui_medium": { "type": "string" },
+        "dialogue": { "type": "string" },
+        "speaker": { "type": "string" },
+        "accent": { "type": "string" },
+        "fallback": { "type": "string" },
+        "cjk": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "links": {
+      "type": "object",
+      "description": "External links (website, discord, vk, romhacking, etc.).",
+      "additionalProperties": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}
