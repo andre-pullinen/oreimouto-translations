@@ -125,6 +125,54 @@ TKC0175C,normal,Это еще не конец
 TKC0175D,normal,Это не так
 TKC0175E,shout,"Что, черт возьми?!"
 TKC0175F,normal,Ты слишком шумная!
+TKD0003A,normal,I don't get you!
+TKD0003B,normal,I can't take it!
+TKD0003C,shout,Wait a minute!
+TKD0003D,shout,You'd rather die?!
+TKD0003E,shout,Stop talking about seppuku!
+TKD0007A,normal,That's not possible
+TKD0007B,normal,I'm restraining myself
+TKD0007C,normal,Don't follow my example
+TKD0007D,shout,I surrender!
+TKD0026A,shout,Don't say that!
+TKD0026B,shout,Don't run away!
+TKD0026C,shout,Understood!
+TKD0026D,normal,I'm not lying
+TKD0026E,shout,I never wanted that!
+TKD0026F,normal,There's something!
+TKD0038A,normal,Are you timid?
+TKD0038B,normal,Maybe so
+TKD0038C,normal,Who cares if he's an adult?!
+TKD0038D,shout,It's not decided yet!
+TKD0053A,normal,Why are you wavering?!
+TKD0053B,normal,Cancel the engagement?
+TKD0053C,shout,What's with the reading?
+TKD0053D,shout,Don't act like a nice person!
+TKD0053E,shout,I don't need it!!
+TKD0058A,shout,This is your own problem!
+TKD0058B,shout,We'll see that in time!
+TKD0058C,normal,Will you live with regrets?!
+TKD0058D,shout,Plan to run away?
+TKD0063A,shout,I won't come back!
+TKD0063B,shout,Something happened?!
+TKD0072A,shout,Why are you angry?!
+TKD0072B,normal,I don't think that
+TKD0072C,normal,I didn't
+TKD0072D,shout,You said it!
+TKD0072E,normal,Don't say whatever pleases you!
+TKD0072F,shout,Why is it exposed?!
+TKD0072G,shout,Don't run away!
+TKD0075A,shout,Don't disappear!
+TKD0075B,shout,I'm gonna beat you!
+TKD0075C,shout,I'm tired of hearing that!
+TKD0080A,shout,It's moving against my will!
+TKD0080B,normal,I don't get it
+TKD0080C,shout,"Don't go, Saori!"
+TKD0080D,shout,Once more!
+TKD0080E,normal,Otaku route
+TKD0080F,shout,Idiot!
+TKD0080G,shout,"I am there, right?!"
+TKD0080H,shout,I won't let it end like this!
 TKE0007A,shout,Успокойся!
 TKE0007B,shout,Послушай меня!
 TKE0007C,shout,Не смотри на меня так!
@@ -169,6 +217,121 @@ TKF0034B,shout,М-можно сказать и так.
 TKF0034C,normal,"Эй-эй, ты забыла?"
 TKF0043D,shout,Да.
 TKF0043E,shout,Это не ложь.
+TKG0005A,normal,Say it honestly...
+TKG0005B,shout,I didn't!
+TKG0005C,shout,Alright!
+TKG0005D,normal,Say...
+TKG0011A,normal,But...
+TKG0011B,normal,What's that?
+TKG0011C,normal,You can't move?
+TKG0011D,normal,What's that
+TKG0014A,shout,Don't repeat it over and over!
+TKG0014B,normal,Gah...!
+TKG0014C,normal,Well then...
+TKG0014D,normal,Death sentence...?
+TKG0017A,normal,I don't want to!
+TKG0017B,normal,Good grief...
+TKG0017C,shout,I refuse!
+TKG0017D,normal,"It's cute, right?"
+TKG0033A,normal,Even if you say that...
+TKG0033B,normal,I can't understand...
+TKG0033C,shout,Didn't learn from last time?!
+TKG0033D,normal,Ah...
+TKG0038A,normal,That's not what I want to say
+TKG0038B,normal,Eh? It's not good?
+TKG0038C,normal,"As I thought, that's it..."
+TKG0038D,normal,"You just want it, right?"
+BKIR_0004TA,shout,There's no such thing!
+BKIR_0004TB,shout,That's wrong!
+BKIR_0013TA,normal,We're dating.
+BKIR_0020TA,shout,Don't act like someone else!
+BKIR_0020TB,normal,"It's a lie, stupid."
+BKIR_0023TA,normal,Is your head okay?
+BKIR_0030TA,shout,We won't break up!
+BKIR_0030TB,shout,I won't!
+CKUR_0001TA,normal,I wanna talk now.
+CKUR_0001TB,shout,That's not it!
+CKUR_0001TC,shout,"Hey, you okay!?"
+CKUR_0005TA,normal,I feel the same way.
+CKUR_0005TB,normal,Let's go to the electronics shop.
+CKUR_0005TC,normal,I'll pay.
+CKUR_0009TA,normal,Yeah.
+CKUR_0009TB,normal,I think you're plenty cute.
+CKUR_0009TC,shout,No way!
+CKUR_0016TA,normal,It's fine then
+CKUR_0016TB,normal,It's nothing
+CKUR_0016TC,shout,It's a misunderstanding!
+CKUR_0020TA,normal,You're not foolish
+CKUR_0020TB,normal,I saw nothing
+CKUR_0020TC,normal,Of course
+DSAO_0003TA,normal,Why did you run off?
+DSAO_0003TB,normal,Just come as Bajeena
+DSAO_0025TA,normal,You guys
+EMAN_0002TA,normal,Leave it to me
+EMAN_0002TB,normal,That will be Manami
+EMAN_0002TC,normal,I have nothing in mind
+EMAN_0008TA,normal,Manami's imagining things
+EMAN_0008TB,normal,Extremely nervous
+EMAN_0008TC,normal,Wanna go again?
+EMAN_0015TA,normal,Why are you saying this now?
+EMAN_0015TB,normal,Do I have to answer?
+EMAN_0015TC,normal,Somewhere else?
+EMAN_0018TA,normal,Rokuon-ji Temple
+EMAN_0018TB,shout,"No, that's wrong!"
+EMAN_0018TC,normal,"It's 1394, right?"
+EMAN_0023TA,normal,Like an evil magistrate?
+EMAN_0023TB,shout,You almost fell!
+EMAN_0023TC,normal,Of course.
+FAYA_0005TA,normal,Naturally
+FAYA_0005TB,shout,For Kirino's sake
+FAYA_0005TC,normal,I really wanted to see it
+FAYA_0009TA,normal,Of course I love you
+FAYA_0009TB,normal,In that case...
+FAYA_0009TC,normal,Now I'm curious
+FAYA_0013TA,normal,If no one's around...
+FAYA_0013TB,normal,I really can't?
+FAYA_0013TC,normal,The shade of that tree
+FAYA_0017TA,normal,I'm looking at Ayase
+FAYA_0017TB,normal,Hold your hand...
+FAYA_0017TC,normal,Let's hug each other
+FAYA_0025TA,normal,Sorry
+FAYA_0025TB,normal,That swimsuit looks good on you.
+FAYA_0025TC,shout,Of course I'd follow Ayase!
+GSEN_0001TA,shout,It's not an excuse!
+GSEN_0001TB,shout,I don't mean it that way!
+GSEN_0001TC,normal,A-Ah... It doesn't happen often
+GSEN_0005TA,shout,That's a huge problem!
+GSEN_0005TB,normal,He might have his reasons
+GSEN_0005TC,shout,You're guilty of it too!?
+GSEN_0009TA,normal,Support
+GSEN_0009TB,normal,Play tester
+GSEN_0009TC,normal,His life points are zero
+GSEN_0013TA,shout,Will you stop it already!?
+GSEN_0013TB,normal,Is there someone you like?
+GSEN_0013TC,shout,That's the main part!?
+GSEN_0017TA,normal,Calm down
+GSEN_0017TB,normal,I'm used to dealing with Akagi
+GSEN_0017TC,normal,Kuroneko said the same
+GSEN_0020TA,normal,Aren't they fine?
+GSEN_0020TB,normal,"Cute, I guess."
+GSEN_0020TC,normal,Why wouldn't it be?
+IYAM_0003TA,normal,Whatever's fine
+IYAM_0003TB,normal,I'm worried
+KIFK_0001TA,normal,Date
+KIFK_0001TB,normal,A Guy
+KIFK_0001TC,normal,Kyousuke
+KIFK_0006TA,normal,(laughs)
+KIFK_0006TB,normal,Lolicon
+KIFK_0019TA,normal,...Hello
+KIFK_0019TB,normal,Something like that
+KIFK_0019TC,normal,Teach me how to cook
+KIFK_0028TA,normal,Are you listening?
+KIFK_0028TB,normal,It makes me sad
+KIFK_0028TC,normal,That's irrelevant?
+KIFK_0028TD,shout,Don't change the subject!
+KIFK_0030TA,normal,Ero game
+KIFK_0033TA,shout,WHAT!?
+KIFK_0033TB,normal,Like I care lol
 BKIR_0004T:TKA0070D,shout,Что?!
 CKUR_0067T:TKC0067C,normal,"Что, правда?"
 CKUR_0093T:TKE0013A,normal,"Я буду делать так, если посчитаю нужным..."
