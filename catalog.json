@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "last_updated": "2026-11-12T13:00:00Z",
+  "last_updated": "2026-11-13T08:25:28Z",
   "packages": [
     {
       "id": "lang_en",
@@ -21,14 +21,14 @@
         "EternalDreamer",
         "Rinjinbu Translations"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
       "progress": 100.0,
       "total_lines": 37383,
       "translated_lines": 37383,
-      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_en.pck",
-      "sha256": "13c2f0086d6de49d0690a43501a1dcd57bde01485ca1583b48a9ad2208d0cc44",
-      "size_bytes": 2469936,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.1/lang_en.pck",
+      "sha256": "2ddce11c56f29255c3fe43b8b049bf0fe10a6c408bd5900fb86a783203a67480",
+      "size_bytes": 2472496,
       "tags": {},
       "tag_notes": {},
       "links": {
@@ -51,14 +51,14 @@
         "The_Almighty_D",
         "Elevation"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
       "progress": 84.39,
       "total_lines": 37383,
       "translated_lines": 31546,
-      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_ru.pck",
-      "sha256": "7220539e002cf608cb2e6158d05217a4d0ae3abde62a2300bb84f988c6bbec53",
-      "size_bytes": 3502480,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.1/lang_ru.pck",
+      "sha256": "bf902bf1b880125a85454e74f900505e62895cf5e94b89aa2d8171d5bb844641",
+      "size_bytes": 3506608,
       "tags": {
         "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
       },
@@ -109,14 +109,14 @@
         "気持い",
         "PSP吧汉化组"
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "PSP平台《我的妹妹不可能这么可爱 便携版》Disc 1与Disc 2完整简体中文汉化包。由PSP吧汉化组、俺妹吧与游戏嗯蛋汉化联盟联合译制。",
       "progress": 100.0,
       "total_lines": 37383,
       "translated_lines": 37383,
-      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.0/lang_zh_cn.pck",
-      "sha256": "ab984543e626e6b2f53829ea6edeab94914b8a548fe0f30d56c77aaf4598a8a9",
-      "size_bytes": 18941080,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.1/lang_zh_cn.pck",
+      "sha256": "46b2da4c0e50025a8b3d7bcf8b880bf7f768eb63e9759d8a38ea3d2247350b8d",
+      "size_bytes": 18944664,
       "tags": {
         "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
       },

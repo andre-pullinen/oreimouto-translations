@@ -37,9 +37,9 @@ MENU_DISCORD,Discord сообщество,Discord Community,公式Discord
 MENU_PATREON,Поддержать на Patreon,Support on Patreon,Patreonで支援
 MENU_ITCH,Страница на Itch.io,Itch.io Page,Itch.ioページ
 SOCIAL_BUBBLE_TIP_TITLE,А вы знали?,Did You Know?,知っていましたか？
-SOCIAL_BUBBLE_DISCORD,"У нас есть уютный Discord: общение, новости и обратная связь!","We have a cozy Discord: chat, news, and community support!",公式Discordで交流や最新情報をぜひチェック！
-SOCIAL_BUBBLE_PATREON,Нравится игра? Вы можете поддержать разработку и обновления на Patreon!,Enjoying the game? You can support development and updates on Patreon!,ゲームを応援！Patreonで今後の開発を支援できます！
-SOCIAL_BUBBLE_ITCH,Не забывайте проверять обновления! Свежие сборки и патчи — на Itch.io.,Don't forget to check for updates! Fresh builds and patches are on Itch.io.,最新ビルドやパッチは公式Itch.ioページで公開中です！
+SOCIAL_BUBBLE_DISCORD,"У нас есть уютный Discord: общение, новости и обратная связь!","We have a cozy Discord: chat, news, and community support!","公式Discordで交流や最新情報をぜひチェック！"
+SOCIAL_BUBBLE_PATREON,"Нравится игра? Вы можете поддержать разработку и обновления на Patreon!","Enjoying the game? You can support development and updates on Patreon!","ゲームを応援！Patreonで今後の開発を支援できます！"
+SOCIAL_BUBBLE_ITCH,"Не забывайте проверять обновления! Свежие сборки и патчи — на Itch.io.","Don't forget to check for updates! Fresh builds and patches are on Itch.io.","最新ビルドやパッチは公式Itch.ioページで公開中です！"
 MENU_QUIT_TITLE,Выход из игры,Quit Game,ゲーム終了
 MENU_QUIT_MSG,Вы действительно хотите выйти из игры?,Are you sure you want to quit the game?,ゲームを終了しますか？
 ABOUT_TITLE,О проекте,About,作品情報
@@ -249,7 +249,7 @@ ORE_DISC_1_BTN,Диск 1,Disc 1,ディスク1
 ORE_DISC_2_BTN,Диск 2,Disc 2,ディスク2
 ORE_SEARCH_HINT,Поиск по названию O.R.E....,Search O.R.E. by title...,O.R.E.名で検索...
 COLLECTION_EMPTY_TITLE,Ничего не найдено,No Items Found,見つかりませんでした
-COLLECTION_EMPTY_SUBTITLE,Попробуйте изменить параметры поиска или фильтрации,Try changing your search query or active filter,検索条件を変更してください
+COLLECTION_EMPTY_SUBTITLE,"Попробуйте изменить параметры поиска или фильтрации","Try changing your search query or active filter",検索条件を変更してください
 COLLECTION_EMPTY_RESET,Сбросить фильтры,Reset Filters,フィルターをリセット
 FLOWMAP_TITLE,КАРТА СЮЖЕТА,Story Flowmap,フローチャート
 FLOWMAP_START_BTN,Старт,Start,スタート
@@ -333,7 +333,7 @@ CG_VOICE_PLAYING,Звучит комментарий %d...,Playing commentary %d
 CG_AUDIO_NOT_FOUND,Аудиофайл не найден,Audio file not found,音声ファイルが見つかりません
 CG_PREV_ALBUM,Пред. альбом,Previous Album,前のアルバム
 CG_NEXT_ALBUM,След. альбом,Next Album,次のアルバム
-CG_TOGGLE_UI,Скрыть интерфейс (Пробел),Hide UI (Space),UIを非表示 (Space)
+CG_TOGGLE_UI,"Скрыть интерфейс (Пробел)","Hide UI (Space)","UIを非表示 (Space)"
 CG_VARIANT_LOCKED,Заблокировано,Locked,ロック中
 ORE_MODAL_HEADER,КАРТОЧКА O.R.E. (ОТА-РЕПЛИКИ И ЭМОЦИИ),O.R.E. Card (Ota Replies & Emotions),O.R.E. カード（オタツッコミ・エモーション）
 ORE_DEFAULT_TITLE,Название O.R.E.,O.R.E. Title,O.R.E. 名
@@ -372,7 +372,7 @@ FLOWMAP_CHOICE_VARIANTS,Варианты выбора (%d):,Choice variants (%d)
 FLOWMAP_ORE_CHOICE_HEADER,Варианты тем O.R.E. перед диалогом:,O.R.E. topic variants before dialogue:,対話前のO.R.E.選択肢:
 FLOWMAP_DEFAULT_VARIANT,Вариант,Variant,選択肢
 FLOWMAP_AFFINITY_FORMAT,Симпатия: %s %+d,Affinity: %s %+d,好感度: %s %+d
-FLOWMAP_TSUKKOMI_LABEL,Цуккоми (%s),Tsukkomi (%s),ツッコミ (%s)
+FLOWMAP_TSUKKOMI_LABEL,"Цуккоми (%s)","Tsukkomi (%s)","ツッコミ (%s)"
 FLOWMAP_WIN_TAG,[ Победа ],[ Victory ],[ 勝利 ]
 FLOWMAP_LOSE_TAG,[ Поражение ],[ Defeat ],[ 敗北 ]
 FLOWMAP_REWARD_FORMAT,Награда: %s,Reward: %s,報酬: %s
@@ -450,8 +450,8 @@ ACTION_VN_QLOAD_DESC,Мгновенная загрузка из быстрого
 ACTION_VN_BACKLOG_TITLE,История текста (Бэклог),Backlog / History,バックログ
 ACTION_VN_BACKLOG_DESC,Просмотр ранее прочитанных реплик диалога,View previously read dialogue lines,過去の会話ログを表示
 BACKLOG_TITLE,История диалогов,Dialogue History,バックログ
-BACKLOG_SUBTITLE,"Колёсико мыши / PgUp — прокрутка, Esc / ПКМ — закрыть","Mouse Wheel / PgUp to Scroll, Esc / RMB to Close",マウスホイール／PgUpでスクロール、Esc／右クリックで閉じる
-BACKLOG_CLOSE_TOOLTIP,Закрыть (Esc / ПКМ),Close (Esc / RMB),閉じる (Esc / 右クリック)
+BACKLOG_SUBTITLE,"Колёсико мыши / PgUp — прокрутка, Esc / ПКМ — закрыть","Mouse Wheel / PgUp to Scroll, Esc / RMB to Close","マウスホイール／PgUpでスクロール、Esc／右クリックで閉じる"
+BACKLOG_CLOSE_TOOLTIP,"Закрыть (Esc / ПКМ)","Close (Esc / RMB)","閉じる (Esc / 右クリック)"
 BACKLOG_REPLAY_VOICE,Воспроизвести реплику,Play Voice Line,ボイス再生
 BACKLOG_EMPTY,История диалогов пуста,Dialogue History is Empty,バックログはありません
 PROTAGONIST_NAME,Кёсукэ,Kyosuke,京介
@@ -464,7 +464,7 @@ SETTINGS_AUDIO_TEST_HEADER,Проверка звука и голосов:,Audio 
 SETTINGS_SPEED_MAX,Макс,Max,最大
 SETTINGS_TSUKKOMI_HD,HD Текст,HD Text,HD テキスト
 SETTINGS_TSUKKOMI_PSP,Оригинал PSP,Original PSP,オリジナルPSP
-SETTINGS_SUFFIX_SEC, сек, s, 秒
+SETTINGS_SUFFIX_SEC," сек"," s"," 秒"
 SETTINGS_REBIND_ERR_INVALID,Неизвестное действие или некорректное событие,Unknown action or invalid event,不明なアクションまたは無効なイベント
 ROUTE_AKYO,Пролог,Prologue,プロローグ
 ROUTE_BKIR,Кирино,Kirino,桐乃
@@ -482,6 +482,13 @@ ROUTE_GSEN,Сэна,Sena,瀬菜
 ROUTE_IYAM,Яминэко,Yamineko,闇猫
 ROUTE_JDAI,Дайсукэ,Daisuke,大介
 ROUTE_LTAM,Тамаки,Tamaki,珠希
+ROUTE_HKYM,Киото,Kyoto,京都
+ROUTE_IYAN,Запретная любовь,Forbidden Love,禁断の恋
+ROUTE_JROC,Рок,Rock,ロック
+ROUTE_MGIM,MGIM,MGIM,MGIM
+ROUTE_LAKA,Акаги,Akagi,赤城
+ROUTE_OTHER,Прочие,Other,その他
+ROUTE_BONUS_FORMAT,Бонусный рут · %s,Bonus Route · %s,おまけルート・%s
 TOAST_SAVE_DISABLED_OSIS,Сохранение во время интерактивного диалога невозможно,Cannot save during interactive dialogue,インタラクティブ対話中はセーブできません
 TOAST_QSAVE_CREATED,Быстрое сохранение создано,Quick Save created,クイックセーブを作成しました
 TOAST_SLOT_SAVED,Сохранено в слот No. %02d,Saved to Slot No. %02d,スロット No. %02d にセーブしました
@@ -502,20 +509,23 @@ HEROINE_SENA,Сэна,Sena,瀬菜
 HEROINE_YAMINEKO,Яминэко,Yamineko,闇猫
 HEROINE_DAISUKE,Дайсукэ,Daisuke,大介
 HEROINE_TAMAKI,Тамаки,Tamaki,珠希
-HEROINE_KIRINO_SUB_0,«Э-эй! Чего уставился?!»,Hey! What are you staring at?!,「ちょっと！何ジロジロ見てんのよ？！」
+HEROINE_KYOSUKE,Кёсукэ,Kyousuke,京介
+HEROINE_AKAGI,Акаги,Akagi,赤城
+HEROINE_YOSHINO,Ёсино,Yoshino,佳乃
+HEROINE_KIRINO_SUB_0,"«Э-эй! Чего уставился?!»","Hey! What are you staring at?!",「ちょっと！何ジロジロ見てんのよ？！」
 HEROINE_KIRINO_SUB_1,"«Больно же! Не распускай руки, извращенец!!»","That hurts! Don't touch me, you pervert!!",「痛い！触るな、この変態！」
 HEROINE_KURONEKO_SUB_0,«Хех... Глупый смертный...»,Heh... Foolish mortal...,「フッ、愚か者め…」
 HEROINE_KURONEKO_SUB_1,"«Т-ты что, дурак?!»",A-Are you stupid?!,「ば、馬鹿じゃないの？」
 HEROINE_AYASE_SUB_0,"«Не подходи ближе, извращенец!»","Don't get any closer, pervert!",「近寄らないで、変態！」
 HEROINE_AYASE_SUB_1,"«...Отвратительно. Пожалуйста, умрите.»",...Disgusting. Please die.,「…気持ち悪い。死んでください」
-HEROINE_KANAKO_SUB_0,«Что ты задумал?! Придурок! Извращенец!»,What are you planning?! You bastard! Pervert!,「何を企んでるのよ！この野郎！変態！」
+HEROINE_KANAKO_SUB_0,"«Что ты задумал?! Придурок! Извращенец!»","What are you planning?! You bastard! Pervert!",「何を企んでるのよ！この野郎！変態！」
 HEROINE_KANAKO_SUB_1,"«Х-ха?! Мерзость, ты что несёшь?!»","H-Huh?! Gross, what are you saying?!",「は、ハァ？！キモッ、何言ってんの？」
 HEROINE_MANAMI_SUB_0,"«Хе-хе, я аж смущаюсь~»","Ehehe, you're making me blush~",「えへへ、照れちゃうな〜」
 HEROINE_MANAMI_SUB_1,"«Кё-тян, чай готов~»","Kyou-chan, tea's ready~",「京ちゃん、お茶入ったよ〜」
-HEROINE_SAORI_SUB_0,«Охо-хо! Неужели Кёсукэ-си...»,Oho! Can it be that Kyousuke-shi...,「おやおや！京介氏はもしや…」
-HEROINE_SAORI_SUB_1,«Это часть секретного плана?»,Is this part of the secret strategy?,「作戦でありますか？」
+HEROINE_SAORI_SUB_0,"«Охо-хо! Неужели Кёсукэ-си...»",Oho! Can it be that Kyousuke-shi...,「おやおや！京介氏はもしや…」
+HEROINE_SAORI_SUB_1,"«Это часть секретного плана?»",Is this part of the secret strategy?,「作戦でありますか？」
 HEROINE_SENA_SUB_0,"«И-извращенец, извращенец!! Я в полицию заявлю!!»","P-Pervert, pervert!! I-I'll report you!!",「へ、変態、変態、変態！！つ、通報してやる！！」
-HEROINE_SENA_SUB_1,«Как жестоко! Ты обманул меня!!»,How cruel! You tricked me!!,「ひどい！騙したわね！！」
+HEROINE_SENA_SUB_1,"«Как жестоко! Ты обманул меня!!»","How cruel! You tricked me!!",「ひどい！騙したわね！！」
 COMMON_SECONDS_SHORT, сек, s, 秒
 COMMON_CLEAR,Очистить,Clear,消去
 COMMON_SETTING,Настройка,Setting,設定
@@ -659,11 +669,11 @@ SETTINGS_RESET_DEFAULT,Сбросить к значению по умолчан�
 COMMON_ARE_YOU_SURE,Вы уверены?,Are you sure?,本当によろしいですか？
 COMMON_CONTINUE,Продолжить,Continue,つづきから
 ACTION_ADVANCE_TITLE,Продвижение / Выбор,Advance / Select,決定・テキスト送り
-SAVELOAD_ROUTE_FORMAT,Рут %s,%s Route,%s ルート
-SAVELOAD_DEFAULT_HEROINE,Основной сюжет,Main Story,メインストーリー
-SAVELOAD_CARD_DEMO_ROUTE,Рут Куронэко,Kuroneko Route,黒猫ルート
-SAVELOAD_CARD_DEMO_CHAPTER,Глава 14,Chapter 14,第14章
-SAVELOAD_CARD_DEMO_TIME,Время игры 18:42:31,Play Time 18:42:31,プレイ時間 18:42:31
+SAVELOAD_ROUTE_FORMAT,"Рут %s","%s Route","%s ルート"
+SAVELOAD_DEFAULT_HEROINE,"Основной сюжет","Main Story","メインストーリー"
+SAVELOAD_CARD_DEMO_ROUTE,"Рут Куронэко","Kuroneko Route","黒猫ルート"
+SAVELOAD_CARD_DEMO_CHAPTER,"Глава 14","Chapter 14","第14章"
+SAVELOAD_CARD_DEMO_TIME,"Время игры 18:42:31","Play Time 18:42:31","プレイ時間 18:42:31"
 SETTINGS_TEXTURE_QUALITY_TITLE,Качество текстур,Texture Quality,テクスチャ品質
 SETTINGS_TEXTURE_QUALITY_DESC,Разрешение игровых фонов и иллюстраций (требуются пакеты HD/4K),Resolution of backgrounds and event illustrations (requires HD/4K packs),背景やイベントCGのテクスチャ解像度（HD/4Kパックが必要）
 SETTINGS_TEXTURE_QUALITY_SD,Оригинал (PSP 272p),Original (PSP 272p),オリジナル (PSP 272p)
@@ -680,14 +690,14 @@ UPSCALER_PACK_STATUS_INSTALLED,Установлен (%s),Installed (%s),イン�
 UPSCALER_PACK_STATUS_NOT_INSTALLED,Не установлен,Not Installed,未インストール
 UPSCALER_PRESET_TITLE,Пресет:,Preset:,プリセット:
 UPSCALER_PRESET_STUDIO_HD,1080p Качество (AnimeSharpV4),1080p Studio (AnimeSharpV4),1080p 高画質 (AnimeSharpV4)
-UPSCALER_PRESET_STUDIO_HD_DESC,Студийное качество: бритвенно-четкий лайн-арт (AnimeSharpV4) для персонажей/CG и сохранение текстур окружения (UltraSharp).,Studio quality: razor-sharp lineart (AnimeSharpV4) for characters/CG and natural texture preservation for backgrounds (UltraSharp).,スタジオ品質：キャラクター/CG向けの極限にシャープな輪郭線（AnimeSharpV4）と背景テクスチャの保持（UltraSharp）。
+UPSCALER_PRESET_STUDIO_HD_DESC,"Студийное качество: бритвенно-четкий лайн-арт (AnimeSharpV4) для персонажей/CG и сохранение текстур окружения (UltraSharp).","Studio quality: razor-sharp lineart (AnimeSharpV4) for characters/CG and natural texture preservation for backgrounds (UltraSharp).","スタジオ品質：キャラクター/CG向けの極限にシャープな輪郭線（AnimeSharpV4）と背景テクスチャの保持（UltraSharp）。"
 UPSCALER_PRESET_FAST_HD,1080p Быстрый (AnimeSharp Fast),1080p Fast (AnimeSharp Fast),1080p 高速 (AnimeSharp Fast)
-UPSCALER_PRESET_FAST_HD_DESC,Ускоренная архитектура PixelUnshuffle (~2.4x быстрее). Чистые контуры и высокая детализация при минимальных затратах времени.,Accelerated PixelUnshuffle architecture (~2.4x faster). Clean edges and high detail with reduced processing time.,PixelUnshuffle高速化アーキテクチャ（約2.4倍高速）。シャープな輪郭と高速処理を両立。
+UPSCALER_PRESET_FAST_HD_DESC,"Ускоренная архитектура PixelUnshuffle (~2.4x быстрее). Чистые контуры и высокая детализация при минимальных затратах времени.","Accelerated PixelUnshuffle architecture (~2.4x faster). Clean edges and high detail with reduced processing time.","PixelUnshuffle高速化アーキテクチャ（約2.4倍高速）。シャープな輪郭と高速処理を両立。"
 UPSCALER_PRESET_EXTREME_4K,4K Ultra HD (AnimeSharpV4),4K Ultra HD (AnimeSharpV4),4K Ultra HD (AnimeSharpV4)
 UPSCALER_PRESET_EXTREME_4K_DESC,Максимальное качество 4K. Двухпроходный каскад AnimeSharpV4 и UltraSharp до 3840×2160.,Maximum 4K quality. Two-pass AnimeSharpV4 and UltraSharp cascade up to 3840×2160.,4K最高画質。AnimeSharpV4とUltraSharpの2パスカスケード処理（最大3840×2160）。
 UPSCALER_BADGE_EXPERIMENTAL,[Экспериментально / 6GB+ ОЗУ],[Highly Experimental / 6GB+ RAM],[実験的機能 / 6GB+ RAM]
 UPSCALER_RAM_REQUIREMENT_ERROR,Недоступно на данном устройстве: требуется минимум 6 ГБ ОЗУ,Not Available on This Device: Requires at Least 6 GB of RAM,この端末では利用不可：最低6GBのRAMが必要です
-UPSCALER_EXPERIMENTAL_WARNING,Внимание: Обработка с использованием архитектуры Transformer на мобильном процессоре требует значительного времени и энергии аккумулятора. Рекомендуется подключить устройство к зарядному устройству. Продолжить?,Warning: Running Vision Transformer inference on mobile CPU requires substantial time and battery power. Connecting to a charger is recommended. Continue?,警告：モバイル端末でのTransformer処理は多大な時間とバッテリーを消費します。充電器に接続した状態での実行を推奨します。続行しますか？
+UPSCALER_EXPERIMENTAL_WARNING,"Внимание: Обработка с использованием архитектуры Transformer на мобильном процессоре требует значительного времени и энергии аккумулятора. Рекомендуется подключить устройство к зарядному устройству. Продолжить?","Warning: Running Vision Transformer inference on mobile CPU requires substantial time and battery power. Connecting to a charger is recommended. Continue?","警告：モバイル端末でのTransformer処理は多大な時間とバッテリーを消費します。充電器に接続した状態での実行を推奨します。続行しますか？"
 UPSCALER_STATUS_IDLE,Готов к сборке,Ready to Build,準備完了
 UPSCALER_STATUS_BUILDING,"Генерация пакета: %s (%d/%d, %.1f%%)","Generating Pack: %s (%d/%d, %.1f%%)","パック生成中: %s (%d/%d, %.1f%%)"
 UPSCALER_STATUS_FINISHED,Сборка пакета успешно завершена!,Pack Generation Completed Successfully!,パックの生成が正常に完了しました！
@@ -703,7 +713,7 @@ UPSCALER_BADGE_GPU_ACCEL,[GPU: %s],[GPU: %s],[GPU: %s]
 UPSCALER_WARNING_CPU_MODE,Внимание: Обработка на CPU займет длительное время,Warning: CPU Processing Will Take Significant Time,警告：CPU処理には長時間を要します
 UPSCALER_UNSUPPORTED_ON_ANDROID,(Не поддерживается на Android),(Unsupported on Android),(Android非対応)
 UPSCALER_BADGE_VULKAN_FAST,NCNN Vulkan • GPU,NCNN Vulkan • GPU,NCNN Vulkan • GPU
-UPSCALER_PROGRESS_STATS,Прошло: %s • Осталось: ~%s • Скорость: %.1f изобр./с,Elapsed: %s • Remaining: ~%s • Speed: %.1f img/s,経過: %s • 残り: 約%s • 速度: %.1f 画像/秒
+UPSCALER_PROGRESS_STATS,"Прошло: %s • Осталось: ~%s • Скорость: %.1f изобр./с","Elapsed: %s • Remaining: ~%s • Speed: %.1f img/s","経過: %s • 残り: 約%s • 速度: %.1f 画像/秒"
 UPSCALER_PROGRESS_CALCULATING,Расчет оставшегося времени...,Calculating Estimated Time...,残り時間を計算中...
 UPSCALER_PRESET_ANIMEVIDEO_HD,1080p Турбо (AnimeVideoV3),1080p Turbo (AnimeVideoV3),1080p 超高速 (AnimeVideoV3)
 UPSCALER_PRESET_ANIMEVIDEO_HD_DESC,Молниеносный апскейл (~36 мс/кадр). Полная генерация всей игры займет около 1-1.5 минут!,Lightning-Fast Upscaling (~36 ms/frame). Entire Game Generated in About 1-1.5 Minutes!,超高速アップスケール（約36ms/フレーム）。全編の生成が約1〜1.5分で完了します！
@@ -712,15 +722,15 @@ UPSCALER_MODE_TILED_PASS,Адаптивный тайлинг (%d px),Adaptive Ti
 INSTALLER_CHECK_HD_GEN,Сгенерировать HD-пакет (1080p),Generate HD Pack (1080p),HDパック (1080p) を生成する
 INSTALLER_BTN_IMPORT_PCK,Импортировать PCK...,Import PCK...,PCKをインポート...
 UPSCALER_STATUS_STARTING,Подготовка к генерации...,Preparing Generation...,生成の準備中...
-UPSCALER_STATUS_CANCELLING,"Отмена генерации, пожалуйста подождите...","Cancelling Generation, Please Wait...",生成を中止しています。お待ちください...
-UPSCALER_CONFIRM_CANCEL_AND_CLOSE,Генерация пакета текстур еще выполняется. Прервать генерацию и закрыть окно?,Texture pack generation is still in progress. Cancel generation and close the window?,テクスチャパックの生成が進行中です。生成を中止してウィンドウを閉じますか？
+UPSCALER_STATUS_CANCELLING,"Отмена генерации, пожалуйста подождите...","Cancelling Generation, Please Wait...","生成を中止しています。お待ちください..."
+UPSCALER_CONFIRM_CANCEL_AND_CLOSE,"Генерация пакета текстур еще выполняется. Прервать генерацию и закрыть окно?","Texture pack generation is still in progress. Cancel generation and close the window?","テクスチャパックの生成が進行中です。生成を中止してウィンドウを閉じますか？"
 DISC_SELECT_TITLE,Выбор кампании,Select Campaign,キャンペーン選択
 DISC_SELECT_SUBTITLE,Выберите часть для прохождения,Choose a campaign to play,プレイするディスクを選択してください
 DISC_1_TITLE,Диск 1: Ore no Imouto Portable,Disc 1: Ore no Imouto Portable,ディスク1: 俺の妹がこんなに可愛いわけがない ポータブル
-DISC_1_DESC,"Оригинальная история: отаку-хобби сестры, летний фестиваль и основные руты героинь.","Original story: sister's otaku hobby, summer festival, and main heroine routes.",原作本編: 妹のオタク趣味の発見、夏コミ、そしてヒロインたちとの出会いと物語。
+DISC_1_DESC,"Оригинальная история: отаку-хобби сестры, летний фестиваль и основные руты героинь.","Original story: sister's otaku hobby, summer festival, and main heroine routes.","原作本編: 妹のオタク趣味の発見、夏コミ、そしてヒロインたちとの出会いと物語。"
 DISC_2_TITLE,Диск 2: Tsuzuku (Послесловие),Disc 2: Tsuzuku (After Story),ディスク2: 俺の妹がこんなに可愛いわけがない ポータブルが続くわけがない
-DISC_2_DESC,"Продолжение отношений после признания, новые руты (Сэна, Яминэко) и викторина Киририн и Куронян.","Lover's after story, new routes (Sena, Yamineko), and the Kiririn & Kuronyan meta-quiz.",恋人同士となった後のアフターストーリー、新ルート（瀬菜、闇猫）、きりりん＆黒猫のクイズ。
-DISC_PROGRESS_CLEARED,Пройдено концовок: %d / %d,Endings Cleared: %d / %d,クリア済みエンディング: %d / %d
+DISC_2_DESC,"Продолжение отношений после признания, новые руты (Сэна, Яминэко) и викторина Киририн и Куронян.","Lover's after story, new routes (Sena, Yamineko), and the Kiririn & Kuronyan meta-quiz.","恋人同士となった後のアフターストーリー、新ルート（瀬菜、闇猫）、きりりん＆黒猫のクイズ。"
+DISC_PROGRESS_CLEARED,"Пройдено концовок: %d / %d","Endings Cleared: %d / %d","クリア済みエンディング: %d / %d"
 DISC_RECOMMEND_DISC1,Рекомендуется сначала пройти Диск 1,Recommended to clear Disc 1 first,先にディスク1をプレイすることをお勧めします
 DISC_START_CAMPAIGN,Начать кампанию,Start Campaign,キャンペーンを開始
 DISC_2_START_TITLE,Запуск Диска 2,Start Disc 2,ディスク2の開始
@@ -728,23 +738,23 @@ DISC_2_START_PROMPT,Вы уже проходили вводную виктори
 DISC_2_PROLOGUE_FULL,Полный пролог (Викторина Киририн и Куронян),Full Prologue (Kiririn & Kuronyan Quiz),完全プロローグ（きりりん＆黒猫クイズ）
 DISC_2_PROLOGUE_FAST,Быстрый старт (Утро 15 августа — выбор рута),Quick Start (August 15 Morning — Route Choice),クイックスタート（8月15日の朝・ルート選択）
 ROUTE_CONTINUATION_TITLE,Продолжение истории,Story Continuation,物語の続きへ
-ROUTE_CONTINUATION_MSG,Поздравляем с завершением рута %s на Диске 1! Желаете перейти к продолжению её истории на Диске 2?,Congratulations on completing %s's route on Disc 1! Would you like to proceed to her continuation on Disc 2?,ディスク1で%sルートをクリアしました！ディスク2の彼女のアフターストーリーに進みますか？
+ROUTE_CONTINUATION_MSG,"Поздравляем с завершением рута %s на Диске 1! Желаете перейти к продолжению её истории на Диске 2?","Congratulations on completing %s's route on Disc 1! Would you like to proceed to her continuation on Disc 2?","ディスク1で%sルートをクリアしました！ディスク2の彼女のアフターストーリーに進みますか？"
 ROUTE_CONTINUATION_BTN_PROCEED,Продолжить на Диске 2,Continue on Disc 2,ディスク2へ進む
 ROUTE_CONTINUATION_BTN_MENU,В главное меню,Main Menu,メインメニューへ
 CONFIRM_NEW_GAME_TITLE,Новая игра,New Game,ニューゲーム
-CONFIRM_NEW_GAME_DESC,Начать новую кампанию? Несохраненный прогресс текущей игры будет потерян.,Start a new campaign? Any unsaved progress will be lost.,新しいゲームを開始しますか？セーブされていない進行状況は失われます。
+CONFIRM_NEW_GAME_DESC,"Начать новую кампанию? Несохраненный прогресс текущей игры будет потерян.","Start a new campaign? Any unsaved progress will be lost.","新しいゲームを開始しますか？セーブされていない進行状況は失われます。"
 CONFIRM_NEW_GAME_YES,Начать,Start,開始
 DISC_SWITCH_TITLE,Смена диска,Change Disc,ディスク切替
-DISC_SWITCH_DESC,Переключить активную кампанию на выбранный диск?,Switch active campaign to the selected disc?,アクティブなキャンペーンを選択したディスクに切り替えますか？
+DISC_SWITCH_DESC,"Переключить активную кампанию на выбранный диск?","Switch active campaign to the selected disc?","アクティブなキャンペーンを選択したディスクに切り替えますか？"
 SETTINGS_VERSION_LABEL,Версия игры,Game Version,ゲームバージョン
 SETTINGS_CHECK_UPDATES_BTN,Проверить обновления,Check for Updates,アップデートを確認
 SETTINGS_UPDATE_CHECKING,Проверка обновлений...,Checking for updates...,更新を確認中...
 SETTINGS_UPDATE_LATEST,У вас установлена последняя версия,You have the latest version,最新バージョンです
-SETTINGS_UPDATE_AVAILABLE,Доступна новая версия: %s,New version available: %s,新しいバージョンが利用可能です: %s
+SETTINGS_UPDATE_AVAILABLE,"Доступна новая версия: %s","New version available: %s","新しいバージョンが利用可能です: %s"
 SETTINGS_UPDATE_FAILED,Не удалось проверить обновления,Could not check for updates,アップデートの確認に失敗しました
 UPDATE_MODAL_TITLE,Обновление игры,Game Update,ゲームのアップデート
-UPDATE_MODAL_ITCH_MSG,Доступна новая версия %s. Она будет загружена автоматически при следующем запуске через клиент itch.io.,Version %s is available. It will update automatically next time you launch through itch.io.,新しいバージョン %s が利用可能です。次回itch.ioアプリ起動時に自動更新されます。
-UPDATE_MODAL_DOWNLOAD_MSG,Доступна новая версия %s. Перейти на страницу загрузки?,Version %s is available. Open download page?,新しいバージョン %s が利用可能です。ダウンロードページを開きますか？
+UPDATE_MODAL_ITCH_MSG,"Доступна новая версия %s. Она будет загружена автоматически при следующем запуске через клиент itch.io.","Version %s is available. It will update automatically next time you launch through itch.io.","新しいバージョン %s が利用可能です。次回itch.ioアプリ起動時に自動更新されます。"
+UPDATE_MODAL_DOWNLOAD_MSG,"Доступна новая версия %s. Перейти на страницу загрузки?","Version %s is available. Open download page?","新しいバージョン %s が利用可能です。ダウンロードページを開きますか？"
 UPDATE_ACTION_DOWNLOAD,Перейти к загрузке,Go to Download,ダウンロードページへ
 UPDATE_BANNER_TITLE,Новая версия,New Version,新しいバージョン
 UPDATE_BANNER_SUB,Доступна v%s,v%s Available,v%s が利用可能
@@ -764,43 +774,43 @@ UPSCALER_STAGE_TITLE,Этап %d,Stage %d,ステージ %d
 UPSCALER_STAGE_MODEL,Модель нейросети,Model,AIモデル
 UPSCALER_MODEL_ANIMEJANAI_STRONG,AnimeJaNai Strong,AnimeJaNai Strong,AnimeJaNai Strong
 UPSCALER_STAGE_DERING,Фильтр DeRing (Анти-звон),DeRing Filter (Anti-Ringing),DeRing フィルター（リンギング抑制）
-UPSCALER_STAGE_DERING_TOOLTIP,Предварительно сглаживает ступенчатый звон и артефакты сжатия перед нейросетью,Pre-smooths stair-stepping ringing and quantization compression before upscaling,アップスケール前に圧縮によるリンギングと階段状ノイズを平滑化
+UPSCALER_STAGE_DERING_TOOLTIP,"Предварительно сглаживает ступенчатый звон и артефакты сжатия перед нейросетью","Pre-smooths stair-stepping ringing and quantization compression before upscaling","アップスケール前に圧縮によるリンギングと階段状ノイズを平滑化"
 UPSCALER_STAGE_SCALE,Масштабирование,Scale Multiplier,拡大倍率
 UPSCALER_STAGE_MAX_CLAMP,Ограничение разрешения,Resolution Clamp,解像度制限
 UPSCALER_CLAMP_NONE,Без ограничений,No Clamp,制限なし
 UPSCALER_PROGRESS_OVERALL,Всего,Overall,全体
 UPSCALER_PROGRESS_CATEGORY,Категория,Category,カテゴリー
 UPSCALER_PROGRESS_STAGE,Этап,Stage,ステージ
-UPSCALER_CURRENT_FILE,Файл: %s,File: %s,ファイル: %s
+UPSCALER_CURRENT_FILE,"Файл: %s","File: %s","ファイル: %s"
 UPSCALER_TIME_ELAPSED,Прошло,Elapsed,経過時間
 UPSCALER_TIME_REMAINING,Осталось,Remaining,残り時間
 UPSCALER_METRIC_DEDUP,Пропущено дублей: %d,Skipped Duplicates: %d,重複スキップ: %d
-UPSCALER_CONFIRM_DELETE_HD,Удалить все установленные пакеты Full HD (1080p)?,Delete all installed Full HD (1080p) packs?,インストール済みのすべてのFull HD (1080p) パックを削除しますか？
-UPSCALER_CONFIRM_DELETE_4K,Удалить все установленные пакеты 4K Ultra HD?,Delete all installed 4K Ultra HD packs?,インストール済みのすべての4K Ultra HDパックを削除しますか？
+UPSCALER_CONFIRM_DELETE_HD,"Удалить все установленные пакеты Full HD (1080p)?","Delete all installed Full HD (1080p) packs?","インストール済みのすべてのFull HD (1080p) パックを削除しますか？"
+UPSCALER_CONFIRM_DELETE_4K,"Удалить все установленные пакеты 4K Ultra HD?","Delete all installed 4K Ultra HD packs?","インストール済みのすべての4K Ultra HDパックを削除しますか？"
 UPSCALER_TOP_PACKS_LABEL,Пакеты:,Packs:,パック:
 UPSCALER_BTN_TUNING,Модели и тюннинг,Models & Tuning,モデル・チューニング
 UPSCALER_TUNING_HEADER,Модели и ускорение,Models & Acceleration,AIモデル・高速化
 UPSCALER_STAGES_HEADER,Этапы обработки,Pipeline Stages,処理ステージ
 UPSCALER_MAX_STAGES_LABEL,(макс. 3),(Max 3),(最大 3)
-UPSCALER_STAGES_COUNT_TOOLTIP,Этапов обработки: %d,Pipeline Stages: %d,処理ステージ数: %d
+UPSCALER_STAGES_COUNT_TOOLTIP,"Этапов обработки: %d","Pipeline Stages: %d","処理ステージ数: %d"
 UPSCALER_DOWNSCALE_STEP,Даунскейл,Downscale,ダウンスケール
-UPSCALER_SCALE_LOCKED_TOOLTIP,Фиксированный масштаб модели,Scale is fixed by model architecture,モデル仕様による固定倍率
-UPSCALER_SCALE_SELECT_TOOLTIP,Выбрать масштаб обработки,Select processing scale multiplier,処理倍率を選択
+UPSCALER_SCALE_LOCKED_TOOLTIP,"Фиксированный масштаб модели","Scale is fixed by model architecture","モデル仕様による固定倍率"
+UPSCALER_SCALE_SELECT_TOOLTIP,"Выбрать масштаб обработки","Select processing scale multiplier","処理倍率を選択"
 UPSCALER_RIGHT_HEADER,Сводка пайплайна и запуск,Pipeline Summary & Build,パイプライン概要・生成
 UPSCALER_TRANSFORM_FLOW,Цепочка трансформации:,Transformation Flow:,変換フロー:
 UPSCALER_FMT_INFO,Формат: JPEG XL,Format: JPEG XL,形式: JPEG XL
 UPSCALER_TARGET_PCK_INFO,Пакеты: hd_*.pck,Packs: hd_*.pck,出力: hd_*.pck
-UPSCALER_TEXTURES_COUNT_INFO,Выбрано ассетов: %d / %d,Selected Assets: %d / %d,選択アセット: %d / %d
+UPSCALER_TEXTURES_COUNT_INFO,"Выбрано ассетов: %d / %d","Selected Assets: %d / %d","選択アセット: %d / %d"
 UPSCALER_BTN_BUILD_JXL,Собрать все,Build All,すべて生成
-UPSCALER_BTN_BUILD_CATEGORY,Собрать: %s,Build %s,%s を生成
+UPSCALER_BTN_BUILD_CATEGORY,"Собрать: %s","Build %s","%s を生成"
 UPSCALER_BTN_BUILD_ALL,Собрать выбранные,Build Selected,選択分を生成
 UPSCALER_CATEGORY_INCLUDE,Включить в сборку,Include in Build,一括生成に含める
-UPSCALER_CAT_PACK_STATUS,Пакет:,Pack:,パック:
-UPSCALER_CAT_ASSETS_COUNT,Ассетов: %d,Assets: %d,アセット: %d
-UPSCALER_PACKS_COUNT_FMT,%d/%d (%s),%d/%d (%s),%d/%d (%s)
-UPSCALER_CONFIRM_DELETE_CAT_HD,Удалить Full HD пакет категории %s?,Delete Full HD pack for %s?,%s のFull HDパックを削除しますか？
-UPSCALER_CONFIRM_DELETE_CAT_4K,Удалить 4K пакет категории %s?,Delete 4K pack for %s?,%s の4Kパックを削除しますか？
-UPSCALER_TARGET_PCK_MODULAR_SINGLE,Файл: %s,File: %s,出力: %s
+UPSCALER_CAT_PACK_STATUS,"Пакет:","Pack:","パック:"
+UPSCALER_CAT_ASSETS_COUNT,"Ассетов: %d","Assets: %d","アセット: %d"
+UPSCALER_PACKS_COUNT_FMT,"%d/%d (%s)","%d/%d (%s)","%d/%d (%s)"
+UPSCALER_CONFIRM_DELETE_CAT_HD,"Удалить Full HD пакет категории %s?","Delete Full HD pack for %s?","%s のFull HDパックを削除しますか？"
+UPSCALER_CONFIRM_DELETE_CAT_4K,"Удалить 4K пакет категории %s?","Delete 4K pack for %s?","%s の4Kパックを削除しますか？"
+UPSCALER_TARGET_PCK_MODULAR_SINGLE,"Файл: %s","File: %s","出力: %s"
 SETTINGS_DISCORD_RPC_TITLE,Discord активность,Discord Activity,Discord アクティビティ
 SETTINGS_DISCORD_RPC_DESC,Трансляция текущей игровой активности и прогресса в Discord,Broadcast current game activity and progress to Discord,現在のゲーム進行状況をDiscordに表示します
 DISCORD_STATUS_MAIN_MENU,В главном меню,In Main Menu,メインメニュー
@@ -827,32 +837,32 @@ DISCORD_SUBMENU_SCENES,Просмотр сцен,Scene Replay,シーン回想
 DISCORD_SUBMENU_FLOWMAP,Карта переходов,Flowmap,フローチャート
 DISCORD_SUBMENU_ORE,Блокнот O.R.E.,O.R.E. Notes,O.R.E.事典
 DISCORD_SUBMENU_SETTINGS,Настройки,Settings,設定
-MENU_REACTION_KIRINO_TRUE,...Уши прочисти! Я... спасибо тебе.,...Clean your ears! Well... thanks.,……だから！ その……ありがとね
-MENU_REACTION_KIRINO_NORMAL,Просто подожди! Я обязательно всё вспомню!,Just wait! I'll do something about my memory!,待ってて！ 記憶なんてどうにかしてやるんだから！
-MENU_REACTION_KIRINO_BAD,Ты совсем меня не слушал? Дурак что ли?!,Don't you have any learning ability? Are you a fool?!,あんた学習能力ないの？ バカなの？！
-MENU_REACTION_KURONEKO_TRUE,Хе-хе... разве это не очевидно?,Heh... isn't it obvious?,ふ……決まってるじゃない
-MENU_REACTION_KURONEKO_NORMAL,"...Делай, как пожелаешь. Я скажу тебе это снова, когда захочу.",...Do as you please. I'll tell you again when I feel like it.,……勝手にしなさい。気が向いたら、言ってあげるわ
-MENU_REACTION_KURONEKO_BAD,"Сколько отказов тебе нужно, чтобы твой мозг с низким IQ всё понял?",How many rejections will it take for that low IQ brain of yours to understand?,私はあなたを拒絶していると、何度言ったらその低脳は理解できるのかしら？
-MENU_REACTION_AYASE_TRUE,...Да. Большое тебе спасибо... брат.,...Yes. Thank you very much... Onii-san.,……はい。ありがとうございます……お兄さん
-MENU_REACTION_AYASE_NORMAL,"Я подумала... может, в благодарность прогуляемся вместе?..",...Then it might be suitable to play around here as a way of returning the favor.,……なら、この町で遊ぶ方が、お礼になるのかなって、思ったんですけど……
-MENU_REACTION_AYASE_BAD,Предатель! Я никогда тебя не прощу! Никогда!,You traitor! I won't forgive you! I'll never forgive you!,──この裏切り者ッ！！ 許せない！ 絶対に許さないッ！！
-MENU_REACTION_MANAMI_TRUE,"Я буду стараться, чтобы Кё-тян был счастлив! Хорошо?",I'll give it my all! I want Kyou-chan to be happy! Right!,わたし頑張る！ きょうちゃんに喜んでほしいんだもん。ね？
-MENU_REACTION_MANAMI_NORMAL,"Мы же друзья детства, для меня естественно беспокоиться о тебе.","We're childhood friends, so it's normal for me to be worried about you.",幼馴染みだもん、心配するのが普通だよ
-MENU_REACTION_MANAMI_BAD,"Со мной всё в порядке... Извини, Кё-тян~","Yes, I'm okay now. Sorry about that, Kyou-chan～",うんっ。もうへいきだよ……ごめんねえ、きょうちゃん
-MENU_REACTION_SAORI_TRUE,...Да!,...Yes!,…………はいっ！
-MENU_REACTION_SAORI_NORMAL,"Большое спасибо, что смирились с моим эгоизмом...",Thank you very much for accepting all of my selfish requests.,『このたびは拙者の我が儘を聞いてくださり、本当にありがとうございました』
-MENU_REACTION_SAORI_BAD,"Проще говоря, проигранная битва... Ха-ха-ха...","To put it frankly, a losing battle... Hahaha.",言ってみれば負け戦も同然でござるよ……ははは
-MENU_REACTION_KANAKO_TRUE,"...Я люблю тебя, Кёсукэ.","...I love you, Kyousuke.",……京介のこと、好きなんだよ
-MENU_REACTION_KANAKO_NORMAL,Спасибо за угощение~ Кёсукэ-сан♪,Thanks for the meal♪ Kyousuke-san♪,ごちそうさまっ♪ 京介さん♪
-MENU_REACTION_KANAKO_BAD,"Х-ха?! Мерзость, ты что несёшь?!","H-Huh?! Gross, what are you saying?",は、はあ！？ キメエ、なに言ってんだっ
-MENU_REACTION_SENA_TRUE,"Я всегда... буду рядом с тобой, сэмпай.","I will always... stay by your side, senpai.",あたしもずっと……先輩のそばにいます
-MENU_REACTION_SENA_BAD,И-извращенец! Извращенец!! Я в полицию заявлю!!,"P-P-Pervert! Pervert! I'm calling the police, okay?!",へ、へ、変態！ 変態です！ 警察呼びますよ！？
+MENU_REACTION_KIRINO_TRUE,"...Уши прочисти! Я... спасибо тебе.","...Clean your ears! Well... thanks.","……だから！ その……ありがとね"
+MENU_REACTION_KIRINO_NORMAL,"Просто подожди! Я обязательно всё вспомню!","Just wait! I'll do something about my memory!","待ってて！ 記憶なんてどうにかしてやるんだから！"
+MENU_REACTION_KIRINO_BAD,"Ты совсем меня не слушал? Дурак что ли?!","Don't you have any learning ability? Are you a fool?!","あんた学習能力ないの？ バカなの？！"
+MENU_REACTION_KURONEKO_TRUE,"Хе-хе... разве это не очевидно?","Heh... isn't it obvious?","ふ……決まってるじゃない"
+MENU_REACTION_KURONEKO_NORMAL,"...Делай, как пожелаешь. Я скажу тебе это снова, когда захочу.","...Do as you please. I'll tell you again when I feel like it.","……勝手にしなさい。気が向いたら、言ってあげるわ"
+MENU_REACTION_KURONEKO_BAD,"Сколько отказов тебе нужно, чтобы твой мозг с низким IQ всё понял?","How many rejections will it take for that low IQ brain of yours to understand?","私はあなたを拒絶していると、何度言ったらその低脳は理解できるのかしら？"
+MENU_REACTION_AYASE_TRUE,"...Да. Большое тебе спасибо... брат.","...Yes. Thank you very much... Onii-san.","……はい。ありがとうございます……お兄さん"
+MENU_REACTION_AYASE_NORMAL,"Я подумала... может, в благодарность прогуляемся вместе?..","...Then it might be suitable to play around here as a way of returning the favor.","……なら、この町で遊ぶ方が、お礼になるのかなって、思ったんですけど……"
+MENU_REACTION_AYASE_BAD,"Предатель! Я никогда тебя не прощу! Никогда!","You traitor! I won't forgive you! I'll never forgive you!","──この裏切り者ッ！！ 許せない！ 絶対に許さないッ！！"
+MENU_REACTION_MANAMI_TRUE,"Я буду стараться, чтобы Кё-тян был счастлив! Хорошо?","I'll give it my all! I want Kyou-chan to be happy! Right!","わたし頑張る！ きょうちゃんに喜んでほしいんだもん。ね？"
+MENU_REACTION_MANAMI_NORMAL,"Мы же друзья детства, для меня естественно беспокоиться о тебе.","We're childhood friends, so it's normal for me to be worried about you.","幼馴染みだもん、心配するのが普通だよ"
+MENU_REACTION_MANAMI_BAD,"Со мной всё в порядке... Извини, Кё-тян~","Yes, I'm okay now. Sorry about that, Kyou-chan～","うんっ。もうへいきだよ……ごめんねえ、きょうちゃん"
+MENU_REACTION_SAORI_TRUE,"...Да!","...Yes!","…………はいっ！"
+MENU_REACTION_SAORI_NORMAL,"Большое спасибо, что смирились с моим эгоизмом...","Thank you very much for accepting all of my selfish requests.","『このたびは拙者の我が儘を聞いてくださり、本当にありがとうございました』"
+MENU_REACTION_SAORI_BAD,"Проще говоря, проигранная битва... Ха-ха-ха...","To put it frankly, a losing battle... Hahaha.","言ってみれば負け戦も同然でござるよ……ははは"
+MENU_REACTION_KANAKO_TRUE,"...Я люблю тебя, Кёсукэ.","...I love you, Kyousuke.","……京介のこと、好きなんだよ"
+MENU_REACTION_KANAKO_NORMAL,"Спасибо за угощение~ Кёсукэ-сан♪","Thanks for the meal♪ Kyousuke-san♪","ごちそうさまっ♪ 京介さん♪"
+MENU_REACTION_KANAKO_BAD,"Х-ха?! Мерзость, ты что несёшь?!","H-Huh?! Gross, what are you saying?","は、はあ！？ キメエ、なに言ってんだっ"
+MENU_REACTION_SENA_TRUE,"Я всегда... буду рядом с тобой, сэмпай.","I will always... stay by your side, senpai.","あたしもずっと……先輩のそばにいます"
+MENU_REACTION_SENA_BAD,"И-извращенец! Извращенец!! Я в полицию заявлю!!","P-P-Pervert! Pervert! I'm calling the police, okay?!","へ、へ、変態！ 変態です！ 警察呼びますよ！？"
 UPSCALER_MODEL_STUDIO,AnimeSharpV4 Studio,AnimeSharpV4 Studio,AnimeSharpV4 Studio
 UPSCALER_MODEL_FAST,AnimeSharpV4 Fast,AnimeSharpV4 Fast,AnimeSharpV4 Fast
 UPSCALER_MODEL_ULTRASHARP,4x-UltraSharp,4x-UltraSharp,4x-UltraSharp
 UPSCALER_MODEL_ANIMEVIDEOV3,AnimeVideoV3,AnimeVideoV3,AnimeVideoV3
 UPSCALER_GPU_DETECTING,GPU: Определение...,GPU: Detecting...,GPU: 検出中...
-UPSCALER_GPU_READY,GPU: %s,GPU: %s,GPU: %s
+UPSCALER_GPU_READY,"GPU: %s","GPU: %s","GPU: %s"
 UPSCALER_CPU_FALLBACK,Режим CPU,CPU Mode,CPUモード
 SAVELOAD_CONFIRM_LOAD_AUTO_MSG,"Загрузить автосохранение No. %02d?
 Весь несохраненный прогресс будет потерян.","Load Autosave No. %02d?
@@ -861,8 +871,8 @@ Any unsaved progress will be lost.","オートセーブ No. %02d をロードし
 SETTINGS_SKIP_HOLD,Удерживать,Hold,長押し
 SETTINGS_SKIP_TOGGLE,Переключать,Toggle,トグル
 SETTINGS_LANG_PACKS_TITLE,Языковые пакеты,Language Packs,言語パック
-SETTINGS_LANG_PACKS_DESC,Установленные языковые пакеты и переводы игры,Installed language packs and game translations,導入済みの言語パックおよびゲーム翻訳
-SETTINGS_LANG_PACKS_INSTALLED,Установлено пакетов: %d (%s),Installed Packs: %d (%s),導入済みパック: %d (%s)
+SETTINGS_LANG_PACKS_DESC,"Установленные языковые пакеты и переводы игры","Installed language packs and game translations","導入済みの言語パックおよびゲーム翻訳"
+SETTINGS_LANG_PACKS_INSTALLED,"Установлено пакетов: %d (%s)","Installed Packs: %d (%s)","導入済みパック: %d (%s)"
 SETTINGS_LANG_PACKS_NONE,Дополнительные языковые пакеты не установлены (используется базовый пакет),No external language packs installed (using base pack),追加の言語パックは未導入です（基本パックを使用中）
 SETTINGS_LANG_RESCAN_TOOLTIP,Обновить список языковых пакетов,Rescan Language Packs,言語パックを再読み込み
 SETTINGS_LANG_EXPORT_BTN,Экспорт CSV,Export CSV,CSV出力
@@ -871,10 +881,10 @@ SETTINGS_LANG_IMPORT_BTN,Импорт .PCK,Import .PCK,.PCK読込
 SETTINGS_LANG_DIALOG_EXPORT_TITLE,Выберите папку для экспорта таблиц перевода (.CSV),Select Folder to Export Translation Tables (.CSV),翻訳テーブル(.CSV)の出力先フォルダを選択
 SETTINGS_LANG_DIALOG_BUILD_TITLE,Выберите папку с переведёнными файлами (.CSV) для сборки пакета,Select Folder with Translated (.CSV) Files to Build Pack,ビルドする翻訳済み(.CSV)フォルダを選択
 SETTINGS_LANG_DIALOG_IMPORT_TITLE,Выберите языковой пакет (.pck) для установки,Select Language Pack (.pck) to Install,導入する言語パック(.pck)を選択
-SETTINGS_LANG_STATUS_EXPORT_OK,✓ Шаблон выгружен (%d файлов): %s,✓ Template exported (%d files): %s,✓ テンプレートを出力しました (%d ファイル): %s
-SETTINGS_LANG_STATUS_BUILD_OK,✓ Собрано и подключено: lang_%s.pck (%d файлов),✓ Built and mounted: lang_%s.pck (%d files),✓ ビルド・適用完了: lang_%s.pck (%d ファイル)
-SETTINGS_LANG_STATUS_IMPORT_OK,✓ Установлен языковой пакет: lang_%s.pck (%d файлов),✓ Installed language pack: lang_%s.pck (%d files),✓ 言語パックを導入しました: lang_%s.pck (%d ファイル)
-SETTINGS_LANG_STATUS_ERROR,Ошибка: %s,Error: %s,エラー: %s
+SETTINGS_LANG_STATUS_EXPORT_OK,"✓ Шаблон выгружен (%d файлов): %s","✓ Template exported (%d files): %s","✓ テンプレートを出力しました (%d ファイル): %s"
+SETTINGS_LANG_STATUS_BUILD_OK,"✓ Собрано и подключено: lang_%s.pck (%d файлов)","✓ Built and mounted: lang_%s.pck (%d files)","✓ ビルド・適用完了: lang_%s.pck (%d ファイル)"
+SETTINGS_LANG_STATUS_IMPORT_OK,"✓ Установлен языковой пакет: lang_%s.pck (%d файлов)","✓ Installed language pack: lang_%s.pck (%d files)","✓ 言語パックを導入しました: lang_%s.pck (%d ファイル)"
+SETTINGS_LANG_STATUS_ERROR,"Ошибка: %s","Error: %s","エラー: %s"
 SETTINGS_LANG_CARD_ACTIVE,✓ Активен,✓ Active,✓ 適用中
 SETTINGS_LANG_CARD_SELECT,Выбрать,Select,選択
 SETTINGS_LANG_CARD_INSTALLED,Установлен,Installed,導入済み
@@ -883,8 +893,73 @@ SETTINGS_LANG_CARD_UI_ONLY,Только интерфейс,UI Only,UIのみ
 SETTINGS_LANG_RESCAN_BTN,Обновить,Rescan,再スキャン
 SETTINGS_LANG_OPEN_FOLDER_BTN,Папка пакетов,Packs Folder,パックフォルダ
 SETTINGS_LANG_TRANSLATOR_TOOLS,Инструменты переводчика (CSV),Translator Tools (CSV),翻訳者向けツール (CSV)
-SETTINGS_LANG_STATUS_RESCAN_OK,✓ Найдено языковых пакетов: %d,✓ Found %d language pack(s),✓ 検出された言語パック: %d
-SETTINGS_LANG_STATUS_SWITCH_OK,✓ Язык переключён: %s,✓ Language switched: %s,✓ 言語を変更しました: %s
+SETTINGS_LANG_STATUS_RESCAN_OK,"✓ Найдено языковых пакетов: %d","✓ Found %d language pack(s)","✓ 検出された言語パック: %d"
+SETTINGS_LANG_STATUS_SWITCH_OK,"✓ Язык переключён: %s","✓ Language switched: %s","✓ 言語を変更しました: %s"
 SETTINGS_LANG_TAG_LOCAL,ЛОКАЛЬНЫЙ,LOCAL,ローカル
+SETTINGS_LANG_TAG_LOCAL_TOOLTIP,"Локальный пакет, установленный пользователем вручную.","Local package installed manually.","手動で配置されたローカルパッケージです。"
 SETTINGS_LANG_TAG_BASE,БАЗОВЫЙ ISO,BASE ISO,ベースISO
+SETTINGS_LANG_TAG_BASE_TOOLTIP,"Оригинальные немодифицированные ресурсы игры с UMD-диска.","Original unmodified game assets from UMD disc.","UMDディスクからのオリジナルゲームリソースです。"
+SETTINGS_LANG_TAG_PARTIAL,НЕПОЛНЫЙ,PARTIAL,一部翻訳
+SETTINGS_LANG_TAG_PARTIAL_TOOLTIP,"Этот перевод не завершен и находится в процессе разработки.","This translation is incomplete and currently in progress.","この翻訳は未完成であり、現在制作中です。"
+SETTINGS_LANG_TAG_COMMUNITY,СООБЩЕСТВО,COMMUNITY,コミュニティ
+SETTINGS_LANG_TAG_COMMUNITY_TOOLTIP,"Любительский фанатский перевод от независимого сообщества.","Fan translation by the independent community.","有志コミュニティによるファン翻訳です。"
+SETTINGS_LANG_TAG_WIP,В РАЗРАБОТКЕ,WIP,開発中
+SETTINGS_LANG_TAG_WIP_TOOLTIP,"Черновая версия перевода в активной разработке.","Draft translation version in active development.","開発中のドラフト版翻訳です。"
+SETTINGS_LANG_TAG_BETA,БЕТА,BETA,ベータ
+SETTINGS_LANG_TAG_BETA_TOOLTIP,"Бета-версия перевода. Возможны неточности или временные элементы.","Beta version of the translation. May contain inaccuracies or temporary elements.","ベータ版の翻訳です。不正確な表現や仮データが含まれる場合があります。"
+SETTINGS_LANG_TAG_AI,МАШИННЫЙ,MACHINE,機械翻訳
+SETTINGS_LANG_TAG_AI_TOOLTIP,"Перевод выполнен с использованием машинного перевода или ИИ.","Translation generated using machine translation or AI.","機械翻訳またはAIによって生成された翻訳です。"
+SETTINGS_LANG_TAG_PROOFREAD,ВЫЧИТАН,PROOFREAD,校正済
+SETTINGS_LANG_TAG_PROOFREAD_TOOLTIP,"Текст перевода прошел вычитку и литературную редактуру.","Text has been edited and proofread.","テキストの校正・推敲が完了しています。"
 SETTINGS_LANG_BASE_AUTHOR,Образ диска,Disc Image,ディスクイメージ
+SETTINGS_LANG_DOWNLOAD_FAILED,Ошибка загрузки,Download Failed,ダウンロード失敗
+FLOWMAP_ENDING_BADGE_TRUE,Истинная концовка (True Ending),True Ending,トゥルーエンド
+FLOWMAP_ENDING_BADGE_GOOD,Хорошая концовка (Good Ending),Good Ending,グッドエンド
+FLOWMAP_ENDING_BADGE_BAD,Плохая концовка (Bad Ending),Bad Ending,バッドエンド
+FLOWMAP_ENDING_SHORT_TRUE,Истинная,True,TRUE
+FLOWMAP_ENDING_SHORT_GOOD,Хорошая,Good,GOOD
+FLOWMAP_ENDING_SHORT_BAD,Плохая,Bad,BAD
+FLOWMAP_ENDING_SHORT_NORMAL,Финал,End,END
+FLOWMAP_WIN_SCORE_COND,Набрать от %d очков,Score %d+ Points,%dポイント以上獲得
+FLOWMAP_WIN_ANSWERS_COND,Дать от %d верных ответов,Give %d+ Correct Answers,正解%d回以上
+FLOWMAP_TSUKKOMI_FLAG_FORMAT,Флаг v%d = 1,Flag v%d = 1,フラグ v%d = 1
+FLOWMAP_TSUKKOMI_STEP_TITLE,Цуккоми %s,Tsukkomi %s,ツッコミ %s
+FLOWMAP_ORE_STEP,O.R.E. #%d «%s»%s,"O.R.E. #%d ""%s""%s",O.R.E. #%d「%s」%s
+FLOWMAP_ORE_ANY_STEP,Любая тема: %s%s,Any Topic: %s%s,任意テーマ：%s%s
+FLOWMAP_ORE_ITEM_QUOTE,#%d «%s»,"#%d ""%s""",#%d「%s」
+FLOWMAP_ORE_TIMEOUT_SINGLE,Пропуск O.R.E. (таймаут),Skip O.R.E. (Timeout),O.R.E.スキップ（時間切れ）
+FLOWMAP_ORE_TIMEOUT_SPECIFIC,Пропуск O.R.E. #%d (таймаут),Skip O.R.E. #%d (Timeout),O.R.E. #%d スキップ（時間切れ）
+FLOWMAP_ORE_TIMEOUT_MULTI,%d× Пропуск O.R.E. (таймаут),%d× Skip O.R.E. (Timeout),%d回 O.R.E.スキップ（時間切れ）
+FLOWMAP_LINES_SINGULAR,реплика,line,セリフ
+FLOWMAP_LINES_FEW,реплики,lines,セリフ
+FLOWMAP_LINES_PLURAL,реплик,lines,セリフ
+FLOWMAP_LINES_SUFFIX," (%d %s)"," (%d %s)",（%d %s）
+COND_CKUR_DISPUTE_ERRORS,Ошибки в споре с Куронэко (уход на плохую ветку),Debate Errors with Kuroneko (Bad Branch),黒猫との口論ミス（バッド分岐）
+COND_CKUR_DISPUTE_SUCCESS,Успех в споре с Куронэко (продолжение рута),Success in Debate with Kuroneko (Route Continues),黒猫との口論成功（ルート継続）
+COND_CKUR_TRUE_ROUTE,Истинный путь: правильный выбор тем O.R.E. (True Ending),True Path: Correct O.R.E. Choices (True Ending),トゥルールート：正しいO.R.E.選択（True Ending）
+COND_CKUR_GOOD_ROUTE,Хороший путь: допущены ошибки в темах O.R.E. (Good Ending),Good Path: Mistakes Made in O.R.E. Choices (Good Ending),グッドルート：O.R.E.選択にミスあり（Good Ending）
+COND_EMAN_KEY_ORE_USED,Использована ключевая тема O.R.E. Манами,Manami Key O.R.E. Topic Used,麻奈実の重要O.R.E.を使用
+COND_EMAN_KEY_ORE_UNUSED,Ключевая тема Манами не использована,Manami Key O.R.E. Topic Unused,麻奈実の重要O.R.E.を未使用
+COND_EMAN_ROUTE_ACCEPT,Выбор пути Манами (успех),Manami Path Chosen (Success),麻奈実ルート選択（成功）
+COND_EMAN_ROUTE_REJECT,Отказ от пути Манами,Manami Path Declined,麻奈実ルート見送り
+COND_FAYA_INTERROGATION1_WIN,Успех в первом допросе Аясэ,Success in Ayase's First Interrogation,あやせ第1尋問成功
+COND_FAYA_INTERROGATION1_FAIL,Провал в первом допросе Аясэ,Failure in Ayase's First Interrogation,あやせ第1尋問失敗
+COND_FAYA_FINAL_WIN,Успех в финальном допросе Аясэ (True Ending),Success in Ayase's Final Interrogation (True Ending),あやせ最終尋問成功（True Ending）
+COND_FAYA_FINAL_FAIL,Провал в финальном допросе Аясэ,Failure in Ayase's Final Interrogation,あやせ最終尋問失敗
+COND_DSAO_TRUST_HIGH,Высокий уровень доверия Саори,High Saori Trust Level,沙織の信頼度・高
+COND_DSAO_TRUST_LOW,Недостаточно доверия Саори,Insufficient Saori Trust Level,沙織の信頼度不足
+COND_ROUTE_IF_BAD,IF / Плохой финал,IF / Bad Ending,IF / バッドエンド
+COND_ROUTE_SELECTED,Выбран маршрут %s,%s Route Selected,%sルート選択
+COND_ROUTE_NOT_SELECTED,Маршрут %s не выбран,%s Route Not Selected,%sルート未選択
+COND_TEAM_SELECTED,Выбор команды %s в Акибе,Team %s Chosen in Akiba,秋葉原で%sチーム選択
+COND_TEAM_NOT_SELECTED,Команда %s не выбрана,Team %s Not Chosen,%sチーム未選択
+COND_TSUKKOMI_WIN,Победа в диалоге Цуккоми,Victory in Tsukkomi Dialogue,ツッコミ会話で勝利
+COND_TSUKKOMI_FAIL,Поражение / таймаут в диалоге Цуккоми,Defeat / Timeout in Tsukkomi Dialogue,ツッコミ会話で敗北・時間切れ
+COND_TSUKKOMI_CORRECT_COUNT,Правильных ответов в Цуккоми %s %d,Tsukkomi Correct Answers %s %d,ツッコミ正解数 %s %d
+COND_TSUKKOMI_CRITICAL,Выбор критической реплики Цуккоми (%s %d),Tsukkomi Critical Choice (%s %d),ツッコミ重要選択肢（%s %d）
+COND_D2_DISC1_SAVE,Проверка SYSTEM.DAT первой части (%s %d),Disc 1 SYSTEM.DAT Check (%s %d),Disc 1 SYSTEM.DAT判定（%s %d）
+COND_D2_DISC1_ROUTE,Проверка прохождения ключевых рутов первой части (%s %d),Disc 1 Key Routes Completion Check (%s %d),Disc 1 主要ルートクリア判定（%s %d）
+COND_D2_SENA_BRANCH,Выбрана ветка рута Сэны #%d,Sena Route Branch #%d Selected,瀬菜ルート分岐 #%d 選択
+COND_AFFECTION_CMP,Симпатия %s %s %d,%s Affection %s %d,%sの好感度 %s %d
+COND_INACTIVE_FORMAT,%s (не выполнено),%s (Not Met),%s（未達成）
+COND_GENERIC_CMP,%s %s %d,%s %s %d,%s %s %d

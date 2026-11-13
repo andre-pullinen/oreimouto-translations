@@ -130,7 +130,7 @@ def generate_catalog(
 
     now_iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     catalog = {
-        "schema_version": 1,
+        "schema_version": 2,
         "last_updated": now_iso,
         "packages": [],
     }
@@ -156,12 +156,14 @@ def generate_catalog(
             continue
 
         pkg_id = manifest.get("id", f"lang_{loc}_community")
-        pkg_name = manifest.get("display_name", loc.upper())
-        team_name = manifest.get("team_name", "Community")
-        authors = manifest.get("authors", [team_name])
+        pkg_name = manifest.get("name", manifest.get("display_name", loc.upper()))
+        team_name = manifest.get("team", manifest.get("team_name", "Community"))
+        authors = manifest.get("translators", manifest.get("authors", [team_name]))
         version = manifest.get("version", "1.0.0")
         desc = manifest.get("description", f"{pkg_name} translation for OreImouto Re:Port.")
         links = manifest.get("links", {})
+        tags = manifest.get("tags", {})
+        tag_notes = manifest.get("tag_notes", tags if isinstance(tags, dict) else {})
 
         sc_dir = os.path.join(loc_dir, "scenarios")
         total_lines, trans_lines, progress = count_locale_progress(loc, sc_dir, template_sc_dir)
@@ -187,7 +189,9 @@ def generate_catalog(
             "locale": loc_code,
             "name": pkg_name,
             "short": manifest.get("short", ("RUS" if loc == "ru" else ("ENG" if loc == "en" else loc[:3].upper()))),
+            "team": team_name,
             "team_name": team_name,
+            "translators": authors,
             "authors": authors,
             "version": version,
             "description": desc,
@@ -197,8 +201,8 @@ def generate_catalog(
             "url": url,
             "sha256": sha256,
             "size_bytes": size_bytes,
-            "tags": manifest.get("tags", []),
-            "tag_notes": manifest.get("tag_notes", {}),
+            "tags": tags,
+            "tag_notes": tag_notes,
             "links": links,
         }
         catalog["packages"].append(pkg_entry)

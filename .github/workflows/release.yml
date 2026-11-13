@@ -46,8 +46,9 @@ jobs:
           mkdir -p dist
           for locale_dir in locales/*/; do
             loc=$(basename "$locale_dir")
-            echo "Building PCK for: $loc"
-            python tools/build_pck.py "$locale_dir" -o "dist/lang_${loc}.pck"
+            pck_loc=$(python -c "import json, os, sys; m = json.load(open(os.path.join(sys.argv[1], 'manifest.json'), encoding='utf-8')) if os.path.isfile(os.path.join(sys.argv[1], 'manifest.json')) else {}; print(m.get('locale', sys.argv[2]).strip().lower())" "$locale_dir" "$loc")
+            echo "Building PCK for: $loc ($pck_loc)"
+            python tools/build_pck.py "$locale_dir" -o "dist/lang_${pck_loc}.pck"
           done
 
       - name: Generate Catalog & Checksums

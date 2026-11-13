@@ -1149,21 +1149,107 @@ UI_TRANSLATIONS = {
     "UPSCALER_GPU_DETECTING": "GPU: 正在检测……",
     "UPSCALER_GPU_READY": "GPU: %s",
     "UPSCALER_CPU_FALLBACK": "CPU 模式",
+
+    # === v1.0.1 FLOWMAP & LOCALIZATION KEYS ===
+    "ROUTE_HKYM": "京都",
+    "ROUTE_IYAN": "禁忌之恋",
+    "ROUTE_JROC": "摇滚",
+    "ROUTE_MGIM": "MGIM",
+    "ROUTE_LAKA": "赤城",
+    "ROUTE_OTHER": "其他",
+    "ROUTE_BONUS_FORMAT": "奖励路线 · %s",
+    "HEROINE_KYOSUKE": "京介",
+    "HEROINE_AKAGI": "赤城",
+    "HEROINE_YOSHINO": "佳乃",
+    "SETTINGS_LANG_TAG_LOCAL_TOOLTIP": "由用户手动安装的本地语言包。",
+    "SETTINGS_LANG_TAG_BASE_TOOLTIP": "来自 UMD 光盘的未修改原版游戏资源。",
+    "SETTINGS_LANG_TAG_PARTIAL": "部分翻译",
+    "SETTINGS_LANG_TAG_PARTIAL_TOOLTIP": "该语言包尚未全部完成，目前仍在翻译制作中。",
+    "SETTINGS_LANG_TAG_COMMUNITY": "社区翻译",
+    "SETTINGS_LANG_TAG_COMMUNITY_TOOLTIP": "由独立游戏社区志愿者制作的玩家汉化或翻译。",
+    "SETTINGS_LANG_TAG_WIP": "制作中",
+    "SETTINGS_LANG_TAG_WIP_TOOLTIP": "处于积极开发阶段的草稿版本翻译。",
+    "SETTINGS_LANG_TAG_BETA": "测试版",
+    "SETTINGS_LANG_TAG_BETA_TOOLTIP": "翻译测试版本（Beta），可能存在表述误差或临时内容。",
+    "SETTINGS_LANG_TAG_AI": "机器翻译",
+    "SETTINGS_LANG_TAG_AI_TOOLTIP": "使用机器翻译或 AI 辅助生成的翻译内容。",
+    "SETTINGS_LANG_TAG_PROOFREAD": "已校对",
+    "SETTINGS_LANG_TAG_PROOFREAD_TOOLTIP": "翻译文本已完成校对与文字润色。",
+    "FLOWMAP_ENDING_BADGE_TRUE": "真实结局 (True Ending)",
+    "FLOWMAP_ENDING_BADGE_GOOD": "好结局 (Good Ending)",
+    "FLOWMAP_ENDING_BADGE_BAD": "坏结局 (Bad Ending)",
+    "FLOWMAP_ENDING_SHORT_TRUE": "真结局",
+    "FLOWMAP_ENDING_SHORT_GOOD": "好结局",
+    "FLOWMAP_ENDING_SHORT_BAD": "坏结局",
+    "FLOWMAP_ENDING_SHORT_NORMAL": "结局",
+    "FLOWMAP_WIN_SCORE_COND": "获得 %d 分以上",
+    "FLOWMAP_WIN_ANSWERS_COND": "答对 %d 次以上",
+    "FLOWMAP_TSUKKOMI_FLAG_FORMAT": "标志 v%d = 1",
+    "FLOWMAP_TSUKKOMI_STEP_TITLE": "吐槽 %s",
+    "FLOWMAP_ORE_STEP": "O.R.E. #%d「%s」%s",
+    "FLOWMAP_ORE_ANY_STEP": "任意话题：%s%s",
+    "FLOWMAP_ORE_ITEM_QUOTE": "#%d「%s」",
+    "FLOWMAP_ORE_TIMEOUT_SINGLE": "跳过 O.R.E.（超时）",
+    "FLOWMAP_ORE_TIMEOUT_SPECIFIC": "跳过 O.R.E. #%d（超时）",
+    "FLOWMAP_ORE_TIMEOUT_MULTI": "跳过 O.R.E. %d 次（超时）",
+    "FLOWMAP_LINES_SINGULAR": "句对话",
+    "FLOWMAP_LINES_FEW": "句对话",
+    "FLOWMAP_LINES_PLURAL": "句对话",
+    "FLOWMAP_LINES_SUFFIX": "（%d %s）",
+    "COND_CKUR_DISPUTE_ERRORS": "与黑猫争论出现失误（进入坏结局分支）",
+    "COND_CKUR_DISPUTE_SUCCESS": "与黑猫争论获胜（路线继续推进）",
+    "COND_CKUR_TRUE_ROUTE": "真实路径：正确选择 O.R.E. 话题 (True Ending)",
+    "COND_CKUR_GOOD_ROUTE": "好结局路径：O.R.E. 话题选择存在失误 (Good Ending)",
+    "COND_EMAN_KEY_ORE_USED": "已使用麻奈实的关键 O.R.E. 话题",
+    "COND_EMAN_KEY_ORE_UNUSED": "未使用麻奈实的关键 O.R.E. 话题",
+    "COND_EMAN_ROUTE_ACCEPT": "选择麻奈实路线（成功）",
+    "COND_EMAN_ROUTE_REJECT": "放弃麻奈实路线",
+    "COND_FAYA_INTERROGATION1_WIN": "在绫濑的第一轮审问中获胜",
+    "COND_FAYA_INTERROGATION1_FAIL": "在绫濑的第一轮审问中失败",
+    "COND_FAYA_FINAL_WIN": "在绫濑的最终审问中获胜 (True Ending)",
+    "COND_FAYA_FINAL_FAIL": "在绫濑的最终审问中失败",
+    "COND_DSAO_TRUST_HIGH": "沙织信任度高",
+    "COND_DSAO_TRUST_LOW": "沙织信任度不足",
+    "COND_ROUTE_IF_BAD": "IF / 坏结局路线",
+    "COND_ROUTE_SELECTED": "已选择%s路线",
+    "COND_ROUTE_NOT_SELECTED": "未选择%s路线",
+    "COND_TEAM_SELECTED": "在秋叶原选择%s队伍",
+    "COND_TEAM_NOT_SELECTED": "未选择%s队伍",
+    "COND_TSUKKOMI_WIN": "在吐槽对话中获胜",
+    "COND_TSUKKOMI_FAIL": "在吐槽对话中失败／超时",
+    "COND_TSUKKOMI_CORRECT_COUNT": "吐槽答对题数 %s %d",
+    "COND_TSUKKOMI_CRITICAL": "选择吐槽关键选项（%s %d）",
+    "COND_D2_DISC1_SAVE": "检测光盘 1 SYSTEM.DAT 存档（%s %d）",
+    "COND_D2_DISC1_ROUTE": "检测光盘 1 主要路线通关状态（%s %d）",
+    "COND_D2_SENA_BRANCH": "已选择濑菜路线分支 #%d",
+    "COND_AFFECTION_CMP": "%s好感度 %s %d",
+    "COND_INACTIVE_FORMAT": "%s（未达成）",
+    "COND_GENERIC_CMP": "%s %s %d",
 }
 
 def update_ui_csv():
     ui_csv_path = os.path.join(ZH_DIR, "ui.csv")
-    with open(ui_csv_path, "r", encoding="utf-8") as f:
+    template_ui_path = os.path.join(REPO_ROOT, "template", "ui.csv")
+    template_keys = []
+    if os.path.isfile(template_ui_path):
+        with open(template_ui_path, "r", encoding="utf-8", newline="") as tf:
+            for row in csv.reader(tf):
+                if row and row[0] != "KEY":
+                    template_keys.append(row[0])
+
+    with open(ui_csv_path, "r", encoding="utf-8", newline="") as f:
         reader = list(csv.reader(f))
     
     header = reader[0]
     out_rows = [header]
     updated_count = 0
+    seen_keys = set()
     
     for row in reader[1:]:
         if not row:
             continue
         key = row[0]
+        seen_keys.add(key)
         val = row[1]
         if key in UI_TRANSLATIONS:
             new_val = UI_TRANSLATIONS[key]
@@ -1172,11 +1258,17 @@ def update_ui_csv():
             out_rows.append([key, new_val])
         else:
             out_rows.append(row)
+
+    for key in template_keys:
+        if key not in seen_keys and key in UI_TRANSLATIONS:
+            out_rows.append([key, UI_TRANSLATIONS[key]])
+            seen_keys.add(key)
+            updated_count += 1
             
     with open(ui_csv_path, "w", encoding="utf-8", newline="\n") as f:
         writer = csv.writer(f, lineterminator="\n")
         writer.writerows(out_rows)
-    print(f"[*] Updated {ui_csv_path}: {updated_count} keys translated, total {len(out_rows)-1} keys")
+    print(f"[*] Updated {ui_csv_path}: {updated_count} keys translated/added, total {len(out_rows)-1} keys")
 
 def update_scene_titles():
     st_path = os.path.join(ZH_DIR, "scene_titles.csv")

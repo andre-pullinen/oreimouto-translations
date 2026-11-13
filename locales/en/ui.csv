@@ -872,3 +872,78 @@ SETTINGS_LANG_STATUS_SWITCH_OK,✓ Language switched: %s
 SETTINGS_LANG_TAG_LOCAL,LOCAL
 SETTINGS_LANG_TAG_BASE,BASE ISO
 SETTINGS_LANG_BASE_AUTHOR,Disc Image
+ROUTE_HKYM,Kyoto
+ROUTE_IYAN,Forbidden Love
+ROUTE_JROC,Rock
+ROUTE_MGIM,MGIM
+ROUTE_LAKA,Akagi
+ROUTE_OTHER,Other
+ROUTE_BONUS_FORMAT,Bonus Route · %s
+HEROINE_KYOSUKE,Kyousuke
+HEROINE_AKAGI,Akagi
+HEROINE_YOSHINO,Yoshino
+SETTINGS_LANG_TAG_LOCAL_TOOLTIP,Local package installed manually.
+SETTINGS_LANG_TAG_BASE_TOOLTIP,Original unmodified game assets from UMD disc.
+SETTINGS_LANG_TAG_PARTIAL,PARTIAL
+SETTINGS_LANG_TAG_PARTIAL_TOOLTIP,This translation is incomplete and currently in progress.
+SETTINGS_LANG_TAG_COMMUNITY,COMMUNITY
+SETTINGS_LANG_TAG_COMMUNITY_TOOLTIP,Fan translation by the independent community.
+SETTINGS_LANG_TAG_WIP,WIP
+SETTINGS_LANG_TAG_WIP_TOOLTIP,Draft translation version in active development.
+SETTINGS_LANG_TAG_BETA,BETA
+SETTINGS_LANG_TAG_BETA_TOOLTIP,Beta version of the translation. May contain inaccuracies or temporary elements.
+SETTINGS_LANG_TAG_AI,MACHINE
+SETTINGS_LANG_TAG_AI_TOOLTIP,Translation generated using machine translation or AI.
+SETTINGS_LANG_TAG_PROOFREAD,PROOFREAD
+SETTINGS_LANG_TAG_PROOFREAD_TOOLTIP,Text has been edited and proofread.
+SETTINGS_LANG_DOWNLOAD_FAILED,Download Failed
+FLOWMAP_ENDING_BADGE_TRUE,True Ending
+FLOWMAP_ENDING_BADGE_GOOD,Good Ending
+FLOWMAP_ENDING_BADGE_BAD,Bad Ending
+FLOWMAP_ENDING_SHORT_TRUE,True
+FLOWMAP_ENDING_SHORT_GOOD,Good
+FLOWMAP_ENDING_SHORT_BAD,Bad
+FLOWMAP_ENDING_SHORT_NORMAL,End
+FLOWMAP_WIN_SCORE_COND,Score %d+ Points
+FLOWMAP_WIN_ANSWERS_COND,Give %d+ Correct Answers
+FLOWMAP_TSUKKOMI_FLAG_FORMAT,Flag v%d = 1
+FLOWMAP_TSUKKOMI_STEP_TITLE,Tsukkomi %s
+FLOWMAP_ORE_STEP,"O.R.E. #%d ""%s""%s"
+FLOWMAP_ORE_ANY_STEP,Any Topic: %s%s
+FLOWMAP_ORE_ITEM_QUOTE,"#%d ""%s"""
+FLOWMAP_ORE_TIMEOUT_SINGLE,Skip O.R.E. (Timeout)
+FLOWMAP_ORE_TIMEOUT_SPECIFIC,Skip O.R.E. #%d (Timeout)
+FLOWMAP_ORE_TIMEOUT_MULTI,%d× Skip O.R.E. (Timeout)
+FLOWMAP_LINES_SINGULAR,line
+FLOWMAP_LINES_FEW,lines
+FLOWMAP_LINES_PLURAL,lines
+FLOWMAP_LINES_SUFFIX, (%d %s)
+COND_CKUR_DISPUTE_ERRORS,Debate Errors with Kuroneko (Bad Branch)
+COND_CKUR_DISPUTE_SUCCESS,Success in Debate with Kuroneko (Route Continues)
+COND_CKUR_TRUE_ROUTE,True Path: Correct O.R.E. Choices (True Ending)
+COND_CKUR_GOOD_ROUTE,Good Path: Mistakes Made in O.R.E. Choices (Good Ending)
+COND_EMAN_KEY_ORE_USED,Manami Key O.R.E. Topic Used
+COND_EMAN_KEY_ORE_UNUSED,Manami Key O.R.E. Topic Unused
+COND_EMAN_ROUTE_ACCEPT,Manami Path Chosen (Success)
+COND_EMAN_ROUTE_REJECT,Manami Path Declined
+COND_FAYA_INTERROGATION1_WIN,Success in Ayase's First Interrogation
+COND_FAYA_INTERROGATION1_FAIL,Failure in Ayase's First Interrogation
+COND_FAYA_FINAL_WIN,Success in Ayase's Final Interrogation (True Ending)
+COND_FAYA_FINAL_FAIL,Failure in Ayase's Final Interrogation
+COND_DSAO_TRUST_HIGH,High Saori Trust Level
+COND_DSAO_TRUST_LOW,Insufficient Saori Trust Level
+COND_ROUTE_IF_BAD,IF / Bad Ending
+COND_ROUTE_SELECTED,%s Route Selected
+COND_ROUTE_NOT_SELECTED,%s Route Not Selected
+COND_TEAM_SELECTED,Team %s Chosen in Akiba
+COND_TEAM_NOT_SELECTED,Team %s Not Chosen
+COND_TSUKKOMI_WIN,Victory in Tsukkomi Dialogue
+COND_TSUKKOMI_FAIL,Defeat / Timeout in Tsukkomi Dialogue
+COND_TSUKKOMI_CORRECT_COUNT,Tsukkomi Correct Answers %s %d
+COND_TSUKKOMI_CRITICAL,Tsukkomi Critical Choice (%s %d)
+COND_D2_DISC1_SAVE,Disc 1 SYSTEM.DAT Check (%s %d)
+COND_D2_DISC1_ROUTE,Disc 1 Key Routes Completion Check (%s %d)
+COND_D2_SENA_BRANCH,Sena Route Branch #%d Selected
+COND_AFFECTION_CMP,%s Affection %s %d
+COND_INACTIVE_FORMAT,%s (Not Met)
+COND_GENERIC_CMP,%s %s %d

@@ -872,3 +872,78 @@ SETTINGS_LANG_STATUS_SWITCH_OK,✓ Язык переключён: %s
 SETTINGS_LANG_TAG_LOCAL,ЛОКАЛЬНЫЙ
 SETTINGS_LANG_TAG_BASE,БАЗОВЫЙ ISO
 SETTINGS_LANG_BASE_AUTHOR,Образ диска
+ROUTE_HKYM,Киото
+ROUTE_IYAN,Запретная любовь
+ROUTE_JROC,Рок
+ROUTE_MGIM,MGIM
+ROUTE_LAKA,Акаги
+ROUTE_OTHER,Прочие
+ROUTE_BONUS_FORMAT,Бонусный рут · %s
+HEROINE_KYOSUKE,Кёсукэ
+HEROINE_AKAGI,Акаги
+HEROINE_YOSHINO,Ёсино
+SETTINGS_LANG_TAG_LOCAL_TOOLTIP,"Локальный пакет, установленный пользователем вручную."
+SETTINGS_LANG_TAG_BASE_TOOLTIP,Оригинальные немодифицированные ресурсы игры с UMD-диска.
+SETTINGS_LANG_TAG_PARTIAL,НЕПОЛНЫЙ
+SETTINGS_LANG_TAG_PARTIAL_TOOLTIP,Этот перевод не завершен и находится в процессе разработки.
+SETTINGS_LANG_TAG_COMMUNITY,СООБЩЕСТВО
+SETTINGS_LANG_TAG_COMMUNITY_TOOLTIP,Любительский фанатский перевод от независимого сообщества.
+SETTINGS_LANG_TAG_WIP,В РАЗРАБОТКЕ
+SETTINGS_LANG_TAG_WIP_TOOLTIP,Черновая версия перевода в активной разработке.
+SETTINGS_LANG_TAG_BETA,БЕТА
+SETTINGS_LANG_TAG_BETA_TOOLTIP,Бета-версия перевода. Возможны неточности или временные элементы.
+SETTINGS_LANG_TAG_AI,МАШИННЫЙ
+SETTINGS_LANG_TAG_AI_TOOLTIP,Перевод выполнен с использованием машинного перевода или ИИ.
+SETTINGS_LANG_TAG_PROOFREAD,ВЫЧИТАН
+SETTINGS_LANG_TAG_PROOFREAD_TOOLTIP,Текст перевода прошел вычитку и литературную редактуру.
+SETTINGS_LANG_DOWNLOAD_FAILED,Ошибка загрузки
+FLOWMAP_ENDING_BADGE_TRUE,Истинная концовка (True Ending)
+FLOWMAP_ENDING_BADGE_GOOD,Хорошая концовка (Good Ending)
+FLOWMAP_ENDING_BADGE_BAD,Плохая концовка (Bad Ending)
+FLOWMAP_ENDING_SHORT_TRUE,Истинная
+FLOWMAP_ENDING_SHORT_GOOD,Хорошая
+FLOWMAP_ENDING_SHORT_BAD,Плохая
+FLOWMAP_ENDING_SHORT_NORMAL,Финал
+FLOWMAP_WIN_SCORE_COND,Набрать от %d очков
+FLOWMAP_WIN_ANSWERS_COND,Дать от %d верных ответов
+FLOWMAP_TSUKKOMI_FLAG_FORMAT,Флаг v%d = 1
+FLOWMAP_TSUKKOMI_STEP_TITLE,Цуккоми %s
+FLOWMAP_ORE_STEP,O.R.E. #%d «%s»%s
+FLOWMAP_ORE_ANY_STEP,Любая тема: %s%s
+FLOWMAP_ORE_ITEM_QUOTE,#%d «%s»
+FLOWMAP_ORE_TIMEOUT_SINGLE,Пропуск O.R.E. (таймаут)
+FLOWMAP_ORE_TIMEOUT_SPECIFIC,Пропуск O.R.E. #%d (таймаут)
+FLOWMAP_ORE_TIMEOUT_MULTI,%d× Пропуск O.R.E. (таймаут)
+FLOWMAP_LINES_SINGULAR,реплика
+FLOWMAP_LINES_FEW,реплики
+FLOWMAP_LINES_PLURAL,реплик
+FLOWMAP_LINES_SUFFIX, (%d %s)
+COND_CKUR_DISPUTE_ERRORS,Ошибки в споре с Куронэко (уход на плохую ветку)
+COND_CKUR_DISPUTE_SUCCESS,Успех в споре с Куронэко (продолжение рута)
+COND_CKUR_TRUE_ROUTE,Истинный путь: правильный выбор тем O.R.E. (True Ending)
+COND_CKUR_GOOD_ROUTE,Хороший путь: допущены ошибки в темах O.R.E. (Good Ending)
+COND_EMAN_KEY_ORE_USED,Использована ключевая тема O.R.E. Манами
+COND_EMAN_KEY_ORE_UNUSED,Ключевая тема Манами не использована
+COND_EMAN_ROUTE_ACCEPT,Выбор пути Манами (успех)
+COND_EMAN_ROUTE_REJECT,Отказ от пути Манами
+COND_FAYA_INTERROGATION1_WIN,Успех в первом допросе Аясэ
+COND_FAYA_INTERROGATION1_FAIL,Провал в первом допросе Аясэ
+COND_FAYA_FINAL_WIN,Успех в финальном допросе Аясэ (True Ending)
+COND_FAYA_FINAL_FAIL,Провал в финальном допросе Аясэ
+COND_DSAO_TRUST_HIGH,Высокий уровень доверия Саори
+COND_DSAO_TRUST_LOW,Недостаточно доверия Саори
+COND_ROUTE_IF_BAD,IF / Плохой финал
+COND_ROUTE_SELECTED,Выбран маршрут %s
+COND_ROUTE_NOT_SELECTED,Маршрут %s не выбран
+COND_TEAM_SELECTED,Выбор команды %s в Акибе
+COND_TEAM_NOT_SELECTED,Команда %s не выбрана
+COND_TSUKKOMI_WIN,Победа в диалоге Цуккоми
+COND_TSUKKOMI_FAIL,Поражение / таймаут в диалоге Цуккоми
+COND_TSUKKOMI_CORRECT_COUNT,Правильных ответов в Цуккоми %s %d
+COND_TSUKKOMI_CRITICAL,Выбор критической реплики Цуккоми (%s %d)
+COND_D2_DISC1_SAVE,Проверка SYSTEM.DAT первой части (%s %d)
+COND_D2_DISC1_ROUTE,Проверка прохождения ключевых рутов первой части (%s %d)
+COND_D2_SENA_BRANCH,Выбрана ветка рута Сэны #%d
+COND_AFFECTION_CMP,Симпатия %s %s %d
+COND_INACTIVE_FORMAT,%s (не выполнено)
+COND_GENERIC_CMP,%s %s %d
