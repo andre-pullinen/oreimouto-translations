@@ -1,0 +1,336 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,What are you saying we'll find by exploring?
+1,SPK_AKAGI,"It might be that we find something, or nothing at all."
+2,SPK_KYOUSUKE,You keep stating the incredibly obvious.
+3,SPK_AKAGI,"Shut up. We have nothing to do right now, so why not?"
+4,SPK_KYOUSUKE,"Well, I can't argue against that. Whatever, I'll tag along."
+5,SPK_AKAGI,Alright! Let's explore the inn then!
+6,,What are we two guys doing together...
+7,SPK_AKAGI,"Now then, let's start from this corridor!"
+8,SPK_KYOUSUKE,"Well, it's standard to start off from a corner."
+9,SPK_AKAGI,That's right! It's already a well-established fact that corridor corners of buildings hold nasty secrets!
+10,SPK_KYOUSUKE,...Oh really?
+11,SPK_AKAGI,"Come on, let's go!"
+12,SPK_KYOUSUKE,"Alright, alright..."
+13,,"It was supposed to be a short walk in the inn for a bit with Akagi, but..."
+14,,The inn exploration ended rather quickly.
+15,,"The building wasn't very large itself, and neither did it have any particularly strange places."
+16,,"Of course, this was pretty much expected."
+17,,There won't be any weird stuff in such a normal inn... Right?
+18,,And as expected-
+19,SPK_AKAGI,There's nothing...
+20,SPK_KYOUSUKE,"The one who suggested to explore this place was you, wasn't it?"
+21,SPK_AKAGI,"Well, that's true, but it's Kyoto isn't it? I expected to find something here..."
+22,SPK_KYOUSUKE,"It's precisely because it's Kyoto, that's why river spirits would have trouble spawning here!"
+23,SPK_KYOUSUKE,"Well, that was killing time. Although it was really unproductive."
+24,SPK_AKAGI,"No, not yet!"
+25,SPK_KYOUSUKE,You're still planning something...
+26,SPK_AKAGI,"We haven't gone through everything, have we?"
+27,SPK_KYOUSUKE,Does that matter?
+28,SPK_AKAGI,"Yeah! We haven't opened that door yet, have we?"
+29,SPK_KYOUSUKE,Door?
+30,,"I looked in the direction of said door, to which Akagi was pointing at."
+31,,"True, it was there - the door we hadn't opened yet."
+32,,...But was that door even there before?
+33,SPK_AKAGI,"We haven't looked in there, have we?"
+34,SPK_KYOUSUKE,It's an unusually old door.
+35,SPK_AKAGI,Yeah. Plain strange.
+36,SPK_KYOUSUKE,Yeah...
+37,,The door gave off a feeling of antiquity I had never ever experienced with anything else before.
+38,,"The doorknob was super old and rusty, and the door itself seems to have become almost black from how dirty it was."
+39,,Strange... Very strange...!
+40,SPK_KYOUSUKE,...Are we really opening it?
+41,SPK_AKAGI,"Huh? What are you saying, of course we are."
+42,SPK_KYOUSUKE,Have you even spared a thought as to what might happen if we open it?
+43,SPK_AKAGI,Nothing will happen. It's just a door.
+44,SPK_KYOUSUKE,"Oh right. You were always that stupid, huh."
+45,SPK_AKAGI,"Whatever, let's just open the door."
+46,SPK_KYOUSUKE,Yeah.
+47,SPK_KYOUSUKE,...
+48,SPK_KYOUSUKE,Nothing in this room...
+49,SPK_KYOUSUKE,"Rather, it's just a room without lights on, and it's nothing different from a normal room."
+50,SPK_KYOUSUKE,"Nothing here, eh?"
+51,SPK_AKAGI,Yeah.
+52,SPK_KYOUSUKE,"...Wait, what's with you? Talk properly."
+53,SPK_AKAGI,"You too, you sound like the 8-bit games of yesteryear."
+54,SPK_KYOUSUKE,"Huh?! But I'm speaking properly, you-"
+55,,...Eh? Hold on... Something seems... off.
+56,,"I can understand what Akagi says, but I hear him going ""Pupupu""..."
+57,,And when I looked at Akagi...
+58,SPK_KYOUSUKE,"Y-You, you somehow turned into a bunch of pixels, all of a sudden!"
+59,SPK_AKAGI,Hahaha. That's a strange coincidence. I see you in the same way too.
+60,SPK_KYOUSUKE,Why are you so calm about this?!
+61,SPK_AKAGI,Ahah. I see... I get it now.
+62,SPK_KYOUSUKE,W-What is it?
+63,SPK_AKAGI,"Perchance, this is the judgment wrought upon our souls for daring disturb an ancient power in Kyoto."
+64,SPK_KYOUSUKE,HUH?!
+65,SPK_AKAGI,"Don't you get it? Basically, this mystery will be solved once we get the treasure inside."
+66,,...What kind of delusion is this?!?!
+67,SPK_AKAGI,"Anyway, we can't start if you don't move. Let's search this room!"
+68,SPK_KYOUSUKE,H-Hey!
+69,,"And so, prompted by Akagi again, I started to search the entire room again, but..."
+70,SPK_KYOUSUKE,Isn't this just a normal room...
+71,SPK_AKAGI,"Yeah. That's right. What is this, some trickery!"
+72,SPK_KYOUSUKE,This has all been your wild interpretation!
+73,SPK_AKAGI,Let's go to the next room. I'm closing this room's door.
+74,SPK_KYOUSUKE,Yeah.
+75,SPK_AKAGI,...Hm?
+76,SPK_KYOUSUKE,What now?
+77,SPK_AKAGI,Something dropped.
+78,SPK_KYOUSUKE,Eh ?
+79,,"Akagi was about to close the door, but his hands stopped as he stared at something in the room."
+80,SPK_KYOUSUKE,What's that?
+81,SPK_AKAGI,Who knows. I'll go take a look.
+82,,Akagi went into the room and picked up that little something that dropped.
+83,,Looks like it's...
+84,SPK_AKAGI,"A pamphlet...? It's written ""Fushimi Inari Shrine"" on there."
+85,SPK_KYOUSUKE,"Fushimi Inari Shrine, huh..."
+86,SPK_AKAGI,"Hold on a second, this isn't exactly Fushimi Inari, is it?!"
+87,SPK_KYOUSUKE,Then what is it?
+88,SPK_AKAGI,It's the Underground Fushimi Inari...!
+89,SPK_KYOUSUKE,Underground Fushimi Inari?!
+90,SPK_AKAGI,"Yeah, this is getting interesting, isn't it?"
+91,SPK_KYOUSUKE,Sounds suspicious to me.
+92,SPK_AKAGI,"Well, don't put it that way. Uh... the legendary Underground Fushimi Inari Shrine that can grant any wish..."
+93,SPK_KYOUSUKE,This whole affair is becoming more and more suspicious...
+94,SPK_AKAGI,Hold on. There's more. The Underground Fushimi Inari Shrine is sleeping underneath Kyoto.
+95,SPK_KYOUSUKE,"Isn't that even more suspicious!? Also, where did all the talk about the treasure go?"
+96,SPK_AKAGI,The legendary Underground Fushimi Inari Shrine that can grant any wish...!
+97,SPK_KYOUSUKE,"Hey, Akagi... Are you listening?"
+98,SPK_AKAGI,That's incredible! Any wish can be granted!
+99,SPK_KYOUSUKE,Get a grip on yourself man! Be realistic! It's too good to be true!
+100,SPK_AKAGI,"What are you saying? Any wish can be granted, you know!"
+101,SPK_KYOUSUKE,NO! STOP!
+102,,What is this Underground Fushimi Inari?! It's way too suspicious!
+103,,"It's called Fushimi Inari because it's in the Fushimi area! And we're in Sanjyou, Higashiyama right now!"
+104,,Don't believe everything that you read!
+105,SPK_AKAGI,"Okay, I've decided!"
+106,SPK_KYOUSUKE,I'm having a reaaaaally bad feeling about this...
+107,SPK_AKAGI,I'm going to this Underground Fushimi Inari!
+108,SPK_KYOUSUKE,I knew it...
+109,SPK_AKAGI,"Of course. You're coming too, right?"
+110,SPK_KYOUSUKE,"Why would I? It's suspicious, no matter how I look at it."
+111,SPK_AKAGI,What are you saying!? It's for the thrill!
+112,SPK_KYOUSUKE,I don't need that kind of thrill in my life!
+113,SPK_AKAGI,"Any wish can be granted, you know."
+114,SPK_KYOUSUKE,Doesn't it sound too good to be true?
+115,SPK_AKAGI,You idiot! You gotta dream!!
+116,SPK_KYOUSUKE,How can I have a dream with such a pamphlet that you simply picked up!!
+117,SPK_AKAGI,But your wishes can be granted!
+118,SPK_KYOUSUKE,I bet your wish is about your relationship with your sister anyway.
+119,SPK_AKAGI,Can there be anything else?
+120,SPK_KYOUSUKE,Don't answer with such a straight face...
+121,SPK_AKAGI,"Okay, I've decided. Let's do it and change Japan's laws."
+122,SPK_KYOUSUKE,"Hey, I haven't said that I'll go..."
+123,SPK_AKAGI,"Hey, Kousaka, look there."
+124,SPK_KYOUSUKE,Eh?
+125,SPK_AKAGI,The corner of the room. The trapdoor on the floor.
+126,SPK_KYOUSUKE,"How can there be a... wait, there it is."
+127,,"Indeed, there's a door on the floor in the corner of the room."
+128,,I hate this kind of blatant deus-ex-machina.
+129,,It feels like I'm in a game or anime again...
+130,,"No, this scene would probably be too cheesy for even an 8-bit game."
+131,SPK_AKAGI,"The Underground Fushimi Inari, which rests beneath Kyoto..."
+132,SPK_KYOUSUKE,"No matter how you look at it, it seems far too convenient."
+133,SPK_AKAGI,We'll think about that if nothing does happen.
+134,SPK_KYOUSUKE,"Hey, Akagi."
+135,SPK_AKAGI,"Okay, I'll try opening it."
+136,SPK_KYOUSUKE,Can you be a little more cautious?!
+137,SPK_AKAGI,"It's fine, just help me!"
+138,SPK_KYOUSUKE,Argh really...!
+139,,The door on the floor opened with the same sound as before.
+140,SPK_AKAGI,It's stairs...
+141,SPK_KYOUSUKE,"Yeah, stairs..."
+142,,There were a continuing flight of stairs below the opened door.
+143,,This is... This is way too convenient!
+144,,This is nothing but suspicious!!!
+145,,...but I'm the only one who thought this way.
+146,SPK_AKAGI,"Whoa, Kousaka, it's awesome! It's really here! The Underground Fushimi Inari Shrine!"
+147,SPK_KYOUSUKE,This is way too convenient.
+148,SPK_AKAGI,"Okay, let's go take a look!"
+149,SPK_KYOUSUKE,You're not listening at all... Hey! Are you seriously going!? Akagi!!
+150,,Akagi started going down the stairs without listening to a word that I've said.
+151,,I can't just let him go alone...
+152,,"Argh, damn! I don't have any other choice!"
+153,SPK_KYOUSUKE,"Wait up, Akagi! It's dangerous to go alone!"
+154,,"After going down the stairs, there was an area with a very high ceiling."
+155,,"Akagi walked ahead, while I hurriedly chased after him."
+156,SPK_KYOUSUKE,Akagi!
+157,SPK_AKAGI,"Oh, you came along after all."
+158,SPK_KYOUSUKE,You idiot. It's because you went all by yourself.
+159,SPK_AKAGI,"There you go again. Although you say that, but you're actually curious about the Underground Fushimi Inari."
+160,SPK_KYOUSUKE,Who cares about that...
+161,SPK_AKAGI,"Well, since you're here, let's look for it together!"
+162,SPK_KYOUSUKE,"Yeah, yeah."
+163,,We steadily forged ahead.
+164,,"Before we noticed, we had walked quite a distance, but have not found anything of interest."
+165,,Was it really a good idea to continue forward...
+166,,"I glanced back, but the stairs from earlier were not longer visible."
+167,,What trailed behind us was nothing but darkness.
+168,,We've probably come a pretty long way already.
+169,SPK_KYOUSUKE,"Hey, is it really okay to continue walking so far?"
+170,SPK_AKAGI,I wouldn't know about that.
+171,SPK_KYOUSUKE,"That's true, but.."
+172,SPK_AKAGI,Oh?
+173,SPK_KYOUSUKE,What is it.
+174,SPK_AKAGI,It's a Shinto shrine gate?
+175,SPK_KYOUSUKE,...!
+176,,Why is there a shrine gate underground...!
+177,SPK_KYOUSUKE,"This is it, isn't it."
+178,SPK_AKAGI,It's the shrine gate of Fushimi Inari.
+179,SPK_KYOUSUKE,It can't be...
+180,SPK_AKAGI,Awesome! So it actually exists?!
+181,SPK_KYOUSUKE,Lo-Looks like it.
+182,,"With this scene in front of me, I can no longer deny the existence of Underground Fushimi Inari."
+183,,"Akagi is all fired up, and I am getting a little excited as well..."
+184,SPK_AKAGI,Alright! In we go!
+185,SPK_KYOUSUKE,Yeah!
+186,,The meandering road of gates continued on forever.
+187,,I no longer had any sense of direction; nor did I have any idea where I was.
+188,SPK_KYOUSUKE,Oh? I see something.
+189,SPK_AKAGI,It's true... It looks like something from a shrine.
+190,SPK_KYOUSUKE,It does seem like a small shrine.
+191,SPK_AKAGI,Oh-! Awesome! I'm so glad we came here.
+192,SPK_KYOUSUKE,But this is the thing that can grant wishes? It looks shabby.
+193,SPK_AKAGI,Don't say such things! Our wishes can be granted.
+194,SPK_KYOUSUKE,But...
+195,,A small shrine stood beyond the gates.
+196,,But... it looks a little dirty and useless.
+197,,But Akagi looked really confident that our wishes can be granted.
+198,SPK_AKAGI,Now! Let's get to fulfilling my wishes!
+199,SPK_KYOUSUKE,*sigh*... Do whatever you want. We're heading back when you're done.
+200,SPK_AKAGI,I got it.
+201,,"Akagi stood in front of the small shrine. With a serious look on his face, he placed his hands together and bowed his head."
+202,SPK_AKAGI,May my sister and I be close together for life--!
+203,SPK_KYOUSUKE,Wha?!
+204,SPK_AKAGI,Whoa! It's too bright...!!!
+205,,Wha-!? Wh-Wh-What on earth!
+206,,I could feel the light pierce through my eyelids and into my eyes!
+207,,What in the world is happening?!
+208,SPK_KYOUSUKE,...
+209,SPK_AKAGI,"...H-Hey, Kousaka..."
+210,SPK_KYOUSUKE,"...U-Urgh, Akagi..."
+211,SPK_KYOUSUKE,"Hm? No more ""pupupupu""'s?"
+212,,What is this... We were at the suspicious underground place up till this moment...
+213,,But this is... a familiar scenery...
+214,SPK_AKAGI,"...We were on the school trip, right?"
+215,SPK_KYOUSUKE,Y-Yeah.
+216,SPK_AKAGI,Why are we... standing in front of the school?
+217,SPK_KYOUSUKE,Don't ask me...
+218,,"For some reason, when we came to, Akagi and I were standing in front of the school."
+219,,But we were indeed in front of the small shrine of the Underground Fushimi Inari a short while ago.
+220,,What the heck happened to us...
+221,SPK_UNKNOWN,Onii-chan～!
+222,SPK_KYOUSUKE,Wha?!
+223,SPK_KIRINO,Onii-chan～!
+224,SPK_AKAGI,"Onii-chan? Hey, is that kid perhaps your little sister?"
+225,SPK_KYOUSUKE,......
+226,SPK_AKAGI,She's quite cute. But she definitely loses out to my sister!
+227,,"Indeed, the out-of-breath person running over is Kirino."
+228,,"But... Why would she call me ""Onii-chan""?"
+229,,My body filled with a strange uncomfortable feeling.
+230,SPK_KIRINO,"Onii-chan, what's wrong? Weren't you on your school trip?"
+231,SPK_KYOUSUKE,K-Kirino...
+232,SPK_KIRINO,"Yep, it's me. So, what about it?"
+233,,"The Kirino that appeared in front of me called me ""Onii-chan,"" and on top of that, a big and glittering smile floated on her face."
+234,SPK_KYOUSUKE,W-What's wrong with you...
+235,SPK_KIRINO,What do you mean?
+236,SPK_KYOUSUKE,"W-Well, uh..."
+237,SPK_KIRINO,"Could it be... that you felt lonely because you couldn't get to see me, so you came back earlier before the rest?"
+238,SPK_KYOUSUKE,Th-That's impossib-
+239,SPK_KIRINO,"If that's the case, I'm happy. I feel lonely when Onii-chan's not here too!"
+240,SPK_KYOUSUKE,...Eh?
+241,,"What? What kind of trap is this!? Actually, who is this I'm talking to!"
+242,,"Kirino is more like, bang, wham, gyah! Something like that!"
+243,SPK_AKAGI,...It's the effect of the Underground Fushimi Inari.
+244,SPK_KYOUSUKE,What?
+245,SPK_AKAGI,"Our wish went through to Underground Fushimi Inari! This means, my sister too!"
+246,,"By your logic, what you're saying is that your wish also affected me, and this changed Kirino's personality?"
+247,,Her personality is a complete 180! It's completely different!
+248,,"The heck is this!? In the first place, I didn't wish for anything!!"
+249,SPK_KYOUSUKE,"Hey, Akagi..."
+250,SPK_AKAGI,Oooohhh!! Where's my sister-!!
+251,SPK_KYOUSUKE,Hey～?
+252,,"Without listening to a word I said, Akagi dashed off."
+253,,Did Akagi's sister really become like this too?
+254,,I can't even imagine...
+255,SPK_KIRINO,......
+256,SPK_KYOUSUKE,Kirino? Something wrong?
+257,SPK_KIRINO,"Onii-chan, were you with that guy on the entire trip?"
+258,SPK_KYOUSUKE,"That guy... You're referring to Akagi? Well, that's right."
+259,SPK_KIRINO,Why?
+260,SPK_KYOUSUKE,Why... because we're friends... pretty much.
+261,SPK_KIRINO,No way. Don't do that sort of thing again.
+262,SPK_KYOUSUKE,Huh?
+263,SPK_KIRINO,It would be all right if Onii-chan is only with me.
+264,SPK_KYOUSUKE,What's with you?
+265,SPK_KIRINO,Onii-chan just needs to only be with me!
+266,SPK_KYOUSUKE,"Hey, Kirino..."
+267,SPK_KIRINO,"And, that person! That girl!!"
+268,SPK_KYOUSUKE,Who's that girl?
+269,SPK_KIRINO,That person! Plain Girl!!!
+270,SPK_KYOUSUKE,Plain girl... What about Manami?
+271,SPK_KIRINO,Don't say her name! Don't let anything about her touch your lips!
+272,SPK_KYOUSUKE,H-Hey...
+273,SPK_KIRINO,"Please look only at me, call only my name."
+274,SPK_KYOUSUKE,"You say that, but she's a childhood friend."
+275,SPK_KIRINO,I don't care! I'm your little sister! I'm closer to you! I'm closer to you than that person will ever be!
+276,,"The moment I mentioned Manami's name, Kirino's expression changed completely."
+277,,"It's like she's jealous beyond measure... Wait, jealous?"
+278,,Why is she jealous of Manami?
+279,SPK_KIRINO,"That's right... not just Plain Girl. Kuroneko, and Saori, and Ayase..."
+280,SPK_KYOUSUKE,Kirino?
+281,SPK_KIRINO,Each and every one of them are gunning for Onii-chan. Why didn't I realize until now?
+282,SPK_KYOUSUKE,Wh-What are you talking about...
+283,SPK_KIRINO,"No problem. I won't let anyone lay a finger on you, and I'm the only one allowed to do that."
+284,SPK_KYOUSUKE,"Hey, Kirino..."
+285,SPK_KIRINO,I won't let you get close to those female cats.
+286,SPK_KYOUSUKE,How can you say that about your friends?!
+287,SPK_KIRINO,I don't need friends who are aiming for Onii-chan!
+288,SPK_KYOUSUKE,Kirino! Calm down!
+289,SPK_KIRINO,I'm very calm! I just love Onii-chan a lot.
+290,SPK_KYOUSUKE,"H-Hold on a moment, hey..."
+291,,What the heck is she talking about?!
+292,,She loves me? That's strange!
+293,,I don't need this plot development in my life!
+294,SPK_KYOUSUKE,"Honestly, what's with you?"
+295,SPK_KIRINO,"Onii-chan is really kind. But this kindness will mislead others, so it's better for you to stop."
+296,SPK_KYOUSUKE,"No, I'm not trying to mislead anyone."
+297,SPK_KIRINO,"Subconsciously affecting them, huh..."
+298,SPK_KYOUSUKE,"Hey, are you even listening?"
+299,SPK_KIRINO,"If it's done subconsciously, then it can't be helped..."
+300,SPK_KYOUSUKE,Kirino. Heyyyyy.
+301,SPK_KIRINO,"I see. If Onii-chan can't go out alone, then it will all be fine."
+302,SPK_KYOUSUKE,...Eh?
+303,SPK_KIRINO,"It's okay, Onii-chan. I will al～ways be by your side."
+304,SPK_KYOUSUKE,"No, no. It's fine. It's fine just by myself."
+305,SPK_KIRINO,That won't do!
+306,SPK_KYOUSUKE,Hiee!!!
+307,,I have a hunch that I should escape or else...
+308,,"When I was just about to move my body, Kirino grabbed my arm."
+309,SPK_KIRINO,It's all right...
+310,SPK_KYOUSUKE,"K-Kirino, let go."
+311,SPK_KIRINO,Why?
+312,SPK_KYOUSUKE,"My arm, it hurts..."
+313,SPK_KIRINO,I'm only holding onto it lightly.
+314,,"Without dropping her smile, Kirino held my arm strongly with her hands."
+315,,"At this moment, I heard a grinding noise."
+316,,What kind of strength is this...!
+317,SPK_KYOUSUKE,Ou-Ouch! It really hurts!
+318,SPK_KIRINO,It's just for a short while.
+319,SPK_KYOUSUKE,H-Hey! Kirino!
+320,SPK_KIRINO,"Arms, legs... and later, fingers too..."
+321,SPK_KYOUSUKE,Kirino! Kirino!!
+322,SPK_KIRINO,"It's all right, Onii-chan. This is for the sake of us being together forever."
+323,,What Akagi wished for at the shrine just now came to mind.
+324,,"""May my sister and I be close together for life"""
+325,,No... This isn't what it meant!
+326,,Definitely not!
+327,SPK_KIRINO,Let's get along from now on.
+328,,"As I look at Kirino saying that with a sweet smile, my body chilled to the bone."
+329,,"If I don't escape, something unthinkable will happen."
+330,,It's the only thing I could make of the whole situation.
+331,SPK_KIRINO,My Onii-chan～ Just for me～
+332,,Kirino said that with a smile and an adorable voice.
+333,,"In an instant, my arm was forcibly bent in the opposite direction."
+334,SPK_KIRINO,"Onii-chan, we'll be together forever!"

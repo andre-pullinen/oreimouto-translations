@@ -1,0 +1,86 @@
+ID,SPEAKER,TEXT
+0,SPK_KURONEKO,你到底打算对我说些什么？
+1,SPK_KYOUSUKE,你是知道的吧，那还故意来问我吗？
+2,SPK_KURONEKO,当然咯
+3,SPK_KYOUSUKE,你说的还真直接
+4,SPK_KURONEKO,因为要来陪你做这种无聊的事情，所以能少说话的话还是尽量不开口
+5,SPK_KYOUSUKE,真是的……算了，还是快点进入正题吧
+6,SPK_KYOUSUKE,再问你一次。　告诉我你现在的烦恼
+7,SPK_KURONEKO,我可没有什么需要和学长说道事情啊
+8,SPK_KYOUSUKE,还在这么说啊，我可是在担心你啊
+9,SPK_KURONEKO,真是麻烦的人……要是说出来的话可会后悔的
+10,SPK_KYOUSUKE,为什么要后悔？　谁后悔？
+11,SPK_KURONEKO,是我，正是我哦，后悔为什么要对你说这些话？
+12,SPK_KYOUSUKE,……唉，就像是在敷衍我一样……
+13,SPK_KURONEKO,是吗？　我说的话应该很容易理解的吧？
+14,SPK_KYOUSUKE,怎么可能啊
+15,SPK_KURONEKO,……为了让你满意，我可是选择了最合适的回答了
+16,SPK_KYOUSUKE,你说的不都是强词夺理吗……
+17,SPK_KURONEKO,哼……或许是吧。这样没什么关系吧，反正我也不认为学长会懂的
+18,SPK_KURONEKO,所以说还是放弃了吧
+19,SPK_KYOUSUKE,不，还早着很呢
+20,SPK_KURONEKO,……唉，我已经了解了前辈的热情
+21,SPK_KYOUSUKE,终于明白了吗
+22,SPK_KURONEKO,是的，已经热情到开始暴走了
+23,SPK_KYOUSUKE,我可是在认真说的，才没暴走啊
+24,SPK_KURONEKO,冷静地将别人抓住也是一样的，不是已经说过了，知道你有多么热情了吗？
+25,SPK_KURONEKO,但是，这件事和前辈没任何的关系
+26,SPK_KYOUSUKE,在我周围发生的事情怎么可能和我没有关系
+27,SPK_KURONEKO,还真是自信啊
+28,SPK_KURONEKO,但是这么说的话，周围发生的所有事情都有去插手管一管，会忙得过来吗？
+29,SPK_KYOUSUKE,当然了，即使如此也会有个先后顺序的，所以才会过来纠缠着你的
+30,SPK_KYOUSUKE,你的话那就更不可能没有关系了
+31,SPK_KURONEKO,……这就是你的温柔吗？
+32,SPK_KYOUSUKE,嗯？　你说什么？　我没听清楚……
+33,SPK_KURONEKO,……算了，总之你是为了我这一点，我应该谢谢你
+34,SPK_KYOUSUKE,是嘛……那么，告诉我……
+35,SPK_KURONEKO,但是，不要
+36,SPK_KYOUSUKE,为什么嘛？
+37,SPK_KYOUSUKE,……不要说得这么冷淡嘛
+38,SPK_KURONEKO,没关系就是没关系，你觉得冷淡难道不过只是你的傲慢而已吗？
+39,SPK_KYOUSUKE,为什么会这么认为？
+40,SPK_KURONEKO,只是将自己的感觉强加于别人身上吧？
+41,SPK_KYOUSUKE,要是开始说这种话题的话那就没法担心你了
+42,SPK_KURONEKO,也是，这样继续说些哲学的话题下去的话，也只是浪费时间而已
+43,SPK_KURONEKO,换个话题吧
+44,SPK_KURONEKO,要是说出来的话……肯定会对『你』造成困扰的
+45,SPK_KYOUSUKE,……会对我造成困扰，为什么？
+46,SPK_KURONEKO,因为会对你也造成伤害的
+47,SPK_KYOUSUKE,要是这样的话，像这样不和我说的话不也会受到伤害吗？
+48,SPK_KURONEKO,这只不过是你自己无端的自找麻烦而已吧？
+49,SPK_KURONEKO,说得并不是这个，是真的困扰
+50,SPK_KYOUSUKE,对我来说是困扰还是什么不是由你来决定，而都是我自己决定的
+51,SPK_KURONEKO,……也是，你说的或许是正确的
+52,SPK_KURONEKO,但是既然都知道的话，那么为什么还是没法理解我不希望你也受到伤害呢？
+53,SPK_KYOUSUKE,这、这是……
+54,SPK_KURONEKO,自说自话地讲着一大堆理由出来，不过那些根本不能算是理由，只能算是狡辩而已
+55,SPK_KYOUSUKE,但、但是……最重要的不是口头吧？　真正重要的是到底是如何想的吧？
+56,SPK_KURONEKO,强词夺理……是最适合你的词语了吧
+57,SPK_KURONEKO,真是的……你还是还不放弃啊，都是正是因为如此我才不会对你说的
+58,SPK_KYOUSUKE,……困扰什么的……我可没有这么认为啊
+59,SPK_KURONEKO,哼，我就知道你会这么说
+60,SPK_KURONEKO,所有你才会在没有发现自己失去了什么的情况下被卷入各种各样的事情里
+61,SPK_KYOUSUKE,失去了什么，那是啥？
+62,SPK_KURONEKO,这都没注意到，你还真是老好人啊
+63,SPK_KURONEKO,对，前辈是个老好人，所有说出来的话……
+64,SPK_KURONEKO,不，已经可以说是绝对不开口了，要是你在继续干涉的话
+65,SPK_KYOUSUKE,干涉你不行吗？
+66,SPK_KURONEKO,是的，要是你还是不明白的话，那么你还真是个自私的男人
+67,SPK_KYOUSUKE,没错，因为我是一个听不见人话的老好人
+68,SPK_KYOUSUKE,因为我总是喜欢自作主张地做事而被别人叫做老好人，所以你乐不乐意也无所谓
+69,SPK_KURONEKO,什…………
+70,SPK_KYOUSUKE,……啊，没错，所有这回也让我来干涉你吧
+71,SPK_KURONEKO,……哼，我到底还有叹多少口气才行呢？　你这人啊……
+72,SPK_KYOUSUKE,老好人不行啊
+73,SPK_KURONEKO,一般来说老好人也不会不坏的，但是
+74,SPK_KYOUSUKE,但是？　你不一样吗
+75,SPK_KURONEKO,正是如此，那人的好意对我来说只是碍眼这点真希望能够快点察觉到
+76,SPK_KYOUSUKE,……搞不明白啊
+77,SPK_KURONEKO,迟钝啊……不，正是因为如此，所有不需要老好人
+78,SPK_KURONEKO,真是的，真希望快点结束和这种人的折腾啊
+79,SPK_KYOUSUKE,我不知道你到底有着怎样的烦恼，你多半不想对我说这一点，多多少少我也感觉到了
+80,SPK_KYOUSUKE,但是我是不会就这么信服的，就算你再怎么打击我也一样的啊
+81,SPK_KYOUSUKE,这可不是别人而是你的事啊，怎么可能会当做没关系的人一样来对待
+82,SPK_KYOUSUKE,所以即使你觉得讨厌，拜托了还是告诉我吧
+83,SPK_KYOUSUKE,不要再找其他的借口拒绝了好吗？
+84,SPK_KYOUSUKE,虽然我已经不知道该说什么来拜托你了，但是还是拜托了，黑猫……好吗？

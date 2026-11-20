@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "last_updated": "2026-11-20T17:56:00Z",
+  "packages": [
+    {
+      "id": "lang_en",
+      "locale": "en",
+      "name": "English",
+      "short": "ENG",
+      "team": "Rinjinbu Translations",
+      "team_name": "Rinjinbu Translations",
+      "translators": [
+        "Dizzy Ziddy",
+        "Chronoes",
+        "EternalDreamer",
+        "Rinjinbu Translations"
+      ],
+      "authors": [
+        "Dizzy Ziddy",
+        "Chronoes",
+        "EternalDreamer",
+        "Rinjinbu Translations"
+      ],
+      "version": "1.0.3",
+      "description": "Complete English translation for Ore no Imouto Portable (Disc 1 & Disc 2, ORE, OSIS and UI).",
+      "progress": 100.0,
+      "total_lines": 37383,
+      "translated_lines": 37383,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.3/lang_en.pck",
+      "sha256": "6e69ff057c260587b426870b4268ca42b8932f5ca581792ce12daea5b1bb6954",
+      "size_bytes": 2472528,
+      "tags": {},
+      "tag_notes": {},
+      "links": {
+        "website": "https://rinjinbutranslations.blogspot.com/",
+        "romhacking": "https://www.romhacking.net/translations/5873/"
+      }
+    },
+    {
+      "id": "lang_ja",
+      "locale": "ja",
+      "name": "日本語",
+      "short": "JPN",
+      "team": "AI",
+      "team_name": "AI",
+      "translators": [
+        "AI Assisted"
+      ],
+      "authors": [
+        "AI Assisted"
+      ],
+      "version": "1.0.0",
+      "description": "Japanese UI localization package for OreImouto Re:Port. Original Japanese scenario, O.R.E., O.S.I.S., and gallery strings are available only when a legal Japanese UMD ISO is installed as the Base ISO.",
+      "progress": 0.0,
+      "total_lines": 0,
+      "translated_lines": 0,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.3/lang_ja.pck",
+      "sha256": "6ef11049784783dc5e1dcf18c75f29d301d7697abaa26972f09879299f63a743",
+      "size_bytes": 52220,
+      "tags": {
+        "ai": "UI文字列は**AI翻訳**によって作成されています。\n\nUI strings in this package were generated using **AI translation**.",
+        "partial": "UIのみの翻訳パッケージです。\n\n- **シナリオ・O.R.E.・O.S.I.S.・BGM**などのゲーム内日本語テキストは、**日本語版のオリジナルディスク（ISO）**をインストールした場合のみ利用できます（BYOG）。\n\nUI-only pack: Japanese scenario/in-game text is available only when installed from a legal **Japanese UMD ISO**."
+      },
+      "tag_notes": {
+        "ai": "UI文字列は**AI翻訳**によって作成されています。\n\nUI strings in this package were generated using **AI translation**.",
+        "partial": "UIのみの翻訳パッケージです。\n\n- **シナリオ・O.R.E.・O.S.I.S.・BGM**などのゲーム内日本語テキストは、**日本語版のオリジナルディスク（ISO）**をインストールした場合のみ利用できます（BYOG）。\n\nUI-only pack: Japanese scenario/in-game text is available only when installed from a legal **Japanese UMD ISO**."
+      },
+      "links": {},
+      "ui_only": true
+    },
+    {
+      "id": "lang_ru",
+      "locale": "ru",
+      "name": "Русский",
+      "short": "RUS",
+      "team": "Elevation",
+      "team_name": "Elevation",
+      "translators": [
+        "The_Almighty_D",
+        "Elevation"
+      ],
+      "authors": [
+        "The_Almighty_D",
+        "Elevation"
+      ],
+      "version": "1.0.3",
+      "description": "Русский перевод для Ore no Imouto Portable (Диск 1 и Диск 2, OSIS и интерфейс).",
+      "progress": 84.53,
+      "total_lines": 37383,
+      "translated_lines": 31601,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.3/lang_ru.pck",
+      "sha256": "07e5b5d213c79358ceee50e26c9ec5a4fc036c0d2588fc7e2e5001d4dff99f51",
+      "size_bytes": 3514208,
+      "tags": {
+        "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
+      },
+      "tag_notes": {
+        "partial": "Общий прогресс: **84%**\n\n- **Диск 1**: переведён полностью\n- **Диск 2**: не переведены руты **Манами** и **Сэны**"
+      },
+      "links": {
+        "vk": "https://vk.com/elevationnovel",
+        "ruvn": "https://ruvn.org/novels/ore-no-imouto-ga-konna-ni-kawaii-wake-ga-nai"
+      }
+    },
+    {
+      "id": "lang_zh_cn",
+      "locale": "zh_CN",
+      "name": "简体中文",
+      "short": "ZHO",
+      "team": "PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋汉化联盟",
+      "team_name": "PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋汉化联盟",
+      "translators": [
+        "毫米子弹",
+        "RacZY7",
+        "死宅一个",
+        "Amalamya",
+        "大蘑菇酱",
+        "九十九",
+        "无节操女王",
+        "藤花末叶",
+        "法理守护神",
+        "十七的苍真",
+        "幻影の碎片",
+        "MKN2",
+        "気持い",
+        "PSP吧汉化组"
+      ],
+      "authors": [
+        "毫米子弹",
+        "RacZY7",
+        "死宅一个",
+        "Amalamya",
+        "大蘑菇酱",
+        "九十九",
+        "无节操女王",
+        "藤花末叶",
+        "法理守护神",
+        "十七的苍真",
+        "幻影の碎片",
+        "MKN2",
+        "気持い",
+        "PSP吧汉化组"
+      ],
+      "version": "1.0.3",
+      "description": "PSP平台《我的妹妹不可能这么可爱 便携版》Disc 1与Disc 2完整简体中文汉化包。由PSP吧汉化组、俺妹吧与游戏嗯蛋汉化联盟联合译制。",
+      "progress": 100.0,
+      "total_lines": 37383,
+      "translated_lines": 37383,
+      "url": "https://github.com/andre-pullinen/oreimouto-translations/releases/download/v1.0.3/lang_zh_cn.pck",
+      "sha256": "85078f7844dd494985ea622f14b35d39abb84b24c6e21fb35c08fc0ea877b26a",
+      "size_bytes": 18945272,
+      "tags": {
+        "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
+      },
+      "tag_notes": {
+        "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
+      },
+      "links": {
+        "baidu_tieba": "https://tieba.baidu.com/p/1628163531",
+        "k73": "http://www.k73.com/psp/3067.html"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
+  "id": "lang_zh_cn",
+  "locale": "zh_CN",
+  "name": "简体中文",
+  "short": "ZHO",
+  "version": "1.0.3",
+  "description": "PSP平台《我的妹妹不可能这么可爱 便携版》Disc 1与Disc 2完整简体中文汉化包。由PSP吧汉化组、俺妹吧与游戏嗯蛋汉化联盟联合译制。",
+  "team": "PSP吧汉化组 & 俺妹吧 & 游戏嗯蛋汉化联盟",
+  "translators": [
+    "毫米子弹",
+    "RacZY7",
+    "死宅一个",
+    "Amalamya",
+    "大蘑菇酱",
+    "九十九",
+    "无节操女王",
+    "藤花末叶",
+    "法理守护神",
+    "十七的苍真",
+    "幻影の碎片",
+    "MKN2",
+    "気持い",
+    "PSP吧汉化组"
+  ],
+  "progress": 100.0,
+  "tags": {
+    "beta": "当前版本为**测试版（Beta）**。\n\n- PC移植版**未经完整实机测试**\n- 游戏UI界面由**AI辅助翻译**"
+  },
+  "fonts": {
+    "ui": "fonts/NotoSansSC-Medium.otf",
+    "dialogue": "fonts/NotoSansSC-Medium.otf",
+    "speaker": "fonts/NotoSansSC-Medium.otf",
+    "accent": "fonts/NotoSansSC-Medium.otf",
+    "fallback": "fonts/NotoSansSC-Medium.otf"
+  },
+  "links": {
+    "baidu_tieba": "https://tieba.baidu.com/p/1628163531",
+    "k73": "http://www.k73.com/psp/3067.html"
+  }
+}

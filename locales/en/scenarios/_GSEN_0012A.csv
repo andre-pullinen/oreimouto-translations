@@ -1,0 +1,131 @@
+ID,SPEAKER,TEXT
+0,,"After struggling to leave Akiba, I received another 
+text from Akagi."
+1,SPK_AKAGI,"Hey Kousaka, how has Sena been since? Anything 
+about the guy I mentioned?"
+2,,"Rest easy, Akagi. Your sister's been talking nonstop 
+about men earlier, but I didn't even catch a 
+glimpse of the guy you're looking for."
+3,SPK_SENA,"Okay, Senpai. This is commonly referred to as the 
+Maiden Road!"
+4,,"Yup, we're in Ikebukuro."
+5,SPK_SENA,"Hey, check it out! There isn't a lot compared to 
+Akiba, but there are many doujin shops here."
+6,SPK_KYOUSUKE,"You seem way more excited than you were in 
+Akiba, though..."
+7,SPK_SENA,"Fufufu... The stores around here are packed full of 
+treasures that grab the hearts of maidens...!"
+8,SPK_SENA,"If this were an RPG, this would be the city where 
+all the magicians gather to buy magical items! 
+Gotta save up your gold and buy in bulk, uhyuu!"
+9,SPK_KYOUSUKE,"If this is all magic, I only see black magic here..."
+10,SPK_SENA,"If Gokou-san was here she'd definitely say 
+something like, ""What an atrocious rotten smell... this 
+must be the symposium of necromancy...!"""
+11,,"This girl's out of control, she's getting so worked up 
+that she's being sarcastic."
+12,SPK_KYOUSUKE,"H... Hey, I'm getting tired, how about you? We've 
+been walking the entire time since Akiba. Wanna 
+take a break?"
+13,SPK_SENA,"I'm still good to go, but... we haven't had lunch yet, 
+wanna get something to eat?"
+14,SPK_KYOUSUKE,"Yeah, sure! Let's take a break and eat."
+15,SPK_SENA,"Then, let's do that!"
+16,,"Phew, I managed to buy some time for her to 
+calm down and make my life easier in the process. 
+Or so I thought."
+17,SPK_SENA,I recommend this place♪
+18,SPK_BUTLER,"Welcome back, M'lady, M'lord."
+19,,-It's a butler café!!
+20,,"Yeah, should've noticed. There's that maid café in 
+Akiba that Kirino and her group patronized, of 
+course such a place would exist in Ikebukuro too...!"
+21,,"Dropping my shoulders while taking my seat, Sena 
+made a meek expression and spoke."
+22,SPK_SENA,"Senpai, please be careful."
+23,SPK_KYOUSUKE,Be careful of...
+24,SPK_KYOUSUKE,"Ah, right. There has to be some etiquette for a 
+butler café. Stuff that I shouldn't do, anything like 
+that?"
+25,SPK_SENA,"No, nothing like that."
+26,SPK_SENA,"There are many fantastic butlers here, so be 
+careful not to fall in love with one."
+27,SPK_KYOUSUKE,[font_size=33]Like heck I will!![/font_size]
+28,SPK_SENA,"Oh really? When we entered, you kept stealing 
+glances at them..."
+29,SPK_KYOUSUKE,"I've never been to a place like this, I stared out of 
+curiosity!"
+30,,"It's natural to be distracted by the sights of such 
+an elaborate design. I can't even have that?"
+31,SPK_KYOUSUKE,"Do you always have this irresistible urge of pairing 
+people up whenever you see two or more guys 
+together..."
+32,SPK_SENA,"Not at all, it doesn't matter if the target is inorganic, 
+represented by symbols, or even a general concept, 
+I get off by equally pairing them up!"
+33,SPK_KYOUSUKE,"That isn't something to say while puffing your chest 
+out with pride."
+34,,"Puffing out that massive chest while acting so 
+smug. What are you saying with that triumphant 
+look?!"
+35,SPK_SENA,"Besides, the fact that I have to pair you with 
+someone is your fault, not mine."
+36,SPK_KYOUSUKE,Huh?
+37,SPK_SENA,"You release an aura that's begging to be 
+dominated so... I just can't take my eyes off you..."
+38,,"I don't understand the ""begging to be dominated"" 
+part. But since it's scary to think that I might end 
+up like Makabe-kun, I won't ask."
+39,SPK_SENA,"Just look at the customers around you, see? 
+Everyone's already writing short stories in their 
+head about you and a butler..."
+40,SPK_WOMAN_A,"Hey, isn't he giving a great [font_size=28]bottom[/font_size] aura? 
+It's almost like a talent..."
+41,SPK_WOMAN_B,"A story about him coming here for the 
+first time and a butler giving him a 
+private [font_size=28]training[/font_size] might work...!"
+42,SPK_WOMAN_C,"Sounds great!! His appearance is pretty normal for 
+a bottom but, that makes it better..."
+43,SPK_KYOUSUKE,"[font_size=28]Th-This place is scary![/font_size] I feel like I should 
+have never entered here!"
+44,SPK_KYOUSUKE,"H-Hey, you. Bring me something to eat so I can 
+leave!"
+45,SPK_SENA,"You can't say ""you!"" you have to say ""Hey, boy."" or 
+something like that."
+46,SPK_KYOUSUKE,"Huh!? ...H-Hey, boy... Um, I leave it to you."
+47,SPK_BUTLER,Certainly. Here is our menu...
+48,SPK_KYOUSUKE,Ah...
+49,,"When I leaned over to get the menu dropped by 
+the butler, our hands touched-"
+50,SPK_WOMAN_A,"[font_size=28]The flag has arrived! Their first contact 
+with each other-----!![/font_size]"
+51,SPK_WOMAN_B,"No doubt about it. That's the bottom's usual mating 
+call..."
+52,SPK_WOMAN_C,Making an excuse this quickly... what a fearsome kid...
+53,SPK_SENA,"[font_size=26]W-W-Wait, trying to pick up a dropped 
+menu, th-th-th-then their hands touched!!?[/font_size]"
+54,SPK_SENA,"[font_size=26]H-Hey, if you're doing this, then aren't you 
+cheating on Onii-chan!?![/font_size]"
+55,SPK_KYOUSUKE,"You're making too much out of just fingers 
+touching!"
+56,,"W-What's with this, putting Sena aside, why is 
+everyone around us whispering!"
+57,SPK_WOMAN_A,"Wow... He has a boyfriend, yet he's using such 
+devious tactics..."
+58,SPK_WOMAN_B,"Touching each other, then connecting with their 
+bodies...!!"
+59,SPK_WOMAN_C,I knew our eyes didn't deceive us!
+60,SPK_KYOUSUKE,W-What... should I do...!
+61,,"-After that, I don't remember much about what 
+happened."
+62,,"I probably gave up resisting and just quietly ate a 
+meal there."
+63,,"There's also the feeling of being surrounded by a 
+bunch of elder sisters going nuts over me and the 
+butler."
+64,,"I vaguely remember people asking for a photo of 
+me with the butler, but my consciousness was 
+already far gone at that point..."
+65,,"Anyway, the data collection, or rather the BL 
+research session, was over."
+66,,"......Man, I'm exhausted."

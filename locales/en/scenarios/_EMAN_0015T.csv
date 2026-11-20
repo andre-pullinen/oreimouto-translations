@@ -1,0 +1,229 @@
+ID,SPEAKER,TEXT
+0,SPK_MANAMI,"It has been a while since we slept together like this, 
+hasn't it?"
+1,,"I guess that means she is thinking as much about 
+this as I am."
+2,SPK_KYOUSUKE,"You might be right. Last time this happened, we 
+were still attending high school. I went over to your 
+place to sample some Halloween items..."
+3,SPK_MANAMI,"Thank you for doing so, Kyou-chan."
+4,SPK_KYOUSUKE,Why are you thanking me now?
+5,SPK_MANAMI,"Well, I just remembered it, so I thought I should."
+6,SPK_KYOUSUKE,"Hey now, at this rate you'll keep thanking me every 
+time you remember, hmm?"
+7,SPK_MANAMI,I guess you're right.
+8,,"I mean, if you wanna talk about stuff like that..."
+9,SPK_KYOUSUKE,[font_size=17]...I'm the one that should be saying 'thank you' more often.[/font_size]
+10,SPK_MANAMI,Hmm?
+11,SPK_KYOUSUKE,"Nothing... I'm just really grateful for you, that's all."
+12,SPK_MANAMI,"Hearing that from you, I'm kinda embarrassed."
+13,SPK_KYOUSUKE,...
+14,,"Now I'm feeling all embarrassed. I mean, we 
+actually slept in the same room! Good thing no one 
+took it the wrong way..."
+15,SPK_MANAMI,Kyou-chan?
+16,SPK_KYOUSUKE,"It's nothing... I know how you feel, even if you don't 
+say it directly."
+17,SPK_MANAMI,"But, saying it makes it easier to get my feelings 
+across."
+18,SPK_KYOUSUKE,That's so like you...
+19,SPK_MANAMI,Ehehe...
+20,SPK_MANAMI,"Hey Kyou-chan... There's something I want to ask 
+you, can I?"
+21,SPK_KYOUSUKE,"What's with the formality... Alright, ask away."
+22,SPK_MANAMI,"Umm... So, like... do you... umm, want to take a bath 
+with me... right now?"
+23,SPK_KYOUSUKE,D... Do I really have to answer that?
+24,SPK_MANAMI,Y-You don't have to if you don't want to!
+25,SPK_KYOUSUKE,"Besides, weren't you the one who already proposed 
+the idea of taking a bath together?"
+26,SPK_MANAMI,[font_size=28]Eeeh?! I never said that![/font_size]
+27,SPK_MANAMI,"But, if it's with you... I don't mind even if you see me."
+28,SPK_KYOUSUKE,"[font_size=33]Pfft![/font_size] It might be fine for you, but 
+not for me!"
+29,,"There's no way my delicate heart would be able to 
+handle that dreamlike situation!"
+30,,...I'm already fantasizing.
+31,SPK_MANAMI,"Y-Y-Yeah, you're right. I just said something weird..."
+32,,"I'm so hopeless. I shouldn't let a lady like Manami 
+say stuff like that..."
+33,SPK_KYOUSUKE,...Thanks.
+34,SPK_MANAMI,Huh?
+35,SPK_KYOUSUKE,You were really brave to... you know...
+36,SPK_MANAMI,Yeah...
+37,SPK_KYOUSUKE,...
+38,,"Faced with such a loaded question, my mind goes 
+blank on me."
+39,SPK_MANAMI,"Just as I thought, you wouldn't like it..."
+40,SPK_KYOUSUKE,I-I'm not saying I hate that idea.
+41,SPK_MANAMI,You wouldn't hate it?
+42,SPK_KYOUSUKE,Why would I? It's just... embarrassing.
+43,SPK_MANAMI,Embarrassing?
+44,SPK_KYOUSUKE,"...What about you, Manami?"
+45,SPK_MANAMI,"Ehehe, I guess I would be a little shy, too."
+46,,"Watching her being embarrassed, my thoughts 
+suddenly depicted her fidgeting stark naked."
+47,,"Crap! Nope! No no, just calm down already, that 
+part of mine."
+48,SPK_KYOUSUKE,W-Well... Let's save that challenge for the future...
+49,SPK_MANAMI,Y-Yeah...
+50,SPK_KYOUSUKE,"Still... why did you ask something like that out of the 
+blue?"
+51,,"I never expected her to bring up such topics... 
+hence my query."
+52,SPK_MANAMI,"...Umm, there's this thing called a Couple's Bath. It's 
+popular with people who have close relationships..."
+53,,"I see. You were ""inspired"", so to speak."
+54,SPK_MANAMI,"...Ah, but your massage felt really good."
+55,SPK_KYOUSUKE,"Speaking of which, how are your feet? No longer 
+hurts?"
+56,SPK_MANAMI,Yup! I feel much better.
+57,SPK_MANAMI,"If you're up for it, I can give you a massage, too."
+58,SPK_KYOUSUKE,"Well sure, but not my feet..."
+59,SPK_MANAMI,"Hmm? How about your shoulders? Or your lower 
+back?"
+60,SPK_KYOUSUKE,"Uh, yeah, sure, lower back huh? Lower back it is..."
+61,SPK_MANAMI,"Got it! Right then, can you just lay on your 
+stomach?"
+62,SPK_KYOUSUKE,...Ah...
+63,,"Dear Manami, that's a no. I can't exactly lay on my 
+stomach due to... some circumstances."
+64,SPK_KYOUSUKE,"You know what? I'll pass. Thanks, Manami."
+65,SPK_MANAMI,You sure...
+66,SPK_KYOUSUKE,...
+67,,"Ah... I would rather have some peace and quiet. 
+Due to... various circumstances."
+68,SPK_KYOUSUKE,"It's fine, Manami. Thanks."
+69,SPK_MANAMI,"Really? You've been so focused on me this whole 
+time..."
+70,SPK_KYOUSUKE,"Don't worry about it. I'll just be more careful while 
+walking, starting tomorrow."
+71,SPK_MANAMI,"Okay... Kyou-chan, you're so nice."
+72,SPK_MANAMI,"Ahh, oh no! I totally forgot!"
+73,SPK_MANAMI,"I forgot to stamp your point card. Kyou-chan, can I 
+have it for a sec?"
+74,SPK_KYOUSUKE,You mean this?
+75,SPK_MANAMI,"Yup... This is for being concerned over my legs... and 
+this is for giving me a massage."
+76,,Manami swiftly stamps the card twice.
+77,SPK_MANAMI,Thank you for your patronage.①
+78,,"Oh, looks like the stamps are piling up. Surely the 
+rewards are going to steadily get better as well... 
+right?"
+79,,"No no no no! Take things slowly, Kyousuke. Calm 
+down. Haste makes waste, and all that old 
+timey-phrasey stuff..."
+80,SPK_MANAMI,"It has been a while since we slept together like this, 
+hasn't it?"
+81,,"I guess that means she is thinking as much about 
+this as I am."
+82,SPK_KYOUSUKE,"You might be right. Last time this happened, we 
+were still attending high school. I went over to your 
+place to sample some Halloween items..."
+83,SPK_MANAMI,"Thank you for doing so, Kyou-chan."
+84,SPK_KYOUSUKE,Why are you thanking me now?
+85,SPK_MANAMI,"Well, I just remembered it, so I thought I should."
+86,SPK_KYOUSUKE,"Hey now, at this rate you'll keep thanking me every 
+time you remember, hmm?"
+87,SPK_MANAMI,I guess you're right.
+88,,"I mean, if you wanna talk about stuff like that..."
+89,SPK_KYOUSUKE,[font_size=17]...I'm the one that should be saying 'thank you' more often.[/font_size]
+90,SPK_MANAMI,Hmm?
+91,SPK_KYOUSUKE,"Nothing... I'm just really grateful for you, that's all."
+92,SPK_MANAMI,"Hearing that from you, I'm kinda embarrassed."
+93,SPK_KYOUSUKE,...
+94,,"Now I'm feeling all embarrassed. I mean, we 
+actually slept in the same room! Good thing no one 
+took it the wrong way..."
+95,SPK_MANAMI,Kyou-chan?
+96,SPK_KYOUSUKE,"It's nothing... I know how you feel, even if you don't 
+say it directly."
+97,SPK_MANAMI,"But, saying it makes it easier to get my feelings 
+across."
+98,SPK_KYOUSUKE,That's so like you...
+99,SPK_MANAMI,Ehehe...
+100,SPK_MANAMI,"Hey Kyou-chan... There's something I want to ask 
+you, can I?"
+101,SPK_KYOUSUKE,"What's with the formality... Alright, ask away."
+102,SPK_MANAMI,"Umm... So, like... do you... umm, want to take a bath 
+with me... right now?"
+103,SPK_KYOUSUKE,D... Do I really have to answer that?
+104,SPK_MANAMI,Y-You don't have to if you don't want to!
+105,SPK_KYOUSUKE,"Besides, weren't you the one who already proposed 
+the idea of taking a bath together?"
+106,SPK_MANAMI,[font_size=28]Eeeh?! I never said that![/font_size]
+107,SPK_MANAMI,"But, if it's with you... I don't mind even if you see me."
+108,SPK_KYOUSUKE,"[font_size=33]Pfft![/font_size] It might be fine for you, but 
+not for me!"
+109,,"There's no way my delicate heart would be able to 
+handle that dreamlike situation!"
+110,,...I'm already fantasizing.
+111,SPK_MANAMI,"Y-Y-Yeah, you're right. I just said something weird..."
+112,,"I'm so hopeless. I shouldn't let a lady like Manami 
+say stuff like that..."
+113,SPK_KYOUSUKE,...Thanks.
+114,SPK_MANAMI,Huh?
+115,SPK_KYOUSUKE,You were really brave to... you know...
+116,SPK_MANAMI,Yeah...
+117,SPK_KYOUSUKE,...
+118,,"Faced with such a loaded question, my mind goes 
+blank on me."
+119,SPK_MANAMI,"Just as I thought, you wouldn't like it..."
+120,SPK_KYOUSUKE,I-I'm not saying I hate that idea.
+121,SPK_MANAMI,You wouldn't hate it?
+122,SPK_KYOUSUKE,Why would I? It's just... embarrassing.
+123,SPK_MANAMI,Embarrassing?
+124,SPK_KYOUSUKE,"...What about you, Manami?"
+125,SPK_MANAMI,"Ehehe, I guess I would be a little shy, too."
+126,,"Looking at Manami getting embarrassed, I start 
+imagining her fidgeting stark naked."
+127,,"Crap! Nope! No no, just calm down already, that 
+part of mine."
+128,SPK_KYOUSUKE,W-Well... Let's save that challenge for the future...
+129,SPK_MANAMI,Y-Yeah...
+130,SPK_KYOUSUKE,"Still... why did you ask something like that out of the 
+blue?"
+131,,"I never expected her to bring up such topics... 
+hence my query."
+132,SPK_MANAMI,"...Umm, there's this thing called a Couple's Bath. It's 
+popular with people who have close relationships..."
+133,,"I see. You were ""inspired"", so to speak."
+134,SPK_MANAMI,"...Ah, but your massage felt really good."
+135,SPK_KYOUSUKE,"Speaking of which, how are your feet? No longer 
+hurts?"
+136,SPK_MANAMI,Yup! I feel much better.
+137,SPK_MANAMI,"If you're up for it, I can give you a massage, too."
+138,SPK_KYOUSUKE,"Well sure, but not my feet..."
+139,SPK_MANAMI,"Hmm? How about your shoulders? Or your lower 
+back?"
+140,SPK_KYOUSUKE,"Uh, yeah, sure, lower back huh? Lower back it is..."
+141,SPK_MANAMI,"Got it! Right then, can you just lay on your 
+stomach?"
+142,SPK_KYOUSUKE,...Ah...
+143,,"Dear Manami, that's a no. I can't lay on my stomach 
+due to... some circumstances."
+144,SPK_KYOUSUKE,"You know what? I'll pass. Thanks, Manami."
+145,SPK_MANAMI,You sure...
+146,SPK_KYOUSUKE,...
+147,,"Ah... I would rather have some peace and quiet. 
+Due to... various circumstances."
+148,SPK_KYOUSUKE,"It's fine, Manami. Thanks."
+149,SPK_MANAMI,"Really? You've been so focused on me this whole 
+time..."
+150,SPK_KYOUSUKE,"Don't worry about it. I'll just be more careful while 
+walking, starting tomorrow."
+151,SPK_MANAMI,"Okay... Kyou-chan, you're so nice."
+152,SPK_MANAMI,"Ahh, oh no! I totally forgot!"
+153,SPK_MANAMI,"I forgot to stamp your point card. Kyou-chan, can I 
+have it for a sec?"
+154,SPK_KYOUSUKE,You mean this?
+155,SPK_MANAMI,"Yup... This is for being concerned over my legs... and 
+this is for giving me a massage."
+156,,Manami swiftly stamps the card twice.
+157,SPK_MANAMI,Thank you for your patronage.①
+158,,"Oh, looks like the stamps are piling up. Surely the 
+rewards are going to steadily get better as well... 
+right?"
+159,,"No no no no! Take things slowly, Kyousuke. Calm 
+down. Haste makes waste, and all that old 
+timey-phrasey stuff..."

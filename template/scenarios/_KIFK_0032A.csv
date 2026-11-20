@@ -1,0 +1,113 @@
+ID,SPEAKER,TEXT
+0,SPK_KANAKO,"Master~, hoooow's this?"
+1,SPK_MANAMI,"Mmm, you've gotten just a bit better."
+2,SPK_KANAKO,...Just a bit?
+3,SPK_MANAMI,Just a bit.
+4,SPK_KANAKO,"I see... still got a long way to go, huh..."
+5,SPK_MANAMI,"There's no need to rush, I'm in this with you."
+6,SPK_MANAMI,"I'll make you an excellent bride, befitting of anyone 
+you marry."
+7,SPK_KANAKO,"...Hey, Master."
+8,SPK_MANAMI,Hmm?
+9,SPK_KANAKO,Why are you going so far to be nice to me?
+10,SPK_MANAMI,...Do you still think that I'm suspicious?
+11,SPK_KANAKO,Hmm.
+12,SPK_KANAKO,"It's true, at first I thought you were so softhearted 
+that it was suspicious, but..."
+13,SPK_KANAKO,But I was wrong. Master's not that kind of person.
+14,SPK_KANAKO,"I might be an idiot, but..."
+15,SPK_KANAKO,Even I can understand that much.
+16,SPK_MANAMI,...
+17,SPK_KANAKO,"Master, can I say something that might sound 
+rude?"
+18,SPK_MANAMI,Go ahead.
+19,SPK_KANAKO,Are you alright in the head?
+20,SPK_MANAMI,Why do you think so?
+21,SPK_KANAKO,"There's gotta be something wrong. It's just 
+impossible."
+22,SPK_KANAKO,"When someone's too nice, they always have ulterior 
+motives. But from what I've seen, you aren't that 
+kind of person."
+23,SPK_KANAKO,"I'm heavily indebted to you for the many things 
+you've taught me, like the lesson earlier."
+24,SPK_KANAKO,Sometimes even treating me to meals too.
+25,SPK_KANAKO,"...Honestly, I like you quite a lot, Master."
+26,SPK_MANAMI,"...I see. Thank you, Kanako-chan."
+27,SPK_KANAKO,"That said, it's still really irritating though."
+28,SPK_MANAMI,Hey... Kanako-chan.
+29,SPK_MANAMI,"You said I was 'softhearted' but... that's not the case, 
+you know?"
+30,SPK_MANAMI,I too have schemed about things before.
+31,SPK_KANAKO,For real? You're not lying?
+32,SPK_MANAMI,"Yeah, honest."
+33,SPK_MANAMI,"That's why, Kanako-chan, maybe you should be 
+careful around me, don't hold back, alright?"
+34,SPK_MANAMI,"I've plans to make you cry if you let your guard 
+down~"
+35,SPK_KANAKO,...Oh yeah?
+36,SPK_KANAKO,How interesting.
+37,SPK_KANAKO,"Very well, Master. I'll take up your challenge."
+38,SPK_KANAKO,"I don't know what you're scheming, but..."
+39,SPK_KANAKO,I definitely won't lose!
+40,SPK_MANAMI,"Mhmm, that's the spirit, just like that."
+41,SPK_MANAMI,"Alright, since you're full of energy, let's continue."
+42,SPK_KANAKO,Aye!
+43,SPK_MANAMI,"After that's over, next is study time~"
+44,SPK_KANAKO,Ugeh...
+45,SPK_MANAMI,"Good work today, Kanako-chan."
+46,SPK_KANAKO,"Thank you very much, Master."
+47,SPK_KANAKO,Oh.
+48,,...Is it Kyousuke?
+49,,I looked at my phone's LCD screen.
+50,,The name that flashed on the screen...
+51,SPK_KANAKO,"Oh, it's just Ayase."
+52,SPK_KANAKO,"Hey, it's me."
+53,SPK_UNKNOWN_2,To the one imprisoned in abominable illusions...
+54,SPK_KANAKO,"Huh? This isn't Ayase? Who is this? You prank 
+calling me?"
+55,SPK_UNKNOWN_2,"We, ""The Dark Alliance,"" have Kousaka Kyousuke in 
+our custody."
+56,SPK_KANAKO,Ah?
+57,SPK_KANAKO,[font_size=33]Wha-! W-What did you say!?[/font_size]
+58,SPK_UNKNOWN_2,"""Dark Alliance""."
+59,SPK_KANAKO,[font_size=44]NOT THAT![/font_size]
+60,SPK_MANAMI,"W-What's wrong, Kanako-chan!"
+61,SPK_KANAKO,S-Someone strange in the head called my phone!
+62,SPK_KANAKO,They said they've taken Kyousuke hostage!
+63,SPK_MANAMI,Ehh!? K-Kidnapping!
+64,SPK_UNKNOWN_2,"Kukuku... You seem to be flustered, foolish mortal."
+65,SPK_UNKNOWN_2,"If you want to save his sou... w-wait, what are you 
+doing?"
+66,SPK_UNKNOWN,Please convey our intentions properly!
+67,SPK_UNKNOWN_2,"I said I'm doing just th- hey, stop...!"
+68,SPK_KANAKO,W-What the heck?
+69,,"Whoever's on the other end fought over the phone 
+for a bit."
+70,SPK_AYASE,...Kanako?
+71,SPK_KANAKO,Ayase!
+72,SPK_KANAKO,"You're the mastermind behind the kidnapping! I 
+knew it!"
+73,SPK_AYASE,"You're wrong! And what do you mean by 'I knew 
+it'?!"
+74,SPK_KANAKO,"Making prank calls and such, you're seriously 
+annoying!"
+75,SPK_KANAKO,"I mean, haven't you been in a bad mood for a while 
+now? Ever since we met at the beach."
+76,SPK_KANAKO,Well? So you've taken Kyousuke hostage?
+77,SPK_AYASE,...We had Onii-san make his way here.
+78,,That's still kidnapping no matter how you phrase it.
+79,SPK_KANAKO,"Tch, you better watch it, you ugly woman. If you 
+dare to lay even a single finger on Kyousuke, I'll 
+beat the crap out of you."
+80,SPK_KANAKO,"You went on and on about Kirino's feelings back 
+then. Cut the crap already. There's no end to this."
+81,SPK_AYASE,"...What a coincidence, Kanako. We feel the same as 
+well."
+82,SPK_AYASE,...Will you come to where I tell you? Alone.
+83,SPK_KANAKO,...I'm here.
+84,,I was told to go to the park near Kyousuke's home.
+85,,"The area was devoid of people, the wind rustling 
+the leaves of trees."
+86,SPK_AYASE,"Kanako. I'm sorry, suddenly calling you out like that."
+87,,"...As if they were lying in wait for me, their figures 
+emerged out of nowhere."

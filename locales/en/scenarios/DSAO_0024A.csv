@@ -1,0 +1,108 @@
+ID,SPEAKER,TEXT
+0,SPK_MANAMI,"Summer vacation starts tomorrow, so everyone's leaving early."
+1,SPK_KYOUSUKE,"Well, there isn't anyone who likes to stay on the day of the closing ceremony."
+2,SPK_MANAMI,Oh. That's true.
+3,SPK_MANAMI,"Then, let's go home as well?"
+4,SPK_KYOUSUKE,"Ah, okay."
+5,,Hmm... That person over there is...
+6,SPK_KYOUSUKE,Kuroneko!
+7,SPK_KURONEKO,"...oh, Kousaka-senpai, Tamura-senpai. Nice to meet you."
+8,SPK_MANAMI,"Good afternoon, Gokou-san."
+9,SPK_MANAMI,"You look like you're carrying many things, but are you all right? Shall I help?"
+10,,"Just as Manami says, Kuroneko was carrying bags in both hands."
+11,,I can see several books which are as thick as dictionaries stuffed inside.
+12,,It looks tough for Kuroneko to carry these.
+13,SPK_KURONEKO,There's no need for concern.
+14,SPK_KURONEKO,Only the Denizens of Darkness can handle these...
+15,SPK_MANAMI,Denizens of Darkness?
+16,SPK_KYOUSUKE,I-It's nothing!
+17,SPK_KYOUSUKE,"Just getting a little giddy from the heat, right, Kuroneko?"
+18,SPK_KURONEKO,...It's useless talking to humans.
+19,SPK_KYOUSUKE,Ah-Ah-Ah!
+20,SPK_KYOUSUKE,"Manami! I have something to discuss with Kuroneko, so could you go ahead first?"
+21,SPK_MANAMI,"Okay. Got it, Kyou-chan."
+22,SPK_KYOUSUKE,...You.
+23,SPK_KYOUSUKE,Don't bring out your evil eye in front of Manami.
+24,SPK_KURONEKO,"...Is that all? Then, I'll be leaving you behind."
+25,SPK_KYOUSUKE,Hey! There's no need to be in such a hurry.
+26,SPK_KURONEKO,"Unfortunately, I am busy, unlike you."
+27,SPK_KURONEKO,I also have a meeting with Saori later on.
+28,SPK_KYOUSUKE,A meeting with Saori?
+29,SPK_KURONEKO,Yes. I absolutely need materials for my new publications to be released during Summer Comiket. This baggage is one part of said materials.
+30,SPK_KURONEKO,So I arranged a meeting with Saori to borrow some information booklets from her.
+31,SPK_KYOUSUKE,Summer Comiket's new publications?
+32,,"Summer Comiket is that thingy, right? The otaku festival."
+33,,Putting that aside.
+34,,"If I remember correctly, this Summer Comiket thing is held during the Lantern Festival period."
+35,SPK_KYOUSUKE,"I'm not familiar with it, so I might be wrong."
+36,SPK_KYOUSUKE,Are you able to make it in time if you only start borrowing now?
+37,SPK_KURONEKO,...Hmph.
+38,SPK_KURONEKO,That's why I said that I'm busy.
+39,,"Ah, I overlooked that!"
+40,,"But, now I kind of get what Kuroneko is trying to say."
+41,,"Basically, something like ""Let the Crunch Time begin!"""
+42,,Even the usually calm and composed Kuroneko is on tenterhooks at the moment.
+43,,"As such, she can't even spare time for chatting."
+44,SPK_KYOUSUKE,"You know, regarding those information booklets..."
+45,SPK_KYOUSUKE,How about I go get them for you?
+46,SPK_KURONEKO,Senpai will?
+47,SPK_KYOUSUKE,"You're busy with the manuscript, right? I'm free anyway."
+48,SPK_KYOUSUKE,"I also have something to ask Saori, you see."
+49,SPK_KYOUSUKE,"If I get the booklets for you, you can work on the manuscript in the meantime."
+50,SPK_KURONEKO,...It's true that our interests align.
+51,SPK_KYOUSUKE,Yup.
+52,SPK_KURONEKO,.........
+53,SPK_KURONEKO,Understood. Please help me with this transaction.
+54,SPK_KURONEKO,"By all means, take care not to get addled by the summer heat."
+55,,"I got Manami who was waiting for me to return home first, and then I went to the meeting place as directed by Kuroneko."
+56,SPK_KYOUSUKE,Although I know that...
+57,,"It is summer. Mid-summer. Basically, the emancipation season."
+58,,Couples freed from societal etiquette going all over each other in public without reservations.
+59,,That couple sharing ice cream cones over there...
+60,,"And this couple linking arms over here despite the crazy heat... Ohhohh, it's getting hot out here!"
+61,SPK_KYOUSUKE,They're being so enviable... Damn!
+62,SPK_KYOUSUKE,Oh... is that Saori?
+63,,I found a girl who looked like Saori near the fountain.
+64,,Similar... Because her back is facing me.
+65,,"Well, I can't believe that a tall girl like that would be all alone, so it probably is Saori."
+66,SPK_KYOUSUKE,Hey!
+67,,I tried calling out.
+68,,"But, my voice got lost in the noise. It seemed like it didn't reach Saori."
+69,,"Saori looked around the area restlessly, looking for Kuroneko."
+70,SPK_KYOUSUKE,Saoriii! Heyyy!
+71,SPK_SAORI,Kyou-Kyousuke-shi?!
+72,SPK_KYOUSUKE,Yo! It's been since the hospital!
+73,,"Calling didn't work, mailing didn't work either."
+74,,Even Buddha's tranquil face only lasts until the third time.
+75,,It's impossible that a direct meeting will fail!
+76,SPK_KYOUSUKE,"Even Buddha's tranquil face only lasts until the third time, Saori! You'll have to tell me what's troubling you today!"
+77,,I said that as I tapped Saori's shoulder.
+78,SPK_SAORI,Kyousuke-shi...
+79,SPK_SAORI,"I am very glad for this encounter, but..."
+80,SPK_SAORI,"Since I am bound to a meeting with Kuroneko-shi, as such... DORON!"
+81,SPK_KYOUSUKE,Hey! Wait!
+82,SPK_SAORI,No one will wait when asked to!
+83,,"Saori, displaying unbelievable sprinting skills, slipped through the commoners and headed toward the park's exit."
+84,,Her figure gradually became smaller and smaller...
+85,,"Unable to do anything, I could only watch her back as she got away."
+86,SPK_KYOUSUKE,Running away as you see someone's face is a friend's disgrace!
+87,SPK_KYOUSUKE,I don't care about you anymore! Suit yourself!
+88,,I watched her get away and decided to return home.
+89,,For some reason.
+90,,I had a feeling that I wouldn't be able to meet Saori ever again if I let her escape now.
+91,SPK_KYOUSUKE,"Saori, wait! Don't flee!"
+92,SPK_SAORI,Aw!!
+93,SPK_SAORI,Ouch ouch ouch!!
+94,SPK_SAORI,Kyousuke-shi! It hurts!
+95,SPK_KYOUSUKE,"Huh? A-Ah, sorry!"
+96,SPK_SAORI,Really... Suddenly gripping my arm...
+97,SPK_SAORI,Isn't Kyousuke-shi's treatment toward ladies slightly violent?
+98,SPK_KYOUSUKE,I told you I'm sorry! But...
+99,SPK_KYOUSUKE,"But if I lost sight of you here, I had a feeling I wouldn't be able to meet you again..."
+100,SPK_SAORI,Kyousuke-shi...
+101,SPK_SAORI,So Kyousuke-shi finally caught the same sickness Kuroneko has...
+102,SPK_KYOUSUKE,NO!
+103,,"I'm absolutely not one of those ""Evil Eyes""!"
+104,SPK_SAORI,"Ha Ha Ha! Well, jokes aside..."
+105,,"In the hot month of August, Kirino, Kuroneko and Saori went there; meeting Ayase by chance and exposed Kirino's otaku side... That was a dreadful"
+106,,time.

@@ -1,0 +1,185 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,"I mentioned this earlier, but..."
+1,SPK_KYOUSUKE,...I think you just need to get used to it.
+2,SPK_SAORI,...Uh-huh.
+3,SPK_KYOUSUKE,"You said when you put on your glasses, your 
+personality changes, but..."
+4,SPK_KYOUSUKE,"Even though it's a quick fix for being shy, doesn't it 
+seem rather pointless?"
+5,SPK_SAORI,"Yes... through that, it doesn't mean I'm truly rid of 
+my shyness."
+6,SPK_KYOUSUKE,"In that case, I guess all we can do is confront it 
+head-on."
+7,SPK_SAORI,"But, even if you tell me to get used to it... how 
+would I do so?"
+8,SPK_KYOUSUKE,"Hmm... Ah, but, right now, you're calmer than you 
+were earlier, right?"
+9,SPK_KYOUSUKE,"Doesn't that mean you've gotten a little more used 
+to us two being together?"
+10,SPK_SAORI,"That is most likely... because we are inside the 
+house."
+11,SPK_SAORI,"I was nervous before coming in, but... now that I am 
+inside, with no one around staring, it looks like I am 
+fine."
+12,SPK_KYOUSUKE,"Hoh, so that's how it is."
+13,SPK_KYOUSUKE,Then... I got it.
+14,SPK_KYOUSUKE,Want to try holding hands?
+15,SPK_SAORI,!
+16,SPK_SAORI,"W-Why would you suggest that?! Impossible, 
+impossible, impossible, impossible! Definitely 
+impossible!"
+17,SPK_SAORI,"If we were to do that, I would die of 
+embarrassment!!"
+18,SPK_KYOUSUKE,"...Impossible, huh."
+19,,This is a problem.
+20,SPK_KYOUSUKE,"There isn't much left of summer vacation, and I 
+was hoping to go on as many dates as we could."
+21,SPK_SAORI,...Ah.
+22,SPK_SAORI,...I feel the same.
+23,SPK_KYOUSUKE,Hm?
+24,SPK_SAORI,.... I... want to... go on a date too.
+25,SPK_KYOUSUKE,I see.
+26,,"So, we feel the same way. That's a relief."
+27,SPK_KYOUSUKE,How about this?
+28,SPK_KYOUSUKE,"Let's rehearse for a date today, right here."
+29,SPK_KYOUSUKE,"That way, you can get a little more used to 
+situations with just the two of us."
+30,SPK_KYOUSUKE,"And after that, starting tomorrow, you can get used 
+to real dating."
+31,SPK_KYOUSUKE,How about it?
+32,,"Not only can we start going on dates, but this could 
+help overcome her shyness."
+33,,Like killing two birds with one stone.
+34,SPK_SAORI,...I have no objections to this plan.
+35,SPK_SAORI,However...
+36,SPK_SAORI,Rehearsing a date... What do you plan on doing?
+37,SPK_KYOUSUKE,"Mmm, good question."
+38,SPK_KYOUSUKE,How about we play an H-game together?
+39,SPK_SAORI,Kyo-Kyosuke-san! Please don't joke around!
+40,SPK_SAORI,Y-You even said you wouldn't do anything dirty...!
+41,SPK_KYOUSUKE,"They're not really that dirty. I play them with my 
+little sister all the time."
+42,SPK_SAORI,"Well you siblings have an abnormal relationship with 
+each other!"
+43,SPK_KYOUSUKE,"For real? You think I might be numb to this sort of 
+thing already?"
+44,SPK_SAORI,You're already in the terminal stage!
+45,SPK_KYOUSUKE,"Y'know, you snap kind of easily when you're being 
+your true self."
+46,SPK_SAORI,"T-That's because you are making me mad, 
+Kyosuke-san."
+47,SPK_KYOUSUKE,"Sorry, sorry. But you know, it's not like I was just 
+throwing a random idea out there."
+48,SPK_KYOUSUKE,"The genre of the game is ""Love Simulation"", so it 
+should be effective for rehearsing a date."
+49,SPK_SAORI,"...As a girl, I cannot agree with that way of thinking."
+50,,She rejected my plan completely.
+51,SPK_KYOUSUKE,Even if it's for all-ages?
+52,SPK_SAORI,No.
+53,,"Well, it's not like I really wanted to play it that 
+badly."
+54,SPK_KYOUSUKE,Let's practice having a date in a different way then.
+55,SPK_SAORI,"You changed subjects rather quickly... What do you 
+plan on doing?"
+56,,She seems cautious.
+57,SPK_KYOUSUKE,"Holding hands is impossible, right?"
+58,SPK_SAORI,I will die.
+59,,I thought so.
+60,SPK_KYOUSUKE,"Hmmm... so, judging from that I'm guessing, ""if I 
+were to touch you"", you would become 
+embarrassed."
+61,SPK_SAORI,Huh.
+62,SPK_KYOUSUKE,"Let's turn this around, what if you were to touch 
+me? Would you still be embarrassed?"
+63,SPK_SAORI,I-I wonder... I won't know without trying.
+64,SPK_KYOUSUKE,"Okay then, wanna try it out?"
+65,SPK_SAORI,...
+66,SPK_KYOUSUKE,...
+67,SPK_SAORI,U-Um.
+68,SPK_SAORI,"When you stare at me, it's rather embarrassing."
+69,SPK_KYOUSUKE,...Alright. I'll close my eyes.
+70,SPK_SAORI,"...You're peeking, aren't not?"
+71,SPK_KYOUSUKE,You sure are skeptical... I'll blindfold myself then.
+72,,"I grabbed a towel and wrapped it tightly around 
+my eyes."
+73,SPK_KYOUSUKE,"Now, this is fine, right? ...Alright, come at me."
+74,SPK_SAORI,O-Okay.
+75,,...
+76,,"After waiting for a while, I felt something poking 
+my cheek."
+77,SPK_KYOUSUKE,How is it?
+78,SPK_SAORI,I seem to be fine.
+79,SPK_KYOUSUKE,"Okay, then let's move onto the next step."
+80,,I held out my right hand.
+81,SPK_SAORI,Um... What do I do with this?
+82,SPK_KYOUSUKE,Try holding it.
+83,SPK_SAORI,...L-Like this?
+84,,Saori gently held my hand.
+85,SPK_KYOUSUKE,"See, you can do it after all."
+86,SPK_SAORI,I-I sure did.
+87,SPK_KYOUSUKE,"That's good, keep it up. Keep on touching."
+88,SPK_SAORI,I'll continue touching then.
+89,SPK_SAORI,...L-Like this?
+90,SPK_KYOUSUKE,Mhmm.
+91,,...
+92,,"Since I can't see and, thus, can't tell when she's 
+going to touch me, my sensitivity is doubled."
+93,SPK_SAORI,...
+94,SPK_KYOUSUKE,H-Hey... Don't touch weird places out of nowhere.
+95,SPK_SAORI,"Ah, did it tickle? I'm sorry."
+96,SPK_KYOUSUKE,"...No, it's fine... really."
+97,SPK_SAORI,"...Then, I will be touching your arm next, okay?"
+98,SPK_KYOUSUKE,Whenever you're ready.
+99,SPK_KYOUSUKE,...
+100,SPK_SAORI,...
+101,,Now that I think about it.
+102,,"Right now, I'm being blindfolded, so I can let a girl 
+touch my body all she likes."
+103,,"To other people, this must be completely 
+perverted."
+104,,"I wonder what I'll do if my parents or Kirino come 
+home."
+105,,"...Well, I can tell by hearing anything."
+106,,"As I was thinking about such pointless matters, I 
+realized something."
+107,,"At some point, she had stopped touching me."
+108,SPK_KYOUSUKE,What's wrong? Are you done already?
+109,SPK_SAORI,Ah... no... not... yet.
+110,SPK_KYOUSUKE,?
+111,,"I can't see at all what Saori is up to, so all I can do 
+is tilt my head, puzzled."
+112,SPK_SAORI,...
+113,SPK_KYOUSUKE,...
+114,SPK_SAORI,... ...
+115,SPK_KYOUSUKE,?!
+116,,Something soft touched my lips...
+117,,"I quickly pulled off my blindfold, flustered."
+118,SPK_KYOUSUKE,W-What did you do?!
+119,SPK_SAORI,...W-What is it?
+120,SPK_SAORI,"Please don't raise your voice so suddenly. You 
+startled me."
+121,SPK_KYOUSUKE,"D-Don't play dumb! Just now, you..."
+122,SPK_SAORI,"...Oh my, I have absolutely no idea what you're 
+talking about."
+123,SPK_KYOUSUKE,...Are you sure you're a shy person?
+124,SPK_SAORI,"My, my, you are exaggerating."
+125,SPK_SAORI,I just touched it a bit with my finger.
+126,SPK_KYOUSUKE,You mean that was your finger?!
+127,,My heart was about to burst!
+128,SPK_KYOUSUKE,"...Okay, well done. I guess it's my turn next?"
+129,SPK_SAORI,Y-Your... turn?
+130,SPK_KYOUSUKE,"It seems like, you become shy when you make eye 
+contact with someone."
+131,SPK_KYOUSUKE,"If the other person isn't looking, you're able to do 
+as you please."
+132,SPK_SAORI,"B-But, that's..."
+133,SPK_KYOUSUKE,"No excuses. This time, I'm just going to stare at 
+your face, you'll just have to continue enduring it."
+134,SPK_SAORI,Eh! Th-That would be too embarrassing!
+135,SPK_KYOUSUKE,"I'm the one who should be embarrassed! ...I'm 
+expecting you to take responsibility for my 
+humiliation."
+136,SPK_SAORI,Please don't say such girly things!
+137,,"And, so..."
+138,,"I had an extremely lively first date with my 
+girlfriend."

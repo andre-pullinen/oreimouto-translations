@@ -1,0 +1,85 @@
+ID,SPEAKER,TEXT
+0,,"Finally, I'll be starting work as Kuroneko's assistant from today onwards!"
+1,,"Well, it's good that I prepared myself before I arrived, however..."
+2,SPK_KYOUSUKE,"The meeting point should be somewhere around here, I guess?"
+3,,Hmm...
+4,,I'm sure it's somewhere I've been to many times before...
+5,,Hmm? Could it be that we're going to start doing work there?
+6,,Or are we going somewhere else once we meet up?
+7,,"No, it doesn't seem right... We should be going to somewhere... how should I put it..."
+8,,"Right, right. It should be somewhere we can work at."
+9,,Where could that be...
+10,,"It's still summer vacation, so I think any place should be fine..."
+11,,I guess I'll wait here.
+12,,Kuroneko will surely come.
+13,SPK_KYOUSUKE,Kuroneko hasn't arrived yet...
+14,,"I came in high spirits, but... when the other party isn't here it makes me kind of uneasy."
+15,,"But still, it's a bit early from the appointed time."
+16,,"If I wait here, it should be fine..."
+17,,"Well, that's why I came but..."
+18,SPK_KYOUSUKE,Kuroneko still hasn't arrived yet...
+19,,"Well, if I wait a little she'll come for sure..."
+20,,She's not coming at all...
+21,,I feel... restless all of a sudden...
+22,,Is this really the meeting spot?
+23,,"Somehow, I have a bad feeling..."
+24,,Could it be that I was mistaken?
+25,,"If I were to take a look at other places, time-wise it would be my last chance to go now..."
+26,,"Gah, this is bothersome."
+27,,I'm waiting here! I'm sure it's here! It's probably Kuroneko who's late!
+28,,"---was what I thought, but..."
+29,,She still hasn't come.
+30,,Eh? So I really made a mistake?
+31,SPK_KYOUSUKE,It's from Kuroneko...
+32,SPK_KURONEKO,How much longer will you make me wait? You're just a manservant and you have that kind of nerve?
+33,SPK_KURONEKO,...I'm waiting at the classroom.
+34,SPK_KYOUSUKE,...I'm sorry.
+35,,"So she's already here? ...Damn, so I'm late..."
+36,SPK_KURONEKO,"Oh my, you're surprisingly fast."
+37,SPK_KYOUSUKE,That's my line. I actually thought of coming earlier.
+38,SPK_KURONEKO,"I'm the one who invited you here, remember? It's a given that I'll be here earlier."
+39,SPK_KYOUSUKE,"Damn, I thought of being earlier than you, then wait for you a little..."
+40,SPK_KURONEKO,"Oh, your intention is admirable."
+41,SPK_KYOUSUKE,I decided to spend my summer vacation for your sake. That's why I wanted to show you my determination.
+42,SPK_KURONEKO,...Is that so.
+43,SPK_KURONEKO,Well then... then don't slow me down and try your very best.
+44,SPK_KYOUSUKE,"Yeah, leave it to me."
+45,SPK_KURONEKO,"Well then, allow me to explain to you which areas you need to take note..."
+46,SPK_KYOUSUKE,"Yeah... Wait, about that."
+47,SPK_KURONEKO,What's wrong?
+48,SPK_KYOUSUKE,Isn't it a little warm here? Are you all right?
+49,SPK_KURONEKO,I'm fine. I'm already used to this heat.
+50,SPK_KYOUSUKE,"But, didn't you collapse not too long ago? What if that happened again..."
+51,SPK_KURONEKO,"That's just lack of sleep, I'm fine now... Still, you won't be relieved even if I said that, right?"
+52,SPK_KYOUSUKE,"Yeah, of course."
+53,SPK_KURONEKO,But there isn't anywhere else suitable. Do you know of other good places besides here?
+54,SPK_KYOUSUKE,...What about my house?
+55,SPK_KURONEKO,But with your sister over there?
+56,SPK_KYOUSUKE,Ah...
+57,,The two of you would certainly quarrel. What about other places...
+58,SPK_KURONEKO,"Nowhere, right? A place where we can speak freely and spend no money at is extremely valuable."
+59,,Even so... What if her physical condition turns for the worse...
+60,,"The classroom has an air-conditioning system, but we can't turn it on as we please..."
+61,,Aren't there any other cooler places...
+62,SPK_KYOUSUKE,There's still one possible place... though.
+63,SPK_KURONEKO,I'm listening.
+64,SPK_KYOUSUKE,How about your house?
+65,SPK_KURONEKO,............
+66,SPK_KURONEKO,And here I was wondering about what you were going to suggest so suddenly... it can't be done.
+67,SPK_KYOUSUKE,Why? Is there a problem?
+68,SPK_KURONEKO,I'm sure there's a problem. Why must you absolutely come to my house?
+69,SPK_KYOUSUKE,Because I won't let you work in this hot classroom.
+70,SPK_KURONEKO,Besides that?
+71,SPK_KYOUSUKE,"This reason is enough, right? Besides your health, what other reason should there be?"
+72,SPK_KURONEKO,G-Good grief... Can't you speak with a little more reservation?
+73,SPK_KYOUSUKE,I'm not too good with that.
+74,SPK_KURONEKO,Do you have any ulterior motives for wanting to go to my house?
+75,SPK_KYOUSUKE,Ulterior motives?
+76,SPK_KURONEKO,T-That being...
+77,SPK_KYOUSUKE,I've said it many times. I'm only worried about your health.
+78,SPK_KYOUSUKE,How about I try collapsing in front of you. It really scared me that time...
+79,SPK_KURONEKO,...Senpai.
+80,SPK_KYOUSUKE,"That's why, we'll work at your house."
+81,SPK_KURONEKO,...Fine.
+82,SPK_KYOUSUKE,I also want to take a look at your room.
+83,SPK_KURONEKO,...And you've just ruined it.

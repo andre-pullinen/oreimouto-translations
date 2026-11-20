@@ -1,0 +1,195 @@
+ID,SPEAKER,TEXT
+0,,DEBUG
+1,,DEBUG
+2,,DEBUG
+3,,DEBUG
+4,,DEBUG
+5,,DEBUG
+6,,DEBUG
+7,,DEBUG
+8,,DEBUG
+9,,DEBUG
+10,,DEBUG
+11,,DEBUG
+12,,DEBUG
+13,,DEBUG
+14,,DEBUG
+15,,DEBUG
+16,,DEBUG
+17,,DEBUG
+18,,DEBUG
+19,,DEBUG
+20,,DEBUG
+21,,DEBUG
+22,,DEBUG
+23,,DEBUG
+24,,DEBUG
+25,,DEBUG
+26,,DEBUG
+27,,DEBUG
+28,,DEBUG
+29,,DEBUG
+30,,DEBUG
+31,,DEBUG
+32,,DEBUG
+33,,DEBUG
+34,,DEBUG
+35,,DEBUG
+36,,DEBUG
+37,,DEBUG
+38,,DEBUG
+39,,DEBUG
+40,,DEBUG
+41,,DEBUG
+42,,DEBUG
+43,,DEBUG
+44,,DEBUG
+45,,DEBUG
+46,,DEBUG
+47,,DEBUG
+48,,DEBUG
+49,,DEBUG
+50,,DEBUG
+51,,Foobar[font_size=44]Foobar[/font_size]Foobar[font_size=11]Foobar[/font_size]Foobar
+52,,"1, 3"
+53,,"0, 2"
+54,,"  , 1"
+55,,"  , 0"
+56,,Did not choose
+57,,Selected Choice 1
+58,,Selected Choice 2
+59,,Test 2
+60,,"  , 3"
+61,,"  , 2"
+62,,"2, 1"
+63,,"1, 0"
+64,,"0,"
+65,,Did not choose
+66,,Selected Choice 1
+67,,Selected Choice 2
+68,,Window Test
+69,,Window Test End
+70,,Tsukkomi Test
+71,,Tsukkomi Performed
+72,,Tsukkomi Skipped
+73,,Tsukkomi Test 2
+74,,Tsukkomi Performed
+75,,Tsukkomi Skipped
+76,,Tsukkomi Test End
+77,,Close Chat Window
+78,,Reopen
+79,,Clear Window
+80,,Test End
+81,,Test End
+82,,NODE_000
+83,,NODE_001
+84,,NODE_003
+85,,NODE_006
+86,,NODE_010
+87,,NODE_014
+88,,NODE_018
+89,,End
+90,,Ruby Display Test
+91,,"Heaven & Earth Explosion, Flame Demon Hell, Sealing God 87th Style Meteor Dance, Eternal Force Blizzard ^Line break during text cuts off by specification"
+92,,Eternal Force Blizzard
+93,SPK_DEV_TEST,Test Eternal Force Blizzard Test
+94,,→
+95,,←
+96,,↓
+97,,↑
+98,,→←
+99,,↑↓
+100,,Test End
+101,,Test [Ornament Name] Test
+102,SPK_DEV_TEST,Test [Ornament Name] Test
+103,,Normal Barrage
+104,,High Dispersion
+105,,Fast
+106,,Small
+107,,Color Change
+108,,This is the result of working hard!
+109,,Usual Cut-in
+110,,Custom Cut-in
+111,,Message
+112,,Acquired All
+113,,Front
+114,,Left
+115,,Right
+116,,NASI
+117,,HOHOEMI
+118,,ZYOUKIGEN
+119,,WARAI
+120,,HUKIGEN
+121,,IKARI
+122,,KANASI
+123,,KONWAKU
+124,,NAKI
+125,,KUYASI
+126,,MOERU
+127,,ODOROKI
+128,,AKIRE
+129,,SINKEN
+130,,MUKIRYOKU
+131,,TERE
+132,,TEREKAKUSI
+133,,Pose 1
+134,,Pose 2
+135,,Pose 3
+136,,Pose 4
+137,,Pose 5
+138,,NO_HINT
+139,,MESEN_HAZUSHI
+140,,SOWASOWA
+141,,MAYU_PIKUPIKU
+142,,YUBI_TONTON
+143,,PURUPURU
+144,,UTSUMUKI
+145,,UTSUMUKI_CHIRAMI
+146,,MANAMI_MOJIMOJI
+147,,SAORI_KAKIKAKI
+148,,AYASE_ONEGAI
+149,,MIGIMUKI
+150,,HIDARIMUKI
+151,,Blush ON
+152,,Blush OFF
+153,,Yandere ON
+154,,Yandere OFF
+155,,KI_IDLE_0_DAT
+156,,KI_IDLE_1_DAT
+157,,KI_ACTIVE_0_DAT
+158,,KI_ACTIVE_1_DAT
+159,,KI_ACTIVE_2_DAT
+160,,KI_ACTIVE_3_DAT
+161,,KI_ACTIVE_4_DAT
+162,,KU_IDLE_0_DAT
+163,,KU_IDLE_1_DAT
+164,,KU_ACTIVE_0_DAT
+165,,KU_ACTIVE_1_DAT
+166,,KU_ACTIVE_2_DAT
+167,,KU_ACTIVE_3_DAT
+168,,KU_ACTIVE_4_DAT
+169,,SA_IDLE_0_DAT
+170,,SA_IDLE_1_DAT
+171,,SA_ACTIVE_0_DAT
+172,,SA_ACTIVE_1_DAT
+173,,SA_ACTIVE_2_DAT
+174,,SA_ACTIVE_3_DAT
+175,,SA_ACTIVE_4_DAT
+176,,SA_ACTIVE_5_DAT
+177,,SA_ACTIVE_6_DAT
+178,,MA_IDLE_0_DAT
+179,,MA_IDLE_1_DAT
+180,,MA_ACTIVE_0_DAT
+181,,MA_ACTIVE_1_DAT
+182,,MA_ACTIVE_2_DAT
+183,,MA_ACTIVE_3_DAT
+184,,MA_ACTIVE_4_DAT
+185,,AY_IDLE_0_DAT
+186,,AY_IDLE_1_DAT
+187,,AY_ACTIVE_0_DAT
+188,,AY_ACTIVE_1_DAT
+189,,AY_ACTIVE_2_DAT
+190,,AY_ACTIVE_3_DAT
+191,,AY_ACTIVE_4_DAT
+192,,IPKI_084_DAT
+193,,IPKI_085_DAT

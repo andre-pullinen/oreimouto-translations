@@ -1,0 +1,30 @@
+ID,SPEAKER,TEXT
+0,SPK_KYOUSUKE,I'm beat...
+1,,I can't take it anymore... Sleepy...
+2,,"Wait, that reminds me..."
+3,,I went out of my way to buy that souvenir. Should I call Kuroneko to let her know?
+4,SPK_KYOUSUKE,"Okay! Now that it's decided, I'll call her right away."
+5,SPK_SPEAKERS,I am currently unable to answer your call...
+6,SPK_KYOUSUKE,"Answering machine, huh..."
+7,SPK_SPEAKERS,"To leave a message, please state it after the 'BEEP'..."
+8,,"Should I say something? But, I'll be meeting her during school tomorrow anyway."
+9,,It's not like carrying that pentagram around is a bother...
+10,SPK_KYOUSUKE,"Well, whatever."
+11,SPK_KYOUSUKE,"Since we can meet at school tomorrow, I'll just pass it to her then."
+12,,"But this is considered courtesy, right? No way around it, let's leave her a message."
+13,SPK_KYOUSUKE,"Eeehm, it's Kyousuke..."
+14,SPK_KYOUSUKE,"*cough* Ah, the souvenir we talked about, you know, the Abe no Seimei thing. I bought it."
+15,SPK_KYOUSUKE,When should I give it to you? Please contact me soon.
+16,SPK_KYOUSUKE,"Eeehm... Well, that's it."
+17,,That should do it.
+18,,Leaving a message is kind of... embarrassing.
+19,SPK_KYOUSUKE,...A message?
+20,SPK_KURONEKO,When we meet.
+21,SPK_KYOUSUKE,"Fast-- That girl, if you're at home, then pick up the phone!"
+22,SPK_KURONEKO,I'm in the middle of something right now.
+23,SPK_KYOUSUKE,"Got it, got it."
+24,,To answer my monologue with a message... you're good.
+25,,...She's probably cooking.
+26,,I initially planned to sleep...
+27,,"But I was immediately kicked awake by Kirino, pestering me to give her souvenirs instead of dozing off..."
+28,,"Well, that really made me feel like I'm finally back home."

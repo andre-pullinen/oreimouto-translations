@@ -1,0 +1,86 @@
+ID,SPEAKER,TEXT
+0,SPK_KURONEKO,What on earth did you want to ask me?
+1,SPK_KYOUSUKE,"I'm sure you would know, since you took the time to listen to me after all."
+2,SPK_KURONEKO,Isn't that a given?
+3,SPK_KYOUSUKE,"You sure are direct, aren't you."
+4,SPK_KURONEKO,"Since I am accompanying you on such a senseless errand, just spare me the sarcasm."
+5,SPK_KYOUSUKE,"Geez... whatever, I'll get straight to the point."
+6,SPK_KYOUSUKE,I'll ask you once more. Tell me the problems you're having.
+7,SPK_KURONEKO,It's not like I need to tell you anything.
+8,SPK_KYOUSUKE,Why are you still saying that? I'm worried about you!
+9,SPK_KURONEKO,What a troublesome person... It'll certainly be regrettable if I were to tell you.
+10,SPK_KYOUSUKE,Why is it regrettable? Who will regret it?
+11,SPK_KURONEKO,It'll be me. I'm regretting that I mentioned this in the first place.
+12,SPK_KYOUSUKE,"...Hmm, it seems like you're being philosophical here..."
+13,SPK_KURONEKO,"Really? My speech and conduct are supposed to be easily understood, are they not?"
+14,SPK_KYOUSUKE,What are you saying?
+15,SPK_KURONEKO,...I have chosen the most suitable answer to make you satisfied.
+16,SPK_KYOUSUKE,Aren't you trying really hard to sound sophisticated?
+17,SPK_KURONEKO,"Hmm... that might be the case. But it doesn't really matter anyway, since you wouldn't understand."
+18,SPK_KURONEKO,"So, won't you give up already?"
+19,SPK_KYOUSUKE,No. I'm just getting started.
+20,SPK_KURONEKO,"...*sigh*, I get your enthusiasm already."
+21,SPK_KYOUSUKE,So you finally understand.
+22,SPK_KURONEKO,"Yes, it is simply reckless passion."
+23,SPK_KYOUSUKE,I'm totally being serious! I'm not being reckless!
+24,SPK_KURONEKO,"If you don't retain your composure, it is the same. I said that I understood your enthusiasm, did I not?"
+25,SPK_KURONEKO,"However, this has nothing to do with you."
+26,SPK_KYOUSUKE,How does this have nothing to do with me if it's happening around me?
+27,SPK_KURONEKO,A fine argument.
+28,SPK_KURONEKO,"But if you end up getting involved in everything, won't you be up to your neck in work?"
+29,SPK_KYOUSUKE,"Of course, there are priorities I need to handle, which is why I'm dealing with you first."
+30,SPK_KYOUSUKE,It can't have nothing to do with me if it concerns you.
+31,SPK_KURONEKO,...Is it because of your kindness?
+32,SPK_KYOUSUKE,Eh? What did you just say? I couldn't quite hear it...
+33,SPK_KURONEKO,"...It matters not. Anyways, I ought to thank you since you're doing this for my sake."
+34,SPK_KYOUSUKE,"I see... then, tell me..."
+35,SPK_KURONEKO,"But, I don't want to."
+36,SPK_KYOUSUKE,Why is that?
+37,SPK_KYOUSUKE,...Don't say it so coldly.
+38,SPK_KURONEKO,I mean it when I say that it has nothing to do with you. Isn't it because of your arrogance that you're feeling the coldness of my words?
+39,SPK_KYOUSUKE,Why do you think that?
+40,SPK_KURONEKO,Because you're just forcing your own feelings upon others?
+41,SPK_KYOUSUKE,How can I not worry if you start talking about something like that?
+42,SPK_KURONEKO,"Also, it's only a waste of time if we were to continue on this philosophical topic."
+43,SPK_KURONEKO,Let's change the topic.
+44,SPK_KURONEKO,It'll certainly cause trouble for you if I were to tell you.
+45,SPK_KYOUSUKE,...Why would it cause trouble for me?
+46,SPK_KURONEKO,Because it'll hurt you too.
+47,SPK_KYOUSUKE,"If that's the case, wouldn't not telling me anything cause me pain as well?"
+48,SPK_KURONEKO,Aren't you just mindlessly getting yourself into trouble?
+49,SPK_KURONEKO,"It's not like that, but it's really troubling."
+50,SPK_KYOUSUKE,"Whether it's troubling or not isn't up to you to decide, it's for me to decide."
+51,SPK_KURONEKO,"...True, what you have said is correct."
+52,SPK_KURONEKO,"But since you already know about it, then why can't you understand that I don't wish to cause harm to you as well?"
+53,SPK_KYOUSUKE,T-That's...
+54,SPK_KURONEKO,"You've raised a bunch of one-sided theories, but those are more like irrational thoughts than theories."
+55,SPK_KYOUSUKE,"B-But... isn't what's really important how one thinks, and not how one expresses himself?"
+56,SPK_KURONEKO,Needless protesting... that's what best describes you.
+57,SPK_KURONEKO,"Good grief... you just don't give up, do you. However, that's exactly the reason why I'm not telling you."
+58,SPK_KYOUSUKE,...Getting in the way... I didn't think of it like that way.
+59,SPK_KURONEKO,"Hmph, I knew you would say that."
+60,SPK_KURONEKO,That's why you're being involved in various situations without realizing you're losing something.
+61,SPK_KYOUSUKE,"Losing something, and what's that?"
+62,SPK_KURONEKO,You're indeed a good person for not realizing it.
+63,SPK_KURONEKO,"That's right, senpai is a good person, so if I speak up you'll surely..."
+64,SPK_KURONEKO,"No, I can even say definitely. You'll definitely get involved."
+65,SPK_KYOUSUKE,Are you saying I shouldn't?
+66,SPK_KURONEKO,"Yes, if you don't understand the need to be reserved, then you truly are a selfish man."
+67,SPK_KYOUSUKE,"Yeah, that's because I'm stubbornly nice."
+68,SPK_KYOUSUKE,I'm called nice because I persevere in my actions. That's why your convenience is irrelevant!
+69,SPK_KURONEKO,Wha...
+70,SPK_KYOUSUKE,"....Yes, that's right, that's why I'm asking you to let me involve myself this time, too."
+71,SPK_KURONEKO,"...Hmph. How many sighs do I have to make? Honestly, you're so..."
+72,SPK_KYOUSUKE,Can't I be a good person?
+73,SPK_KURONEKO,"There are times where a good person would be a bad one, however..."
+74,SPK_KYOUSUKE,However? Aren't you the same?
+75,SPK_KURONEKO,"Exactly, I wish this person could quickly realize that his good intentions are only a hindrance."
+76,SPK_KYOUSUKE,I don't get it...
+77,SPK_KURONEKO,"How thickheaded... No, that's why I don't need this good person."
+78,SPK_KURONEKO,"My, how I wish I could quickly end this torment with such a person."
+79,SPK_KYOUSUKE,"I don't know what trouble you have exactly, but I can roughly feel how much you don't want to tell me about it."
+80,SPK_KYOUSUKE,But I'm not easily convinced. It's the same no matter how you hold me down.
+81,SPK_KYOUSUKE,"This is not about others, but you! How could I treat it like it's some stranger?!"
+82,SPK_KYOUSUKE,I wish you could tell me even if you were to feel irritated.
+83,SPK_KYOUSUKE,Could you please stop finding excuses to refuse me?
+84,SPK_KYOUSUKE,"Although I don't know what else to say to request from you, but please, Kuroneko... Alright?"

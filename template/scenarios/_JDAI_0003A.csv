@@ -1,0 +1,355 @@
+ID,SPEAKER,TEXT
+0,SPK_YOSHINO,"""A new year has come, people are celebrating, I 
+am unlike them."""
+1,SPK_YOSHINO,- Kobayashi Issa
+2,SPK_YOSHINO,"This is the Kousaka household, located somewhere 
+in Chiba."
+3,SPK_YOSHINO,"In this residence, worried maidens assemble, 
+seeking answers from the master of life, every night."
+4,SPK_YOSHINO,"Now then, I wonder who tonight's guest will be..."
+5,SPK_MANAMI,Mmm... *fidget* *fidget*...
+6,SPK_DAISUKE,Wh-What's the matter?
+7,SPK_MANAMI,"Grandpa, Grandpa..."
+8,SPK_MANAMI,Is dead...
+9,SPK_DAISUKE,...!!
+10,SPK_MANAMI,Is dead but he's just playing dead!
+11,SPK_DAISUKE,...
+12,SPK_DAISUKE,"What's that, some kind of bad joke?"
+13,SPK_MANAMI,"It's not a joke at all. Whenever I go home, he's 
+always playing dead."
+14,SPK_MANAMI,"And lately he spits up red food coloring as blood, 
+his methods are escalating..."
+15,SPK_MANAMI,"Yesterday, he stuffed his head into a giant denture 
+lying at the front gate and went limp."
+16,SPK_DAISUKE,Giant... denture?
+17,SPK_MANAMI,"He made it out of Japanese candy... we didn't want 
+to waste it, so we all decided to eat it."
+18,,...To think your family still had the appetite to eat it.
+19,SPK_MANAMI,"In the past, he said he wanted to revolutionize the 
+Japanese confectionery scene... and make edible 
+hair..."
+20,SPK_MANAMI,"I just worry that... you know, he's so old that he 
+probably lost his mind."
+21,SPK_DAISUKE,"...No, you don't have to worry."
+22,SPK_MANAMI,R-Really?
+23,SPK_DAISUKE,"He hasn't lost his sense of humor through all these 
+years. In a way, this is something to be proud of."
+24,SPK_DAISUKE,Please treasure him well.
+25,SPK_MANAMI,Y-Yes...
+26,SPK_MANAMI,Umm... huh? Kyou-chan's dad...
+27,SPK_DAISUKE,"Correct... but, here, you must call me Sensei."
+28,SPK_DAISUKE,I take on young people's life troubles.
+29,SPK_MANAMI,"Wha-? No way, Kyou-chan's dad is the Life 
+Counseling Master!"
+30,SPK_DAISUKE,"...Hmm, well, I guess some say that."
+31,SPK_MANAMI,"Yes sir, Sensei!"
+32,SPK_DAISUKE,"Mmm, good answer."
+33,SPK_DAISUKE,"Your visit means you must be bearing some kind of 
+burden."
+34,SPK_DAISUKE,"Rest assured, I can resolve any troubles that you 
+might have."
+35,SPK_MANAMI,R-Really!
+36,SPK_MANAMI,"Umm, well I actually have a lot to worry about..."
+37,SPK_DAISUKE,"A... lot, you say?"
+38,SPK_DAISUKE,No matter. Tell me all about it.
+39,SPK_MANAMI,"Well, stuff I just said about my Grandpa and 
+there's... Grandma, my dad, Rock..."
+40,SPK_MANAMI,"Also, my close childhood friend, his younger sister..."
+41,SPK_DAISUKE,"...So, what about them is troubling you?"
+42,SPK_MANAMI,I just want them all to be healthy and happy.
+43,SPK_DAISUKE,...Hm.
+44,SPK_DAISUKE,"That's... not a worry, but rather a wish."
+45,SPK_MANAMI,"Ah, I guess that's true... hehehe, you're right."
+46,SPK_MANAMI,"Oh and um, um..."
+47,SPK_DAISUKE,...
+48,SPK_DAISUKE,"You are always so worried about other people, but 
+what about yourself?"
+49,SPK_MANAMI,Eh? Myself?
+50,SPK_MANAMI,You have a point~
+51,SPK_MANAMI,Hmm... I wonder?
+52,SPK_DAISUKE,"You know yourself best, I can't answer that for you."
+53,SPK_MANAMI,R-Right...
+54,SPK_MANAMI,"M-My worries about myself, huh?"
+55,SPK_MANAMI,"Hmm... I can't think of anything after being put on 
+the spot."
+56,SPK_MANAMI,"People always come to me for help, so..."
+57,SPK_DAISUKE,"In that case, what about something you wanted to 
+discuss but never got the chance?"
+58,SPK_MANAMI,"If that's what you're asking... I have too many to 
+mention."
+59,SPK_MANAMI,"I guess you could say I'm too naive when it comes 
+to helping others with their problems."
+60,SPK_DAISUKE,Naive?
+61,SPK_MANAMI,"Like, I just always want to sympathize with and 
+forgive the person that I like, no matter what."
+62,SPK_MANAMI,"On the other hand, even when I see a love rival 
+having troubles, I want to help them."
+63,SPK_DAISUKE,Hrm... that's certainly naive.
+64,SPK_MANAMI,Sometimes I wonder if that might be bad.
+65,SPK_MANAMI,"If we like the same guy, then we must have a lot in 
+common, even our problems..."
+66,SPK_MANAMI,"Rather than quarreling, I'm thinking more of, ""Let's 
+give it our best shot together""."
+67,SPK_MANAMI,...That person probably won't like it though.
+68,SPK_DAISUKE,"...I agree. From a different point of view, one might 
+say you are pushing your values onto others, 
+perhaps."
+69,SPK_MANAMI,Y-You're right...
+70,SPK_MANAMI,Maybe I'm actually a pushy woman...
+71,SPK_DAISUKE,"If you consider the future, though, that might not 
+be a bad thing."
+72,SPK_DAISUKE,"But of course, not everyone shares the same 
+feelings."
+73,SPK_MANAMI,I knew it...
+74,SPK_DAISUKE,"Nevertheless, if you are holding back against others, 
+it might be better for you to be hated instead."
+75,SPK_MANAMI,Eeh?
+76,SPK_DAISUKE,"You cooperate with your love rivals because quite 
+possibly, you do not want the guy you like to hate 
+you."
+77,SPK_MANAMI,I just... want to be on good terms with everyone.
+78,SPK_MANAMI,"But I guess... deep down it might be just as you 
+say."
+79,SPK_MANAMI,"Perhaps I simply do not have enough confidence in 
+myself."
+80,SPK_MANAMI,"I want to be close to the person I like, even if 
+people think I'm easy to manipulate... I thought that 
+was fine."
+81,SPK_DAISUKE,"I don't like it... especially that guy you've spoiled 
+rotten."
+82,SPK_DAISUKE,He wants you to be there to hear all his problems...
+83,SPK_DAISUKE,"...and even for you to be friends with your rivals, just 
+because it's convenient for him?"
+84,SPK_MANAMI,Well... I-I guess.
+85,SPK_DAISUKE,What insolence...! I have to straighten him out!
+86,SPK_MANAMI,...Am I... am I too nice?
+87,SPK_DAISUKE,"Yes, extremely nice. Especially towards others."
+88,SPK_DAISUKE,"There will come a time, that niceness will become 
+your worst enemy."
+89,SPK_MANAMI,"B-But... there are times where I really say what I 
+think though?"
+90,SPK_DAISUKE,"Is the other person actually listening? Aren't the 
+same mistakes happening over and over again?"
+91,SPK_MANAMI,Um well.. I don't know what to say.
+92,SPK_DAISUKE,"You will have to be truthful towards that guy.  Tell 
+him, ""You are a piece of trash."""
+93,SPK_MANAMI,Eeh?!
+94,SPK_DAISUKE,"I firmly believe everyone's at fault. You, who can't 
+speak her mind, that guy you are after, and all the 
+girls wrapped up in this nonsense."
+95,SPK_DAISUKE,"First, I need to make you understand what your 
+problems are."
+96,SPK_DAISUKE,Before all of it ends in tragedy.
+97,SPK_MANAMI,...Ends in tragedy...
+98,SPK_DAISUKE,"You might think you're helping them, but 
+sometimes you need to tell them the truth. For 
+better or worse."
+99,SPK_DAISUKE,There cannot be any ambiguity on their end.
+100,SPK_MANAMI,...
+101,SPK_DAISUKE,"If there's something you don't agree with, stay true 
+to your principles and tell them straight."
+102,SPK_DAISUKE,"You must understand that being earnest and telling 
+them what they need to hear is the purest form of 
+integrity."
+103,SPK_MANAMI,"For better or worse, tell them..."
+104,SPK_MANAMI,U-Understood!
+105,SPK_MANAMI,"I won't worry about other people's feelings 
+anymore!"
+106,SPK_MANAMI,"If he does something bad, I'll just be like BAM! 
+POW! And get mad!"
+107,SPK_DAISUKE,"When you should get angry, you really need to 
+show it, okay?"
+108,SPK_MANAMI,Well of course!
+109,SPK_MANAMI,"After speaking to you, I feel so much better. Life 
+counseling is amazing, huh~"
+110,SPK_MANAMI,"Well then, please excuse me. Good night~"
+111,SPK_DAISUKE,...There she goes.
+112,,...Will she really be okay?
+113,SPK_DAISUKE,Today's moral lesson!!
+114,SPK_DAISUKE,"[font_size=30]If you don't like something, then say 
+so. Always speak up for important 
+things![/font_size]"
+115,SPK_YOSHINO,"And so, Daisuke has guided the path of another lost 
+maiden. Let us meet on another moonlit night."
+116,SPK_DAISUKE,"Still... I feel like I've seen that girl somewhere 
+before..."
+117,SPK_YOSHINO,...You really have no idea?
+118,SPK_DAISUKE,What do you mean?
+119,SPK_YOSHINO,You're getting old too...
+120,SPK_YOSHINO,"""A new year has come, people are celebrating, I 
+am unlike them."""
+121,SPK_YOSHINO,- Kobayashi Issa
+122,SPK_YOSHINO,"This is the Kousaka household, located somewhere 
+in Chiba."
+123,SPK_YOSHINO,"In this residence, worried maidens assemble, 
+seeking answers from the master of life, every night."
+124,SPK_YOSHINO,"Now then, I wonder who tonight's guest will be..."
+125,SPK_MANAMI,Mmm... *fidget* *fidget*...
+126,SPK_DAISUKE,Wh-What's the matter?
+127,SPK_MANAMI,"Grandpa, Grandpa..."
+128,SPK_MANAMI,Is dead...
+129,SPK_DAISUKE,...!!
+130,SPK_MANAMI,Is dead but he's just playing dead!
+131,SPK_DAISUKE,...
+132,SPK_DAISUKE,"What's that, some kind of bad joke?"
+133,SPK_MANAMI,"It's not a joke at all. Whenever I go home, he's 
+always playing dead."
+134,SPK_MANAMI,"And lately he spits up red food coloring as blood, 
+his methods are escalating..."
+135,SPK_MANAMI,"Yesterday, he stuffed his head into a giant denture 
+lying at the front gate and went limp."
+136,SPK_DAISUKE,Giant... denture?
+137,SPK_MANAMI,"He made it out of Japanese candy... we didn't want 
+to waste it, so we all decided to eat it."
+138,,...To think your family still had the appetite to eat it.
+139,SPK_MANAMI,"In the past, he said he wanted to revolutionize the 
+Japanese confectionery scene... and make edible 
+hair..."
+140,SPK_MANAMI,"I just worry that... you know, he's so old that he 
+probably lost his mind."
+141,SPK_DAISUKE,"...No, you don't have to worry."
+142,SPK_MANAMI,R-Really?
+143,SPK_DAISUKE,"He hasn't lost his sense of humor through all these 
+years. In a way, this is something to be proud of."
+144,SPK_DAISUKE,Please treasure him well.
+145,SPK_MANAMI,Y-Yes...
+146,SPK_MANAMI,Umm... huh? Kyou-chan's dad...
+147,SPK_DAISUKE,"Correct... but, here, you must address me as Sensei."
+148,SPK_DAISUKE,I take on young people's life troubles.
+149,SPK_MANAMI,"Wha-? No way, Kyou-chan's dad is the Life 
+Counseling Master!"
+150,SPK_DAISUKE,"...Hmm, well, I guess some say that."
+151,SPK_MANAMI,"Yes sir, Sensei!"
+152,SPK_DAISUKE,"Mmm, good answer."
+153,SPK_DAISUKE,"Your visit means you must be bearing some kind of 
+burden."
+154,SPK_DAISUKE,"Rest assured, I can resolve any troubles that you 
+might have."
+155,SPK_MANAMI,R-Really!
+156,SPK_MANAMI,"Umm, well I actually have a lot to worry about..."
+157,SPK_DAISUKE,"A... lot, you say?"
+158,SPK_DAISUKE,No matter. Tell me all about it.
+159,SPK_MANAMI,"Well, stuff I just said about my Grandpa and 
+there's... Grandma, my dad, Rock..."
+160,SPK_MANAMI,"Also, my close childhood friend, his younger sister..."
+161,SPK_DAISUKE,"...So, what about them is troubling you?"
+162,SPK_MANAMI,I just want them all to be healthy and happy.
+163,SPK_DAISUKE,...Hm.
+164,SPK_DAISUKE,"That's... not a worry, but rather a wish."
+165,SPK_MANAMI,"Ah, I guess that's true... hehehe, you're right."
+166,SPK_MANAMI,"Oh and um, um..."
+167,SPK_DAISUKE,...
+168,SPK_DAISUKE,"You are always so worried about other people, but 
+what about yourself?"
+169,SPK_MANAMI,Eh? Myself?
+170,SPK_MANAMI,You have a point~
+171,SPK_MANAMI,Hmm... I wonder?
+172,SPK_DAISUKE,"You know yourself best, I can't answer that for you."
+173,SPK_MANAMI,R-Right...
+174,SPK_MANAMI,"M-My worries about myself, huh?"
+175,SPK_MANAMI,"Hmm... I can't think of anything after being put on 
+the spot."
+176,SPK_MANAMI,"People always come to me for help, so..."
+177,SPK_DAISUKE,"In that case, what about something you wanted to 
+discuss but never got the chance?"
+178,SPK_MANAMI,"If that's what you're asking... I have too many to 
+mention."
+179,SPK_MANAMI,"I guess you could say I'm too naive when it comes 
+to helping others with their problems."
+180,SPK_DAISUKE,Naive?
+181,SPK_MANAMI,"Like, I just always want to sympathize with and 
+forgive the person that I like, no matter what."
+182,SPK_MANAMI,"On the other hand, even when I see a love rival 
+having troubles, I want to help them."
+183,SPK_DAISUKE,Hrm... that's certainly naive.
+184,SPK_MANAMI,Sometimes I wonder if that might be bad.
+185,SPK_MANAMI,"If we like the same guy, then we must have a lot in 
+common, even our problems..."
+186,SPK_MANAMI,"Rather than quarreling, I'm thinking more of, ""Let's 
+give it our best shot together""."
+187,SPK_MANAMI,...That person probably won't like it though.
+188,SPK_DAISUKE,"...I agree. From a different point of view, one might 
+say you are pushing your values onto others, 
+perhaps."
+189,SPK_MANAMI,Y-You're right...
+190,SPK_MANAMI,Maybe I'm actually a pushy woman...
+191,SPK_DAISUKE,"If you consider the future, though, that might not 
+be a bad thing."
+192,SPK_DAISUKE,"But of course, not everyone shares the same 
+feelings."
+193,SPK_MANAMI,I knew it...
+194,SPK_DAISUKE,"Nevertheless, if you are holding back against others, 
+it might be better for you to be hated instead."
+195,SPK_MANAMI,Eeh?
+196,SPK_DAISUKE,"You cooperate with your love rivals because quite 
+possibly, you do not want the guy you like to hate 
+you."
+197,SPK_MANAMI,I just... want to be on good terms with everyone.
+198,SPK_MANAMI,"But I guess... deep down it might be just as you 
+say."
+199,SPK_MANAMI,"Perhaps I simply do not have enough confidence in 
+myself."
+200,SPK_MANAMI,"I want to be close to the person I like, even if 
+people think I'm easy to manipulate... I thought that 
+was fine."
+201,SPK_DAISUKE,"I don't like it... especially that guy you've spoiled 
+rotten."
+202,SPK_DAISUKE,He wants you to be there to hear all his problems...
+203,SPK_DAISUKE,"...and even for you to be friends with your rivals, just 
+because it's convenient for him?"
+204,SPK_MANAMI,Well... I-I guess.
+205,SPK_DAISUKE,What insolence...! I have to straighten him out!
+206,SPK_MANAMI,...Am I... am I too nice?
+207,SPK_DAISUKE,"Yes, extremely nice. Especially towards others."
+208,SPK_DAISUKE,"There will come a time, that niceness will become 
+your worst enemy."
+209,SPK_MANAMI,"B-But... there are times where I really say what I 
+think though?"
+210,SPK_DAISUKE,"Is the other person actually listening? Aren't the 
+same mistakes happening over and over again?"
+211,SPK_MANAMI,"Um, well... I don't know what to say."
+212,SPK_DAISUKE,"You will have to be truthful towards that guy.  Tell 
+him, ""You are a piece of trash."""
+213,SPK_MANAMI,Eeh?!
+214,SPK_DAISUKE,"I firmly believe everyone's at fault. You, who can't 
+speak her mind, that guy you are after, and all the 
+girls wrapped up in this nonsense."
+215,SPK_DAISUKE,"First, I need to make you understand what your 
+problems are."
+216,SPK_DAISUKE,Before all of it ends in tragedy.
+217,SPK_MANAMI,...Ends in tragedy...
+218,SPK_DAISUKE,"You might think you're helping them, but 
+sometimes you need to tell them the truth. For 
+better or worse."
+219,SPK_DAISUKE,There cannot be any ambiguity on their end.
+220,SPK_MANAMI,...
+221,SPK_DAISUKE,"If there's something you don't agree with, stay true 
+to your principles and tell them straight."
+222,SPK_DAISUKE,"You must understand that being earnest and telling 
+them what they need to hear is the purest form of 
+integrity."
+223,SPK_MANAMI,"For better or worse, tell them..."
+224,SPK_MANAMI,U-Understood!
+225,SPK_MANAMI,"I won't worry about other people's feelings 
+anymore!"
+226,SPK_MANAMI,"If he does something bad, I'll just be like BAM! 
+POW! And get mad!"
+227,SPK_DAISUKE,"When you should get angry, you really need to 
+show it, okay?"
+228,SPK_MANAMI,Well of course!
+229,SPK_MANAMI,"After speaking to you, I feel so much better. Life 
+counseling is amazing, huh~"
+230,SPK_MANAMI,"Well then, please excuse me. Good night~"
+231,SPK_DAISUKE,...There she goes.
+232,,...Will she really be okay?
+233,SPK_DAISUKE,Today's moral lesson!!
+234,SPK_DAISUKE,"[font_size=30]If you don't like something, then say 
+so. Always speak up for important 
+things![/font_size]"
+235,SPK_YOSHINO,"And so, Daisuke has guided the path of another lost 
+maiden. Let us meet on another moonlit night."
+236,SPK_DAISUKE,"Still... I feel like I've seen that girl somewhere 
+before..."
+237,SPK_YOSHINO,...You really have no idea?
+238,SPK_DAISUKE,What do you mean?
+239,SPK_YOSHINO,You're getting old too...

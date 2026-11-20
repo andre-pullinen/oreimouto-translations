@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/andre-pullinen/oreimouto-translations/main/schema/manifest.schema.json",
+  "id": "lang_ja",
+  "locale": "ja",
+  "name": "日本語",
+  "short": "JPN",
+  "version": "1.0.0",
+  "description": "Japanese UI localization package for OreImouto Re:Port. Original Japanese scenario, O.R.E., O.S.I.S., and gallery strings are available only when a legal Japanese UMD ISO is installed as the Base ISO.",
+  "team": "AI",
+  "translators": [
+    "AI Assisted"
+  ],
+  "ui_only": true,
+  "progress": 0.0,
+  "tags": {
+    "ai": "UI文字列は**AI翻訳**によって作成されています。\n\nUI strings in this package were generated using **AI translation**.",
+    "partial": "UIのみの翻訳パッケージです。\n\n- **シナリオ・O.R.E.・O.S.I.S.・BGM**などのゲーム内日本語テキストは、**日本語版のオリジナルディスク（ISO）**をインストールした場合のみ利用できます（BYOG）。\n\nUI-only pack: Japanese scenario/in-game text is available only when installed from a legal **Japanese UMD ISO**."
+  },
+  "fonts": {},
+  "links": {}
+}
